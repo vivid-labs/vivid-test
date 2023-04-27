@@ -1,6 +1,6 @@
 # Vivid Test Repo
 
-This cool sample repo is where we test our Figma-to-Code generation from beginning to end.
+This sample repo is where we test our Figma-to-Code generation from beginning to end.
 
 ## Prerequisites
 
