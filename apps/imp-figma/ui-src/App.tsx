@@ -7,5 +7,3 @@ import { Dashboard } from "./Dashboard";
 const queryClient = new QueryClient();
 
 export const App = () => ();
-
-HAHA NEW EDIT LETS GOOOOOOOO
