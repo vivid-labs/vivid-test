@@ -142,147 +142,20 @@
   font-family: Inter;
   font-weight: 400;
 }
-.drag-handle-0 {
-  position: relative;
-  width: 8px;
-  height: 5px;
-}
-.drag-handle-1 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(0%);
-  right: calc(75%);
-  width: calc(25%);
-  top: calc(0%);
-  bottom: calc(60%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.drag-handle-2 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(75%);
-  right: calc(0%);
-  width: calc(25%);
-  top: calc(0%);
-  bottom: calc(60%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.drag-handle-3 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(37.5%);
-  right: calc(37.5%);
-  width: calc(25%);
-  top: calc(0%);
-  bottom: calc(60%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.drag-handle-4 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(0%);
-  right: calc(75%);
-  width: calc(25%);
-  top: calc(60%);
-  bottom: calc(0%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.drag-handle-5 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(75%);
-  right: calc(0%);
-  width: calc(25%);
-  top: calc(60%);
-  bottom: calc(0%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.drag-handle-6 {
-  background-color: rgb(160, 160, 160);
-  position: absolute;
-  left: calc(37.5%);
-  right: calc(37.5%);
-  width: calc(25%);
-  top: calc(60%);
-  bottom: calc(0%);
-  height: calc(40%);
-  border-radius: 50%;
-}
-.placeholder-image-0 {
-  position: relative;
-  width: 80px;
-  height: 55px;
-  background: ;
-}
-.placeholder-image-1 {
-  object-fit: cover;
-  position: absolute;
-  left: calc(0%);
-  right: calc(0%);
-  width: calc(100%);
-  top: calc(0%);
-  bottom: calc(0%);
-  height: calc(100%);
-  border-radius: 6px;
-}
-.colors-figma-size-small-page-0 {
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: start;
-  align-items: center;
-  height: fit-content;
-  width: fit-content;
-  border-radius: 2px;
-  position: relative;
-  border-width: 1px;
-  border-style: solid;
-  border-color: rgb(68, 68, 68);
-  background-color: rgb(68, 68, 68);
-}
-.colors-figma-size-small-page-1 {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 2px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-top: 2px;
-  padding-bottom: 4px;
-  position: relative;
-  width: 100%;
-  height: 75px;
-}
-.colors-figma-size-small-page-2 {
-  overflow: hidden;
+.figma-logo-0 {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  height: 23px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  position: relative;
-  width: 100%;
-  background-color: rgb(30, 30, 30);
-}
-.colors-figma-size-small-page-3 {
-  width: fit-content;
-  white-space: nowrap;
-  height: fit-content;
-  display: flex;
-  flex-direction: column;
   justify-content: center;
-  color: rgb(255, 255, 255);
-  font-size: 12px;
-  font-family: Inter;
-  font-weight: 400;
+  align-items: center;
+  gap: 10px;
+  border-radius: 4px;
+  position: relative;
+  width: 25px;
+  height: 25px;
+  background-color: rgb(250, 250, 250);
+}
+.figma-logo-1 {
+  object-fit: cover;
+  width: 12px;
+  height: 18px;
 }
