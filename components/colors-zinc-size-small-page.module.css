@@ -1,0 +1,53 @@
+.colors-zinc-size-small-page-0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(63, 63, 70);
+  background-color: rgb(63, 63, 70);
+}
+.colors-zinc-size-small-page-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  position: relative;
+  width: 100%;
+  height: 75px;
+}
+.colors-zinc-size-small-page-2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 23px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(24, 24, 27);
+}
+.colors-zinc-size-small-page-3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(250, 250, 250);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
