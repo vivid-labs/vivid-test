@@ -1,3 +1,5 @@
+import "./drag-handle-tsx.module.css";
+
 export const DragHandle = () => {
   return (
     <div className="drag-handle-0">
