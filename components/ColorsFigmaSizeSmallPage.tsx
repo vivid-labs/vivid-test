@@ -1,3 +1,4 @@
+import "./ColorsFigmaSizeSmallPage.module.css";
 import { DragHandle } from "./DragHandle";
 import { PlaceholderImage } from "./PlaceholderImage";
 
