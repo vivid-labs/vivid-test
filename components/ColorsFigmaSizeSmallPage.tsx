@@ -1,3 +1,4 @@
+import "./colors-figma-size-small-page.module.css";
 import { DragHandle } from "./DragHandle";
 import { PlaceholderImage } from "./PlaceholderImage";
 
