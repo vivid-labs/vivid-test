@@ -69,3 +69,145 @@
   height: calc(40%);
   border-radius: 50%;
 }
+.drag-handle-0 {
+  position: relative;
+  width: 8px;
+  height: 5px;
+}
+.drag-handle-1 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-2 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-3 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-4 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-5 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-6 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-0 {
+  position: relative;
+  width: 8px;
+  height: 5px;
+}
+.drag-handle-1 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-2 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-3 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-4 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-5 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.drag-handle-6 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
