@@ -1,3 +1,4 @@
+import "./Card.module.css";
 import vivid_88e2cc240f55219ae887a6ef77cf6a1ee4a1bc6c from "./88e2cc240f55219ae887a6ef77cf6a1ee4a1bc6c.jpg";
 
 export const Card = () => {
