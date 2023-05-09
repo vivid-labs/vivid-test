@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { ColorsFigmaSizeSmallPage } from "../components/ColorsFigmaSizeSmallPage";
 
 export default function Home() {
   return (
@@ -19,9 +18,7 @@ export default function Home() {
           height: "100vh",
           padding: "1rem",
         }}
-      >
-        <ColorsFigmaSizeSmallPage />
-      </div>
+      ></div>
     </>
   );
 }
