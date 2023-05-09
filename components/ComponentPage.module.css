@@ -1,0 +1,28 @@
+.component-page-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.component-page-1 {
+  overflow: hidden;
+  width: 39px;
+  height: 37px;
+  background-color: rgb(65, 124, 212);
+}
+.component-page-2 {
+  overflow: hidden;
+  width: 19px;
+  height: 19px;
+  background-color: rgb(216, 52, 52);
+}
