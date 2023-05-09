@@ -1,0 +1,104 @@
+.row-page-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.row-page-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.row-page-2 {
+  opacity: 0.6;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.row-page-3 {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43, 0.4);
+}
+.row-page-4 {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(rgb(191, 43, 43, 0.4), rgb(191, 43, 43, 0.4)),
+    linear-gradient(rgb(36, 0, 255, 0.2), rgb(36, 0, 255, 0.2));
+}
+.row-page-5 {
+  width: 30px;
+  height: 30px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  background-color: rgb(191, 43, 43);
+}
+.row-page-6 {
+  width: 30px;
+  height: 30px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  background-color: rgb(191, 43, 43);
+}
+.row-page-7 {
+  width: 30px;
+  height: 30px;
+  border-top-width: 2px;
+  border-bottom-width: 4px;
+  border-left-width: 1px;
+  border-right-width: 3px;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  background-color: rgb(191, 43, 43);
+}
+.row-page-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.row-page-9 {
+  box-shadow: 0pxpx 4pxpx 4pxpx rgb(255, 255, 255, 1);
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.row-page-10 {
+  filter: blur(2px);
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.row-page-11 {
+  box-shadow: inset 0pxpx 4pxpx 4pxpx rgb(0, 0, 0, 1);
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
