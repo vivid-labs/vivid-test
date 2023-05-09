@@ -1,0 +1,87 @@
+.gradient-page-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.gradient-page-1 {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+}
+.gradient-page-2 {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(
+    235deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+}
+.gradient-page-3 {
+  width: 30px;
+  height: 30px;
+  background: radial-gradient(rgb(191, 43, 43, 1) 0%, rgb(191, 43, 43, 0) 100%);
+}
+.gradient-page-4 {
+  width: 30px;
+  height: 30px;
+  background: radial-gradient(rgb(191, 43, 43, 1) 0%, rgb(191, 43, 43, 0) 100%);
+}
+.gradient-page-5 {
+  width: 30px;
+  height: 30px;
+  background: radial-gradient(rgb(191, 43, 43, 1) 0%, rgb(191, 43, 43, 0) 100%);
+}
+.gradient-page-6 {
+  width: 30px;
+  height: 30px;
+  background: conic-gradient(
+    from 180deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+}
+.gradient-page-7 {
+  width: 30px;
+  height: 30px;
+  background: conic-gradient(
+    from 216deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+}
+.gradient-page-8 {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43, 0.5) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+}
+.gradient-page-9 {
+  width: 30px;
+  height: 30px;
+  background: linear-gradient(
+      180deg,
+      rgb(191, 43, 43, 0.5) 0%,
+      rgb(191, 43, 43, 0) 100%
+    ),
+    radial-gradient(rgb(82, 255, 0, 0.2) 0%, rgb(216, 15, 15, 0) 100%),
+    conic-gradient(from 180deg, rgb(36, 0, 255, 0.2) 0%, rgb(0, 0, 0, 0) 100%);
+}
