@@ -1,0 +1,144 @@
+.constraints-page-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.constraints-page-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.constraints-page-2 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-3 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-4 {
+  overflow: hidden;
+  position: absolute;
+  width: 4px;
+  left: 10px;
+  height: 4px;
+  top: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.constraints-page-6 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-7 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-8 {
+  overflow: hidden;
+  position: absolute;
+  width: 4px;
+  right: 22px;
+  height: 4px;
+  bottom: 16px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.constraints-page-10 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-11 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-12 {
+  overflow: hidden;
+  position: absolute;
+  left: 8px;
+  right: 9px;
+  width: auto;
+  top: 12.62px;
+  bottom: 13.38px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(191, 43, 43);
+}
+.constraints-page-14 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-15 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.constraints-page-16 {
+  overflow: hidden;
+  position: absolute;
+  left: calc(43.333333333333336%);
+  right: calc(43.333333333333336%);
+  width: calc(13.333333333333329%);
+  top: calc(42.059733072916664%);
+  bottom: calc(44.60693359375%);
+  height: calc(13.333333333333336%);
+  background-color: rgb(255, 255, 255);
+}
