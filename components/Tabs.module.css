@@ -1,0 +1,38 @@
+.tabs0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: 41px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(68, 68, 68);
+}
+.tabs1 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.tabs2 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(160, 160, 160);
+  width: 100%;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+}
