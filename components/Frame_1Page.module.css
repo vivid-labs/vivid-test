@@ -1,0 +1,145 @@
+.frame_1Page0 {
+  overflow: hidden;
+  border-radius: 29px;
+  position: relative;
+  height: 372px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(246, 255, 246);
+}
+.frame_1Page1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 208px;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: absolute;
+  left: 0px;
+  top: 82px;
+}
+.frame_1Page2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 21px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame_1Page3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 128px;
+  font-family: Anton;
+  font-weight: 400;
+  line-height: 0.8999999761581421em;
+}
+.frame_1Page4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 36px;
+  font-family: Gotham Black;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1em;
+}
+.frame_1Page5 {
+  width: 80px;
+  height: 80px;
+}
+.frame_1Page6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 21px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame_1Page7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 128px;
+  font-family: Anton;
+  font-weight: 400;
+  line-height: 0.8999999761581421em;
+}
+.frame_1Page8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 36px;
+  font-family: Gotham Black;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1em;
+}
+.frame_1Page9 {
+  width: 80px;
+  height: 80px;
+}
+.frame_1Page10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 21px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame_1Page11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 128px;
+  font-family: Anton;
+  font-weight: 400;
+  line-height: 0.8999999761581421em;
+}
+.frame_1Page12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(100, 198, 97);
+  font-size: 36px;
+  font-family: Gotham Black;
+  font-weight: 500;
+  letter-spacing: -0.05em;
+  line-height: 1em;
+}
