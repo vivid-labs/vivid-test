@@ -1,0 +1,63 @@
+.figmaFramePage0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  box-shadow: 0pxpx 4pxpx 16pxpx 4px rgb(0, 0, 0, 0.5);
+  width: 319px;
+  height: 607px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(68, 68, 68);
+  background-color: rgb(30, 30, 30);
+}
+.figmaFramePage1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 8px;
+  padding-right: 8px;
+  position: relative;
+  width: 100%;
+  height: 33px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(68, 68, 68);
+  background-color: rgb(44, 44, 44);
+}
+.figmaFramePage2 {
+  position: relative;
+  width: 86px;
+  height: 24px;
+}
+.figmaFramePage3 {
+  object-fit: cover;
+  position: absolute;
+  rotate: --180deg;
+  width: 24px;
+  left: 24px;
+  height: 24px;
+  top: 0px;
+}
+.figmaFramePage4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 24px;
+  top: 4.5px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+}
+.figmaFramePage5 {
+  width: 11.41px;
+  height: 11px;
+}

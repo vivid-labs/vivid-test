@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" width="80" height="81" viewBox="0 0 80 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_31_5415)">
+<line vector-effect="non-scaling-stroke" x1="0.353553" y1="0.359093" x2="80.3536" y2="80.3591" stroke="#444444"/>
+<line vector-effect="non-scaling-stroke" y1="-0.5" x2="112.432" y2="-0.5" transform="matrix(-0.702646 0.71154 -0.710731 -0.703463 79 0.712646)" stroke="#444444"/>
+</g>
+<rect vector-effect="non-scaling-stroke" x="0.5" y="1.21265" width="79" height="79" stroke="#444444"/>
+<defs>
+<clipPath id="clip0_31_5415">
+<rect vector-effect="non-scaling-stroke" y="0.712646" width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
