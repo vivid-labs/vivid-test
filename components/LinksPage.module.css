@@ -1,0 +1,311 @@
+.linksPage0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: 170px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.linksPage1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 170px;
+  position: relative;
+}
+.linksPage2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(37, 43, 66);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 24px;
+}
+.linksPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linksPage4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 170px;
+  position: relative;
+}
+.linksPage9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(37, 43, 66);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 24px;
+}
+.linksPage10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linksPage11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage15 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 170px;
+  position: relative;
+}
+.linksPage16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(37, 43, 66);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 24px;
+}
+.linksPage17 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linksPage18 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage20 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 170px;
+  position: relative;
+}
+.linksPage23 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(37, 43, 66);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 24px;
+}
+.linksPage24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linksPage25 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage26 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage27 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.linksPage28 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(115, 115, 115);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
