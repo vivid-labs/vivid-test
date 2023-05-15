@@ -1,0 +1,47 @@
+.projectCard0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 2px;
+}
+.projectCard1 {
+  object-fit: cover;
+  width: 357px;
+  height: 247px;
+}
+.projectCard2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 12px;
+  height: 84px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 16px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(41, 71, 169);
+}
+.projectCard3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Work Sans;
+  font-weight: 700;
+}
+.projectCard4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Work Sans;
+  font-weight: 400;
+}
