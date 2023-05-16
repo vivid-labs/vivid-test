@@ -1,0 +1,23 @@
+.frame_4Page0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 7px;
+  height: fit-content;
+  position: relative;
+  width: 112.64px;
+}
+.frame_4Page1 {
+  width: 16.64px;
+}
+.frame_4Page2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
