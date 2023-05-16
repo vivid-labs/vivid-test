@@ -8,6 +8,7 @@
   height: 3525px;
   position: absolute;
   background-color: rgb(255, 255, 255);
+  width:100%
 }
 .macBookPro_16_1Page1 {
   overflow: hidden;
@@ -21,6 +22,7 @@
   padding-bottom: 184px;
   position: relative;
   background-color: rgb(3, 4, 94);
+  width:100%
 }
 .macBookPro_16_1Page2 {
   display: flex;
@@ -443,6 +445,7 @@
   padding-left: 264px;
   padding-right: 264px;
   position: relative;
+  width:100%
 }
 .macBookPro_16_1Page43 {
   overflow: hidden;
