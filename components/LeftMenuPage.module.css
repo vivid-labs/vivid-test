@@ -1,0 +1,271 @@
+.leftMenuPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  width: 100px;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+  background-color: rgb(247, 248, 250);
+}
+.leftMenuPage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.leftMenuPage2 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage3 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.leftMenuPage5 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage6 {
+  position: absolute;
+  width: 30px;
+  right: -10px;
+  height: 30px;
+  top: -10px;
+}
+.leftMenuPage7 {
+  background-color: rgb(51, 97, 255);
+  position: absolute;
+  left: calc(33.33333333333333%);
+  right: calc(33.33333333333333%);
+  width: calc(33.33333333333334%);
+  top: calc(33.33333333333333%);
+  bottom: calc(33.33333333333333%);
+  height: calc(33.33333333333334%);
+  border-radius: 7px;
+}
+.leftMenuPage8 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage9 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage10 {
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.leftMenuPage12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.leftMenuPage13 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage14 {
+  background-color: rgb(255, 102, 51, 0.3);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage15 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage16 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.leftMenuPage17 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(51, 97, 255, 0.03);
+  position: absolute;
+  width: 10px;
+  left: 40px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(51, 97, 255);
+}
+.leftMenuPage18 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage19 {
+  background-color: rgb(230, 46, 123, 0.4);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage20 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage21 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.leftMenuPage22 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage23 {
+  background-color: rgb(136, 51, 255, 0.3);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage24 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.leftMenuPage25 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.leftMenuPage26 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.leftMenuPage27 {
+  background-color: rgb(255, 203, 51, 0.9);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.leftMenuPage28 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.leftMenuPage29 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.leftMenuPage30 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.leftMenuPage31 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.leftMenuPage32 {
+  width: 50px;
+  height: 50px;
+}
