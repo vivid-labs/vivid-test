@@ -1,0 +1,3355 @@
+.taskBoard_1600Page0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: absolute;
+  width: 1600px;
+  height: 1175px;
+  background-color: rgb(247, 248, 250);
+}
+.taskBoard_1600Page1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 35px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page4 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 25px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page12 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 430px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page15 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page17 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page20 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page23 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page24 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page25 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  right: 0px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(230, 46, 123);
+}
+.taskBoard_1600Page26 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: 100px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page29 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  width: 100px;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+  background-color: rgb(247, 248, 250);
+}
+.taskBoard_1600Page30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page31 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page32 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page33 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page34 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page35 {
+  position: absolute;
+  width: 30px;
+  right: -10px;
+  height: 30px;
+  top: -10px;
+}
+.taskBoard_1600Page36 {
+  background-color: rgb(51, 97, 255);
+  position: absolute;
+  left: calc(33.33333333333333%);
+  right: calc(33.33333333333333%);
+  width: calc(33.33333333333334%);
+  top: calc(33.33333333333333%);
+  bottom: calc(33.33333333333333%);
+  height: calc(33.33333333333334%);
+  border-radius: 7px;
+}
+.taskBoard_1600Page37 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page38 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page39 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page40 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page41 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page42 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page43 {
+  background-color: rgb(255, 102, 51, 0.3);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page44 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page45 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page46 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(51, 97, 255, 0.03);
+  position: absolute;
+  width: 10px;
+  left: 40px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page47 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page48 {
+  background-color: rgb(230, 46, 123, 0.4);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page49 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page50 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page51 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page52 {
+  background-color: rgb(136, 51, 255, 0.3);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page53 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page54 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page55 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page56 {
+  background-color: rgb(255, 203, 51, 0.9);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page57 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page58 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page59 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page60 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page61 {
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page62 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  position: relative;
+  width: 360px;
+  height: 100%;
+}
+.taskBoard_1600Page63 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page64 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: 810px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page65 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: 290px;
+  position: relative;
+}
+.taskBoard_1600Page66 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: 180px;
+  position: relative;
+}
+.taskBoard_1600Page67 {
+  height: 40px;
+}
+.taskBoard_1600Page68 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page69 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page70 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page71 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page72 {
+  position: absolute;
+  width: 110px;
+  left: calc(50% - 110px / 2);
+  height: 110px;
+  top: 0px;
+}
+.taskBoard_1600Page73 {
+  background-color: rgb(255, 203, 51, 0.4);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page74 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page75 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page76 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page77 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  position: absolute;
+  box-shadow: 0pxpx 10pxpx 30pxpx rgb(51, 97, 255, 0.25);
+  width: 30px;
+  left: 105px;
+  height: 30px;
+  top: calc(50% - 30px / 2);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page78 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  height: 20px;
+  flex: 1 1 0%;
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page79 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page80 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page81 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page82 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: 480px;
+  position: relative;
+}
+.taskBoard_1600Page83 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.taskBoard_1600Page84 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page85 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page86 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page87 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page88 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-right-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page89 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: 140px;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0pxpx 60pxpx 120pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  left: -9.5px;
+  right: -10.5px;
+  width: auto;
+  top: -10px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page90 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page91 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page92 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page93 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 10pxpx 30pxpx rgb(51, 97, 255, 0.3);
+  position: absolute;
+  width: 7px;
+  right: 10px;
+  height: 7px;
+  top: 10px;
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page94 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.taskBoard_1600Page95 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page96 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page97 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page98 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page99 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page100 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page101 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page102 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page103 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.taskBoard_1600Page104 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page105 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page106 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page107 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page108 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page109 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page110 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page111 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page112 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.taskBoard_1600Page113 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-left-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page114 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page115 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page116 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page117 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-right-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page118 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page119 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page120 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page121 {
+  width: 100%;
+  height: 60px;
+}
+.taskBoard_1600Page122 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page123 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  border-radius: 15px;
+  position: relative;
+  height: 1015px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page124 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 92px;
+  padding-left: 30px;
+  padding-right: 20px;
+  position: relative;
+  width: 100%;
+  height: 80px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page125 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page126 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  width: 633px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page127 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 100px;
+  padding-right: 10px;
+  position: relative;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page128 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page129 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page130 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 84px;
+  padding-right: 10px;
+  position: relative;
+}
+.taskBoard_1600Page131 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page132 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page133 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 94px;
+  padding-right: 10px;
+  position: relative;
+}
+.taskBoard_1600Page134 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page135 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page136 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 75px;
+  padding-right: 10px;
+  position: relative;
+}
+.taskBoard_1600Page137 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page138 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page139 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 93px;
+  padding-right: 10px;
+  position: relative;
+}
+.taskBoard_1600Page140 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page141 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page142 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: 87px;
+  padding-right: 10px;
+  position: relative;
+}
+.taskBoard_1600Page143 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page144 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page145 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 200px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page146 {
+  width: 24px;
+  height: 24px;
+}
+.taskBoard_1600Page147 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page148 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: 50px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page149 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page150 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page151 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page152 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page153 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page154 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page155 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page156 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: 540px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page157 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: 540px;
+  padding: 30px;
+  position: relative;
+}
+.taskBoard_1600Page158 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: 80px;
+  position: relative;
+}
+.taskBoard_1600Page159 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  position: relative;
+}
+.taskBoard_1600Page160 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page161 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  padding-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page162 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page163 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  border-radius: 15px;
+  position: relative;
+  height: 170px;
+}
+.taskBoard_1600Page164 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  position: relative;
+}
+.taskBoard_1600Page165 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page166 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page167 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: 45px;
+  padding-left: 25px;
+  padding-right: 30px;
+  padding-top: 25px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page168 {
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  flex: 1 1 0%;
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page169 {
+  width: 100%;
+  height: 75px;
+}
+.taskBoard_1600Page170 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 170px;
+  position: relative;
+}
+.taskBoard_1600Page171 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: 40px;
+  padding: 10px;
+  position: relative;
+}
+.taskBoard_1600Page172 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page173 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: 60px;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page174 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page175 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page176 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page177 {
+  background-color: rgb(195, 202, 217);
+  position: absolute;
+  left: calc(36.666666666666664%);
+  right: calc(40%);
+  width: calc(23.333333333333336%);
+  top: calc(40%);
+  bottom: calc(36.666666666666664%);
+  height: calc(23.333333333333336%);
+  border-radius: 7px;
+}
+.taskBoard_1600Page178 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page179 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page180 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page181 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page182 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page183 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page184 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page185 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page186 {
+  background-color: rgb(230, 46, 46, 0.2);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page187 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page188 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page189 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page190 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page191 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 57px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page192 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page193 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 62px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page194 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page195 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 285px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+}
+.taskBoard_1600Page196 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 90px;
+  padding: 30px;
+  position: relative;
+}
+.taskBoard_1600Page197 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.taskBoard_1600Page198 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page199 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page200 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page201 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 104px;
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page202 {
+  width: 24px;
+  height: 24px;
+}
+.taskBoard_1600Page203 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page204 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: 175px;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+}
+.taskBoard_1600Page205 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page206 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page207 {
+  object-fit: cover;
+  width: 70px;
+  height: 80px;
+  border-radius: 5px;
+}
+.taskBoard_1600Page208 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page209 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page210 {
+  background-color: rgb(166, 102, 255);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page211 {
+  background-color: rgb(196, 196, 196);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 30px;
+}
+.taskBoard_1600Page212 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page213 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - 10px / 2);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page214 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page215 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page216 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page217 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page218 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page219 {
+  object-fit: cover;
+  width: 70px;
+  height: 80px;
+  border-radius: 5px;
+}
+.taskBoard_1600Page220 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page221 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page222 {
+  background-color: rgb(230, 155, 92);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page223 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page224 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page225 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page226 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page227 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - 10px / 2);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page228 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page229 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page230 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page231 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page232 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page233 {
+  object-fit: cover;
+  width: 70px;
+  height: 80px;
+  border-radius: 5px;
+}
+.taskBoard_1600Page234 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page235 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page236 {
+  background-color: rgb(255, 213, 89);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page237 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page238 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page239 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page240 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page241 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - 10px / 2);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page242 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page243 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page244 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page245 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page246 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page247 {
+  object-fit: cover;
+  width: 70px;
+  height: 80px;
+  border-radius: 5px;
+}
+.taskBoard_1600Page248 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page249 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page250 {
+  background-color: rgb(102, 255, 117);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page251 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page252 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page253 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page254 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page255 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - 10px / 2);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page256 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page257 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page258 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page259 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page260 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 120px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page261 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 60px;
+  position: relative;
+}
+.taskBoard_1600Page262 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page263 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page264 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page265 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page266 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page267 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.taskBoard_1600Page268 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 2px / 2);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page269 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page270 {
+  position: relative;
+  width: 85px;
+  height: 60px;
+}
+.taskBoard_1600Page271 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page272 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+.taskBoard_1600Page273 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page274 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page275 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page276 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.taskBoard_1600Page277 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 2px / 2);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page278 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 17px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page279 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page280 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page281 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page282 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page283 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page284 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page285 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page286 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page287 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page288 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 420px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page289 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: 360px;
+  position: relative;
+}
+.taskBoard_1600Page290 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page291 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  gap: 20px;
+  height: 300px;
+  position: relative;
+}
+.taskBoard_1600Page292 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page293 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page294 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page295 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page296 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page297 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page298 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page299 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page300 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page301 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page302 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page303 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page304 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page305 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page306 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page307 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page308 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page309 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page310 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page311 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page312 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page313 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page314 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page315 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page316 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page317 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page318 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page319 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page320 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page321 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page322 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page323 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page324 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page325 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page326 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page327 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page328 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page329 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+}
+.taskBoard_1600Page330 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page331 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page332 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page333 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page334 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+  border-bottom-width: 2px;
+}
+.taskBoard_1600Page335 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: 200px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page336 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.taskBoard_1600Page337 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: 80px;
+  position: relative;
+}
+.taskBoard_1600Page338 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page339 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page340 {
+  background-color: rgb(255, 203, 51, 0.3);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page341 {
+  background-color: rgb(13, 17, 26);
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page342 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page343 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page344 {
+  transform: rotate(0deg) translate(0%, 0%) scale(100%, 100%);
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page345 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - 10px / 2);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page346 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  height: 80px;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page347 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 20px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page348 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page349 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page350 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page351 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page352 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page353 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-top-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page354 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page355 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 83px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page356 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}

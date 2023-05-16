@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" width="92" height="92" viewBox="0 0 92 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_405_51701)">
+<rect vector-effect="non-scaling-stroke" x="31" y="21" width="30" height="30" rx="15" fill="#29CC39"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M42 32.0011V40.2891C42 40.9211 42.696 41.3051 43.232 40.9611L49.744 36.8171C50.24 36.5051 50.24 35.7851 49.744 35.4651L43.232 31.3291C42.696 30.9851 42 31.3691 42 32.0011Z" fill="white"/>
+<rect vector-effect="non-scaling-stroke" x="31" y="21" width="30" height="30" rx="15" stroke="#29CC39" stroke-width="2"/>
+</g>
+<defs>
+<filter id="filter0_d_405_51701" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.160784 0 0 0 0 0.8 0 0 0 0 0.223529 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_405_51701"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_405_51701" result="shape"/>
+</filter>
+</defs>
+</svg>
