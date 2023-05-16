@@ -1,0 +1,363 @@
+.menuPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: 480px;
+  position: relative;
+}
+.menuPage1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.menuPage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage4 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-right-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage7 {
+  position: absolute;
+  left: -9.5px;
+  right: -10.5px;
+  width: auto;
+  height: 140px;
+  top: -10px;
+}
+.menuPage8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage9 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage11 {
+  position: absolute;
+  width: 7px;
+  right: 10px;
+  height: 7px;
+  top: 10px;
+}
+.menuPage12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.menuPage13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage15 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage17 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage18 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage19 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage20 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.menuPage22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage23 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage24 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage25 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage28 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage29 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: 120px;
+  position: relative;
+}
+.menuPage31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-left-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage32 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage33 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage34 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.menuPage35 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-right-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.menuPage36 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.menuPage37 {
+  width: 30px;
+  height: 30px;
+}
+.menuPage38 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
