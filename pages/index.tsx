@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { MacBookPro_16_1Page } from "../components/MacBookPro_16_1Page";
 
 export default function Home() {
   return (
@@ -11,14 +12,7 @@ export default function Home() {
           href="https://fonts.googleapis.com/css?family=Inter"
         />
       </Head>
-      <div
-        style={{
-          backgroundColor: "rgb(33, 33, 35)",
-          color: "#fafafa",
-          height: "100vh",
-          padding: "1rem",
-        }}
-      ></div>
+      <MacBookPro_16_1Page />
     </>
   );
 }
