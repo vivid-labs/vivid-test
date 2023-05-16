@@ -1,0 +1,91 @@
+.desktopClients_1Page0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 211px;
+  padding-left: 97px;
+  padding-right: 97px;
+  padding-top: 68px;
+  padding-bottom: 68px;
+  position: relative;
+  background-color: rgb(250, 250, 250);
+}
+.desktopClients_1Page1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 34px;
+  position: relative;
+}
+.desktopClients_1Page2 {
+  width: 103px;
+  height: 34px;
+}
+.desktopClients_1Page3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 59px;
+  position: relative;
+}
+.desktopClients_1Page4 {
+  width: 83px;
+  height: 59px;
+}
+.desktopClients_1Page5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 75px;
+  position: relative;
+}
+.desktopClients_1Page6 {
+  width: 102px;
+  height: 75px;
+}
+.desktopClients_1Page7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 42px;
+  position: relative;
+}
+.desktopClients_1Page8 {
+  width: 103px;
+  height: 42px;
+}
+.desktopClients_1Page9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 62px;
+  position: relative;
+}
+.desktopClients_1Page10 {
+  width: 104px;
+  height: 62px;
+}
+.desktopClients_1Page11 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 72px;
+  position: relative;
+}
+.desktopClients_1Page12 {
+  width: 76px;
+  height: 72px;
+}
