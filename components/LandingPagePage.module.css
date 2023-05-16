@@ -1,0 +1,501 @@
+.landingPagePage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 70px;
+  height: fit-content;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 60px;
+}
+.landingPagePage1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+  width: 1440px;
+}
+.landingPagePage2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+}
+.landingPagePage3 {
+  position: relative;
+  width: 219.54px;
+  height: 36px;
+}
+.landingPagePage4 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(83.60183836541057%);
+  width: calc(16.398161634589428%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.landingPagePage5 {
+  position: absolute;
+  left: calc(22.28324405715936%);
+  right: calc(0%);
+  width: calc(77.71675594284063%);
+  top: calc(8.333333333333332%);
+  bottom: calc(12.333324220445421%);
+  height: calc(79.33334244622125%);
+}
+.landingPagePage6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.landingPagePage7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 14px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+}
+.landingPagePage13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage14 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+  width: 1440px;
+}
+.landingPagePage15 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 35px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.landingPagePage16 {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  width: 531px;
+  font-size: 60px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.landingPagePage17 {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  width: 498px;
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 14px;
+  position: relative;
+  background-color: rgb(25, 26, 35);
+}
+.landingPagePage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.landingPagePage20 {
+  position: absolute;
+  width: 36px;
+  left: 1032.54px;
+  height: 36px;
+  top: 427px;
+}
+.landingPagePage21 {
+  position: absolute;
+  rotate: --45deg;
+  width: 70.33px;
+  left: 847.27px;
+  height: 70.33px;
+  top: 313px;
+}
+.landingPagePage22 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  position: absolute;
+  rotate: --28 0.9deg;
+  width: 566.26px;
+  left: 837.45px;
+  height: 118.95px;
+  top: 64px;
+  border-radius: 50%;
+}
+.landingPagePage23 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  position: absolute;
+  rotate: --28 0.9deg;
+  width: 566.26px;
+  left: 817.22px;
+  height: 118.95px;
+  top: 100.67px;
+  border-radius: 50%;
+}
+.landingPagePage24 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  position: absolute;
+  rotate: --28 0.9deg;
+  width: 566.26px;
+  left: 796.99px;
+  height: 118.95px;
+  top: 137.35px;
+  border-radius: 50%;
+}
+.landingPagePage25 {
+  background-color: rgb(185, 255, 102);
+  position: absolute;
+  width: 31px;
+  left: 855.54px;
+  height: 31px;
+  top: 89px;
+  border-radius: 50%;
+}
+.landingPagePage26 {
+  background-color: rgb(185, 255, 102);
+  position: absolute;
+  width: 20px;
+  left: 1150.54px;
+  height: 20px;
+  top: 425px;
+  border-radius: 50%;
+}
+.landingPagePage27 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  width: 47px;
+  left: 797.54px;
+  height: 47px;
+  top: 41px;
+  border-radius: 50%;
+}
+.landingPagePage28 {
+  position: absolute;
+  left: 989.59px;
+  right: -713.43px;
+  width: auto;
+  top: 251.14px;
+  bottom: -17.41px;
+  height: auto;
+}
+.landingPagePage29 {
+  position: absolute;
+  left: calc(262.6176497654106%);
+  right: calc(-243.08947551450308%);
+  width: calc(80.47182574909249%);
+  top: calc(15.064668663320921%);
+  bottom: calc(20.64650554372507%);
+  height: calc(64.28882579295401%);
+}
+.landingPagePage30 {
+  position: absolute;
+  left: 1019.89px;
+  right: -893.54px;
+  width: auto;
+  top: 17.41px;
+  bottom: 72.13px;
+  height: auto;
+}
+.landingPagePage31 {
+  position: absolute;
+  left: calc(308.2738052409213%);
+  right: calc(-253.52754182139518%);
+  width: calc(45.253736580473856%);
+  top: calc(10.526679825489929%);
+  bottom: calc(25.40978422850691%);
+  height: calc(64.06353594600316%);
+}
+.landingPagePage32 {
+  position: absolute;
+  left: 1087.79px;
+  right: -796.81px;
+  width: auto;
+  top: 131.74px;
+  bottom: 171.49px;
+  height: auto;
+}
+.landingPagePage33 {
+  position: absolute;
+  left: calc(311.07927707339076%);
+  right: calc(-250.7503716128216%);
+  width: calc(39.67109453943084%);
+  top: calc(14.50424392805403%);
+  bottom: calc(29.38458269510965%);
+  height: calc(56.11117337683633%);
+}
+.landingPagePage34 {
+  position: absolute;
+  left: calc(262.35786800825116%);
+  right: calc(-243.3550994938503%);
+  width: calc(80.99723148559914%);
+  top: calc(14.82609961270719%);
+  bottom: calc(20.422664412647414%);
+  height: calc(64.7512359746454%);
+}
+.landingPagePage35 {
+  position: absolute;
+  left: 1005.15px;
+  right: -828.9px;
+  width: auto;
+  top: 54.54px;
+  bottom: 93.99px;
+  height: auto;
+}
+.landingPagePage36 {
+  position: absolute;
+  left: calc(262.3572803570252%);
+  right: calc(-174.22798364677877%);
+  width: calc(11.87070328975355%);
+  top: calc(63.912296131638044%);
+  bottom: calc(20.454661731070182%);
+  height: calc(15.633042137291774%);
+}
+.landingPagePage37 {
+  position: absolute;
+  left: 893.54px;
+  right: -594.67px;
+  width: auto;
+  top: 234.44px;
+  bottom: 75.19px;
+  height: auto;
+}
+.landingPagePage38 {
+  position: absolute;
+  left: 904px;
+  right: -635.36px;
+  width: auto;
+  top: 205.14px;
+  bottom: 75.23px;
+  height: auto;
+}
+.landingPagePage39 {
+  position: absolute;
+  left: 1070.32px;
+  right: -786.6px;
+  width: auto;
+  top: 136.7px;
+  bottom: 157.96px;
+  height: auto;
+}
+.landingPagePage40 {
+  position: absolute;
+  rotate: -27.7deg;
+  left: calc(1163.3508989592556%);
+  right: calc(-1137.5297006834749%);
+  width: calc(74.17880172421928%);
+  top: calc(34.52874828690454%);
+  bottom: calc(-8.476028112557914%);
+  height: calc(73.94727982565337%);
+}
+.landingPagePage41 {
+  position: absolute;
+  left: 1178.92px;
+  right: -1118.02px;
+  width: auto;
+  top: 35.22px;
+  bottom: 28.85px;
+  height: auto;
+}
+.landingPagePage42 {
+  position: absolute;
+  left: 1245.09px;
+  right: -1245.09px;
+  width: auto;
+  top: 12.38px;
+  bottom: -12.38px;
+  height: auto;
+}
+.landingPagePage43 {
+  position: absolute;
+  left: calc(1342.303650763487%);
+  right: calc(-1277.6180728853665%);
+  width: calc(35.31442212187949%);
+  top: calc(47.06006758842143%);
+  bottom: calc(21.049688425846426%);
+  height: calc(31.89024398573214%);
+}
+.landingPagePage44 {
+  position: absolute;
+  left: 1235.84px;
+  right: -1138.31px;
+  width: auto;
+  top: 115.32px;
+  bottom: 107px;
+  height: auto;
+}
+.landingPagePage45 {
+  position: absolute;
+  left: 1214.93px;
+  right: -1214.93px;
+  width: auto;
+  top: 214.52px;
+  bottom: -214.52px;
+  height: auto;
+}
+.landingPagePage46 {
+  position: absolute;
+  left: 1246.21px;
+  right: -1183.42px;
+  width: auto;
+  top: 238.84px;
+  bottom: -194.84px;
+  height: auto;
+}
+.landingPagePage47 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+  width: 1440px;
+}
+.landingPagePage48 {
+  width: 124.11px;
+  height: 48px;
+}
+.landingPagePage49 {
+  width: 126.37px;
+  height: 48px;
+}
+.landingPagePage50 {
+  width: 128.63px;
+  height: 48px;
+}
+.landingPagePage51 {
+  width: 145.55px;
+  height: 48px;
+}
+.landingPagePage52 {
+  width: 125.24px;
+  height: 48px;
+}
+.landingPagePage53 {
+  width: 110.57px;
+  height: 48px;
+}
