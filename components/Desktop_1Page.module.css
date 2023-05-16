@@ -1,0 +1,1552 @@
+.desktop_1Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  height: 2257px;
+  background-color: rgb(13, 14, 16);
+}
+.desktop_1Page1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: -2px;
+}
+.desktop_1Page2 {
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: 0px;
+}
+.desktop_1Page3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 1190px / 2);
+  top: 591px;
+}
+.desktop_1Page4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.desktop_1Page5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.desktop_1Page6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page7 {
+  height: fit-content;
+  color: rgb(160, 160, 160);
+  width: 100%;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.desktop_1Page9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.desktop_1Page11 {
+  position: absolute;
+  left: 4.63px;
+  right: -4.63px;
+  width: auto;
+  top: 5.67px;
+  bottom: -5.67px;
+  height: auto;
+}
+.desktop_1Page12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.desktop_1Page13 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.desktop_1Page14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page15 {
+  height: fit-content;
+  color: rgb(160, 160, 160);
+  width: 100%;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.desktop_1Page17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page18 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.desktop_1Page19 {
+  position: absolute;
+  left: 4px;
+  right: -4px;
+  width: auto;
+  top: 6.23px;
+  bottom: -6.23px;
+  height: auto;
+}
+.desktop_1Page20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.desktop_1Page21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.desktop_1Page22 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page23 {
+  height: fit-content;
+  color: rgb(160, 160, 160);
+  width: 100%;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.desktop_1Page25 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page26 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.desktop_1Page27 {
+  position: absolute;
+  left: 6px;
+  right: -6px;
+  width: auto;
+  top: 6px;
+  bottom: -6px;
+  height: auto;
+}
+.desktop_1Page28 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 793px;
+  left: calc(50% - 793px / 2);
+  top: 90px;
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page29 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 469px;
+  left: calc(50% - 469px / 2);
+  top: 266px;
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 7px;
+  position: absolute;
+  left: calc(50% - 241px / 2);
+  top: 363px;
+  background-color: rgb(255, 255, 255);
+}
+.desktop_1Page31 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(13, 17, 20);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page32 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 54px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+}
+.desktop_1Page33 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 7px;
+  height: fit-content;
+  position: relative;
+  width: 112.64px;
+}
+.desktop_1Page34 {
+  width: 16.64px;
+  height: 16.64px;
+}
+.desktop_1Page35 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page37 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page38 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page39 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page40 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page41 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page42 {
+  width: 50px;
+  height: 50px;
+}
+.desktop_1Page43 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 36px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 104px;
+  top: 887px;
+}
+.desktop_1Page44 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page45 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  width: 534px;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page46 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 197px;
+}
+.desktop_1Page47 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page48 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page49 {
+  background: linear-gradient(
+    -90deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page50 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.desktop_1Page51 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page52 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.desktop_1Page53 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page54 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page55 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page56 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.desktop_1Page57 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page58 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page59 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page60 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.desktop_1Page61 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page62 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page63 {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.desktop_1Page64 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page65 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page66 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page67 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 360px;
+  top: 197px;
+}
+.desktop_1Page68 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page69 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page70 {
+  background: linear-gradient(
+    -90deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page71 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 230px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.desktop_1Page72 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page73 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.desktop_1Page74 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page75 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page76 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page77 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.desktop_1Page78 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page79 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page80 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page81 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.desktop_1Page82 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page83 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page84 {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.desktop_1Page85 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page86 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page87 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page88 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 180px;
+  top: 579px;
+}
+.desktop_1Page89 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page90 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 282.12px;
+  top: 0px;
+}
+.desktop_1Page91 {
+  background: linear-gradient(
+    -90deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page92 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 50px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.desktop_1Page93 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page94 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.desktop_1Page95 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page96 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page97 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page98 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.desktop_1Page99 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page100 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page101 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page102 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.desktop_1Page103 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page104 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page105 {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.desktop_1Page106 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page107 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page108 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page109 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 824px;
+  height: 562px;
+  top: 197px;
+}
+.desktop_1Page110 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page111 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page112 {
+  background: linear-gradient(
+    -90deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.desktop_1Page113 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.desktop_1Page114 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page115 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.desktop_1Page116 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page117 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page118 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page119 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.desktop_1Page120 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page121 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page122 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.desktop_1Page123 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.desktop_1Page124 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page125 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page126 {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.desktop_1Page127 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page128 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page129 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.desktop_1Page130 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 417px;
+  top: 1840px;
+  background-color: rgb(15, 33, 43);
+}
+.desktop_1Page131 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  height: 218px;
+}
+.desktop_1Page132 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page133 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page134 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page135 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 80px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page136 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page137 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page138 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page139 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page140 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page141 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page142 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page143 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page144 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page145 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page146 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page147 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page148 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page149 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page150 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page151 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page152 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page153 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page154 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-top: 28px;
+  position: relative;
+  width: 100%;
+  border-top-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.19);
+}
+.desktop_1Page155 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page156 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page157 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page158 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
