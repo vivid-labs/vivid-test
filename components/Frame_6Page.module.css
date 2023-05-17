@@ -1,0 +1,28 @@
+.frame_6Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 2861px;
+  height: 1408px;
+  background-color: rgb(224, 134, 226);
+}
+.frame_6Page1 {
+  position: absolute;
+  width: 1036px;
+  left: calc(50% - 1159.5px);
+  height: 502px;
+  top: 390px;
+}
+.frame_6Page2 {
+  position: absolute;
+  width: 1036px;
+  right: 170px;
+  height: 502px;
+  top: calc(50% - 560px);
+}
+.frame_6Page3 {
+  position: absolute;
+  width: 242px;
+  left: calc(50% - -94.5px);
+  height: 234px;
+  top: calc(50% - -217px);
+}
