@@ -1,0 +1,12 @@
+.featuresPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 1190px / 2);
+  top: 589px;
+}
