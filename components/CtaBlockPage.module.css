@@ -1,0 +1,69 @@
+.ctaBlockPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: -715px;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 2212px;
+}
+.ctaBlockPage1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 275px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 45px;
+  position: relative;
+  width: 1240px;
+  height: 347px;
+  background-color: rgb(243, 243, 243);
+}
+.ctaBlockPage2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 26px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.ctaBlockPage3 {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  width: 500px;
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.ctaBlockPage4 {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  width: 500px;
+  font-size: 18px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+}
+.ctaBlockPage5 {
+  position: relative;
+  width: 494px;
+  height: 394px;
+}
+.ctaBlockPage6 {
+  position: absolute;
+  rotate: --180deg;
+  left: 359px;
+  right: -224px;
+  width: auto;
+  top: 0px;
+  bottom: -0.27px;
+  height: auto;
+}
