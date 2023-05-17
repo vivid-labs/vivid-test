@@ -1,0 +1,715 @@
+.servicesBlockPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 1102px;
+}
+.servicesBlockPage1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+}
+.servicesBlockPage2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(243, 243, 243);
+}
+.servicesBlockPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage10 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage12 {
+  width: 210px;
+  height: 170px;
+}
+.servicesBlockPage13 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage15 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage18 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage21 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage22 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage23 {
+  width: 210px;
+  height: 147.62px;
+}
+.servicesBlockPage24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+}
+.servicesBlockPage25 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(25, 26, 35);
+}
+.servicesBlockPage26 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage28 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage29 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage31 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage32 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage33 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage34 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage35 {
+  width: 210px;
+  height: 210px;
+}
+.servicesBlockPage36 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(243, 243, 243);
+}
+.servicesBlockPage37 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage38 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage39 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage40 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage41 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage42 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage43 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage44 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage45 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage46 {
+  rotate: --180deg;
+  width: 210px;
+  height: 192.68px;
+  overflow: hidden;
+}
+.servicesBlockPage47 {
+  transform: rotate(0deg) translate(0.17%, 0.17%) scale(140.67%, 153.3%);
+  height: 100%;
+  width: 100%;
+}
+.servicesBlockPage48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+}
+.servicesBlockPage49 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage50 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage51 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage52 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage53 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage54 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.servicesBlockPage55 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage57 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage58 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage59 {
+  width: 210px;
+  height: 195.91px;
+}
+.servicesBlockPage60 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 50px;
+  border-radius: 45px;
+  position: relative;
+  box-shadow: 0pxpx 5pxpx 0pxpx rgb(25, 26, 35, 1);
+  width: 600px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(25, 26, 35);
+  background-color: rgb(25, 26, 35);
+}
+.servicesBlockPage61 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 93px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage62 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.servicesBlockPage63 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage64 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage65 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  border-radius: 7px;
+  position: relative;
+  background-color: rgb(185, 255, 102);
+}
+.servicesBlockPage66 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Space Grotesk;
+  font-weight: 500;
+}
+.servicesBlockPage67 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.servicesBlockPage68 {
+  width: 41px;
+  height: 41px;
+}
+.servicesBlockPage69 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: 28px;
+}
+.servicesBlockPage70 {
+  width: 210px;
+  height: 170px;
+}
