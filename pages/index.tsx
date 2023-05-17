@@ -1,4 +1,8 @@
 import Head from "next/head";
+import { FramePage } from "../components/FramePage";
+import { LandingPagePage } from "../components/LandingPagePage";
+import { SerivicesHeadingSubheadingPage } from "../components/SerivicesHeadingSubheadingPage";
+import { ServicesBlockPage } from "../components/ServicesBlockPage";
 
 export default function Home() {
   return (
@@ -11,14 +15,9 @@ export default function Home() {
           href="https://fonts.googleapis.com/css?family=Inter"
         />
       </Head>
-      <div
-        style={{
-          backgroundColor: "rgb(33, 33, 35)",
-          color: "#fafafa",
-          height: "100vh",
-          padding: "1rem",
-        }}
-      ></div>
+      <LandingPagePage />
+      <SerivicesHeadingSubheadingPage />
+      <ServicesBlockPage />
     </>
   );
 }
