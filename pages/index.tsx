@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { FramePage } from "../components/FramePage";
 import { LandingPagePage } from "../components/LandingPagePage";
 import { SerivicesHeadingSubheadingPage } from "../components/SerivicesHeadingSubheadingPage";
 import { ServicesBlockPage } from "../components/ServicesBlockPage";
