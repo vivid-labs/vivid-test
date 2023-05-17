@@ -1,0 +1,7 @@
+.frame_16Page0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex: 1 1 0%;
+}
