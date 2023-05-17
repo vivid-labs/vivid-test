@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect vector-effect="non-scaling-stroke" x="0.5" y="1" width="19" height="19" rx="3.5" fill="white" fill-opacity="0.1"/>
+<rect vector-effect="non-scaling-stroke" x="0.5" y="1" width="19" height="19" rx="3.5" fill="url(#pattern0)"/>
+<rect vector-effect="non-scaling-stroke" x="0.5" y="1" width="19" height="19" rx="3.5" stroke="#010409"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_8858" transform="scale(0.025)"/>
+</pattern>
+<image id="image0_1_8858" width="40" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAsklEQVRYw+3WsQ2CUBhF4YOhsDJasIAmFOxgK61zuIUDsAWjuIBWFMTCws5IKKwI2DxcwGuCyf07mpMvj+bCxC8CaPfrOZAKelVxuPZAJmjVxx2vOHykwFkQ3QCNqLUFTrOp/2IDDTTQQAMNNNBAA39642Ctwtj89m5AL2rdP5Of8hkDC0G0GZIVwFLQaqOcbnzBTDz5H578BhpooIEGGmiggQYqJ38dBqJipnei1oV/uDc60R4Z62lqJgAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
