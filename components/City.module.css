@@ -1,0 +1,186 @@
+.city0 {
+  overflow: hidden;
+  border-radius: 20px;
+  width: 376px;
+  height: 562px;
+}
+.city1 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.city2 {
+  background: linear-gradient(
+    -90deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.city3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.city4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.city5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.city6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.city7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.city8 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.city9 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.city10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.city11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.city12 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.city13 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.city14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.city15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.city16 {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.city17 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.city18 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.city19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}

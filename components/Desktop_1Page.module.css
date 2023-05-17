@@ -1,0 +1,498 @@
+.desktop_1Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  height: 2257px;
+  background-color: rgb(13, 14, 16);
+}
+.desktop_1Page1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: -2px;
+}
+.desktop_1Page2 {
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: 0px;
+}
+.desktop_1Page3 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 793px;
+  left: calc(50% - 793px / 2);
+  top: 90px;
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page4 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 469px;
+  left: calc(50% - 469px / 2);
+  top: 266px;
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 7px;
+  position: absolute;
+  left: calc(50% - 241px / 2);
+  top: 363px;
+  background-color: rgb(255, 255, 255);
+}
+.desktop_1Page6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(13, 17, 20);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 54px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+}
+.desktop_1Page8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 7px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page9 {
+  width: 16.64px;
+  height: 16.64px;
+}
+.desktop_1Page10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.desktop_1Page17 {
+  width: 50px;
+  height: 50px;
+}
+.desktop_1Page18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 1190px / 2);
+  top: 589px;
+}
+.desktop_1Page19 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 36px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 104px;
+  top: 887px;
+}
+.desktop_1Page20 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page21 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  width: 534px;
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.desktop_1Page22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 60px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 417px;
+  top: 1840px;
+  background-color: rgb(15, 33, 43);
+}
+.desktop_1Page23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  height: 218px;
+}
+.desktop_1Page24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page25 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page26 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 80px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page28 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page29 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page30 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page31 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page32 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page33 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page34 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page35 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page36 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page37 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page38 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page39 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page40 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.desktop_1Page41 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page42 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page43 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page44 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page45 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page46 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-top: 28px;
+  position: relative;
+  width: 100%;
+  border-top-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.19);
+}
+.desktop_1Page47 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.desktop_1Page48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.desktop_1Page49 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.desktop_1Page50 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
