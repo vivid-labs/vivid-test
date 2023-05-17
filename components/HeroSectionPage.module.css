@@ -1,0 +1,171 @@
+.heroSectionPage0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: -2px;
+}
+.heroSectionPage1 {
+  object-fit: cover;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 1440px / 2);
+  height: 808px;
+  top: 0px;
+}
+.heroSectionPage2 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 793px;
+  left: calc(50% - 793px / 2);
+  top: 90px;
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage3 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 469px;
+  left: calc(50% - 469px / 2);
+  top: 266px;
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 7px;
+  position: absolute;
+  left: calc(50% - 241px / 2);
+  top: 363px;
+  background-color: rgb(255, 255, 255);
+}
+.heroSectionPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(13, 17, 20);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 54px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+}
+.heroSectionPage7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 7px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.heroSectionPage8 {
+  width: 16.64px;
+  height: 16.64px;
+}
+.heroSectionPage9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.heroSectionPage10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.heroSectionPage11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.heroSectionPage12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage16 {
+  width: 50px;
+  height: 50px;
+}
