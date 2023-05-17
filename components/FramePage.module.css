@@ -1,0 +1,4051 @@
+.framePage0 {
+  position: absolute;
+  width: 1903px;
+  left: 0px;
+  height: 1414.5px;
+  top: 0px;
+}
+.framePage1 {
+  position: absolute;
+  width: 1903px;
+  left: 0px;
+  height: 60px;
+  top: 0px;
+}
+.framePage2 {
+  overflow: hidden;
+  position: absolute;
+  width: 32px;
+  right: 1871px;
+  height: 32px;
+  bottom: 28px;
+  background-color: rgb(31, 111, 235);
+}
+.framePage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 8.43px;
+  left: 16px;
+  height: 271px;
+  top: 17px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage4 {
+  position: absolute;
+  width: 1903px;
+  left: 0px;
+  height: 60px;
+  top: 0px;
+  background-color: rgb(22, 27, 34);
+}
+.framePage5 {
+  position: absolute;
+  width: 32px;
+  left: calc(50% - 919.5px);
+  height: 32px;
+  top: 14px;
+}
+.framePage6 {
+  position: absolute;
+  left: 80px;
+  right: 139.72px;
+  width: auto;
+  height: 28px;
+  top: calc(50% - 14px);
+}
+.framePage7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 113.92px;
+  width: auto;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  right: 1411.28px;
+  top: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(13, 17, 23);
+}
+.framePage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 20px;
+}
+.framePage9 {
+  overflow: hidden;
+  position: relative;
+  width: 18.08px;
+  height: 20px;
+}
+.framePage10 {
+  position: absolute;
+  width: 18.08px;
+  left: calc(50% - 9.04px);
+  height: 20px;
+  top: 0px;
+}
+.framePage11 {
+  position: absolute;
+  width: 399.28px;
+  left: 288px;
+  height: 21px;
+  top: calc(50% - 10.5px);
+}
+.framePage12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 2.2px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  position: absolute;
+  left: 0px;
+  top: -16px;
+}
+.framePage13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(240, 246, 252);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(240, 246, 252);
+  position: absolute;
+  left: 97.2px;
+  top: 0px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(240, 246, 252);
+  position: absolute;
+  left: 151px;
+  top: 0px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(240, 246, 252);
+  position: absolute;
+  left: 336.06px;
+  top: 0px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(240, 246, 252);
+  position: absolute;
+  left: 241.61px;
+  top: 0px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage18 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -811.78px);
+  height: 16px;
+  top: 23.5px;
+}
+.framePage19 {
+  position: absolute;
+  width: 27.86px;
+  left: 1795.28px;
+  height: 21px;
+  top: 19.5px;
+}
+.framePage20 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 13.93px);
+  height: 16px;
+  top: 4px;
+}
+.framePage21 {
+  border-style: solid;
+  border-color: rgb(240, 246, 252);
+  position: absolute;
+  width: 8px;
+  left: 19.86px;
+  height: 4px;
+  top: calc(50% - 0px);
+}
+.framePage22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 2.75px;
+  padding-bottom: 2.75px;
+  position: absolute;
+  left: 1839.14px;
+  top: calc(50% - 14px);
+}
+.framePage23 {
+  position: relative;
+  width: 31.86px;
+  height: 22.5px;
+}
+.framePage24 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage25 {
+  border-style: solid;
+  border-color: rgb(240, 246, 252);
+  position: absolute;
+  width: 8px;
+  left: 23.86px;
+  height: 4px;
+  top: calc(50% - 0.75px);
+}
+.framePage26 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(22, 27, 34);
+  background: linear-gradient(
+    90deg,
+    rgb(84, 163, 255, 1) 0%,
+    rgb(0, 110, 237, 1) 100%
+  );
+  position: absolute;
+  width: 10px;
+  left: 15px;
+  height: 10px;
+  top: 3px;
+  border-radius: 7px;
+}
+.framePage27 {
+  position: absolute;
+  width: 1903px;
+  left: 0px;
+  height: 1354.5px;
+  top: 60px;
+  background-color: rgb(1, 4, 9);
+}
+.framePage28 {
+  position: absolute;
+  left: 0px;
+  right: 1553px;
+  width: auto;
+  height: 1354.5px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage29 {
+  overflow: hidden;
+  position: absolute;
+  width: 349px;
+  left: 0px;
+  height: 695.5px;
+  top: 0px;
+}
+.framePage30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 155.56px;
+  padding-top: 16px;
+  padding-bottom: 17px;
+  position: absolute;
+  left: 32px;
+  top: 16px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+}
+.framePage31 {
+  position: relative;
+  width: 129.44px;
+  height: 22.5px;
+}
+.framePage32 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage33 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.72px;
+  position: absolute;
+  left: 27.86px;
+  top: 0px;
+}
+.framePage34 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage35 {
+  border-style: solid;
+  border-color: rgb(201, 209, 217);
+  position: absolute;
+  width: 8px;
+  left: 121.44px;
+  height: 4px;
+  top: calc(50% - 0.75px);
+}
+.framePage36 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 40px;
+  position: absolute;
+  left: 32px;
+  top: 87.5px;
+}
+.framePage37 {
+  position: relative;
+  width: 285px;
+  height: 314px;
+}
+.framePage38 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 115.03px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.framePage39 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage40 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 15.97px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 6px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(35, 134, 54);
+}
+.framePage41 {
+  width: 16px;
+  height: 16px;
+}
+.framePage42 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage43 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 156px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 36px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(1, 4, 9);
+}
+.framePage44 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 20px;
+}
+.framePage45 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 84px;
+}
+.framePage46 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 125px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage47 {
+  width: 16px;
+  height: 16px;
+}
+.framePage48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage49 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage50 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 99px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage51 {
+  width: 16px;
+  height: 16px;
+}
+.framePage52 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage53 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage54 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 113px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage55 {
+  width: 16px;
+  height: 16px;
+}
+.framePage56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage57 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage58 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 127px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage59 {
+  width: 16px;
+  height: 16px;
+}
+.framePage60 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage61 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage62 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 121.31px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage63 {
+  width: 16px;
+  height: 16px;
+}
+.framePage64 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.69px;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage65 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage66 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 126.16px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage67 {
+  width: 16px;
+  height: 16px;
+}
+.framePage68 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.84px;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage69 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage70 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 139px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: relative;
+}
+.framePage71 {
+  width: 16px;
+  height: 16px;
+}
+.framePage72 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage73 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage74 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 0px;
+  top: 295px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage75 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  position: relative;
+  width: 300px;
+  height: 91px;
+}
+.framePage76 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage77 {
+  position: relative;
+  width: 432px;
+  height: 63px;
+}
+.framePage78 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 22px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 2px;
+  padding-bottom: 21px;
+  position: absolute;
+  left: 24px;
+  top: 0px;
+}
+.framePage79 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 7.98px;
+  position: relative;
+}
+.framePage80 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage81 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage82 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 216px);
+  height: 16px;
+  top: 12px;
+}
+.framePage83 {
+  position: relative;
+  width: 285px;
+  height: 98px;
+}
+.framePage84 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage85 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 187px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 29px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(1, 4, 9);
+}
+.framePage86 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 20px;
+}
+.framePage87 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 21.89px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  position: absolute;
+  left: 0px;
+  top: 77px;
+}
+.framePage88 {
+  width: 16px;
+  height: 16px;
+}
+.framePage89 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.11px;
+  padding-top: 10px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage90 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.framePage91 {
+  position: absolute;
+  width: 1537px;
+  left: 358px;
+  height: 1354.5px;
+  top: 0px;
+}
+.framePage92 {
+  position: absolute;
+  left: 0px;
+  right: 512.34px;
+  width: auto;
+  height: 1338.5px;
+  top: 16px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+}
+.framePage93 {
+  position: absolute;
+  width: 976.66px;
+  left: calc(50% - 488.33px);
+  height: 1337.5px;
+  top: 0px;
+}
+.framePage94 {
+  position: absolute;
+  width: 976.66px;
+  left: 0px;
+  height: 1163.5px;
+  top: 0px;
+}
+.framePage95 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 617.89px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  box-shadow: inset 0pxpx -1pxpx 0pxpx rgb(33, 38, 45, 1);
+  left: 0px;
+  top: 0px;
+  background-color: rgb(255, 255, 255, 0);
+}
+.framePage96 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16.7px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 7px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  position: relative;
+}
+.framePage97 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 30px;
+}
+.framePage98 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 6px;
+  position: relative;
+}
+.framePage99 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4.83px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 2px;
+  position: relative;
+}
+.framePage100 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 30px;
+}
+.framePage101 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 5.03px;
+  padding-top: 1.42px;
+  padding-bottom: 1.42px;
+  border-radius: 23.8px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 134, 54);
+}
+.framePage102 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(63, 185, 80);
+  font-size: 10.899999618530273px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 18px;
+}
+.framePage103 {
+  background-color: rgb(247, 129, 102);
+  position: absolute;
+  width: 105.86px;
+  left: 0.01px;
+  height: 2px;
+  top: 37px;
+  border-radius: 6px;
+}
+.framePage104 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 23.81px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 8px;
+  position: relative;
+}
+.framePage105 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(88, 166, 255);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage106 {
+  position: relative;
+  width: 46.39px;
+  height: 21px;
+}
+.framePage107 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage108 {
+  border-style: solid;
+  border-color: rgb(201, 209, 217);
+  position: absolute;
+  width: 8px;
+  left: 38.39px;
+  height: 4px;
+  top: calc(50% - 0px);
+}
+.framePage109 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: -382px;
+  top: -84px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage110 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 72px;
+}
+.framePage111 {
+  border-radius: 6px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  width: 976.66px;
+  height: 137.5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(13, 17, 23);
+}
+.framePage112 {
+  position: absolute;
+  width: 942.66px;
+  left: 17px;
+  height: 29px;
+  top: 17px;
+}
+.framePage113 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage114 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -455.33px);
+  height: 16px;
+  top: 4px;
+}
+.framePage115 {
+  position: absolute;
+  width: 942.66px;
+  left: 17px;
+  height: 43.5px;
+  top: 46px;
+}
+.framePage116 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  width: 924.47px;
+  left: 0px;
+  top: 0px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage117 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 97px;
+  top: 23.5px;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 14px;
+}
+.framePage118 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 90.97px;
+  top: 21px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage119 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(88, 166, 255);
+  position: absolute;
+  left: 17px;
+  top: 99.5px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage120 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.framePage121 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  position: relative;
+}
+.framePage122 {
+  overflow: hidden;
+  position: relative;
+  width: 366.58px;
+  height: 32px;
+}
+.framePage123 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 8.66px;
+  position: absolute;
+  left: 44px;
+  top: calc(50% - 10.5px);
+}
+.framePage124 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 21px;
+}
+.framePage125 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 16px);
+}
+.framePage126 {
+  width: 32px;
+  height: 32px;
+}
+.framePage127 {
+  overflow: hidden;
+  border-radius: 8px;
+  position: absolute;
+  box-shadow: 0pxpx 0pxpx 0pxpx 2px rgb(1, 4, 9, 1);
+  width: 16px;
+  right: -8px;
+  height: 16px;
+  bottom: 0px;
+  background-color: rgb(13, 17, 23);
+}
+.framePage128 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.framePage129 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 274.66px;
+  top: 5.5px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage130 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 1px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage131 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding: 16px;
+  position: relative;
+}
+.framePage132 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 709.59px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage133 {
+  position: relative;
+  width: 125.53px;
+  height: 28px;
+}
+.framePage134 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage135 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 28px;
+  top: 3.5px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage136 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 63.09px;
+  top: 3.5px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage137 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.31px;
+  position: absolute;
+  left: 76.22px;
+  top: 3.5px;
+}
+.framePage138 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage139 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.framePage140 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 12.53px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  position: relative;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage141 {
+  width: 16px;
+  height: 16px;
+}
+.framePage142 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage143 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  position: relative;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage144 {
+  width: 16px;
+  height: 16px;
+}
+.framePage145 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 8px;
+  position: relative;
+}
+.framePage146 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage147 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19.3px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 830.84px;
+  position: relative;
+}
+.framePage148 {
+  position: relative;
+  width: 52.52px;
+  height: 16px;
+}
+.framePage149 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage150 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(53, 114, 165);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage151 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage152 {
+  width: 16px;
+  height: 16px;
+}
+.framePage153 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage154 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 16px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.framePage155 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 4px;
+  position: relative;
+}
+.framePage156 {
+  position: relative;
+  width: 976.66px;
+  height: 37px;
+}
+.framePage157 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 8px;
+  border-radius: 16px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 16px);
+  background-color: rgb(177, 186, 196);
+}
+.framePage158 {
+  width: 16px;
+  height: 16px;
+}
+.framePage159 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 40px;
+  top: 8px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage160 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 178.3px;
+  top: 8px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage161 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(88, 166, 255);
+  position: absolute;
+  left: 189.34px;
+  top: 8px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage162 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 1px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage163 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding: 16px;
+  position: relative;
+}
+.framePage164 {
+  position: relative;
+  width: 152.39px;
+  height: 22.5px;
+}
+.framePage165 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage166 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 28px;
+  top: 0.75px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage167 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 60.69px;
+  top: 0.75px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage168 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 3.58px;
+  position: absolute;
+  left: 73.81px;
+  top: 0.75px;
+}
+.framePage169 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage170 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 8px;
+  position: relative;
+}
+.framePage171 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage172 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19.3px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 771.38px;
+  position: relative;
+}
+.framePage173 {
+  position: relative;
+  width: 110.47px;
+  height: 16px;
+}
+.framePage174 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage175 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(218, 91, 11);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage176 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.52px;
+  position: relative;
+}
+.framePage177 {
+  width: 16px;
+  height: 16px;
+}
+.framePage178 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage179 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 1px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage180 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding: 16px;
+  position: relative;
+}
+.framePage181 {
+  position: relative;
+  width: 210.77px;
+  height: 22.5px;
+}
+.framePage182 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage183 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 28px;
+  top: 0.75px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage184 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 88.38px;
+  top: 0.75px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage185 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 3.27px;
+  position: absolute;
+  left: 101.5px;
+  top: 0.75px;
+}
+.framePage186 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage187 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 8px;
+  position: relative;
+}
+.framePage188 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage189 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19.3px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 853.53px;
+  position: relative;
+}
+.framePage190 {
+  position: relative;
+  width: 29.83px;
+  height: 16px;
+}
+.framePage191 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage192 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(23, 134, 0);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage193 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage194 {
+  width: 16px;
+  height: 16px;
+}
+.framePage195 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage196 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  position: relative;
+}
+.framePage197 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 807.63px;
+  position: relative;
+}
+.framePage198 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 8px;
+  border-radius: 16px;
+  position: relative;
+  background-color: rgb(177, 186, 196);
+}
+.framePage199 {
+  width: 16px;
+  height: 16px;
+}
+.framePage200 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 8.03px;
+  position: relative;
+}
+.framePage201 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage202 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 1px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage203 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding: 16px;
+  position: relative;
+}
+.framePage204 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 648.92px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage205 {
+  position: relative;
+  width: 186.2px;
+  height: 28px;
+}
+.framePage206 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 8.75px);
+}
+.framePage207 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 28px;
+  top: 3.5px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage208 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 107.69px;
+  top: 3.5px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage209 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.39px;
+  position: absolute;
+  left: 120.81px;
+  top: 3.5px;
+}
+.framePage210 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage211 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.framePage212 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 12.53px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  position: relative;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage213 {
+  width: 16px;
+  height: 16px;
+}
+.framePage214 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage215 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  position: relative;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage216 {
+  width: 16px;
+  height: 16px;
+}
+.framePage217 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 8px;
+  position: relative;
+}
+.framePage218 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage219 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19.3px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 831.84px;
+  position: relative;
+}
+.framePage220 {
+  position: relative;
+  width: 52.52px;
+  height: 16px;
+}
+.framePage221 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage222 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(53, 114, 165);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage223 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage224 {
+  width: 16px;
+  height: 16px;
+}
+.framePage225 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage226 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 16px;
+  padding-bottom: 8px;
+  position: relative;
+}
+.framePage227 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 668.66px;
+  position: relative;
+}
+.framePage228 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 8px;
+  border-radius: 16px;
+  position: relative;
+  background-color: rgb(177, 186, 196);
+}
+.framePage229 {
+  width: 16px;
+  height: 16px;
+}
+.framePage230 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage231 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-top: 8px;
+  position: relative;
+}
+.framePage232 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 17px;
+  padding-bottom: 25px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage233 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 193px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage234 {
+  position: relative;
+  width: 195.61px;
+  height: 114px;
+}
+.framePage235 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 135.61px;
+  border-radius: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.framePage236 {
+  width: 60px;
+  height: 60px;
+}
+.framePage237 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 1.17px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 68px;
+}
+.framePage238 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage239 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  padding-right: 5.44px;
+  position: relative;
+}
+.framePage240 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage241 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  left: 0px;
+  top: 93px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage242 {
+  border-radius: 6px;
+  position: relative;
+  width: 61.72px;
+  height: 28px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage243 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  width: 0.21px;
+  left: 0px;
+  height: 1px;
+  top: 0px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage244 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 17px;
+  padding-bottom: 50px;
+  border-radius: 4px;
+  position: relative;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(1, 4, 9, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+  background-color: rgb(13, 17, 23);
+}
+.framePage245 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 313.33px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.framePage246 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.framePage247 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 15.28px;
+  border-radius: 6px;
+  position: relative;
+}
+.framePage248 {
+  width: 60px;
+  height: 60px;
+}
+.framePage249 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage250 {
+  border-radius: 6px;
+  position: relative;
+  width: 61.72px;
+  height: 28px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage251 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  width: 0.21px;
+  left: 0px;
+  height: 1px;
+  top: 0px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage252 {
+  position: absolute;
+  width: 976.66px;
+  left: calc(50% - 488.33px);
+  height: 110px;
+  top: 1195.5px;
+}
+.framePage253 {
+  position: absolute;
+  width: 325.55px;
+  left: 0px;
+  height: 24px;
+  top: 0px;
+}
+.framePage254 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 162.77px);
+  height: 24px;
+  top: 0px;
+}
+.framePage255 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  width: 104.92px;
+  left: 32px;
+  height: 16px;
+  top: 3px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage256 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 154.81px;
+  position: absolute;
+  left: 357.55px;
+  top: 0px;
+}
+.framePage257 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 48.77px;
+  padding-bottom: 4px;
+  position: relative;
+}
+.framePage258 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage259 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage260 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage261 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage262 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage263 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 90.77px;
+  padding-bottom: 26px;
+  position: relative;
+}
+.framePage264 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage265 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage266 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage267 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage268 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 95.77px;
+  padding-bottom: 48px;
+  position: relative;
+}
+.framePage269 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage270 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage271 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage272 {
+  position: absolute;
+  left: 1024.66px;
+  right: 0.02px;
+  width: auto;
+  height: 1322.5px;
+  top: 32px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+}
+.framePage273 {
+  overflow: hidden;
+  border-radius: 6px;
+  position: absolute;
+  width: 300px;
+  left: 24px;
+  height: 212px;
+  top: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(13, 17, 23);
+}
+.framePage274 {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  width: auto;
+  top: 1px;
+  bottom: 1px;
+  height: auto;
+}
+.framePage275 {
+  overflow: hidden;
+  position: absolute;
+  width: 167px;
+  left: 17px;
+  height: 26px;
+  top: 17px;
+}
+.framePage276 {
+  overflow: hidden;
+  position: absolute;
+  width: 167px;
+  left: calc(50% - 83.5px);
+  height: 26px;
+  top: calc(50% - 13px);
+}
+.framePage277 {
+  position: absolute;
+  left: 0.53px;
+  right: 2.96px;
+  width: auto;
+  top: 0.8px;
+  bottom: 0.97px;
+  height: auto;
+}
+.framePage278 {
+  position: absolute;
+  width: 266px;
+  left: 17px;
+  height: 42px;
+  top: 59px;
+}
+.framePage279 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 163px;
+  left: 0px;
+  height: 40px;
+  top: 1px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage280 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 233.93px;
+  left: 17px;
+  height: 40px;
+  top: 106px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage281 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -119px);
+  height: 16px;
+  top: 17px;
+}
+.framePage282 {
+  border-radius: 6px;
+  position: absolute;
+  left: 17px;
+  right: 17px;
+  width: auto;
+  height: 32px;
+  top: 163px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(173, 186, 198);
+  background-color: rgb(255, 255, 255, 0.16);
+}
+.framePage283 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 82.68px;
+  left: 91.75px;
+  height: 19px;
+  top: 6px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage284 {
+  overflow: hidden;
+  border-radius: 6px;
+  position: absolute;
+  width: 300px;
+  left: 24px;
+  height: 218px;
+  top: 236px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+  background-color: rgb(13, 17, 23);
+}
+.framePage285 {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  width: auto;
+  top: 1px;
+  bottom: 1px;
+  height: auto;
+}
+.framePage286 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 191.17px;
+  left: 17px;
+  height: 45px;
+  top: 18px;
+  font-size: 16px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 24px;
+}
+.framePage287 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255, 0.67);
+  position: absolute;
+  width: 166.14px;
+  left: 17px;
+  height: 70px;
+  top: 74px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage288 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -119px);
+  height: 16px;
+  top: 17px;
+}
+.framePage289 {
+  border-radius: 6px;
+  position: absolute;
+  left: 17px;
+  right: 17px;
+  width: auto;
+  height: 32px;
+  top: 169px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(103, 50, 129);
+  background-color: rgb(255, 255, 255, 0.12);
+}
+.framePage290 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 71.15px;
+  left: 97.52px;
+  height: 19px;
+  top: 6px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 500;
+  line-height: 20px;
+}
+.framePage291 {
+  position: absolute;
+  width: 464.33px;
+  left: 24px;
+  height: 296px;
+  top: 478px;
+}
+.framePage292 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  width: 93.82px;
+  left: 0px;
+  height: 19px;
+  top: 1px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage293 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 230px;
+  top: 37px;
+}
+.framePage294 {
+  position: absolute;
+  width: 460.33px;
+  left: 4px;
+  height: 51px;
+  top: 0px;
+}
+.framePage295 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 73.83px;
+  position: absolute;
+  left: 24.5px;
+  top: 14px;
+}
+.framePage296 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage297 {
+  background-color: rgb(33, 38, 45);
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  height: 51px;
+  top: 0px;
+}
+.framePage298 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 237.66px);
+  height: 16px;
+  top: -4px;
+}
+.framePage299 {
+  position: absolute;
+  width: 460.33px;
+  left: 4px;
+  height: 72px;
+  top: 51px;
+}
+.framePage300 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 45.99px;
+  position: absolute;
+  left: 24.5px;
+  top: 14px;
+}
+.framePage301 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  width: 389.84px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage302 {
+  background-color: rgb(33, 38, 45);
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  height: 72px;
+  top: 0px;
+}
+.framePage303 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 237.66px);
+  height: 16px;
+  top: -4px;
+}
+.framePage304 {
+  position: absolute;
+  width: 460.33px;
+  left: 4px;
+  height: 51px;
+  top: 123px;
+}
+.framePage305 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 230.83px;
+  position: absolute;
+  left: 24.5px;
+  top: 14px;
+}
+.framePage306 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage307 {
+  background-color: rgb(33, 38, 45);
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  height: 51px;
+  top: 0px;
+}
+.framePage308 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 237.66px);
+  height: 16px;
+  top: -4px;
+}
+.framePage309 {
+  position: absolute;
+  width: 460.33px;
+  left: 4px;
+  height: 56px;
+  top: 174px;
+}
+.framePage310 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 61.11px;
+  position: absolute;
+  left: 24.5px;
+  top: 14px;
+}
+.framePage311 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  width: 374.72px;
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
+.framePage312 {
+  background-color: rgb(33, 38, 45);
+  position: absolute;
+  width: 1px;
+  left: 0px;
+  height: 56px;
+  top: 0px;
+}
+.framePage313 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 237.66px);
+  height: 16px;
+  top: -4px;
+}
+.framePage314 {
+  position: absolute;
+  width: 460.33px;
+  left: 4px;
+  height: 29px;
+  top: 267px;
+  border-left-width: 1px;
+  border-style: solid;
+  border-color: rgb(33, 38, 45);
+}
+.framePage315 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  width: 98.01px;
+  left: 25px;
+  height: 16px;
+  top: 11px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage316 {
+  position: absolute;
+  width: 464.33px;
+  left: 24px;
+  height: 423px;
+  top: 798px;
+}
+.framePage317 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  position: absolute;
+  width: 125.9px;
+  left: 0px;
+  height: 19px;
+  top: 1px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.framePage318 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 402px;
+  top: 21px;
+}
+.framePage319 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 136px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+}
+.framePage320 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 28px;
+  top: 24px;
+}
+.framePage321 {
+  overflow: hidden;
+  position: absolute;
+  width: 204.08px;
+  left: 0px;
+  height: 28px;
+  top: 0px;
+}
+.framePage322 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 11.5px);
+}
+.framePage323 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.23px;
+  position: absolute;
+  left: 27.84px;
+  top: 0px;
+}
+.framePage324 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 14px;
+  line-height: 21px;
+}
+.framePage325 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  position: absolute;
+  left: 418.33px;
+  top: 0px;
+}
+.framePage326 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage327 {
+  width: 16px;
+  height: 16px;
+}
+.framePage328 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  width: 216.42px;
+  left: 0px;
+  height: 16px;
+  top: 61px;
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage329 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.8px;
+  position: absolute;
+  left: 0px;
+  top: 92px;
+}
+.framePage330 {
+  width: 16px;
+  height: 16px;
+}
+.framePage331 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage332 {
+  position: absolute;
+  width: 52.52px;
+  left: 68.64px;
+  height: 16px;
+  top: 93px;
+}
+.framePage333 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage334 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(53, 114, 165);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage335 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 110px;
+  top: 136px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(48, 54, 61);
+}
+.framePage336 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 28px;
+  top: 24px;
+}
+.framePage337 {
+  overflow: hidden;
+  position: absolute;
+  width: 180.67px;
+  left: 0px;
+  height: 28px;
+  top: 0px;
+}
+.framePage338 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 11.5px);
+}
+.framePage339 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 8.83px;
+  position: absolute;
+  left: 27.84px;
+  top: 0px;
+}
+.framePage340 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 21px;
+}
+.framePage341 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  position: absolute;
+  left: 418.33px;
+  top: 0px;
+}
+.framePage342 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage343 {
+  width: 16px;
+  height: 16px;
+}
+.framePage344 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 2.77px;
+  position: absolute;
+  left: 0px;
+  top: 66px;
+}
+.framePage345 {
+  width: 16px;
+  height: 16px;
+}
+.framePage346 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage347 {
+  position: absolute;
+  width: 67.66px;
+  left: 53.61px;
+  height: 16px;
+  top: 67px;
+}
+.framePage348 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage349 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(241, 224, 90);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage350 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 135px;
+  top: 246px;
+}
+.framePage351 {
+  position: absolute;
+  width: 464.33px;
+  left: 0px;
+  height: 28px;
+  top: 24px;
+}
+.framePage352 {
+  overflow: hidden;
+  position: absolute;
+  width: 151.38px;
+  left: 0px;
+  height: 28px;
+  top: 0px;
+}
+.framePage353 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: calc(50% - 11.5px);
+}
+.framePage354 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 5.53px;
+  position: absolute;
+  left: 27.84px;
+  top: 0px;
+}
+.framePage355 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 13px;
+  line-height: 21px;
+}
+.framePage356 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  position: absolute;
+  left: 418.33px;
+  top: 0px;
+}
+.framePage357 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 6px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(240, 246, 252, 0.1);
+  background-color: rgb(33, 38, 45);
+}
+.framePage358 {
+  width: 16px;
+  height: 16px;
+}
+.framePage359 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  width: 381.09px;
+  left: 0px;
+  height: 16px;
+  top: 61px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage360 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.8px;
+  position: absolute;
+  left: 0px;
+  top: 92px;
+}
+.framePage361 {
+  width: 16px;
+  height: 16px;
+}
+.framePage362 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 12px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage363 {
+  position: absolute;
+  width: 52.52px;
+  left: 68.64px;
+  height: 16px;
+  top: 93px;
+}
+.framePage364 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  position: absolute;
+  left: 15.3px;
+  top: -1px;
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.framePage365 {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.2);
+  background-color: rgb(53, 114, 165);
+  position: absolute;
+  width: 12px;
+  left: 0px;
+  height: 12px;
+  top: 2px;
+  border-radius: 6px;
+}
+.framePage366 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(88, 166, 255);
+  position: absolute;
+  width: 97.93px;
+  left: 0px;
+  height: 19px;
+  top: 382px;
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 21px;
+}
