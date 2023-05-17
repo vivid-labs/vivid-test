@@ -80,7 +80,7 @@
 .autoLayoutVerticalPage7 {
   position: absolute;
   width: 16px;
-  left: calc(50% - (432px / 2 - 8px) -8px);
+  left: calc(50% - 208px - 8px);
   height: 16px;
   top: 12px;
 }
