@@ -1,0 +1,86 @@
+.autoLayoutVerticalPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  position: relative;
+  width: 300px;
+  height: 91px;
+}
+.autoLayoutVerticalPage1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 13px;
+  font-family: Noto Sans;
+  font-weight: 600;
+  line-height: 21px;
+}
+.autoLayoutVerticalPage2 {
+  position: relative;
+  width: 432px;
+  height: 63px;
+}
+.autoLayoutVerticalPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 22px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 2px;
+  padding-bottom: 21px;
+  position: absolute;
+  left: 24px;
+  top: 0px;
+}
+.autoLayoutVerticalPage4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 7.98px;
+  position: relative;
+}
+.autoLayoutVerticalPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(139, 148, 158);
+  font-size: 11px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 18px;
+}
+.autoLayoutVerticalPage6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(201, 209, 217);
+  font-size: 14px;
+  font-family: Noto Sans;
+  font-weight: 400;
+  line-height: 0px;
+}
+.autoLayoutVerticalPage7 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - (432px / 2 - 8px));
+  height: 16px;
+  top: 12px;
+}
