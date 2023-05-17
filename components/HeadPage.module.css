@@ -1,0 +1,234 @@
+.headPage0 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 1573px;
+  top: 0px;
+}
+.headPage1 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 1573px;
+  top: 0px;
+}
+.headPage2 {
+  position: absolute;
+  width: 25px;
+  left: 79px;
+  height: 214px;
+  top: 359px;
+}
+.headPage3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  rotate: --90deg;
+  left: 25px;
+  top: 0px;
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+.headPage4 {
+  position: absolute;
+  width: 24px;
+  left: 1px;
+  height: 24px;
+  top: 102px;
+}
+.headPage5 {
+  position: absolute;
+  width: 24px;
+  left: 1px;
+  height: 24px;
+  top: 146px;
+}
+.headPage6 {
+  position: absolute;
+  width: 24px;
+  left: 1px;
+  height: 24px;
+  top: 190px;
+}
+.headPage7 {
+  position: absolute;
+  width: 126px;
+  left: 897px;
+  height: 26px;
+  top: 673px;
+}
+.headPage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+.headPage9 {
+  position: absolute;
+  width: 16px;
+  left: 110px;
+  height: 24px;
+  top: 0px;
+}
+.headPage10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 500px;
+  top: 287px;
+}
+.headPage11 {
+  position: relative;
+  width: 416px;
+  height: 59px;
+}
+.headPage12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 193, 120);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 700;
+  letter-spacing: 6px;
+}
+.headPage13 {
+  background-color: rgb(255, 193, 120);
+  position: absolute;
+  rotate: -0deg;
+  width: 72px;
+  left: 0px;
+  height: 2px;
+  top: 57px;
+}
+.headPage14 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 950px;
+  line-height: 100px;
+}
+.headPage15 {
+  overflow: hidden;
+  position: absolute;
+  width: 1751px;
+  left: 85px;
+  height: 25px;
+  top: 64px;
+}
+.headPage16 {
+  position: absolute;
+  width: 348px;
+  left: 702px;
+  height: 25px;
+  top: 2px;
+}
+.headPage17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: calc(50% - 65px / 2);
+  top: calc(50% - 25px / 2);
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+.headPage18 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: calc(50% - 78px / 2);
+  top: calc(50% - 25px / 2);
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+.headPage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: calc(50% - 105px / 2);
+  top: calc(50% - 25px / 2);
+  font-size: 18px;
+  font-family: Open Sans;
+  font-weight: 600;
+}
+.headPage20 {
+  position: absolute;
+  width: 88px;
+  left: 1663px;
+  height: 23px;
+  top: 0px;
+}
+.headPage21 {
+  position: absolute;
+  width: 20px;
+  left: 0px;
+  height: 20px;
+  top: 2px;
+}
+.headPage22 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 34px;
+  top: -2px;
+  font-size: 17px;
+  font-family: Open Sans;
+  font-weight: 400;
+}
+.headPage23 {
+  position: absolute;
+  left: calc(14.522334337234497%);
+  right: calc(16.283377408981323%);
+  width: calc(69.19428825378418%);
+  top: calc(12.497458457946777%);
+  bottom: calc(18.3040714263916%);
+  height: calc(69.19847011566162%);
+}
+.headPage24 {
+  overflow: hidden;
+  position: absolute;
+  width: 96px;
+  left: 0px;
+  height: 32px;
+  top: 0px;
+}
+.headPage25 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: -6px;
+  font-size: 24px;
+  font-family: Open Sans;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
