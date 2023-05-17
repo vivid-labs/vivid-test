@@ -1,0 +1,10 @@
+.rotate_2Page0 {
+  background: linear-gradient(
+    90deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+  rotate: -146.5deg;
+  width: 30px;
+  height: 30px;
+}
