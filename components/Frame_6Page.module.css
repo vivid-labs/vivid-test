@@ -1,0 +1,30 @@
+.frame_6Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 2831px;
+  height: 1450px;
+  background-color: rgb(224, 134, 226);
+}
+.frame_6Page1 {
+  position: absolute;
+  width: 1036px;
+  left: calc(50% - 1159.5px);
+  height: 502px;
+  top: 390px;
+}
+.frame_6Page2 {
+  position: absolute;
+  width: 1036px;
+  right: 170px;
+  height: 502px;
+  top: calc(50% - 560px);
+}
+.frame_6Page3 {
+  position: absolute;
+  left: calc(53.20665042167079%);
+  right: calc(38.581608833251%);
+  width: calc(8.21174074507821%);
+  top: calc(64.96551724137932%);
+  bottom: calc(18.89655172413793%);
+  height: calc(16.137931034482754%);
+}
