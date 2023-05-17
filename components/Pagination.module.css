@@ -1,0 +1,167 @@
+.pagination0 {
+  overflow: hidden;
+  border-radius: 6.73px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 4pxpx rgb(0, 0, 0, 0.1);
+  width: 313px;
+  height: 74px;
+  border-width: 1.35px;
+  border-style: solid;
+  border-color: rgb(189, 189, 189);
+  background-color: rgb(255, 255, 255);
+}
+.pagination1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.pagination2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 25px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(189, 189, 189);
+  background-color: rgb(243, 243, 243);
+}
+.pagination3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(189, 189, 189);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.pagination4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(233, 233, 233);
+  background-color: rgb(255, 255, 255);
+}
+.pagination5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.pagination6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(233, 233, 233);
+  background-color: rgb(35, 166, 240);
+}
+.pagination7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.pagination8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(233, 233, 233);
+  background-color: rgb(255, 255, 255);
+}
+.pagination9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
+.pagination10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 25px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(232, 232, 232);
+  background-color: rgb(255, 255, 255);
+}
+.pagination11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 24px;
+}
