@@ -1,0 +1,37 @@
+.sidebar0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding: 10px;
+  position: relative;
+  height: 100%;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(63, 63, 70);
+  background-color: rgb(24, 24, 27);
+}
+.sidebar1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+  width: 35px;
+  height: 35px;
+  background-color: rgb(39, 39, 42);
+}
+.sidebar2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+  width: 35px;
+  height: 35px;
+}

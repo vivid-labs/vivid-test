@@ -1,0 +1,30 @@
+.dropdown0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  padding-left: 2px;
+  padding-right: 2px;
+  position: relative;
+  width: 100%;
+}
+.dropdown1 {
+  rotate: -180deg;
+  width: 8px;
+  height: 8px;
+}
+.dropdown2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}

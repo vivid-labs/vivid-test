@@ -1,0 +1,107 @@
+.libraryBodyPage0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+  width: 1240px;
+  height: 832px;
+  background-color: rgb(24, 24, 27);
+}
+.libraryBodyPage1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 20px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.libraryBodyPage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.libraryBodyPage3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  position: relative;
+  flex: 1 1 0%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(63, 63, 70);
+  background-color: rgb(39, 39, 42);
+}
+.libraryBodyPage4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(113, 113, 122);
+  width: 148px;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.libraryBodyPage5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.libraryBodyPage6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.libraryBodyPage7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.libraryBodyPage8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}

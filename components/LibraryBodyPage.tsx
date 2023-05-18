@@ -1,0 +1,251 @@
+import styles from "./LibraryBodyPage.module.css";
+import { Sidebar } from "./Sidebar";
+import { SearchIcon } from "./SearchIcon";
+import { Button } from "./Button";
+import { Dropdown } from "./Dropdown";
+import { ComponentCard } from "./ComponentCard";
+
+export const LibraryBodyPage = () => {
+  return (
+    <div className={styles.libraryBodyPage0}>
+      <Sidebar active="Library" />
+      <div className={styles.libraryBodyPage1}>
+        <div className={styles.libraryBodyPage2}>
+          <div className={styles.libraryBodyPage3}>
+            <SearchIcon />
+            <p className={styles.libraryBodyPage4}>Find...</p>
+          </div>
+          <Button size="Large" hover="True" />
+        </div>
+        <Dropdown status="Open" version="Web" />
+        <div className={styles.libraryBodyPage5}>
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+        </div>
+        <div className={styles.libraryBodyPage6}>
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+        </div>
+        <Dropdown status="Closed" version="Web" />
+        <div className={styles.libraryBodyPage7}>
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+        </div>
+        <Dropdown status="Open" version="Web" />
+        <div className={styles.libraryBodyPage8}>
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+          <ComponentCard
+            colors="Zinc"
+            size="Small"
+            draggable={true}
+            instance="31:2967"
+            text="Card"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};
