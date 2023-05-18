@@ -1,0 +1,1556 @@
+.macBookPro_16_1Page0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: absolute;
+  width: 1728px;
+  background-color: rgb(255, 255, 255);
+}
+.macBookPro_16_1Page1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-bottom: 184px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(3, 4, 94);
+}
+.macBookPro_16_1Page2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  position: relative;
+  width: 1728px;
+}
+.macBookPro_16_1Page3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 144px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page4 {
+  width: 94.41px;
+  height: 24px;
+}
+.macBookPro_16_1Page5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.macBookPro_16_1Page7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page8 {
+  opacity: 0;
+  background-color: rgb(255, 255, 255);
+  width: 1px;
+  height: 4px;
+}
+.macBookPro_16_1Page9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.macBookPro_16_1Page10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page11 {
+  opacity: 0;
+  background-color: rgb(255, 255, 255);
+  width: 1px;
+  height: 4px;
+}
+.macBookPro_16_1Page12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.macBookPro_16_1Page13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page14 {
+  opacity: 0;
+  background-color: rgb(255, 255, 255);
+  width: 1px;
+  height: 4px;
+}
+.macBookPro_16_1Page15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.macBookPro_16_1Page17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page18 {
+  opacity: 0;
+  background-color: rgb(255, 255, 255);
+  width: 1px;
+  height: 4px;
+}
+.macBookPro_16_1Page19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.macBookPro_16_1Page20 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page23 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  font-size: 128px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page24 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page25 {
+  position: absolute;
+  left: calc(50%);
+  right: calc(-27.67741935483871%);
+  width: calc(77.67741935483872%);
+  top: calc(-54.33526011560693%);
+  bottom: calc(74.56647398843931%);
+  height: calc(79.76878612716762%);
+}
+.macBookPro_16_1Page26 {
+  position: absolute;
+  left: calc(58.64516129032258%);
+  right: calc(-36.32258064516129%);
+  width: calc(77.67741935483872%);
+  top: calc(79.76878612716763%);
+  bottom: calc(-59.53757225433526%);
+  height: calc(79.76878612716763%);
+}
+.macBookPro_16_1Page27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.macBookPro_16_1Page29 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+.macBookPro_16_1Page31 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page32 {
+  position: absolute;
+  left: calc(12.962962962962962%);
+  right: calc(52.19907407407407%);
+  width: calc(34.83796296296297%);
+  top: calc(74.92914685614946%);
+  bottom: calc(-14.022557153778486%);
+  height: calc(39.09341029762903%);
+}
+.macBookPro_16_1Page33 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 64px;
+  position: absolute;
+  opacity: 0.65;
+  width: 128px;
+  left: 227px;
+  height: 128px;
+  top: 252px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.macBookPro_16_1Page34 {
+  object-fit: cover;
+  height: 100%;
+  flex: 1 1 0%;
+  border-radius: 50%;
+}
+.macBookPro_16_1Page35 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 79px;
+  position: absolute;
+  opacity: 0.7;
+  width: 158px;
+  left: 392px;
+  height: 158px;
+  top: 458px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.macBookPro_16_1Page36 {
+  object-fit: cover;
+  height: 100%;
+  flex: 1 1 0%;
+  border-radius: 50%;
+}
+.macBookPro_16_1Page37 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 70px;
+  position: absolute;
+  opacity: 0.75;
+  width: 140px;
+  left: 1226px;
+  height: 140px;
+  top: 397px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.macBookPro_16_1Page38 {
+  object-fit: cover;
+  height: 100%;
+  flex: 1 1 0%;
+  border-radius: 50%;
+}
+.macBookPro_16_1Page39 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 77px;
+  position: absolute;
+  opacity: 0.6;
+  width: 154px;
+  left: 1354px;
+  height: 154px;
+  top: 162px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(2, 62, 138);
+}
+.macBookPro_16_1Page40 {
+  object-fit: cover;
+  height: 100%;
+  flex: 1 1 0%;
+  border-radius: 50%;
+}
+.macBookPro_16_1Page41 {
+  position: absolute;
+  left: calc(-10.648148148148149%);
+  right: calc(75.81018518518519%);
+  width: calc(34.83796296296296%);
+  top: calc(-0.5665733731144554%);
+  bottom: calc(61.47316307548544%);
+  height: calc(39.09341029762901%);
+}
+.macBookPro_16_1Page42 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page43 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 97px;
+  height: fit-content;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 10px;
+  border-style: solid;
+  border-color: rgb(129, 168, 196);
+}
+.macBookPro_16_1Page44 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page45 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page46 {
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  width: 769px;
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.macBookPro_16_1Page47 {
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  width: 531px;
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.macBookPro_16_1Page49 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page50 {
+  position: absolute;
+  width: 511.84px;
+  left: 688.16px;
+  height: 848px;
+  top: 48px;
+}
+.macBookPro_16_1Page51 {
+  position: absolute;
+  rotate: 180deg;
+  width: 511.84px;
+  left: 511.84px;
+  height: 848px;
+  top: 0px;
+  overflow: hidden;
+}
+.macBookPro_16_1Page52 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.macBookPro_16_1Page53 {
+  position: absolute;
+  rotate: 180deg;
+  width: 457.74px;
+  left: 473.15px;
+  height: 798.28px;
+  top: 16.6px;
+  overflow: hidden;
+}
+.macBookPro_16_1Page54 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.macBookPro_16_1Page55 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page56 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 16px;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page57 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 747px;
+}
+.macBookPro_16_1Page58 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  padding: 48px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(204, 240, 247);
+}
+.macBookPro_16_1Page59 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page60 {
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  width: 651px;
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.macBookPro_16_1Page61 {
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  width: 531px;
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page62 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  padding: 48px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(2, 62, 138);
+}
+.macBookPro_16_1Page63 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page64 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page65 {
+  width: 24px;
+  height: 24px;
+}
+.macBookPro_16_1Page66 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page67 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page68 {
+  width: 24px;
+  height: 24px;
+}
+.macBookPro_16_1Page69 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page70 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page71 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page72 {
+  width: 24px;
+  height: 24px;
+}
+.macBookPro_16_1Page73 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page74 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page75 {
+  width: 24px;
+  height: 24px;
+}
+.macBookPro_16_1Page76 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page77 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex: 1 1 0%;
+}
+.macBookPro_16_1Page78 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page79 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page80 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.macBookPro_16_1Page81 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(56, 56, 56);
+  width: 531px;
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page82 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page83 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page84 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  border-radius: 8px;
+  flex: 1 1 0%;
+}
+.macBookPro_16_1Page85 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 48px;
+  border-radius: 8px;
+  position: relative;
+  width: 768px;
+  background-color: rgb(229, 247, 251);
+}
+.macBookPro_16_1Page86 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page87 {
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  width: 373px;
+  font-size: 36px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.macBookPro_16_1Page88 {
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  width: 100%;
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page89 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page90 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page91 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page92 {
+  position: absolute;
+  width: 110px;
+  right: 0px;
+  height: 80px;
+  top: 0px;
+}
+.macBookPro_16_1Page93 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page94 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 48px;
+  border-radius: 8px;
+  position: relative;
+  width: 768px;
+  background-color: rgb(255, 245, 229);
+}
+.macBookPro_16_1Page95 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page96 {
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  width: 373px;
+  font-size: 36px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.macBookPro_16_1Page97 {
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  width: 531px;
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page98 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page99 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page100 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page101 {
+  position: absolute;
+  width: 110px;
+  right: 0px;
+  height: 80px;
+  top: 0px;
+}
+.macBookPro_16_1Page102 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  border-radius: 8px;
+  flex: 1 1 0%;
+}
+.macBookPro_16_1Page103 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page104 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.macBookPro_16_1Page105 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page106 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(3, 4, 94);
+}
+.macBookPro_16_1Page107 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.macBookPro_16_1Page108 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 96px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 128px;
+  padding-bottom: 64px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(3, 4, 94);
+}
+.macBookPro_16_1Page109 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page110 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page111 {
+  width: 94.41px;
+  height: 24px;
+}
+.macBookPro_16_1Page112 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page113 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page114 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.macBookPro_16_1Page115 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.macBookPro_16_1Page116 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.macBookPro_16_1Page117 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.macBookPro_16_1Page118 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.macBookPro_16_1Page119 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.macBookPro_16_1Page120 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.macBookPro_16_1Page121 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.macBookPro_16_1Page122 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 144px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page123 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page124 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page125 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page126 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page127 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page128 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page129 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page130 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page131 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page132 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page133 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page134 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page135 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page136 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page137 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page138 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page139 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page140 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page141 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page142 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page143 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page144 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.macBookPro_16_1Page145 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page146 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page147 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page148 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page149 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page150 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.macBookPro_16_1Page151 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page152 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.macBookPro_16_1Page153 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.macBookPro_16_1Page154 {
+  position: relative;
+  width: 76.49px;
+  height: 12px;
+}
+.macBookPro_16_1Page155 {
+  position: absolute;
+  left: 0px;
+  right: 56.34px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.macBookPro_16_1Page156 {
+  position: absolute;
+  left: calc(26.956212363890565%);
+  right: calc(0.0000024937374770738247%);
+  width: calc(73.04378514237196%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
