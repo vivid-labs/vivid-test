@@ -1,0 +1,64 @@
+.card0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  border-radius: 10px;
+  width: 225px;
+  height: 300px;
+  background-color: rgb(63, 58, 77);
+}
+.card1 {
+  object-fit: cover;
+  width: 225px;
+  height: 218px;
+}
+.card2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  height: fit-content;
+  padding-left: 12px;
+  padding-right: 12px;
+  position: relative;
+  width: 100%;
+}
+.card3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.card4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.card5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.card6 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 300;
+}
