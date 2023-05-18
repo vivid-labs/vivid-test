@@ -1,0 +1,51 @@
+.cardNaivePage0 {
+  overflow: hidden;
+  border-radius: 40px;
+  position: absolute;
+  width: 693px;
+  left: 48px;
+  height: 882px;
+  top: 48px;
+  background-color: rgb(30, 30, 30);
+}
+.cardNaivePage1 {
+  object-fit: cover;
+  position: absolute;
+  width: 693px;
+  left: 0px;
+  height: 676px;
+  top: -1px;
+}
+.cardNaivePage2 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 379px;
+  left: 58px;
+  height: 44px;
+  top: 705px;
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.cardNaivePage3 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 95px;
+  left: 541px;
+  height: 44px;
+  top: 705px;
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.cardNaivePage4 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  width: 428px;
+  left: 58px;
+  height: 83px;
+  top: 759px;
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 300;
+}
