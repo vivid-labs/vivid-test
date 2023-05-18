@@ -1,0 +1,14 @@
+.imagePlaceholder0 {
+  width: 240px;
+  height: 240px;
+}
+.imagePlaceholder1 {
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
