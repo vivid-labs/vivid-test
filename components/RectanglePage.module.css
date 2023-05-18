@@ -1,0 +1,83 @@
+.rectanglePage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.rectanglePage1 {
+  background-color: rgb(191, 43, 43);
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage2 {
+  background-color: rgb(191, 43, 43);
+  width: 10px;
+}
+.rectanglePage3 {
+  background: linear-gradient(
+    90deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+  rotate: 9.4deg;
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage4 {
+  background: linear-gradient(
+    90deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+  rotate: -146.5deg;
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage5 {
+  background-color: rgb(191, 43, 43);
+  rotate: 90deg;
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+}
+.rectanglePage6 {
+  background-color: rgb(191, 43, 43);
+  rotate: 90deg;
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage7 {
+  background: linear-gradient(rgb(5, 0, 255, 0.5), rgb(5, 0, 255, 0.5)),
+    linear-gradient(rgb(255, 0, 0, 0.52), rgb(255, 0, 0, 0.52));
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage8 {
+  background: conic-gradient(
+      from 90deg,
+      rgb(36, 255, 0, 0.4) 0%,
+      rgb(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgb(0, 0, 0, 0) 100%),
+    linear-gradient(90deg, rgb(255, 0, 0, 0.9) 0%, rgb(0, 0, 0, 0) 100%);
+  width: 30px;
+  height: 30px;
+}
+.rectanglePage9 {
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  background-color: rgb(191, 43, 43);
+  width: 30px;
+  height: 30px;
+}
