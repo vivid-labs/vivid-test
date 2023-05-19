@@ -1,0 +1,187 @@
+.moreNfTsFromTheArtist0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 60px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 1280px;
+  background-color: rgb(43, 43, 43);
+}
+.moreNfTsFromTheArtist1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.moreNfTsFromTheArtist2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.moreNfTsFromTheArtist3 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.moreNfTsFromTheArtist4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.moreNfTsFromTheArtist5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.moreNfTsFromTheArtist6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.moreNfTsFromTheArtist7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 60px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+}
+.moreNfTsFromTheArtist8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.moreNfTsFromTheArtist9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.moreNfTsFromTheArtist10 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.moreNfTsFromTheArtist11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.moreNfTsFromTheArtist12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.moreNfTsFromTheArtist13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.moreNfTsFromTheArtist14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 60px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+}
+.moreNfTsFromTheArtist15 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.moreNfTsFromTheArtist16 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.moreNfTsFromTheArtist17 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
