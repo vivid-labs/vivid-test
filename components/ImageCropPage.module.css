@@ -1,0 +1,138 @@
+.imageCropPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  transform: scale(100%, 100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.imageCropPage1 {
+  width: 27px;
+  height: 27.45px;
+  overflow: hidden;
+}
+.imageCropPage2 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage3 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage4 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage5 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage6 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage7 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage8 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage9 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage10 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage11 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage12 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage13 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage14 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage15 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage16 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage17 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage18 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage19 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage20 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage21 {
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage22 {
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
