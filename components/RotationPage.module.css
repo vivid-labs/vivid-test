@@ -1,0 +1,143 @@
+.rotationPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  transform: scale(100%, 100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.rotationPage1 {
+  overflow: hidden;
+  position: relative;
+  transform: scale(100%, 100%);
+  width: 34px;
+  height: 34px;
+  background-color: rgb(191, 43, 43);
+}
+.rotationPage2 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  transform: scale(100%, 100%);
+  width: 13px;
+  left: 11px;
+  height: 10px;
+  top: 11.11px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotationPage3 {
+  overflow: hidden;
+  position: relative;
+  rotate: 36.6deg;
+  transform: scale(100.0000014205693%, 100.0000014205693%);
+  width: 34px;
+  height: 34px;
+  background-color: rgb(191, 43, 43);
+}
+.rotationPage4 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  transform: scale(100%, 100%);
+  width: 13px;
+  left: 11px;
+  height: 10px;
+  top: 11.11px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotationPage5 {
+  overflow: hidden;
+  position: relative;
+  rotate: 128.5deg;
+  transform: scale(100.00000115683233%, 100.00000115683233%);
+  width: 34px;
+  height: 34px;
+  background-color: rgb(191, 43, 43);
+}
+.rotationPage6 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  transform: scale(100%, 100%);
+  width: 13px;
+  left: 11px;
+  height: 10px;
+  top: 11.11px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotationPage7 {
+  overflow: hidden;
+  position: relative;
+  rotate: -141.9deg;
+  transform: scale(100.00000593419125%, 100.00000593419125%);
+  width: 34px;
+  height: 34px;
+  background-color: rgb(191, 43, 43);
+}
+.rotationPage8 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  transform: scale(100%, 100%);
+  width: 13px;
+  left: 11px;
+  height: 10px;
+  top: 11.11px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotationPage9 {
+  overflow: hidden;
+  position: relative;
+  rotate: -51.3deg;
+  transform: scale(100.00000557778758%, 100.00000557778758%);
+  width: 34px;
+  height: 34px;
+  background-color: rgb(191, 43, 43);
+}
+.rotationPage10 {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  transform: scale(100%, 100%);
+  width: 13px;
+  left: 11px;
+  height: 10px;
+  top: 11.11px;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotationPage11 {
+  background: linear-gradient(
+    90deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+  rotate: 0deg;
+  transform: scale(99.99998807907247%, 99.99998807907247%);
+  width: 30px;
+  height: 30px;
+}
+.rotationPage12 {
+  background: linear-gradient(
+    90deg,
+    rgb(191, 43, 43, 1) 0%,
+    rgb(191, 43, 43, 0) 100%
+  );
+  rotate: 50.6deg;
+  transform: scale(99.9999732071232%, 99.9999732071232%);
+  width: 30px;
+  height: 30px;
+}
