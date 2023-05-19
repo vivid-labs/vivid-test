@@ -1,0 +1,163 @@
+.imageCropPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  transform: scale(100%, 100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.imageCropPage1 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 27.45px;
+  overflow: hidden;
+}
+.imageCropPage2 {
+  transform: translate(-0%, 0%) rotate(0deg) scale(100%, 98.37%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage3 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage4 {
+  transform: translate(142.86%, 0%) rotate(0deg) scale(25.93%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage5 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage6 {
+  transform: translate(-2.8%, 230.97%) rotate(0deg) scale(109.91%, 16.85%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage7 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 26.58px;
+  overflow: hidden;
+}
+.imageCropPage8 {
+  transform: translate(16.85%, -49.42%) rotate(45.45deg) scale(109.05%, 18.66%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage9 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage10 {
+  transform: translate(60.37%, 0%) rotate(0deg) scale(109.91%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage11 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage12 {
+  transform: translate(-4.51%, -81.14%) rotate(0deg) scale(109.91%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage13 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage14 {
+  transform: translate(17.52%, -46.81%) rotate(42.3deg) scale(114.97%, 104.61%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage15 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage16 {
+  transform: translate(-46.81%, -117.52%) rotate(137.7deg)
+    scale(114.97%, 104.61%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage17 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage18 {
+  transform: translate(-117.52%, -53.19%) rotate(-137.7deg)
+    scale(114.97%, 104.61%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage19 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage20 {
+  transform: translate(-53.19%, 17.52%) rotate(-42.3deg) scale(114.97%, 104.61%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage21 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage22 {
+  transform: translate(-4.51%, -0%) rotate(-0deg) scale(109.91%, 100%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageCropPage23 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 29.68px;
+  overflow: hidden;
+}
+.imageCropPage24 {
+  transform: translate(-82.14%, 92.84%) rotate(-42.3deg) scale(35.48%, 94.76%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
