@@ -1,0 +1,12 @@
+.scaleRotatePage0 {
+  transform: scale(100%, 100%);
+  width: 27px;
+  height: 26.58px;
+  overflow: hidden;
+}
+.scaleRotatePage1 {
+  transform: scale(109.05%, 18.66%) rotate(45.45deg) translate(16.85%, -49.42%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
