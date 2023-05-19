@@ -1,0 +1,244 @@
+.artistCard0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  width: 240px;
+  background-color: rgb(59, 59, 59);
+}
+.artistCard1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.artistCard2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCard3 {
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistCard4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCard5 {
+  height: fit-content;
+  text-align: end;
+  color: rgb(133, 133, 132);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard6 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 20px;
+  position: absolute;
+  width: 30px;
+  left: 20px;
+  top: 18px;
+  background-color: rgb(43, 43, 43);
+}
+.artistCard8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(133, 133, 132);
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 11px);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  width: 315px;
+  background-color: rgb(59, 59, 59);
+}
+.artistCard10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.artistCard11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.artistCard12 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistCard13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCard14 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard15 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 20px;
+  position: absolute;
+  width: 30px;
+  left: 12px;
+  top: 13px;
+  background-color: rgb(43, 43, 43);
+}
+.artistCard17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(133, 133, 132);
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 11px);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCard18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(59, 59, 59);
+}
+.artistCard19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistCard20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(59, 59, 59);
+}
+.artistCard21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}

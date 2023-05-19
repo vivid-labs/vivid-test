@@ -1,0 +1,660 @@
+.artistInfo0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 1280px;
+  background-color: rgb(43, 43, 43);
+}
+.artistInfo1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.artistInfo2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 150px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.artistInfo4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo5 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 51px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.100000023841858em;
+}
+.artistInfo6 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artistInfo7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo9 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.artistInfo10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo11 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 510px;
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.artistInfo12 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artistInfo13 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo14 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.artistInfo15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo16 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artistInfo17 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo18 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artistInfo19 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo20 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistInfo21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  width: 295px;
+  background-color: rgb(59, 59, 59);
+}
+.artistInfo23 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+}
+.artistInfo24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.artistInfo25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo26 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.artistInfo27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo28 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.artistInfo29 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo31 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo32 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo33 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo34 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo35 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo36 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo37 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo38 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo39 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo40 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo41 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo42 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo43 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistInfo44 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo45 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  width: 295px;
+  background-color: rgb(59, 59, 59);
+}
+.artistInfo46 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+}
+.artistInfo47 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.artistInfo48 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo49 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistInfo50 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo51 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(59, 59, 59);
+}
+.artistInfo52 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo53 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo54 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo55 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo56 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo57 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo58 {
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  width: 100%;
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo59 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo60 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo61 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo62 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  flex: 1 1 0%;
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo63 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistInfo64 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistInfo65 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
