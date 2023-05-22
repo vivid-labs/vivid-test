@@ -1,0 +1,71 @@
+.dragHandle0 {
+  position: relative;
+  width: 8px;
+  height: 5px;
+}
+.dragHandle1 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.dragHandle2 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.dragHandle3 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.dragHandle4 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.dragHandle5 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}
+.dragHandle6 {
+  background-color: rgb(160, 160, 160);
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  border-radius: 50%;
+}

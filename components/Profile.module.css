@@ -1,0 +1,17 @@
+.profile0 {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+.profile1 {
+  box-shadow: inset 0pxpx 0pxpx 4pxpx rgb(255, 255, 255, 1);
+  object-fit: cover;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-radius: 2000px;
+}
