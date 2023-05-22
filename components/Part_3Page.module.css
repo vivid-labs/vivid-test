@@ -1,0 +1,337 @@
+.part_3Page0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 1915px;
+}
+.part_3Page1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.part_3Page2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.part_3Page3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.part_3Page4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.part_3Page5 {
+  position: absolute;
+  width: 347px;
+  left: 2.58px;
+  height: 352px;
+  top: 16.21px;
+  background-color: rgb(255, 138, 0, 0.15);
+  border-radius: 5px;
+}
+.part_3Page6 {
+  position: absolute;
+  width: 349px;
+  left: 71.58px;
+  height: 380px;
+  top: 64.21px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 5px;
+}
+.part_3Page7 {
+  overflow: hidden;
+  position: absolute;
+  width: 33px;
+  left: 305px;
+  height: 23px;
+  top: 0px;
+}
+.part_3Page8 {
+  position: absolute;
+  rotate: -0deg;
+  width: 67.21px;
+  left: 0px;
+  height: 66px;
+  top: 350.83px;
+}
+.part_3Page9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 50px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.part_3Page10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 50px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.part_3Page12 {
+  width: 60px;
+  height: 48px;
+}
+.part_3Page13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 237px;
+}
+.part_3Page14 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 253px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.part_3Page15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.part_3Page16 {
+  width: 60px;
+  height: 47.89px;
+}
+.part_3Page17 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page18 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 237px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.part_3Page19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 50px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.part_3Page21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page22 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.part_3Page23 {
+  position: absolute;
+  left: 23px;
+  right: 23px;
+  width: auto;
+  top: 10px;
+  bottom: 10px;
+  height: auto;
+}
+.part_3Page24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page25 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 238px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.part_3Page26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.part_3Page27 {
+  width: 60px;
+  height: 55.99px;
+}
+.part_3Page28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_3Page29 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 239px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.part_3Page30 {
+  position: absolute;
+  left: 165.72px;
+  right: 952.8px;
+  width: auto;
+  top: 157.4px;
+  bottom: 121.88px;
+  height: auto;
+}
+.part_3Page31 {
+  position: absolute;
+  rotate: -188.3deg;
+  width: 36.93px;
+  left: 300.72px;
+  height: 63.61px;
+  top: 202.16px;
+  transform: scale(100.006913021698%, 99.67630256548263%);
+}
+.part_3Page32 {
+  position: absolute;
+  rotate: -188.3deg;
+  width: 27.75px;
+  left: 306.22px;
+  height: 47.8px;
+  top: 112.63px;
+  transform: scale(100.006913021698%, 99.67630256548263%);
+}
+.part_3Page33 {
+  position: absolute;
+  width: 640px;
+  left: 730px;
+  height: 640px;
+  top: 477px;
+}
