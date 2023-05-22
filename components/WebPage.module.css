@@ -1,0 +1,1759 @@
+.webPage0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  height: 3963px;
+  background-color: rgb(255, 255, 255);
+}
+.webPage1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 480px;
+  top: 3483px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.webPage2 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 349px;
+  left: 59px;
+  top: 401.82px;
+  color: rgb(26, 32, 44);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 973px;
+  top: 395.82px;
+}
+.webPage4 {
+  position: absolute;
+  rotate: -180deg;
+  width: 1320px;
+  left: 1380px;
+  height: 0px;
+  top: 360px;
+}
+.webPage5 {
+  position: absolute;
+  width: 292px;
+  left: 60px;
+  height: 133.86px;
+  top: 96px;
+}
+.webPage6 {
+  overflow: hidden;
+  position: absolute;
+  width: 138px;
+  left: 0px;
+  height: 40px;
+  top: 5.82px;
+}
+.webPage7 {
+  position: absolute;
+  left: 66.01px;
+  right: 24.01px;
+  width: auto;
+  top: 6.09px;
+  bottom: 20.07px;
+  height: auto;
+}
+.webPage8 {
+  position: absolute;
+  left: 66.24px;
+  right: -1.98px;
+  width: auto;
+  top: 23.29px;
+  bottom: -0.17px;
+  height: auto;
+}
+.webPage9 {
+  position: absolute;
+  left: 1.98px;
+  right: 80.11px;
+  width: auto;
+  top: 0.96px;
+  bottom: -0.96px;
+  height: auto;
+}
+.webPage10 {
+  position: absolute;
+  left: calc(44.40422548437847%);
+  right: calc(55.27903150620755%);
+  width: calc(0.31674300941397604%);
+  top: calc(17.536042638214525%);
+  bottom: calc(5.294894585369922%);
+  height: calc(77.16906277641556%);
+}
+.webPage11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 64.86px;
+}
+.webPage12 {
+  height: fit-content;
+  width: 292px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 142px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 614px;
+  top: 79.82px;
+}
+.webPage14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(96, 96, 96);
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(96, 96, 96);
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage18 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(96, 96, 96);
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage20 {
+  overflow: hidden;
+  position: absolute;
+  width: 66px;
+  left: 163px;
+  height: 39px;
+  top: 67.82px;
+}
+.webPage21 {
+  position: absolute;
+  left: 28.45px;
+  right: 37.35px;
+  width: auto;
+  top: 6.52px;
+  bottom: 3.77px;
+  height: auto;
+}
+.webPage22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 3051px;
+}
+.webPage23 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.webPage24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage25 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1043px;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.webPage26 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 529.48px;
+  height: 67.42px;
+  color: rgb(96, 96, 96);
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+.webPage27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage28 {
+  height: fit-content;
+  position: absolute;
+  width: 368px;
+  left: 0px;
+  top: 0px;
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 18px;
+}
+.webPage29 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: absolute;
+  width: 368px;
+  left: 0px;
+  top: 26px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(204, 204, 204);
+  background-color: rgb(255, 255, 255);
+}
+.webPage30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage31 {
+  height: fit-content;
+  width: 304px;
+  color: rgb(102, 102, 102);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+}
+.webPage32 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 2574px;
+}
+.webPage33 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.webPage34 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage35 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.webPage36 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.webPage37 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.webPage38 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage39 {
+  width: 106px;
+  height: 106px;
+}
+.webPage40 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage41 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage42 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage43 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage44 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage45 {
+  width: 106px;
+  height: 106px;
+}
+.webPage46 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage47 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage48 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage49 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage50 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage51 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage52 {
+  width: 106px;
+  height: 106px;
+}
+.webPage53 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage54 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage55 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage56 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage57 {
+  position: absolute;
+  width: 150px;
+  left: 295.72px;
+  height: 61px;
+  top: 78.79px;
+}
+.webPage58 {
+  position: absolute;
+  rotate: 0deg;
+  width: 145px;
+  left: 827.72px;
+  height: 80px;
+  top: 64px;
+}
+.webPage59 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 1915px;
+}
+.webPage60 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.webPage61 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage62 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.webPage63 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.webPage64 {
+  position: absolute;
+  width: 347px;
+  left: 2.58px;
+  height: 352px;
+  top: 16.21px;
+  background-color: rgb(255, 138, 0, 0.15);
+  border-radius: 5px;
+}
+.webPage65 {
+  position: absolute;
+  width: 349px;
+  left: 71.58px;
+  height: 380px;
+  top: 64.21px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 5px;
+}
+.webPage66 {
+  overflow: hidden;
+  position: absolute;
+  width: 33px;
+  left: 305px;
+  height: 23px;
+  top: 0px;
+}
+.webPage67 {
+  position: absolute;
+  rotate: -0deg;
+  width: 67.21px;
+  left: 0px;
+  height: 66px;
+  top: 350.83px;
+}
+.webPage68 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 50px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage69 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 50px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage70 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.webPage71 {
+  width: 60px;
+  height: 48px;
+}
+.webPage72 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 237px;
+}
+.webPage73 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 253px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.webPage74 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.webPage75 {
+  width: 60px;
+  height: 47.89px;
+}
+.webPage76 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage77 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 237px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.webPage78 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 50px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage79 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.webPage80 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 19px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage81 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.webPage82 {
+  position: absolute;
+  left: 23px;
+  right: 23px;
+  width: auto;
+  top: 10px;
+  bottom: 10px;
+  height: auto;
+}
+.webPage83 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage84 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 238px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.webPage85 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  width: 373px;
+  background-color: rgb(239, 121, 12, 0.05);
+}
+.webPage86 {
+  width: 60px;
+  height: 55.99px;
+}
+.webPage87 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage88 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 239px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 30px;
+}
+.webPage89 {
+  position: absolute;
+  left: 165.72px;
+  right: 952.8px;
+  width: auto;
+  top: 157.4px;
+  bottom: 121.88px;
+  height: auto;
+}
+.webPage90 {
+  position: absolute;
+  rotate: -188.3deg;
+  width: 36.93px;
+  left: 300.72px;
+  height: 63.61px;
+  top: 202.16px;
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+}
+.webPage91 {
+  position: absolute;
+  rotate: -188.3deg;
+  width: 27.75px;
+  left: 306.22px;
+  height: 47.8px;
+  top: 112.63px;
+  transform: scale(100%, 100%);
+  transform-origin: top left;
+}
+.webPage92 {
+  position: absolute;
+  width: 640px;
+  left: 730px;
+  height: 640px;
+  top: 477px;
+}
+.webPage93 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 1414px;
+}
+.webPage94 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage95 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage96 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.webPage97 {
+  position: absolute;
+  width: 640px;
+  left: 730px;
+  height: 640px;
+  top: 477px;
+}
+.webPage98 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 78px;
+  padding-right: 78px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1439.45px;
+  left: 0px;
+  top: 907px;
+}
+.webPage99 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 62px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.webPage100 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage101 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage102 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.webPage103 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage104 {
+  opacity: 0.1;
+  position: absolute;
+  width: 90px;
+  left: 93.24px;
+  height: 90px;
+  top: 0px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 8px;
+}
+.webPage105 {
+  position: absolute;
+  left: 113px;
+  right: -73px;
+  width: auto;
+  top: 15px;
+  bottom: 14.45px;
+  height: auto;
+}
+.webPage106 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage107 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(96, 96, 96);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage108 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage109 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage110 {
+  opacity: 0.1;
+  position: absolute;
+  width: 90px;
+  left: 93.24px;
+  height: 90px;
+  top: 0px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 8px;
+}
+.webPage111 {
+  position: absolute;
+  left: 110.34px;
+  right: -76.34px;
+  width: auto;
+  top: 19px;
+  bottom: 18.03px;
+  height: auto;
+}
+.webPage112 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage113 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage114 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage115 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage116 {
+  opacity: 0.1;
+  position: absolute;
+  width: 90px;
+  left: 93.24px;
+  height: 90px;
+  top: 0px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 8px;
+}
+.webPage117 {
+  position: absolute;
+  left: 112.69px;
+  right: -74.02px;
+  width: auto;
+  top: 18px;
+  bottom: 17.44px;
+  height: auto;
+}
+.webPage118 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage119 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage120 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage121 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 29px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage122 {
+  opacity: 0.1;
+  position: absolute;
+  width: 90px;
+  left: 93.24px;
+  height: 90px;
+  top: 0px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 8px;
+}
+.webPage123 {
+  overflow: hidden;
+  position: absolute;
+  width: 47px;
+  left: 122.74px;
+  height: 49px;
+  top: 28.5px;
+}
+.webPage124 {
+  position: absolute;
+  left: calc(120.03472222222223%);
+  right: calc(-86.70138888888889%);
+  width: calc(66.66666666666666%);
+  top: calc(16.666666666666664%);
+  bottom: calc(16.666666666666664%);
+  height: calc(66.66666666666669%);
+}
+.webPage125 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 18px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage126 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage127 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 276.48px;
+  color: rgb(26, 32, 44);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.75em;
+}
+.webPage128 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 907px;
+  top: 0px;
+}
+.webPage129 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 35px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 125px;
+  top: 182.98px;
+}
+.webPage130 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage131 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage132 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(239, 121, 12);
+  font-size: 85px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 900;
+  line-height: 1.2120000123977661em;
+}
+.webPage133 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  -webkit-text-stroke-width: 0.75px;
+  -webkit-text-stroke-color: rgb(239, 121, 12);
+  font-size: 85px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 900;
+  line-height: 1.2120000123977661em;
+}
+.webPage134 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 534px;
+  color: rgb(96, 96, 96);
+  font-size: 38px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+  line-height: 0em;
+}
+.webPage135 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 534px;
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.600000023841858em;
+}
+.webPage136 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage137 {
+  position: absolute;
+  width: 347px;
+  left: 881px;
+  height: 352px;
+  top: 152px;
+  background-color: rgb(255, 138, 0, 0.15);
+  border-radius: 5px;
+}
+.webPage138 {
+  position: absolute;
+  width: 349px;
+  left: 950px;
+  height: 380px;
+  top: 200px;
+  background-color: rgb(239, 121, 12);
+  border-radius: 5px;
+}
+.webPage139 {
+  position: absolute;
+  width: 102px;
+  left: 1183px;
+  height: 47px;
+  top: 136px;
+}
+.webPage140 {
+  position: absolute;
+  rotate: -8.3deg;
+  width: 61px;
+  left: 874px;
+  height: 66px;
+  top: 491.82px;
+}
+.webPage141 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 48px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 5px;
+  position: absolute;
+  left: 328px;
+  top: 650px;
+  background-color: rgb(239, 121, 12, 0.08);
+}
+.webPage142 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage143 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage144 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 20px;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage145 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage146 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage147 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage148 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage149 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 12px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 2em;
+}
+.webPage150 {
+  rotate: 90deg;
+  width: 48px;
+  height: 0px;
+}
+.webPage151 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage152 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage153 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage154 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 12px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 2em;
+}
+.webPage155 {
+  rotate: 90deg;
+  width: 48px;
+  height: 0px;
+}
+.webPage156 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.webPage157 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage158 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.webPage159 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(26, 32, 44);
+  font-size: 12px;
+  font-family: Montserrat;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 2em;
+}
+.webPage160 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgb(239, 121, 12);
+}
+.webPage161 {
+  width: 18px;
+  height: 18px;
+}
+.webPage162 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.5em;
+}
+.webPage163 {
+  position: absolute;
+  left: 1051px;
+  right: 224.07px;
+  width: auto;
+  top: 306px;
+  bottom: 3492.07px;
+  height: auto;
+}
