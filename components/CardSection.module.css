@@ -1,0 +1,32 @@
+.cardSection0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 1440px;
+  background-color: rgb(161, 161, 161);
+}
+.cardSection1 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  font-size: 30px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.cardSection2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
