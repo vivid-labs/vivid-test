@@ -1,0 +1,3665 @@
+.taskBoard_1600Page0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: absolute;
+  width: 1600px;
+  height: 1175px;
+  background-color: rgb(247, 248, 250);
+}
+.taskBoard_1600Page1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 35px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page5 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 25px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page13 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 430px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page16 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page18 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page21 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page22 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.taskBoard_1600Page23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page24 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page26 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page27 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  right: 0px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(230, 46, 123);
+}
+.taskBoard_1600Page28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page29 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page32 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  width: 100px;
+  height: 100%;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+  background-color: rgb(247, 248, 250);
+}
+.taskBoard_1600Page33 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page35 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page37 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page38 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page39 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page40 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page41 {
+  position: absolute;
+  width: 30px;
+  right: -10px;
+  height: 30px;
+  top: -10px;
+}
+.taskBoard_1600Page42 {
+  position: absolute;
+  left: calc(33.33333333333333%);
+  right: calc(33.33333333333333%);
+  width: calc(33.33333333333334%);
+  top: calc(33.33333333333333%);
+  bottom: calc(33.33333333333333%);
+  height: calc(33.33333333333334%);
+  background-color: rgb(51, 97, 255);
+  border-radius: 7px;
+}
+.taskBoard_1600Page43 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page44 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page45 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page46 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page47 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page48 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page49 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page50 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page51 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page52 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 102, 51, 0.3);
+  border-radius: 30px;
+}
+.taskBoard_1600Page53 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.taskBoard_1600Page54 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+}
+.taskBoard_1600Page55 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(51, 97, 255, 0.03);
+  position: absolute;
+  width: 10px;
+  left: 40px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page56 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page57 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 46, 123, 0.4);
+  border-radius: 30px;
+}
+.taskBoard_1600Page58 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.taskBoard_1600Page59 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+}
+.taskBoard_1600Page60 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page61 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(136, 51, 255, 0.3);
+  border-radius: 30px;
+}
+.taskBoard_1600Page62 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.taskBoard_1600Page63 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+}
+.taskBoard_1600Page64 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.taskBoard_1600Page65 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.9);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page66 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page67 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page68 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page69 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page70 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page71 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page72 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  position: relative;
+  width: 360px;
+  height: 100%;
+}
+.taskBoard_1600Page73 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page74 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page75 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page76 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page77 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 60px;
+  padding-right: 60px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page78 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 6px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page79 {
+  width: 28px;
+  height: 28px;
+}
+.taskBoard_1600Page80 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 6px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page81 {
+  width: 28px;
+  height: 28px;
+}
+.taskBoard_1600Page82 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page83 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page84 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page85 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page86 {
+  position: absolute;
+  width: 110px;
+  left: calc(50% - 55px);
+  height: 110px;
+  top: 0px;
+}
+.taskBoard_1600Page87 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.4);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page88 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page89 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+}
+.taskBoard_1600Page90 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.taskBoard_1600Page91 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  position: absolute;
+  box-shadow: 0pxpx 10pxpx 30pxpx rgb(51, 97, 255, 0.25);
+  width: 30px;
+  left: 105px;
+  height: 30px;
+  top: calc(50% - 15px);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page92 {
+  text-align: center;
+  height: 20px;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page93 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page94 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page95 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page96 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 240px;
+}
+.taskBoard_1600Page97 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page98 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page99 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page100 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page101 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page102 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-right-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page103 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0pxpx 60pxpx 120pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  left: -9.5px;
+  right: -10.5px;
+  width: auto;
+  top: -10px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page104 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page105 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page106 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page107 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 10pxpx 30pxpx rgb(51, 97, 255, 0.3);
+  position: absolute;
+  width: 7px;
+  right: 10px;
+  height: 7px;
+  top: 10px;
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page108 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page109 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page110 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page111 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page112 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page113 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page114 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page115 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page116 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page117 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page118 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page119 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page120 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page121 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page122 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page123 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page124 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page125 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page126 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page127 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-left-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page128 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page129 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page130 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page131 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-right-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page132 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page133 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page134 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page135 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  padding-left: 60px;
+  padding-right: 60px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page136 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  position: relative;
+  width: 100%;
+  height: 60px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page137 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page138 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page139 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page140 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page141 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page142 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page143 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page144 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  border-radius: 15px;
+  position: relative;
+  height: 1015px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page145 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 92px;
+  padding-left: 30px;
+  padding-right: 20px;
+  position: relative;
+  width: 100%;
+  height: 80px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page146 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page147 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  width: fit-content;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page148 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page149 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page150 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page151 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page152 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page153 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page154 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page155 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page156 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page157 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page158 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page159 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page160 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page161 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page162 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page163 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.taskBoard_1600Page164 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page165 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page166 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 200px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page167 {
+  width: 24px;
+  height: 24px;
+}
+.taskBoard_1600Page168 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page169 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page170 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page171 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page172 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page173 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page174 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page175 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page176 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page177 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page178 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page179 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page180 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  position: relative;
+}
+.taskBoard_1600Page181 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page182 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  padding-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 100%;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page183 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page184 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  border-radius: 15px;
+  position: relative;
+  width: 100%;
+  height: 170px;
+}
+.taskBoard_1600Page185 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  position: relative;
+}
+.taskBoard_1600Page186 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page187 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page188 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 30px;
+  padding-top: 25px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page189 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page190 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  width: 100%;
+  height: 75px;
+}
+.taskBoard_1600Page191 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page192 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page193 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page194 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page195 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page196 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page197 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page198 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page199 {
+  position: absolute;
+  left: calc(36.666666666666664%);
+  right: calc(40%);
+  width: calc(23.333333333333336%);
+  top: calc(40%);
+  bottom: calc(36.666666666666664%);
+  height: calc(23.333333333333336%);
+  background-color: rgb(195, 202, 217);
+  border-radius: 7px;
+}
+.taskBoard_1600Page200 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.taskBoard_1600Page201 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page202 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page203 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page204 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page205 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page206 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page207 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page208 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 46, 46, 0.2);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page209 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page210 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page211 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page212 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page213 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  height: 40px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page214 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page215 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  position: relative;
+  height: 30px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page216 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page217 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+}
+.taskBoard_1600Page218 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page219 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.taskBoard_1600Page220 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page221 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page222 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page223 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page224 {
+  width: 24px;
+  height: 24px;
+}
+.taskBoard_1600Page225 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page226 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page227 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page228 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page229 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.taskBoard_1600Page230 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page231 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page232 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(166, 102, 255);
+  border-radius: 30px;
+}
+.taskBoard_1600Page233 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.taskBoard_1600Page234 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+}
+.taskBoard_1600Page235 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page236 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page237 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page238 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page239 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page240 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page241 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.taskBoard_1600Page242 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page243 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page244 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 155, 92);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page245 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page246 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page247 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page248 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page249 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page250 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page251 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page252 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page253 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page254 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page255 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.taskBoard_1600Page256 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page257 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page258 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 213, 89);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page259 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page260 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page261 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page262 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page263 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page264 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page265 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page266 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page267 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page268 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page269 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.taskBoard_1600Page270 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page271 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page272 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(102, 255, 117);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page273 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page274 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page275 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page276 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page277 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page278 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page279 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page280 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page281 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.taskBoard_1600Page282 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page283 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page284 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page285 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page286 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page287 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page288 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page289 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.taskBoard_1600Page290 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 1px);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page291 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page292 {
+  position: relative;
+  width: 85px;
+  height: 60px;
+}
+.taskBoard_1600Page293 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page294 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+.taskBoard_1600Page295 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 3px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0pxpx 10pxpx 30pxpx rgb(41, 204, 57, 0.2);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(41, 204, 57);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page296 {
+  width: 24px;
+  height: 24px;
+}
+.taskBoard_1600Page297 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page298 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page299 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.taskBoard_1600Page300 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 1px);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page301 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 17px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page302 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page303 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page304 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page305 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page306 {
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page307 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page308 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page309 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page310 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page311 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page312 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page313 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page314 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page315 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page316 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page317 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page318 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page319 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page320 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page321 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page322 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page323 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page324 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page325 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page326 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page327 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page328 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page329 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page330 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page331 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page332 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page333 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page334 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page335 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page336 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page337 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page338 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page339 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page340 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page341 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page342 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page343 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page344 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page345 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page346 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page347 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page348 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page349 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page350 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page351 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page352 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page353 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page354 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page355 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page356 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page357 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+  border-bottom-width: 2px;
+}
+.taskBoard_1600Page358 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page359 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.taskBoard_1600Page360 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page361 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page362 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.taskBoard_1600Page363 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.3);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page364 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.taskBoard_1600Page365 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.taskBoard_1600Page366 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  overflow: hidden;
+}
+.taskBoard_1600Page367 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.taskBoard_1600Page368 {
+  border-radius: 100px;
+  box-shadow: 0pxpx 2pxpx 10pxpx rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.taskBoard_1600Page369 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0pxpx 2pxpx 5pxpx rgb(38, 51, 77, 0.03);
+  height: 80px;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.taskBoard_1600Page370 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskBoard_1600Page371 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.taskBoard_1600Page372 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskBoard_1600Page373 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page374 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page375 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page376 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-top-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.taskBoard_1600Page377 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.taskBoard_1600Page378 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  height: 40px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.taskBoard_1600Page379 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
