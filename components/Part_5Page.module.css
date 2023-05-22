@@ -1,0 +1,123 @@
+.part_5Page0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 3051px;
+}
+.part_5Page1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 65px;
+  height: fit-content;
+  position: relative;
+  width: 1283.45px;
+}
+.part_5Page2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.part_5Page3 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 1043px;
+  color: rgb(239, 121, 12);
+  font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 50px;
+}
+.part_5Page4 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 529.48px;
+  height: 67.42px;
+  color: rgb(96, 96, 96);
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+.part_5Page5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_5Page6 {
+  height: fit-content;
+  position: absolute;
+  width: 368px;
+  left: 0px;
+  top: 0px;
+  color: rgb(102, 102, 102);
+  font-size: 18px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 18px;
+}
+.part_5Page7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: absolute;
+  width: 368px;
+  left: 0px;
+  top: 26px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(204, 204, 204);
+  background-color: rgb(255, 255, 255);
+}
+.part_5Page8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.part_5Page9 {
+  height: fit-content;
+  width: 304px;
+  color: rgb(102, 102, 102);
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 24px;
+}
