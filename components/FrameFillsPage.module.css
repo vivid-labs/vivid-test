@@ -1,0 +1,165 @@
+.frameFillsPage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  background-color: rgb(15, 15, 15);
+}
+.frameFillsPage1 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 0, 0.9) 0%,
+    rgb(0, 0, 0, 0) 100%
+  );
+}
+.frameFillsPage2 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  background: conic-gradient(
+      from 180deg,
+      rgb(36, 255, 0, 0.4) 0%,
+      rgb(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgb(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgb(255, 0, 0, 0.9) 0%, rgb(0, 0, 0, 0) 100%);
+}
+.frameFillsPage3 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  background-color: rgb(36, 255, 0, 0.79);
+}
+.frameFillsPage4 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  background: linear-gradient(rgb(255, 0, 0, 0.49), rgb(255, 0, 0, 0.49)),
+    linear-gradient(rgb(36, 255, 0, 0.79), rgb(36, 255, 0, 0.79));
+}
+.frameFillsPage5 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  position: relative;
+}
+.frameFillsPage6 {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage7 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  position: relative;
+}
+.frameFillsPage8 {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage9 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  position: relative;
+}
+.frameFillsPage10 {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage11 {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage12 {
+  transform: rotate(10.87deg) scale(96.46%, 34.74%) translate(2.9%, -4.12%);
+  transform-origin: top left;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage13 {
+  overflow: hidden;
+  width: 30px;
+  height: 31px;
+  position: relative;
+}
+.frameFillsPage14 {
+  background-color: rgb(0, 255, 255);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage15 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage16 {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage17 {
+  background: conic-gradient(
+    from 180deg,
+    rgb(36, 255, 0, 0.4) 0%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage18 {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage19 {
+  background: radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgb(0, 0, 0, 0) 100%);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage20 {
+  transform: rotate(10.87deg) scale(96.46%, 34.74%) translate(2.9%, -4.12%);
+  transform-origin: top left;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frameFillsPage21 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 0, 0.9) 0%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
