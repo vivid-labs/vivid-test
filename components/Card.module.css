@@ -11,9 +11,9 @@
   background-color: rgb(63, 58, 77);
 }
 .card1 {
-  object-fit: cover;
   width: 225px;
   height: 218px;
+  object-fit: cover;
 }
 .card2 {
   display: flex;
@@ -56,8 +56,8 @@
 }
 .card6 {
   height: fit-content;
-  color: rgb(255, 255, 255);
   width: 100%;
+  color: rgb(255, 255, 255);
   font-size: 11px;
   font-family: Inter;
   font-weight: 300;
