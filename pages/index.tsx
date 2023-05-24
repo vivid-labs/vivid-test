@@ -1,4 +1,6 @@
 import Head from "next/head";
+import { Spotify_8Page } from "../components/Spotify_8Page";
+import { AutoLayoutHorizontalPage } from "../components/AutoLayoutHorizontalPage";
 
 export default function Home() {
   return (
@@ -11,14 +13,7 @@ export default function Home() {
           href="https://fonts.googleapis.com/css?family=Inter"
         />
       </Head>
-      <div
-        style={{
-          backgroundColor: "rgb(33, 33, 35)",
-          color: "#fafafa",
-          height: "100vh",
-          padding: "1rem",
-        }}
-      ></div>
+      <AutoLayoutHorizontalPage />
     </>
   );
 }
