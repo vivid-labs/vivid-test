@@ -1,0 +1,74 @@
+.incorrectBoxShadowPage0 {
+  overflow: hidden;
+  position: absolute;
+  width: 969px;
+  height: 217px;
+  background-color: rgb(255, 255, 255);
+}
+.incorrectBoxShadowPage1 {
+  border-radius: 10px;
+  position: absolute;
+  box-shadow: 0pxpx 0pxpx 8pxpx rgb(0, 0, 0, 0.3);
+  width: 752.39px;
+  left: calc(50% - 413.5px);
+  height: 82px;
+  top: 75px;
+  background-color: rgb(255, 255, 255);
+}
+.incorrectBoxShadowPage2 {
+  position: absolute;
+  width: 720.39px;
+  left: 16px;
+  height: 82px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.incorrectBoxShadowPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 554.37px;
+  left: 0px;
+  height: 31px;
+  top: 21.5px;
+  color: rgb(0, 0, 0);
+  font-size: 23px;
+  font-family: Helvetica;
+  font-weight: 700;
+  line-height: 24px;
+}
+.incorrectBoxShadowPage4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 35px;
+  padding-right: 35.56px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 500px;
+  position: absolute;
+  left: 561.83px;
+  top: 14px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+.incorrectBoxShadowPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  font-family: Helvetica;
+  font-weight: 700;
+  line-height: 20px;
+}
