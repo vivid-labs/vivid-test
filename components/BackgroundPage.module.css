@@ -1,0 +1,34 @@
+.backgroundPage0 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.backgroundPage1 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 1573px;
+  top: 0px;
+  object-fit: cover;
+  opacity: 1;
+}
+.backgroundPage2 {
+  position: relative;
+  width: 1920px;
+  left: 0px;
+  height: 1200px;
+  top: 0px;
+  background: linear-gradient(-13deg, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 1) 100%);
+  overflow: hidden;
+}
+.backgroundPage3 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 358px;
+  top: 1215px;
+}
