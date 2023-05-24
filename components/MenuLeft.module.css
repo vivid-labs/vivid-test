@@ -1,0 +1,68 @@
+.menuLeft0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+}
+.menuLeft1 {
+  position: relative;
+  width: 153px;
+  height: 41px;
+}
+.menuLeft2 {
+  position: absolute;
+  width: 128px;
+  left: 4px;
+  height: 33px;
+  top: 8px;
+}
+.menuLeft3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: rgb(147, 147, 147);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.menuLeft4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 19px;
+  color: rgb(147, 147, 147);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.menuLeft5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 63px;
+  top: 19px;
+  color: rgb(147, 147, 147);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.menuLeft6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 40px;
+  top: 0px;
+  color: rgb(147, 147, 147);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
