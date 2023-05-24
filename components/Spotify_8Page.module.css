@@ -1,0 +1,2264 @@
+.spotify_8Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1426px;
+  height: 694px;
+}
+.spotify_8Page1 {
+  position: absolute;
+  left: 241px;
+  right: 0px;
+  width: auto;
+  height: 64px;
+  top: 0px;
+}
+.spotify_8Page2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 32px;
+  top: calc(50% - 16px);
+}
+.spotify_8Page3 {
+  border-radius: 16px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_8Page4 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page5 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page6 {
+  border-radius: 16px;
+  position: relative;
+  opacity: 0.6;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_8Page7 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page8 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page9 {
+  position: absolute;
+  width: 835.59px;
+  left: 152px;
+  height: 41.59px;
+  top: 11.2px;
+}
+.spotify_8Page10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 15.44px;
+  padding-top: 9px;
+  padding-bottom: 9.59px;
+  border-radius: 4px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 109.44px;
+  top: 9px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 208.25px;
+  top: 9px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 291.34px;
+  top: 9px;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page15 {
+  border-radius: 23px;
+  position: absolute;
+  width: 133.41px;
+  left: 1019.59px;
+  height: 32px;
+  top: calc(50% - 16px);
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_8Page16 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.41px;
+  position: absolute;
+  left: calc(50% - 29.7px);
+  top: calc(50% - 14px);
+}
+.spotify_8Page17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+}
+.spotify_8Page18 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -42.7px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page19 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page20 {
+  border-radius: 14px;
+  position: absolute;
+  left: 2px;
+  right: 103.41px;
+  width: auto;
+  top: 2px;
+  bottom: 2px;
+  height: auto;
+  background-color: rgb(83, 83, 83);
+}
+.spotify_8Page21 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 4px;
+}
+.spotify_8Page22 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page23 {
+  position: absolute;
+  width: 1426px;
+  left: 0px;
+  height: 91px;
+  top: 603px;
+  border-top-width: 1px;
+  border-style: solid;
+  border-color: rgb(40, 40, 40);
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page24 {
+  position: absolute;
+  width: 1426px;
+  left: 0px;
+  height: 90px;
+  top: 1px;
+}
+.spotify_8Page25 {
+  position: absolute;
+  width: 418.19px;
+  left: -56px;
+  height: 56px;
+  top: 17px;
+}
+.spotify_8Page26 {
+  position: absolute;
+  box-shadow: 0pxpx 0pxpx 10pxpx rgb(0, 0, 0, 0.3);
+  width: 56px;
+  left: 0px;
+  height: 56px;
+  top: 0px;
+  background-color: rgb(40, 40, 40);
+}
+.spotify_8Page27 {
+  overflow: hidden;
+  position: absolute;
+  left: 19.59px;
+  right: 19.59px;
+  width: auto;
+  top: 20.78px;
+  bottom: 18.41px;
+  height: auto;
+}
+.spotify_8Page28 {
+  overflow: hidden;
+  border-radius: 4px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page29 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page30 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page31 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 64px;
+  top: calc(50% - 20px);
+}
+.spotify_8Page32 {
+  position: relative;
+  width: 291.34px;
+  height: 22.39px;
+}
+.spotify_8Page33 {
+  position: relative;
+  width: 291.34px;
+  left: 0px;
+  height: 22.39px;
+  top: 0px;
+  background: linear-gradient(
+    rgb(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0, 1) 2.059422992169857%,
+    rgb(0, 0, 0, 1) 95.88115215301514%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_8Page34 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.spotify_8Page35 {
+  overflow: hidden;
+  position: relative;
+  width: 291.34px;
+  height: 22.39px;
+}
+.spotify_8Page36 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 646.9px;
+  left: 6px;
+  height: 20px;
+  top: 1px;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page37 {
+  position: relative;
+  width: 291.34px;
+  height: 17.59px;
+}
+.spotify_8Page38 {
+  position: relative;
+  width: 291.34px;
+  left: 0px;
+  height: 17.59px;
+  top: 0px;
+  background: linear-gradient(
+    rgb(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0, 1) 2.059422992169857%,
+    rgb(0, 0, 0, 1) 95.88115215301514%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_8Page39 {
+  overflow: hidden;
+  position: absolute;
+  width: 291.34px;
+  left: 0px;
+  height: 17.59px;
+  top: 0px;
+}
+.spotify_8Page40 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 80.34px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.spotify_8Page41 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_8Page42 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -162.25px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page43 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page44 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 398.77px;
+  height: 16px;
+  top: 20px;
+}
+.spotify_8Page45 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page46 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 434.2px;
+  top: 16.2px;
+}
+.spotify_8Page47 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.spotify_8Page48 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 182.8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.spotify_8Page49 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_8Page50 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page51 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_8Page52 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page53 {
+  border-radius: 32px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(255, 255, 255);
+}
+.spotify_8Page54 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page55 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 182.8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.spotify_8Page57 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_8Page58 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page59 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_8Page60 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page61 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 478.03px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15.56px;
+  padding-right: 5px;
+  position: relative;
+}
+.spotify_8Page62 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: end;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_8Page63 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_8Page64 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  border-radius: 2px;
+  position: absolute;
+  left: 48px;
+  right: 48px;
+  top: 6.8px;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+.spotify_8Page65 {
+  overflow: hidden;
+  border-radius: 2px;
+  position: relative;
+  width: 461.59px;
+  height: 4px;
+}
+.spotify_8Page66 {
+  position: relative;
+  left: -456.99px;
+  right: 456.99px;
+  width: auto;
+  height: 4px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_8Page67 {
+  position: absolute;
+  width: 418.19px;
+  right: 16px;
+  height: 32px;
+  top: 29px;
+}
+.spotify_8Page68 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 201.19px;
+  height: 16px;
+  top: 8px;
+}
+.spotify_8Page69 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page70 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -24.09px);
+  height: 16px;
+  top: 8px;
+}
+.spotify_8Page71 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page72 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 101px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: absolute;
+  right: 36px;
+  top: calc(50% - 16px);
+}
+.spotify_8Page73 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_8Page74 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page75 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  border-radius: 2px;
+  position: absolute;
+  left: 32px;
+  right: 0px;
+  top: 14px;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+.spotify_8Page76 {
+  overflow: hidden;
+  border-radius: 2px;
+  position: relative;
+  width: 93px;
+  height: 4px;
+}
+.spotify_8Page77 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 4px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_8Page78 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -185.09px);
+  height: 16px;
+  top: 6px;
+}
+.spotify_8Page79 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page80 {
+  overflow: hidden;
+  position: absolute;
+  left: 241px;
+  right: 0px;
+  width: auto;
+  height: 603px;
+  top: 0px;
+}
+.spotify_8Page81 {
+  overflow: hidden;
+  position: absolute;
+  width: 1185px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page82 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page83 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page84 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16.39px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 32px;
+  padding-right: 32px;
+  position: absolute;
+  left: 0px;
+  top: 79px;
+}
+.spotify_8Page85 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 38.400001525878906px;
+}
+.spotify_8Page86 {
+  position: relative;
+  width: 1121px;
+  height: 1253.5px;
+}
+.spotify_8Page87 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 0px;
+  right: 687px;
+  top: 0px;
+  background: linear-gradient(
+    149deg,
+    rgb(69, 10, 245, 1) 0%,
+    rgb(142, 142, 229, 1) 99.1599977016449%
+  );
+}
+.spotify_8Page88 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 117px;
+  position: relative;
+}
+.spotify_8Page89 {
+  overflow: hidden;
+  position: relative;
+  width: 394px;
+  height: 25.59px;
+}
+.spotify_8Page90 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 1.86px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+}
+.spotify_8Page91 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page92 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 4.92px;
+  position: relative;
+  opacity: 0.7;
+}
+.spotify_8Page93 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0.7;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page94 {
+  position: absolute;
+  width: 183.52px;
+  left: 169.78px;
+  height: 22px;
+  top: 1px;
+}
+.spotify_8Page95 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.03px;
+  position: absolute;
+  opacity: 0.7;
+  left: 0px;
+  top: -2px;
+}
+.spotify_8Page96 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0.7;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page97 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 15.03px;
+  top: -2px;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page98 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.64px;
+  position: absolute;
+  opacity: 0.7;
+  left: 124.88px;
+  top: -2px;
+}
+.spotify_8Page99 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0.7;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page100 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: -1px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.spotify_8Page101 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 3.94px;
+  padding-bottom: 4.19px;
+  position: relative;
+}
+.spotify_8Page102 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 27px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 51.20000076293945px;
+}
+.spotify_8Page103 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 300px;
+  padding-bottom: 0.59px;
+  position: relative;
+}
+.spotify_8Page104 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page105 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding: 16px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 458px;
+  right: 458px;
+  top: 0px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page106 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 12.38px;
+  position: relative;
+}
+.spotify_8Page107 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page108 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: auto;
+  padding-left: 54.5px;
+  padding-right: 54.5px;
+  padding-top: 50.7px;
+  padding-bottom: 58.3px;
+  border-radius: 4.33px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  background-color: rgb(5, 105, 82);
+}
+.spotify_8Page109 {
+  overflow: hidden;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.spotify_8Page110 {
+  position: absolute;
+  width: 64px;
+  left: calc(50% - 32px);
+  height: 64px;
+  top: 0px;
+}
+.spotify_8Page111 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: -1px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 10.02px;
+  position: relative;
+}
+.spotify_8Page112 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 5.72px;
+  padding-bottom: 4.59px;
+  position: relative;
+}
+.spotify_8Page113 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page114 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 105px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page115 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page116 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding: 16px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 687px;
+  right: 229px;
+  top: 0px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page117 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.spotify_8Page118 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page119 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page120 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page121 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.spotify_8Page122 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.72px;
+  padding-bottom: 4.59px;
+  position: relative;
+}
+.spotify_8Page123 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page124 {
+  overflow: hidden;
+  position: relative;
+  width: 173px;
+  height: 44.78px;
+}
+.spotify_8Page125 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 166.51px;
+  left: 0px;
+  height: 64.78px;
+  top: 1px;
+  color: rgb(167, 167, 167);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page126 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding: 16px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 916px;
+  right: 0px;
+  top: 0px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page127 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 12.38px;
+  position: relative;
+}
+.spotify_8Page128 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page129 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page130 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page131 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: -1px;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 10.02px;
+  position: relative;
+}
+.spotify_8Page132 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.36px;
+  padding-bottom: 4.59px;
+  position: relative;
+}
+.spotify_8Page133 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25.600000381469727px;
+}
+.spotify_8Page134 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 29px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page135 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page136 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 106.38px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 0px;
+  right: 916px;
+  top: 319.38px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page137 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page138 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page139 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page140 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 106.38px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 229px;
+  right: 687px;
+  top: 319.38px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page141 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page142 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page143 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page144 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 106.38px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 458px;
+  right: 458px;
+  top: 319.38px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page145 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page146 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page147 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page148 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 106.38px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 687px;
+  right: 229px;
+  top: 319.38px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page149 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page150 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page151 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page152 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  padding-bottom: 106.38px;
+  border-radius: 6.33px;
+  position: absolute;
+  left: 916px;
+  right: 0px;
+  top: 319.38px;
+  background-color: rgb(24, 24, 24);
+}
+.spotify_8Page153 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0pxpx 8pxpx 24pxpx rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.spotify_8Page154 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page155 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page156 {
+  border-radius: 12px;
+  position: absolute;
+  left: 1172px;
+  right: 5px;
+  width: auto;
+  top: 2px;
+  bottom: 371.39px;
+  height: auto;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+.spotify_8Page157 {
+  position: absolute;
+  width: 241px;
+  left: 0px;
+  height: 603px;
+  top: 0px;
+  background-color: rgb(0, 0, 0);
+}
+.spotify_8Page158 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 603px;
+  top: 0px;
+}
+.spotify_8Page159 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  position: absolute;
+  left: 24px;
+  right: 86px;
+  top: 24px;
+}
+.spotify_8Page160 {
+  width: 131px;
+  height: 40px;
+}
+.spotify_8Page161 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  position: absolute;
+  left: 0px;
+  top: 89.59px;
+}
+.spotify_8Page162 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 130.09px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_8Page163 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_8Page164 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_8Page165 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.91px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page166 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page167 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 123.8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_8Page168 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_8Page169 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_8Page170 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.2px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page171 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page172 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 90.16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_8Page173 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_8Page174 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_8Page175 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.84px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page176 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page177 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: auto;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 233.59px;
+  bottom: 224.41px;
+}
+.spotify_8Page178 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 82.47px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  opacity: 0.7;
+}
+.spotify_8Page179 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.53px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  position: relative;
+}
+.spotify_8Page180 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.spotify_8Page181 {
+  border-radius: 2px;
+  position: absolute;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.spotify_8Page182 {
+  overflow: hidden;
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: calc(50% - 6px);
+}
+.spotify_8Page183 {
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: 0px;
+}
+.spotify_8Page184 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 24px;
+  padding-top: 7.8px;
+  padding-bottom: 8.81px;
+  position: relative;
+}
+.spotify_8Page185 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-right: 75px;
+  padding-bottom: 0.39px;
+  position: relative;
+  opacity: 0.7;
+  flex: 1 1 0%;
+}
+.spotify_8Page186 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page187 {
+  border-radius: 2px;
+  position: absolute;
+  opacity: 0.7;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background: linear-gradient(
+    135deg,
+    rgb(69, 10, 245, 1) 0%,
+    rgb(196, 239, 217, 1) 100%
+  );
+}
+.spotify_8Page188 {
+  overflow: hidden;
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: calc(50% - 6px);
+}
+.spotify_8Page189 {
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: 0px;
+}
+.spotify_8Page190 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 24px;
+  padding-top: 7.8px;
+  padding-bottom: 8.81px;
+  position: relative;
+}
+.spotify_8Page191 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-right: 62px;
+  padding-bottom: 0.39px;
+  position: relative;
+  opacity: 0.7;
+  flex: 1 1 0%;
+}
+.spotify_8Page192 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page193 {
+  border-radius: 2px;
+  position: absolute;
+  opacity: 0.7;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background-color: rgb(0, 100, 80);
+}
+.spotify_8Page194 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_8Page195 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_8Page196 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  position: relative;
+}
+.spotify_8Page197 {
+  overflow: hidden;
+  width: 193px;
+  height: 1px;
+  background-color: rgb(40, 40, 40);
+}
+.spotify_8Page198 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 16px;
+  bottom: -16px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0, 0.7) 0%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_8Page199 {
+  overflow: hidden;
+  position: relative;
+  width: 241px;
+  height: 16px;
+}
+.spotify_8Page200 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page201 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page202 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 94.64px;
+  position: absolute;
+  left: 24px;
+  top: 8px;
+}
+.spotify_8Page203 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 2.36px;
+  position: relative;
+}
+.spotify_8Page204 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+}
+.spotify_8Page205 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 322px;
+}
+.spotify_8Page206 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 99.42px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_8Page207 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_8Page208 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_8Page209 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.58px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_8Page210 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_8Page211 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 84.34px;
+  position: relative;
+  box-shadow: 0pxpx 0pxpx 10pxpx rgb(0, 0, 0, 0.3);
+  background-color: rgb(40, 40, 40);
+}
+.spotify_8Page212 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.spotify_8Page213 {
+  width: 72.31px;
+  height: 72.31px;
+}
+.spotify_8Page214 {
+  overflow: hidden;
+  border-radius: 4px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_8Page215 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_8Page216 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
