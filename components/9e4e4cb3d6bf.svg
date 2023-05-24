@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="300" height="301" viewBox="0 0 300 301" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_35)">
+<path vector-effect="non-scaling-stroke" opacity="0.05" d="M0 0.5H300V300.5H0V0.5Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_0_35">
+<rect vector-effect="non-scaling-stroke" width="300" height="300" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
