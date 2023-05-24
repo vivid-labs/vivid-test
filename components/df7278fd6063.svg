@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_863)">
+<path vector-effect="non-scaling-stroke" d="M24 0.953125V24.9531H0V0.953125H24ZM14.8327 1.81027H14.7723C13.2277 1.81027 11.9911 2.26787 11.0625 3.18304C10.1432 4.08904 9.67896 5.36045 9.6698 6.99716L9.66964 7.04688V9.96652H6.25446V13.9308H9.66964V24.096H13.7679V13.9308H17.1696L17.692 9.96652H13.7679V7.43527C13.7679 6.79241 13.9018 6.31027 14.1696 5.98884C14.4334 5.67234 14.9395 5.51168 15.688 5.5068L15.7232 5.5067H17.8259V1.97098C17.1249 1.86716 16.1472 1.81359 14.8926 1.81043L14.8326 1.81027H14.8327Z" fill="#222326"/>
+</g>
+<defs>
+<clipPath id="clip0_0_863">
+<rect vector-effect="non-scaling-stroke" width="24" height="24" fill="white" transform="translate(0 0.953125)"/>
+</clipPath>
+</defs>
+</svg>
