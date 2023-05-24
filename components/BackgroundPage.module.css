@@ -1,0 +1,25 @@
+.backgroundPage0 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 1573px;
+  top: 0px;
+  object-fit: cover;
+  opacity: 1;
+}
+.backgroundPage1 {
+  position: relative;
+  width: 1920px;
+  left: 0px;
+  height: 1200px;
+  top: 0px;
+  background: linear-gradient(-13deg, rgb(0, 0, 0, 0) 0%, rgb(0, 0, 0, 1) 100%);
+  overflow: hidden;
+}
+.backgroundPage2 {
+  position: absolute;
+  width: 1920px;
+  left: 0px;
+  height: 358px;
+  top: 1215px;
+}
