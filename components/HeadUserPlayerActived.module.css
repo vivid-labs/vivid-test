@@ -1,0 +1,50 @@
+.headUserPlayerActived0 {
+  overflow: hidden;
+  width: 968px;
+  height: 42px;
+}
+.headUserPlayerActived1 {
+  position: relative;
+  left: calc(-32.64462809917356%);
+  right: calc(-32.64462809917356%);
+  width: calc(165.28925619834712%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(74, 118, 168);
+  overflow: hidden;
+}
+.headUserPlayerActived2 {
+  position: absolute;
+  width: 959px;
+  left: calc(50% - 475px);
+  height: 42px;
+  top: 0px;
+}
+.headUserPlayerActived3 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(96.55891553701773%);
+  width: calc(3.4410844629822748%);
+  top: calc(26.190476190476193%);
+  bottom: calc(28.57142857142857%);
+  height: calc(45.23809523809524%);
+}
+.headUserPlayerActived4 {
+  width: calc(21.58498435870699%);
+  white-space: nowrap;
+  height: calc(66.66666666666666%);
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: calc(57.0385818561001%);
+  right: calc(21.37643378519291%);
+  top: calc(19.047619047619047%);
+  bottom: calc(14.285714285714285%);
+  color: rgb(218, 226, 234);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 28px;
+}

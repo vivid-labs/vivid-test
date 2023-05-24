@@ -1,0 +1,14 @@
+.messageCircle_240 {
+  overflow: hidden;
+  width: 24px;
+  height: 24px;
+}
+.messageCircle_241 {
+  position: absolute;
+  left: 3.5px;
+  right: 3.5px;
+  width: auto;
+  top: 3.5px;
+  bottom: 3.45px;
+  height: auto;
+}

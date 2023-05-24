@@ -1,0 +1,13 @@
+.xContentPostImageOneAnysize0 {
+  width: 510px;
+  height: 520px;
+}
+.xContentPostImageOneAnysize1 {
+  position: relative;
+  width: 510px;
+  left: calc(50% - 255px);
+  height: 10px;
+  top: 0px;
+  background-color: rgb(255, 150, 150, 0);
+  overflow: hidden;
+}

@@ -1,0 +1,19 @@
+.xContentGroupImages_10 {
+  width: 510px;
+  height: 510px;
+}
+.xContentGroupImages_11 {
+  position: relative;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background: linear-gradient(
+    225deg,
+    rgb(140, 175, 242, 1) 0%,
+    rgb(18, 209, 209, 1) 100%
+  );
+  overflow: hidden;
+}

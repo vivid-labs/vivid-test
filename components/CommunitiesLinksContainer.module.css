@@ -1,0 +1,37 @@
+.communitiesLinksContainer0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: inset 0pxpx -1pxpx 0pxpx rgb(211, 217, 222, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 232, 236);
+  background-color: rgb(255, 255, 255);
+}
+.communitiesLinksContainer1 {
+  position: relative;
+  width: 510px;
+  height: 119px;
+}
+.communitiesLinksContainer2 {
+  overflow: hidden;
+  position: absolute;
+  width: 531px;
+  left: 0px;
+  height: 119px;
+  top: 0px;
+}
+.communitiesLinksContainer3 {
+  overflow: hidden;
+  position: absolute;
+  width: 531px;
+  left: -21px;
+  height: 119px;
+  top: 0px;
+}
