@@ -1,0 +1,83 @@
+.contentPage0 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 66.78px;
+  top: 1px;
+  background: linear-gradient(
+    rgb(175, 40, 150, 1) 0%,
+    rgb(80, 155, 245, 1) 100%
+  );
+}
+.contentPage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: -1.81px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 36.13px;
+  padding-bottom: 0.59px;
+  position: absolute;
+  left: 15px;
+  top: calc(50% - 22.39px);
+}
+.contentPage2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 1.2000000476837158px;
+  line-height: 19.200000762939453px;
+}
+.contentPage3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.contentPage4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 34px;
+  padding-right: 33.81px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 500px;
+  position: absolute;
+  left: 1262.19px;
+  top: 11.39px;
+  background-color: rgb(255, 255, 255);
+}
+.contentPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+}
