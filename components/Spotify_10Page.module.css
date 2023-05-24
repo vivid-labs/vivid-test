@@ -1,0 +1,1905 @@
+.spotify_10Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 1426px;
+  height: 694px;
+}
+.spotify_10Page1 {
+  position: absolute;
+  left: 241px;
+  right: 0px;
+  width: auto;
+  height: 64px;
+  top: 0px;
+}
+.spotify_10Page2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 32px;
+  top: calc(50% - 16px);
+}
+.spotify_10Page3 {
+  border-radius: 16px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_10Page4 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page5 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page6 {
+  border-radius: 16px;
+  position: relative;
+  opacity: 0.6;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_10Page7 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page8 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page9 {
+  border-radius: 23px;
+  position: absolute;
+  width: 133.41px;
+  left: 1019.59px;
+  height: 32px;
+  top: calc(50% - 16px);
+  background-color: rgb(0, 0, 0, 0.7);
+}
+.spotify_10Page10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.41px;
+  position: absolute;
+  left: calc(50% - 29.7px);
+  top: calc(50% - 14px);
+}
+.spotify_10Page11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+}
+.spotify_10Page12 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -42.7px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page13 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page14 {
+  border-radius: 14px;
+  position: absolute;
+  left: 2px;
+  right: 103.41px;
+  width: auto;
+  top: 2px;
+  bottom: 2px;
+  height: auto;
+  background-color: rgb(83, 83, 83);
+}
+.spotify_10Page15 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 4px;
+}
+.spotify_10Page16 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page17 {
+  position: absolute;
+  width: 1426px;
+  left: 0px;
+  height: 91px;
+  top: 603px;
+  border-top-width: 1px;
+  border-style: solid;
+  border-color: rgb(40, 40, 40);
+  background-color: rgb(24, 24, 24);
+}
+.spotify_10Page18 {
+  position: absolute;
+  width: 1426px;
+  left: 0px;
+  height: 90px;
+  top: 1px;
+}
+.spotify_10Page19 {
+  position: absolute;
+  width: 418.19px;
+  left: -56px;
+  height: 56px;
+  top: 17px;
+}
+.spotify_10Page20 {
+  position: absolute;
+  box-shadow: 0pxpx 0pxpx 10pxpx rgb(0, 0, 0, 0.3);
+  width: 56px;
+  left: 0px;
+  height: 56px;
+  top: 0px;
+  background-color: rgb(40, 40, 40);
+}
+.spotify_10Page21 {
+  overflow: hidden;
+  position: absolute;
+  left: 19.59px;
+  right: 19.59px;
+  width: auto;
+  top: 20.78px;
+  bottom: 18.41px;
+  height: auto;
+}
+.spotify_10Page22 {
+  overflow: hidden;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page23 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_10Page24 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_10Page25 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 64px;
+  top: calc(50% - 20px);
+}
+.spotify_10Page26 {
+  position: relative;
+  width: 90.09px;
+  height: 22.39px;
+}
+.spotify_10Page27 {
+  position: relative;
+  width: 90.09px;
+  left: 0px;
+  height: 22.39px;
+  top: 0px;
+  background: linear-gradient(
+    rgb(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0, 1) 6.659729778766632%,
+    rgb(0, 0, 0, 1) 86.68054342269897%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_10Page28 {
+  overflow: hidden;
+  position: absolute;
+  width: 90.09px;
+  left: 0px;
+  height: 22.39px;
+  top: 0px;
+}
+.spotify_10Page29 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 41.09px;
+  padding-bottom: 0.39px;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+}
+.spotify_10Page30 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page31 {
+  position: relative;
+  width: 90.09px;
+  height: 17.59px;
+}
+.spotify_10Page32 {
+  position: relative;
+  width: 90.09px;
+  left: 0px;
+  height: 17.59px;
+  top: 0px;
+  background: linear-gradient(
+    rgb(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0, 1) 6.659729778766632%,
+    rgb(0, 0, 0, 1) 86.68054342269897%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_10Page33 {
+  overflow: hidden;
+  position: absolute;
+  width: 90.09px;
+  left: 0px;
+  height: 17.59px;
+  top: 0px;
+}
+.spotify_10Page34 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 15.09px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.spotify_10Page35 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_10Page36 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 39px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page37 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page38 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 7px);
+  height: 16px;
+  top: 19.5px;
+}
+.spotify_10Page39 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page40 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 2px;
+  bottom: 2px;
+  height: auto;
+}
+.spotify_10Page41 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 434.2px;
+  top: 16.2px;
+}
+.spotify_10Page42 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  width: 557.59px;
+}
+.spotify_10Page43 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 182.8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.spotify_10Page44 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_10Page45 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page46 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_10Page47 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page48 {
+  border-radius: 32px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+  background-color: rgb(255, 255, 255);
+}
+.spotify_10Page49 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page50 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page51 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 182.8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.spotify_10Page52 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_10Page53 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page54 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_10Page55 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 477.92px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15.67px;
+  padding-right: 20px;
+  position: relative;
+}
+.spotify_10Page57 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: end;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_10Page58 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 17.600000381469727px;
+}
+.spotify_10Page59 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 2px;
+  position: absolute;
+  left: 48px;
+  right: 48px;
+  width: auto;
+  top: 6.8px;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+.spotify_10Page60 {
+  overflow: hidden;
+  border-radius: 2px;
+  position: relative;
+  width: 461.59px;
+  height: 4px;
+}
+.spotify_10Page61 {
+  position: relative;
+  left: -440.51px;
+  right: 440.51px;
+  width: auto;
+  height: 4px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_10Page62 {
+  position: absolute;
+  width: 418.19px;
+  right: 16px;
+  height: 32px;
+  top: 29px;
+}
+.spotify_10Page63 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 201.19px;
+  height: 16px;
+  top: 8px;
+}
+.spotify_10Page64 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page65 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 233.19px;
+  height: 16px;
+  top: 8px;
+}
+.spotify_10Page66 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page67 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - -56.09px);
+  height: 16px;
+  top: 8px;
+}
+.spotify_10Page68 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page69 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 101px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: absolute;
+  right: 4px;
+  top: calc(50% - 16px);
+}
+.spotify_10Page70 {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.spotify_10Page71 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page72 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  border-radius: 2px;
+  position: absolute;
+  left: 32px;
+  right: 0px;
+  top: 14px;
+  background-color: rgb(255, 255, 255, 0.3);
+}
+.spotify_10Page73 {
+  overflow: hidden;
+  border-radius: 2px;
+  position: relative;
+  width: 93px;
+  height: 4px;
+}
+.spotify_10Page74 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 4px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_10Page75 {
+  overflow: hidden;
+  position: absolute;
+  left: 241px;
+  right: 0px;
+  width: auto;
+  height: 603px;
+  top: 0px;
+}
+.spotify_10Page76 {
+  overflow: hidden;
+  position: absolute;
+  width: 1185px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page77 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page78 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page79 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.spotify_10Page80 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-bottom: 24px;
+  position: relative;
+}
+.spotify_10Page81 {
+  border-radius: 12px;
+  position: relative;
+  box-shadow: 0pxpx 4pxpx 60pxpx rgb(0, 0, 0, 0.5);
+  width: 232px;
+  height: 232px;
+  background-color: rgb(255, 255, 255, 0);
+}
+.spotify_10Page82 {
+  border-radius: 4px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(5, 105, 82);
+}
+.spotify_10Page83 {
+  overflow: hidden;
+  position: absolute;
+  width: 64px;
+  left: 84px;
+  height: 64px;
+  top: 80.2px;
+}
+.spotify_10Page84 {
+  position: absolute;
+  width: 64px;
+  left: calc(50% - 32px);
+  height: 64px;
+  top: 0px;
+}
+.spotify_10Page85 {
+  position: relative;
+  height: 316px;
+  flex: 1 1 0%;
+}
+.spotify_10Page86 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 139.03px;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page87 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-right: 292px;
+  padding-top: 6.67px;
+  padding-bottom: 11.52px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 30.39px;
+}
+.spotify_10Page88 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+  font-family: Inter;
+  font-weight: 900;
+}
+.spotify_10Page89 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: -0.59px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 694.86px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+.spotify_10Page90 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page91 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  padding-right: 1.73px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_10Page92 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page93 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 100, 80);
+  overflow: hidden;
+}
+.spotify_10Page94 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page95 {
+  position: absolute;
+  width: 300px;
+  left: 0px;
+  height: 300px;
+  top: 0px;
+}
+.spotify_10Page96 {
+  position: relative;
+  width: 1185px;
+  left: 0px;
+  height: 340px;
+  top: 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0, 0) 0%,
+    rgb(0, 0, 0, 0.5) 100%
+  );
+  overflow: hidden;
+}
+.spotify_10Page97 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 104px;
+  padding-bottom: 2632.16px;
+  position: relative;
+}
+.spotify_10Page98 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: -218px;
+  width: auto;
+  height: 232px;
+  bottom: 2702.94px;
+  background-color: rgb(0, 100, 80);
+}
+.spotify_10Page99 {
+  position: absolute;
+  width: 300px;
+  left: 0px;
+  height: 300px;
+  top: 0px;
+}
+.spotify_10Page100 {
+  position: relative;
+  width: 1185px;
+  left: 0px;
+  height: 232px;
+  top: 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0, 0.6) 0%,
+    rgb(18, 18, 18, 1) 100%
+  );
+  overflow: hidden;
+}
+.spotify_10Page101 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 879px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: calc(50% - 1467.47px);
+}
+.spotify_10Page102 {
+  border-radius: 500px;
+  position: relative;
+  width: 56px;
+  height: 56px;
+  background-color: rgb(30, 215, 96);
+}
+.spotify_10Page103 {
+  overflow: hidden;
+  position: absolute;
+  width: 28px;
+  left: 14px;
+  height: 28px;
+  top: 14px;
+}
+.spotify_10Page104 {
+  position: absolute;
+  width: 28px;
+  left: calc(50% - 14px);
+  height: 28px;
+  top: 0px;
+}
+.spotify_10Page105 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.spotify_10Page106 {
+  overflow: hidden;
+  width: 903px;
+  height: 2px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.1);
+}
+.spotify_10Page107 {
+  border-radius: 4px;
+  position: relative;
+  width: 935px;
+  height: 196.78px;
+}
+.spotify_10Page108 {
+  overflow: hidden;
+  border-radius: 4px;
+  position: absolute;
+  box-shadow: 0pxpx 4pxpx 60pxpx rgb(0, 0, 0, 0.5);
+  width: 112px;
+  left: 16px;
+  height: 112px;
+  top: 16px;
+  background-color: rgb(40, 40, 40);
+}
+.spotify_10Page109 {
+  overflow: hidden;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 112px;
+  bottom: 0px;
+}
+.spotify_10Page110 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_10Page111 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 86.05px;
+  position: absolute;
+  left: 152px;
+  top: 16px;
+}
+.spotify_10Page112 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 5.95px;
+  position: relative;
+}
+.spotify_10Page113 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+}
+.spotify_10Page114 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 5.97px;
+  position: relative;
+}
+.spotify_10Page115 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+}
+.spotify_10Page116 {
+  overflow: hidden;
+  position: absolute;
+  width: 767px;
+  left: 152px;
+  height: 44.78px;
+  top: 72px;
+}
+.spotify_10Page117 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 766.12px;
+  left: 0px;
+  height: 378.25px;
+  top: 1px;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page118 {
+  position: absolute;
+  width: 281.8px;
+  left: 208px;
+  height: 25.59px;
+  top: calc(50% - -45.59px);
+}
+.spotify_10Page119 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 0.59px;
+  color: rgb(255, 255, 255, 0.6);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page120 {
+  position: absolute;
+  width: 133.77px;
+  left: 63.03px;
+  height: 25.59px;
+  top: calc(50% - 12.8px);
+}
+.spotify_10Page121 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 4px;
+  top: 0px;
+  color: rgb(255, 255, 255, 0.6);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 25.600000381469727px;
+}
+.spotify_10Page122 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 12.28px;
+  top: 0.59px;
+  color: rgb(255, 255, 255, 0.7);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page123 {
+  position: absolute;
+  left: 196.8px;
+  right: 0px;
+  width: auto;
+  height: 12px;
+  top: 6.8px;
+}
+.spotify_10Page124 {
+  opacity: 0.4;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 4px;
+  top: 4px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_10Page125 {
+  overflow: hidden;
+  border-radius: 2px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 4px;
+  top: 4px;
+}
+.spotify_10Page126 {
+  position: relative;
+  left: -84.64px;
+  right: 84.64px;
+  width: auto;
+  height: 4px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.spotify_10Page127 {
+  overflow: hidden;
+  position: absolute;
+  width: 24px;
+  left: 847px;
+  height: 24px;
+  top: 144.78px;
+}
+.spotify_10Page128 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_10Page129 {
+  border-radius: 500px;
+  position: absolute;
+  width: 32px;
+  left: 152px;
+  height: 32px;
+  top: 140.78px;
+  background-color: rgb(255, 255, 255);
+}
+.spotify_10Page130 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 8px;
+  height: 16px;
+  top: 8px;
+}
+.spotify_10Page131 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page132 {
+  position: absolute;
+  width: 241px;
+  left: 0px;
+  height: 603px;
+  top: 0px;
+  background-color: rgb(0, 0, 0);
+}
+.spotify_10Page133 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 603px;
+  top: 0px;
+}
+.spotify_10Page134 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  position: absolute;
+  left: 24px;
+  right: 86px;
+  top: 24px;
+}
+.spotify_10Page135 {
+  width: 131px;
+  height: 40px;
+}
+.spotify_10Page136 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  position: absolute;
+  left: 0px;
+  top: 89.59px;
+}
+.spotify_10Page137 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 130.09px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_10Page138 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_10Page139 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_10Page140 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.91px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_10Page141 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page142 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 123.8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_10Page143 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_10Page144 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_10Page145 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.2px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_10Page146 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page147 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 90.16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_10Page148 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_10Page149 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_10Page150 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.84px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_10Page151 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page152 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: auto;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 233.59px;
+  bottom: 224.41px;
+}
+.spotify_10Page153 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 82.47px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  opacity: 0.7;
+}
+.spotify_10Page154 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.53px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  position: relative;
+}
+.spotify_10Page155 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.spotify_10Page156 {
+  border-radius: 2px;
+  position: absolute;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.spotify_10Page157 {
+  overflow: hidden;
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: calc(50% - 6px);
+}
+.spotify_10Page158 {
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: 0px;
+}
+.spotify_10Page159 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 24px;
+  padding-top: 7.8px;
+  padding-bottom: 8.81px;
+  position: relative;
+}
+.spotify_10Page160 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-right: 75px;
+  padding-bottom: 0.39px;
+  position: relative;
+  opacity: 0.7;
+  flex: 1 1 0%;
+}
+.spotify_10Page161 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page162 {
+  border-radius: 2px;
+  position: absolute;
+  opacity: 0.7;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background: linear-gradient(
+    135deg,
+    rgb(69, 10, 245, 1) 0%,
+    rgb(196, 239, 217, 1) 100%
+  );
+}
+.spotify_10Page163 {
+  overflow: hidden;
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: calc(50% - 6px);
+}
+.spotify_10Page164 {
+  position: absolute;
+  width: 12px;
+  left: calc(50% - 6px);
+  height: 12px;
+  top: 0px;
+}
+.spotify_10Page165 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 64px;
+  padding-right: 24px;
+  padding-top: 7.8px;
+  padding-bottom: 8.81px;
+  position: relative;
+}
+.spotify_10Page166 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-right: 62px;
+  padding-bottom: 0.39px;
+  position: relative;
+  flex: 1 1 0%;
+}
+.spotify_10Page167 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page168 {
+  border-radius: 2px;
+  position: absolute;
+  left: 24px;
+  right: 193px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  background-color: rgb(0, 100, 80);
+}
+.spotify_10Page169 {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: calc(50% - 8px);
+}
+.spotify_10Page170 {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.spotify_10Page171 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 8px;
+  position: relative;
+}
+.spotify_10Page172 {
+  overflow: hidden;
+  width: 193px;
+  height: 1px;
+  background-color: rgb(40, 40, 40);
+}
+.spotify_10Page173 {
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 16px;
+  bottom: -16px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0, 0.7) 0%,
+    rgb(0, 0, 0, 0) 100%
+  );
+  overflow: hidden;
+}
+.spotify_10Page174 {
+  overflow: hidden;
+  position: relative;
+  width: 241px;
+  height: 16px;
+}
+.spotify_10Page175 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page176 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page177 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 102.39px;
+  position: absolute;
+  left: 24px;
+  top: 8px;
+}
+.spotify_10Page178 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 4.61px;
+  position: relative;
+}
+.spotify_10Page179 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 32px;
+}
+.spotify_10Page180 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 322px;
+}
+.spotify_10Page181 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 99.42px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+  position: relative;
+}
+.spotify_10Page182 {
+  overflow: hidden;
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.spotify_10Page183 {
+  position: absolute;
+  width: 24px;
+  left: calc(50% - 12px);
+  height: 24px;
+  top: 0px;
+}
+.spotify_10Page184 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 1.58px;
+  padding-bottom: 0.39px;
+  position: relative;
+}
+.spotify_10Page185 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(179, 179, 179);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.399999618530273px;
+}
+.spotify_10Page186 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 84.34px;
+  position: relative;
+  box-shadow: 0pxpx 0pxpx 10pxpx rgb(0, 0, 0, 0.3);
+  background-color: rgb(40, 40, 40);
+}
+.spotify_10Page187 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.spotify_10Page188 {
+  width: 72.31px;
+  height: 72.31px;
+}
+.spotify_10Page189 {
+  overflow: hidden;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.spotify_10Page190 {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.spotify_10Page191 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
