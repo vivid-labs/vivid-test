@@ -1,0 +1,54 @@
+.xSimilarCommunitiesCard0 {
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(0, 0, 0, 0.12);
+  width: 158px;
+  height: 204px;
+}
+.xSimilarCommunitiesCard1 {
+  position: relative;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(223, 225, 229);
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.xSimilarCommunitiesCard2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: calc(50% - 31px);
+  top: 112px;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 17px;
+}
+.xSimilarCommunitiesCard3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: calc(50% - 41px);
+  top: 132px;
+  color: rgb(105, 105, 105);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 17px;
+}

@@ -1,0 +1,80 @@
+.xCellTwoRowPrice0 {
+  width: 200px;
+  height: 40px;
+}
+.xCellTwoRowPrice1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 2px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 50px;
+  top: 1px;
+}
+.xCellTwoRowPrice2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(101, 101, 101);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 18px;
+}
+.xCellTwoRowPrice3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.xCellTwoRowPrice4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(0, 0, 0);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 15px;
+}
+.xCellTwoRowPrice5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(147, 147, 147);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 15px;
+  text-decoration: line-through;
+}
+.xCellTwoRowPrice6 {
+  position: relative;
+  width: 40px;
+  left: 0px;
+  height: 40px;
+  top: 0px;
+  background: linear-gradient(
+    225deg,
+    rgb(140, 175, 242, 1) 0%,
+    rgb(18, 209, 209, 1) 100%
+  );
+  border-radius: 2px;
+  overflow: hidden;
+}

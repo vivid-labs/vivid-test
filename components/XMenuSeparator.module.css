@@ -1,0 +1,14 @@
+.xMenuSeparator0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.xMenuSeparator1 {
+  width: 121px;
+  height: 3px;
+}

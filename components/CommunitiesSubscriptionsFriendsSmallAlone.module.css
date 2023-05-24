@@ -1,0 +1,23 @@
+.communitiesSubscriptionsFriendsSmallAlone0 {
+  border-radius: 5px;
+  box-shadow: inset 0pxpx -1pxpx 0pxpx rgb(211, 217, 222, 1);
+  width: 232px;
+  height: 44px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 232, 236);
+  background-color: rgb(255, 255, 255);
+}
+.communitiesSubscriptionsFriendsSmallAlone1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 7px;
+  padding-right: 7px;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+}

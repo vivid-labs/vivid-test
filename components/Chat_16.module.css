@@ -1,0 +1,13 @@
+.chat_160 {
+  width: 16px;
+  height: 16px;
+}
+.chat_161 {
+  position: absolute;
+  width: 12px;
+  left: 2px;
+  height: 12px;
+  top: 2px;
+  object-fit: cover;
+  opacity: 1;
+}

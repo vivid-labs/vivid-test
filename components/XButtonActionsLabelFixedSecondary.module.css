@@ -1,0 +1,54 @@
+.xButtonActionsLabelFixedSecondary0 {
+  border-radius: 4px;
+  width: 112px;
+  height: 30px;
+  background-color: rgb(227, 233, 239);
+}
+.xButtonActionsLabelFixedSecondary1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 4px;
+  position: absolute;
+  left: calc(50% - 41px);
+  top: 0px;
+}
+.xButtonActionsLabelFixedSecondary2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.xButtonActionsLabelFixedSecondary3 {
+  width: 5px;
+  height: 7px;
+  position: relative;
+  overflow: hidden;
+}
+.xButtonActionsLabelFixedSecondary4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  opacity: 0.85;
+  color: rgb(85, 103, 125);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 15px;
+}
+.xButtonActionsLabelFixedSecondary5 {
+  width: 5px;
+  height: 8px;
+  position: relative;
+  overflow: hidden;
+}

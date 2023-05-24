@@ -1,0 +1,62 @@
+.xCellItemGoods0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+}
+.xCellItemGoods1 {
+  width: 160px;
+  height: 160px;
+  background: linear-gradient(
+    225deg,
+    rgb(140, 175, 242, 1) 0%,
+    rgb(18, 209, 209, 1) 100%
+  );
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+.xCellItemGoods2 {
+  width: 6px;
+  height: 6px;
+  background-color: rgb(196, 196, 196, 0);
+  position: relative;
+  overflow: hidden;
+}
+.xCellItemGoods3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.xCellItemGoods4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(101, 101, 101);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 1.2000000476837158em;
+}
+.xCellItemGoods5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(0, 0, 0);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 15px;
+}

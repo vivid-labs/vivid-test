@@ -1,0 +1,15 @@
+.searchArrow_160 {
+  width: 6px;
+  height: 10px;
+}
+.searchArrow_161 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}

@@ -1,0 +1,50 @@
+.xCellTwoRowLinks0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  opacity: 0.8;
+}
+.xCellTwoRowLinks1 {
+  width: 40px;
+  height: 40px;
+}
+.xCellTwoRowLinks2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 2px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  position: relative;
+}
+.xCellTwoRowLinks3 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 148px;
+  color: rgb(42, 88, 133);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+}
+.xCellTwoRowLinks4 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 148px;
+  color: rgb(101, 101, 101);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+}
