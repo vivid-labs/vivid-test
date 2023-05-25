@@ -1,0 +1,33 @@
+.communitiesSimilarPage0 {
+  border-radius: 5px;
+  box-shadow: inset 0pxpx -1pxpx 0pxpx rgb(211, 217, 222, 1);
+  width: 552px;
+  height: 273px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 232, 236);
+  background-color: rgb(255, 255, 255);
+}
+.communitiesSimilarPage1 {
+  position: absolute;
+  width: 510px;
+  left: 21px;
+  height: 225px;
+  top: 48px;
+}
+.communitiesSimilarPage2 {
+  overflow: hidden;
+  position: absolute;
+  width: 28px;
+  left: 504px;
+  height: 221px;
+  top: -8px;
+}
+.communitiesSimilarPage3 {
+  overflow: hidden;
+  position: absolute;
+  width: 42px;
+  left: 509px;
+  height: 42px;
+  top: 106px;
+}
