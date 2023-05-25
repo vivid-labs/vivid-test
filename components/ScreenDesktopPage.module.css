@@ -1,0 +1,71 @@
+.screenDesktopPage0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 60px;
+  height: fit-content;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+}
+.screenDesktopPage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 1046px;
+}
+.screenDesktopPage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.screenDesktopPage3 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.screenDesktopPage4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.screenDesktopPage5 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.screenDesktopPage6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
