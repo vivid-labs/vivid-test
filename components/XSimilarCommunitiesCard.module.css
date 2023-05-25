@@ -1,0 +1,41 @@
+.xSimilarCommunitiesCard0 {
+  border-radius: 4px;
+  box-shadow: 0pxpx 3pxpx 6pxpx rgb(0, 0, 0, 0.12);
+  width: 158px;
+  height: 204px;
+  background-color: rgb(255, 255, 255);
+}
+.xSimilarCommunitiesCard1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: calc(50% - 31px);
+  top: 112px;
+  color: rgb(0, 0, 0);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 17px;
+}
+.xSimilarCommunitiesCard2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: calc(50% - 41px);
+  top: 132px;
+  color: rgb(105, 105, 105);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 17px;
+}
