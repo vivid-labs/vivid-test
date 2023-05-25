@@ -1,0 +1,115 @@
+.positioningTestsPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 54px;
+  padding-right: 54px;
+  padding-top: 57px;
+  padding-bottom: 57px;
+  position: absolute;
+  background-color: rgb(44, 70, 120);
+}
+.positioningTestsPage1 {
+  overflow: hidden;
+  position: relative;
+  width: 142px;
+  height: 49px;
+  background-color: rgb(221, 47, 47);
+}
+.positioningTestsPage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: calc(49.29577464788733%);
+  height: calc(61.22448979591837%);
+  border-radius: 4px;
+  position: absolute;
+  left: calc(25.352112676056336%);
+  right: calc(25.352112676056336%);
+  top: calc(20.408163265306122%);
+  bottom: calc(18.367346938775512%);
+  background-color: rgb(81, 129, 184);
+}
+.positioningTestsPage3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.positioningTestsPage4 {
+  width: 5px;
+  height: 7px;
+  position: relative;
+  overflow: hidden;
+}
+.positioningTestsPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 15px;
+}
+.positioningTestsPage6 {
+  width: 5px;
+  height: 8px;
+  position: relative;
+  overflow: hidden;
+}
+.positioningTestsPage7 {
+  overflow: hidden;
+  position: relative;
+  width: 142px;
+  height: 49px;
+  background-color: rgb(221, 47, 47);
+}
+.positioningTestsPage8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: calc(49.29577464788733%);
+  height: calc(30.61224489795918%);
+  border-radius: 4px;
+  position: absolute;
+  left: calc(25.352112676056336%);
+  right: calc(25.352112676056336%);
+  top: calc(35.714285714285715%);
+  bottom: calc(33.6734693877551%);
+  background-color: rgb(81, 129, 184);
+}
+.positioningTestsPage9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.positioningTestsPage10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 15px;
+}
