@@ -1,0 +1,15 @@
+.positioningTestsPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 54px;
+  padding-right: 54px;
+  padding-top: 57px;
+  padding-bottom: 57px;
+  position: absolute;
+  background-color: rgb(44, 70, 120);
+}

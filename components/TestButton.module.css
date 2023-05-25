@@ -1,0 +1,56 @@
+.testButton0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+}
+.testButton1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgb(81, 129, 184);
+}
+.testButton2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.testButton3 {
+  width: 5px;
+  height: 7px;
+  position: relative;
+  overflow: hidden;
+}
+.testButton4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(255, 255, 255);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 15px;
+}
+.testButton5 {
+  width: 5px;
+  height: 8px;
+  position: relative;
+  overflow: hidden;
+}
