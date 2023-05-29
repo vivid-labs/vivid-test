@@ -1,0 +1,104 @@
+.buggyRelativeAbsoluteImagePage0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding: 16px;
+  border-radius: 6.33px;
+  position: absolute;
+  background-color: rgb(24, 24, 24);
+}
+.buggyRelativeAbsoluteImagePage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.buggyRelativeAbsoluteImagePage2 {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0px 8px 24px rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  background-color: rgb(51, 51, 51);
+}
+.buggyRelativeAbsoluteImagePage3 {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: relative;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.buggyRelativeAbsoluteImagePage4 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.buggyRelativeAbsoluteImagePage5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.buggyRelativeAbsoluteImagePage6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.72px;
+  padding-bottom: 4.59px;
+  position: relative;
+}
+.buggyRelativeAbsoluteImagePage7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25.600000381469727px;
+}
+.buggyRelativeAbsoluteImagePage8 {
+  overflow: hidden;
+  position: relative;
+  width: 173px;
+  height: 44.78px;
+}
+.buggyRelativeAbsoluteImagePage9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 166.51px;
+  left: 0px;
+  height: 64.78px;
+  top: 1px;
+  color: rgb(167, 167, 167);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+}
