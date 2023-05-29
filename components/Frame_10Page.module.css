@@ -1,0 +1,15 @@
+.frame_10Page0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 202px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 106px;
+  padding-right: 106px;
+  padding-top: 117px;
+  padding-bottom: 117px;
+  background-color: rgb(68, 68, 68);
+}

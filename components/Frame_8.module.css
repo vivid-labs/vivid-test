@@ -1,0 +1,15 @@
+.frame_80 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 34px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 66px;
+  padding-right: 66px;
+  padding-top: 63px;
+  padding-bottom: 63px;
+  background-color: rgb(114, 114, 114);
+}

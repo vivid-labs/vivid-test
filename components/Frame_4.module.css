@@ -1,0 +1,15 @@
+.frame_40 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 17px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  background-color: rgb(157, 157, 157);
+}
