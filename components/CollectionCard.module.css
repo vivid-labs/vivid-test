@@ -1,0 +1,94 @@
+.collectionCard0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  border-radius: 20px;
+  background-color: rgb(43, 43, 43);
+}
+.collectionCard1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.collectionCard2 {
+  width: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.collectionCard3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.collectionCard4 {
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.collectionCard5 {
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.collectionCard6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  border-radius: 20px;
+  position: relative;
+  flex: 1 1 0%;
+  background-color: rgb(162, 89, 255);
+}
+.collectionCard7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-family: Space Mono;
+  font-weight: 700;
+}
+.collectionCard8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.collectionCard9 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
