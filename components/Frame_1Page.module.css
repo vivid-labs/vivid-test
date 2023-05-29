@@ -1,0 +1,86 @@
+.frame_1Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 535px;
+  height: 356px;
+  background-color: rgb(255, 227, 227);
+}
+.frame_1Page1 {
+  position: absolute;
+  left: calc(6.16822429906542%);
+  right: calc(27.850467289719628%);
+  width: calc(65.98130841121495%);
+  top: calc(8.426966292134832%);
+  bottom: calc(17.696629213483146%);
+  height: calc(73.87640449438202%);
+}
+.frame_1Page2 {
+  position: absolute;
+  left: calc(38.52691218130311%);
+  right: calc(-9.34844192634561%);
+  width: calc(70.8215297450425%);
+  top: calc(27.756653992395435%);
+  bottom: calc(-11.406844106463879%);
+  height: calc(83.65019011406845%);
+}
+.frame_1Page3 {
+  position: absolute;
+  left: calc(54.400000000000006%);
+  right: calc(-54.400000000000006%);
+  width: calc(100%);
+  top: calc(33.18181818181819%);
+  bottom: calc(21.363636363636363%);
+  height: calc(45.45454545454545%);
+}
+.frame_1Page4 {
+  position: relative;
+  width: 100px;
+  left: 136px;
+  height: 100px;
+  top: 73px;
+  background-color: rgb(196, 196, 196);
+  overflow: hidden;
+}
+.frame_1Page5 {
+  position: relative;
+  width: 100px;
+  left: 286px;
+  height: 100px;
+  top: 73px;
+  background-color: rgb(196, 196, 196);
+  overflow: hidden;
+}
+.frame_1Page6 {
+  position: absolute;
+  left: calc(54.400000000000006%);
+  right: calc(-54.400000000000006%);
+  width: calc(100%);
+  top: calc(87.72727272727273%);
+  bottom: calc(-33.18181818181819%);
+  height: calc(45.45454545454545%);
+}
+.frame_1Page7 {
+  position: relative;
+  width: 100px;
+  left: 136px;
+  height: 100px;
+  top: 193px;
+  background-color: rgb(196, 196, 196);
+  overflow: hidden;
+}
+.frame_1Page8 {
+  position: relative;
+  width: 100px;
+  left: 286px;
+  height: 100px;
+  top: 193px;
+  background-color: rgb(196, 196, 196);
+  overflow: hidden;
+}
+.frame_1Page9 {
+  position: absolute;
+  width: 43px;
+  left: 33px;
+  height: 49px;
+  top: 30px;
+}
