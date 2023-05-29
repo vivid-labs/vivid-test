@@ -1,0 +1,26 @@
+.frame_20 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 27px;
+  padding-bottom: 27px;
+  border-radius: 6px;
+  box-shadow: 0pxpx 4pxpx 4pxpx rgb(0, 0, 0, 0.25);
+  background-color: rgb(255, 203, 203);
+}
+.frame_21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}

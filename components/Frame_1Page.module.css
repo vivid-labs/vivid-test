@@ -1,0 +1,25 @@
+.frame_1Page0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 62px;
+  padding-right: 62px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+}
+.frame_1Page1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+}
