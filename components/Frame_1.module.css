@@ -1,0 +1,42 @@
+.frame_10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 22px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  background-color: rgb(236, 236, 236);
+}
+.frame_11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.frame_12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.frame_13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
