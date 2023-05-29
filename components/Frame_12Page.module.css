@@ -1,0 +1,13 @@
+.frame_12Page0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+}
