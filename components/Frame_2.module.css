@@ -1,0 +1,117 @@
+.frame_20 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 76px;
+  padding-right: 76px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+  background-color: rgb(108, 108, 108);
+}
+.frame_21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.frame_22 {
+  overflow: hidden;
+  position: relative;
+  width: 135px;
+  height: 40px;
+}
+.frame_23 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(-0.00032500000088475645%);
+  bottom: calc(7.507333066314459e-7%);
+  height: calc(100.00032424926758%);
+}
+.frame_24 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.frame_25 {
+  position: absolute;
+  left: calc(13.333333333333334%);
+  right: calc(12.9509198224103%);
+  width: calc(73.71574684425637%);
+  top: calc(21.092441080569646%);
+  bottom: calc(16.272273503752725%);
+  height: calc(62.63528541567763%);
+}
+.frame_26 {
+  position: absolute;
+  left: calc(18.087496775286642%);
+  right: calc(64.10983153292428%);
+  width: calc(17.802671691789087%);
+  top: calc(34.805619612146145%);
+  bottom: calc(-21.721077085241806%);
+  height: calc(86.91545747309566%);
+}
+.frame_27 {
+  position: absolute;
+  left: 18px;
+  right: -18px;
+  width: auto;
+  top: 8.72px;
+  bottom: -8.72px;
+  height: auto;
+}
+.frame_28 {
+  position: absolute;
+  left: 42.46px;
+  right: -18px;
+  width: auto;
+  top: 17.87px;
+  bottom: -8.44px;
+  height: auto;
+}
+.frame_29 {
+  position: absolute;
+  left: 43.7px;
+  right: -13.33px;
+  width: auto;
+  top: 8.44px;
+  bottom: 10.26px;
+  height: auto;
+}
+.frame_210 {
+  overflow: hidden;
+  position: relative;
+  width: 135px;
+  height: 40px;
+}
+.frame_211 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.frame_212 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
