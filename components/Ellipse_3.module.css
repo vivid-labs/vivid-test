@@ -1,0 +1,16 @@
+.ellipse_30 {
+  width: 49px;
+  height: 49px;
+}
+.ellipse_31 {
+  position: relative;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(63, 232, 100);
+  border-radius: 50%;
+  overflow: hidden;
+}
