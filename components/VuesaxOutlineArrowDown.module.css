@@ -1,0 +1,14 @@
+.vuesaxOutlineArrowDown0 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.vuesaxOutlineArrowDown1 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
