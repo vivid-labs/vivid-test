@@ -1,0 +1,101 @@
+.property_1DefaultPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  width: 240px;
+  background-color: rgb(59, 59, 59);
+}
+.property_1DefaultPage1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.property_1DefaultPage2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.property_1DefaultPage3 {
+  height: fit-content;
+  text-align: center;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.property_1DefaultPage4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.property_1DefaultPage5 {
+  height: fit-content;
+  text-align: end;
+  flex: 1 1 0%;
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.property_1DefaultPage6 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.property_1DefaultPage7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 20px;
+  position: absolute;
+  width: 30px;
+  left: 20px;
+  top: 18px;
+  background-color: rgb(43, 43, 43);
+}
+.property_1DefaultPage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 11px);
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
