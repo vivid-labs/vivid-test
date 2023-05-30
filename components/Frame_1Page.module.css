@@ -1,0 +1,46 @@
+.frame_1Page0 {
+  overflow: hidden;
+  position: absolute;
+  width: 535px;
+  height: 356px;
+  background-color: rgb(255, 227, 227);
+}
+.frame_1Page1 {
+  position: absolute;
+  width: 100px;
+  left: 136px;
+  height: 100px;
+  top: 73px;
+  background-color: rgb(196, 196, 196);
+}
+.frame_1Page2 {
+  position: absolute;
+  width: 100px;
+  left: 286px;
+  height: 100px;
+  top: 73px;
+  background-color: rgb(196, 196, 196);
+}
+.frame_1Page3 {
+  position: absolute;
+  width: 100px;
+  left: 136px;
+  height: 100px;
+  top: 193px;
+  background-color: rgb(196, 196, 196);
+}
+.frame_1Page4 {
+  position: absolute;
+  width: 100px;
+  left: 286px;
+  height: 100px;
+  top: 193px;
+  background-color: rgb(196, 196, 196);
+}
+.frame_1Page5 {
+  position: absolute;
+  width: 43px;
+  left: 33px;
+  height: 49px;
+  top: 30px;
+}
