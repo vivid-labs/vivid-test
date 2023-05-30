@@ -1,0 +1,143 @@
+.navigation0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: auto;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.navigation1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation3 {
+  position: absolute;
+  width: 149.56px;
+  left: 33px;
+  height: 14.85px;
+  top: 6.45px;
+}
+.navigation4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 20px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: auto;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.navigation6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation8 {
+  position: absolute;
+  width: 149.56px;
+  left: 33px;
+  height: 14.85px;
+  top: 6.45px;
+}
+.navigation9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 20px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: auto;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.navigation11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigation12 {
+  position: absolute;
+  width: 199.41px;
+  left: 44px;
+  height: 19.8px;
+  top: 8.6px;
+}
+.navigation13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
