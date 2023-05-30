@@ -1,0 +1,46 @@
+.overlayPage0 {
+  overflow: hidden;
+  position: absolute;
+  width: 200px;
+  height: 322px;
+  background-color: rgb(92, 225, 70);
+}
+.overlayPage1 {
+  overflow: hidden;
+  position: absolute;
+  width: 142px;
+  left: 23px;
+  height: 70px;
+  top: 27px;
+  background-color: rgb(241, 96, 96);
+}
+.overlayPage2 {
+  overflow: hidden;
+  position: absolute;
+  width: 65px;
+  left: 23px;
+  height: 70px;
+  top: 108px;
+  background-color: rgb(241, 96, 96);
+}
+.overlayPage3 {
+  overflow: hidden;
+  position: absolute;
+  width: 93px;
+  left: 23px;
+  height: 70px;
+  top: 189px;
+  background-color: rgb(241, 96, 96);
+}
+.overlayPage4 {
+  position: absolute;
+  width: 200px;
+  left: 0px;
+  height: 322px;
+  top: 0px;
+  background: linear-gradient(
+    180deg,
+    rgb(0, 0, 0, 0.5) 0%,
+    rgb(215, 60, 60, 0) 100%
+  );
+}
