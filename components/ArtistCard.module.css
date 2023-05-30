@@ -1,0 +1,248 @@
+.artistCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  width: 240px;
+  background-color: rgb(59, 59, 59);
+  position: relative;
+}
+.artistAvatar {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.artistInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.dishStudio {
+  height: fit-content;
+  text-align: center;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.additionalInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.totalSales {
+  height: fit-content;
+  text-align: end;
+  flex: 1 1 0%;
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.class_34_53Eth {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.rankingNumber {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 20px;
+  position: absolute;
+  width: 30px;
+  left: 20px;
+  top: 18px;
+  background-color: rgb(43, 43, 43);
+}
+.class_1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 11px);
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCardComponent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  width: 315px;
+  background-color: rgb(59, 59, 59);
+  position: relative;
+}
+.artistAvatarDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.artistInfoDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.dishStudioDiv {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.additionalInfoDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.totalSalesDiv {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.class_34_53EthDiv {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.rankingNumberDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 20px;
+  position: absolute;
+  width: 30px;
+  left: 12px;
+  top: 13px;
+  background-color: rgb(43, 43, 43);
+}
+.class_1Div {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 5px);
+  top: calc(50% - 11px);
+  color: rgb(133, 133, 132);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCardComponent1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(59, 59, 59);
+  position: relative;
+}
+.dishStudioDiv1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.artistCardComponent2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(59, 59, 59);
+  position: relative;
+}
+.dishStudioDiv2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
