@@ -1,0 +1,45 @@
+.xTitleLayoutPost0 {
+  width: 510px;
+  height: 50px;
+  position: relative;
+}
+.xTitleLayoutPost1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 3px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  position: absolute;
+  left: 65px;
+  top: 0px;
+}
+.xTitleLayoutPost2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(42, 88, 133);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 16px;
+}
+.xTitleLayoutPost3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(147, 147, 147);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 14px;
+}

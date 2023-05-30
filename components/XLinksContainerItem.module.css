@@ -1,0 +1,23 @@
+.xLinksContainerItem0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 9px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.xLinksContainerItem1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 125px;
+  height: 18px;
+  color: rgb(0, 0, 0);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 18px;
+}

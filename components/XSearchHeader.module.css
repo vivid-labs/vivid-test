@@ -1,0 +1,23 @@
+.xSearchHeader0 {
+  border-radius: 14px;
+  width: 230px;
+  height: 28px;
+  background-color: rgb(34, 75, 122);
+  position: relative;
+}
+.xSearchHeader1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: 28px;
+  top: 6px;
+  color: rgb(143, 173, 200);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+}

@@ -1,0 +1,25 @@
+.xIconCounter0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 3px;
+  padding-right: 3px;
+  position: relative;
+}
+.xIconCounter1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(98, 109, 122);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 16px;
+}

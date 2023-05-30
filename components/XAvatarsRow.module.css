@@ -1,0 +1,60 @@
+.xAvatarsRow0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.xAvatarsRow1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.xAvatarsRow2 {
+  width: 6px;
+  height: 6px;
+}
+.xAvatarsRow3 {
+  width: 5px;
+  height: 5px;
+}
+.xAvatarsRow4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 70px;
+}
+.xAvatarsRow5 {
+  width: 6px;
+  height: 6px;
+}
+.xAvatarsRow6 {
+  width: 5px;
+  height: 5px;
+}
+.xAvatarsRow7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 70px;
+}
+.xAvatarsRow8 {
+  width: 6px;
+  height: 6px;
+}
+.xAvatarsRow9 {
+  width: 5px;
+  height: 5px;
+}

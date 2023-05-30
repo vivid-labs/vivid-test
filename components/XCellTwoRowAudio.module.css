@@ -1,0 +1,51 @@
+.xCellTwoRowAudio0 {
+  opacity: 0.8;
+  width: 199px;
+  height: 41px;
+  position: relative;
+}
+.xCellTwoRowAudio1 {
+  position: absolute;
+  width: 40px;
+  left: 0px;
+  height: 40px;
+  top: 0px;
+}
+.xCellTwoRowAudio2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 1px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  position: absolute;
+  left: 51px;
+  top: 0px;
+}
+.xCellTwoRowAudio3 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 154px;
+  color: rgb(42, 88, 133);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+}
+.xCellTwoRowAudio4 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 154px;
+  color: rgb(101, 101, 101);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 16px;
+}

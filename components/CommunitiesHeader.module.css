@@ -1,0 +1,21 @@
+.communitiesHeader0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 5px;
+  box-shadow: inset 0px -1px 0px rgb(211, 217, 222, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 232, 236);
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+.communitiesHeader1 {
+  width: 795px;
+  height: 200px;
+  object-fit: cover;
+  opacity: 1;
+}

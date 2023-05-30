@@ -1,0 +1,21 @@
+.xActionsPageMenuItem0 {
+  width: 200px;
+  height: 36px;
+  position: relative;
+}
+.xActionsPageMenuItem1 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  position: absolute;
+  left: 34px;
+  right: 1px;
+  width: auto;
+  top: calc(50% - 9px);
+  color: rgb(98, 109, 122);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 18px;
+}

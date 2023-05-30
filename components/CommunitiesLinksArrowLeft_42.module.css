@@ -1,0 +1,17 @@
+.communitiesLinksArrowLeft_420 {
+  overflow: hidden;
+  width: 42px;
+  height: 42px;
+  position: relative;
+}
+.communitiesLinksArrowLeft_421 {
+  position: absolute;
+  left: 34px;
+  right: -18px;
+  width: auto;
+  top: 8px;
+  bottom: 8px;
+  height: auto;
+  transform: scale(-100%, 100%);
+  transform-origin: top left;
+}

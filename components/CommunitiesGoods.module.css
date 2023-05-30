@@ -1,0 +1,100 @@
+.communitiesGoods0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 5px;
+  box-shadow: inset 0px -1px 0px rgb(211, 217, 222, 1);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 232, 236);
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+.communitiesGoods1 {
+  position: relative;
+  width: 100%;
+  height: 34px;
+}
+.communitiesGoods2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  position: absolute;
+  width: 550px;
+  left: 0px;
+  top: 0px;
+}
+.communitiesGoods3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  position: relative;
+}
+.communitiesGoods4 {
+  width: 4px;
+  height: 4px;
+  background-color: rgb(196, 196, 196, 0);
+}
+.communitiesGoods5 {
+  width: 550px;
+  height: 1px;
+  background-color: rgb(231, 232, 236);
+}
+.communitiesGoods6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.communitiesGoods7 {
+  width: 13px;
+  height: 13px;
+  background-color: rgb(196, 196, 196, 0);
+}
+.communitiesGoods8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.communitiesGoods9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  color: rgb(42, 88, 133);
+  font-size: 12.5px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.communitiesGoods10 {
+  width: 14px;
+  height: 14px;
+  background-color: rgb(196, 196, 196, 0);
+}

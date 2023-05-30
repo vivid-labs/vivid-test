@@ -1,0 +1,20 @@
+.avatar_280 {
+  position: relative;
+  width: 28px;
+  height: 28px;
+}
+.avatar_281 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background: linear-gradient(
+    225deg,
+    rgb(251, 36, 165, 1) 0%,
+    rgb(18, 209, 209, 1) 100%
+  );
+  border-radius: 50%;
+}
