@@ -1,0 +1,32 @@
+.sizeLargeHoverTrue {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgb(0, 129, 225);
+}
+.backgroundColorRgb_0_129_225 {
+  background-color: rgb(0, 129, 225);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.button {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+}

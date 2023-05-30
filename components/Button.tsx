@@ -1,0 +1,49 @@
+import styles from "./Button.module.css";
+
+export const Button = ({
+  style,
+  size,
+  hover,
+}: {
+  style: any;
+  size: string;
+  hover: string;
+}) => {
+  const size_0 =
+    size === "Small"
+      ? {
+          paddingLeft: "10px",
+          paddingRight: "10px",
+          paddingTop: "5px",
+          paddingBottom: "5px",
+        }
+      : {
+          paddingLeft: "15px",
+          paddingRight: "15px",
+          paddingTop: "10px",
+          paddingBottom: "10px",
+        };
+  const hover_0 =
+    hover === "True"
+      ? {
+          opacity: "0.5",
+        }
+      : {};
+  if (size === "Large" && hover === "False") {
+    return null;
+  }
+
+  return (
+    <div
+      style={{
+        ...size_0,
+        ...hover_0,
+        ...style,
+      }}
+      className={styles.sizeLargeHoverTrue}
+    >
+      <div className={styles.backgroundColorRgb_0_129_225} />
+      <p className={styles.button}>Button</p>
+    </div>
+  );
+};
