@@ -1,0 +1,82 @@
+.frame_1Page0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 76px;
+  padding-right: 76px;
+  padding-top: 44px;
+  padding-bottom: 44px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+}
+.frame_1Page1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.frame_1Page2 {
+  overflow: hidden;
+  position: relative;
+  width: 135px;
+  height: 40px;
+}
+.frame_1Page3 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.frame_1Page4 {
+  position: absolute;
+  left: 18px;
+  right: -18px;
+  width: auto;
+  top: 8.72px;
+  bottom: -8.72px;
+  height: auto;
+}
+.frame_1Page5 {
+  position: absolute;
+  left: 42.46px;
+  right: -18px;
+  width: auto;
+  top: 17.87px;
+  bottom: -8.44px;
+  height: auto;
+}
+.frame_1Page6 {
+  position: absolute;
+  left: 43.7px;
+  right: -13.33px;
+  width: auto;
+  top: 8.44px;
+  bottom: 10.26px;
+  height: auto;
+}
+.frame_1Page7 {
+  overflow: hidden;
+  position: relative;
+  width: 135px;
+  height: 40px;
+}
+.frame_1Page8 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
