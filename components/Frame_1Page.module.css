@@ -1,0 +1,21 @@
+.frame_1Page0 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 96px;
+  padding-right: 96px;
+  padding-top: 77px;
+  padding-bottom: 77px;
+  position: relative;
+  background-color: rgb(237, 237, 237);
+}
+.frame_1Page1 {
+  width: 95px;
+  height: 85px;
+  background-color: rgb(196, 196, 196);
+}

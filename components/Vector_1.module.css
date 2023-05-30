@@ -1,0 +1,14 @@
+.vector_10 {
+  width: 75px;
+  height: 80px;
+  position: relative;
+}
+.vector_11 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
