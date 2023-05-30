@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" d="M30 52V56C34.684 56 38.404 54.294 41.246 52H30Z" fill="#EF790C"/>
+<path vector-effect="non-scaling-stroke" d="M10 32V36C10 41 14 42 14 42C14 42 18 54 30 54" stroke="#EF790C" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path vector-effect="non-scaling-stroke" d="M52 34H46C46 21.52 40 16 40 16C34 30 14 20 14 34H8C8 34 8 33.764 8 26C8 12 20 4 30 4C38 4 40 8 40 8C48 8 52 18 52 26V34Z" fill="#EF790C"/>
+<path vector-effect="non-scaling-stroke" d="M31 42C30.648 42 29.352 42 29 42C27.344 42 26 43.344 26 45C26 46.656 27.344 48 29 48C29.352 48 30.648 48 31 48C32.656 48 34 46.656 34 45C34 43.344 32.656 42 31 42Z" fill="#EF790C"/>
+<path vector-effect="non-scaling-stroke" d="M32 46H42C46.418 46 50 42.418 50 38V32" stroke="#EF790C" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path vector-effect="non-scaling-stroke" d="M50 40H46V30H50C52.21 30 54 31.79 54 34V36C54 38.21 52.21 40 50 40Z" fill="#EF790C"/>
+</svg>
