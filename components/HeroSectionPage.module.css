@@ -1,0 +1,452 @@
+.heroSectionPage0 {
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+  height: 808px;
+}
+.heroSectionPage1 {
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 808px;
+  top: 0px;
+  object-fit: cover;
+  opacity: 1;
+}
+.heroSectionPage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 595px);
+  top: 591px;
+}
+.heroSectionPage3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.heroSectionPage4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.heroSectionPage5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.heroSectionPage6 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(160, 160, 160);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.heroSectionPage7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.heroSectionPage8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.heroSectionPage9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.heroSectionPage10 {
+  position: absolute;
+  left: 4.63px;
+  right: -4.63px;
+  width: auto;
+  top: 5.67px;
+  bottom: -5.67px;
+  height: auto;
+}
+.heroSectionPage11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.heroSectionPage12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.heroSectionPage13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.heroSectionPage14 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(160, 160, 160);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.heroSectionPage15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.heroSectionPage16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.heroSectionPage17 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.heroSectionPage18 {
+  position: absolute;
+  left: 4px;
+  right: -4px;
+  width: auto;
+  top: 6.23px;
+  bottom: -6.23px;
+  height: auto;
+}
+.heroSectionPage19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 9px;
+  position: relative;
+  backdrop-filter: blur(10.5px);
+  background-color: rgb(255, 255, 255, 0.08);
+}
+.heroSectionPage20 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 14px;
+  height: fit-content;
+  position: relative;
+  width: 285px;
+}
+.heroSectionPage21 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.heroSectionPage22 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(160, 160, 160);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.heroSectionPage23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-bottom: 1px;
+  position: relative;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 164, 255);
+}
+.heroSectionPage24 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
+.heroSectionPage25 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.heroSectionPage26 {
+  position: absolute;
+  left: 6px;
+  right: -6px;
+  width: auto;
+  top: 6px;
+  bottom: -6px;
+  height: auto;
+}
+.heroSectionPage27 {
+  height: fit-content;
+  text-align: center;
+  position: absolute;
+  width: 793px;
+  left: calc(50% - 397px);
+  top: 90px;
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage28 {
+  height: fit-content;
+  text-align: center;
+  position: absolute;
+  width: 469px;
+  left: calc(50% - 235px);
+  top: 266px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage29 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 7px;
+  position: absolute;
+  left: calc(50% - 121px);
+  top: 363px;
+  background-color: rgb(255, 255, 255);
+}
+.heroSectionPage30 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(13, 17, 20);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+.heroSectionPage31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 54px;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+}
+.heroSectionPage32 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 7px;
+  height: fit-content;
+  position: relative;
+  width: 112.64px;
+}
+.heroSectionPage33 {
+  width: 16.64px;
+  height: 16.64px;
+}
+.heroSectionPage34 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.heroSectionPage35 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.heroSectionPage36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.heroSectionPage37 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage38 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage39 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage40 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 300;
+}
+.heroSectionPage41 {
+  width: 50px;
+  height: 50px;
+}

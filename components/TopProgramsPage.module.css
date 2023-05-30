@@ -1,0 +1,865 @@
+.topProgramsPage0 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 36px;
+  position: relative;
+  height: 759px;
+}
+.topProgramsPage1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.topProgramsPage2 {
+  height: fit-content;
+  text-align: center;
+  width: 534px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.topProgramsPage3 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 120px;
+  height: 562px;
+  top: 197px;
+}
+.topProgramsPage4 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage6 {
+  width: 376px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.topProgramsPage7 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    0deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+}
+.topProgramsPage8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.topProgramsPage9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.topProgramsPage11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage13 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage14 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.topProgramsPage15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage17 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage18 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.topProgramsPage19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage21 {
+  width: 30px;
+  height: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.topProgramsPage22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage23 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.topProgramsPage24 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage25 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 532px;
+  height: 360px;
+  top: 197px;
+}
+.topProgramsPage26 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage28 {
+  width: 376px;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.topProgramsPage29 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    0deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+}
+.topProgramsPage30 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 230px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.topProgramsPage31 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage32 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.topProgramsPage33 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage35 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage36 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.topProgramsPage37 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage38 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage39 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage40 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.topProgramsPage41 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage42 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage43 {
+  width: 30px;
+  height: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.topProgramsPage44 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage45 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.topProgramsPage46 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage47 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 532px;
+  height: 180px;
+  top: 579px;
+}
+.topProgramsPage48 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage49 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.topProgramsPage50 {
+  width: 376px;
+  height: 282.12px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.topProgramsPage51 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    0deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+}
+.topProgramsPage52 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 50px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.topProgramsPage53 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage54 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.topProgramsPage55 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage56 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage57 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage58 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.topProgramsPage59 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage60 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage61 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage62 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.topProgramsPage63 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage64 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage65 {
+  width: 30px;
+  height: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.topProgramsPage66 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage67 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.topProgramsPage68 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage69 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 944px;
+  height: 562px;
+  top: 197px;
+}
+.topProgramsPage70 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage71 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.topProgramsPage72 {
+  width: 376px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.topProgramsPage73 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    0deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+}
+.topProgramsPage74 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.topProgramsPage75 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage76 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.topProgramsPage77 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage78 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage79 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage80 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.topProgramsPage81 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage82 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage83 {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.topProgramsPage84 {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.topProgramsPage85 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.topProgramsPage86 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.topProgramsPage87 {
+  width: 30px;
+  height: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.topProgramsPage88 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.topProgramsPage89 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.topProgramsPage90 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
