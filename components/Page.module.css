@@ -1,0 +1,30 @@
+.page {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  position: absolute;
+  background-color: rgb(144, 144, 144);
+}
+.divDiv {
+  overflow: hidden;
+  width: 93px;
+  height: 70px;
+  background-color: rgb(57, 28, 28);
+  position: relative;
+}
+.divDiv1 {
+  overflow: hidden;
+  width: 93px;
+  height: 70px;
+  background-color: rgb(57, 28, 28);
+  position: relative;
+}
