@@ -1,0 +1,120 @@
+.navBar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 1440px;
+  height: 65px;
+  background-color: rgb(63, 58, 77);
+  position: relative;
+}
+.vividLogoBackground_1 {
+  width: 45px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+}
+.frame_5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: fit-content;
+  padding-left: 74px;
+  padding-right: 74px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  height: 100%;
+}
+.home {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.about {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.contact {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.navBarComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 400px;
+  height: 50px;
+  background-color: rgb(63, 58, 77);
+  position: relative;
+}
+.vividLogoBackground_1Image {
+  width: 30px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+}
+.frame_5Div {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: fit-content;
+  padding-left: 74px;
+  padding-right: 74px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  height: 100%;
+}
+.homeText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.aboutText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
+.contactText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Inter;
+  font-weight: 700;
+}
