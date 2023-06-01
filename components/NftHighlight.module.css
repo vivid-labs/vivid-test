@@ -1,0 +1,199 @@
+.nftHighlight {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 1280px;
+}
+.objectFitCoverOpacity_1a6f43f9350c73503d13e1fe1a0e3277804ef1192 {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.nftInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 360px;
+  padding-bottom: 60px;
+  position: relative;
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgb(162, 89, 255, 0) 0%,
+    rgb(162, 89, 255, 1) 100%
+  );
+}
+.frame_240 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.nftArtstAndNameAndButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.magicMashrooms {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 51px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.100000023841858em;
+}
+.auctionTimer {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  backdrop-filter: blur(5px);
+  width: 295px;
+  background-color: rgb(59, 59, 59, 0.5);
+}
+.auctionEndsIn {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.100000023841858em;
+}
+.timer {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.hours {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.text59 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.hoursText {
+  width: 100%;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.100000023841858em;
+}
+.text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.399999976158142em;
+}
+.minutes {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.text59Text {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.minutesText {
+  width: 100%;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.100000023841858em;
+}
+.textText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.399999976158142em;
+}
+.seconds {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.text59Text1 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.secondsText {
+  width: 100%;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.100000023841858em;
+}
