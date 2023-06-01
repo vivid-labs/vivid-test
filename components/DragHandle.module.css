@@ -1,0 +1,71 @@
+.dragHandle {
+  position: relative;
+  width: 8px;
+  height: 5px;
+}
+.ellipse_7 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_9 {
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_8 {
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(0%);
+  bottom: calc(60%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_10 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(75%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_11 {
+  position: absolute;
+  left: calc(75%);
+  right: calc(0%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_12 {
+  position: absolute;
+  left: calc(37.5%);
+  right: calc(37.5%);
+  width: calc(25%);
+  top: calc(60%);
+  bottom: calc(0%);
+  height: calc(40%);
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
