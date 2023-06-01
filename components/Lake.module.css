@@ -1,0 +1,17 @@
+.lake {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: 562.43px;
+  position: relative;
+}
+.lakeImage {
+  width: 376px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
