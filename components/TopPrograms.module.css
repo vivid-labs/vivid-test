@@ -1,0 +1,38 @@
+.topPrograms {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 36px;
+  height: fit-content;
+  padding-top: 56px;
+  padding-bottom: 56px;
+  width: 1440px;
+  background-color: rgb(13, 17, 20);
+  position: relative;
+}
+.topProgramsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 60px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.ourProgramsAreCompiledByTheBestGuidesEachTouristWillBeAbleToChooseAProgramAccordingToTheirLevel {
+  height: fit-content;
+  text-align: center;
+  width: 534px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.topProgramsDiv {
+  position: relative;
+  width: 1200px;
+  height: 562px;
+}

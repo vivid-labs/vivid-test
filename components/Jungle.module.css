@@ -1,0 +1,17 @@
+.jungle {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: 282.12px;
+  position: relative;
+}
+.jungleImage {
+  width: 376px;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
