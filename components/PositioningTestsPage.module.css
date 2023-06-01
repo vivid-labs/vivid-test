@@ -1,0 +1,272 @@
+.positioningTestsPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 67px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+}
+.city {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.background {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.lake {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.lakeImage {
+  width: 376px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.cityDiv {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 360px;
+  top: 0px;
+}
+.backgroundDiv {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.camping {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.campingImage {
+  width: 376px;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.cityDiv1 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 180px;
+  top: 382px;
+}
+.backgroundDiv1 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.jungle {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.jungleImage {
+  width: 376px;
+  height: 282.12px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.simplifiedFrameImages {
+  position: relative;
+  width: 788px;
+  height: 562px;
+}
+.cityDiv2 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.cityDiv3 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 360px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.cityDiv4 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 180px;
+  top: 382px;
+  background-color: rgb(255, 255, 255);
+}
+.frameImages {
+  position: relative;
+  width: 788px;
+  height: 562px;
+}
+.cityDiv5 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.backgroundDiv2 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.lakeDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.lakeImage1 {
+  width: 376px;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.cityDiv6 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 360px;
+  top: 0px;
+}
+.backgroundDiv3 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.campingDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.campingImage1 {
+  width: 376px;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
+.cityDiv7 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 412px;
+  height: 180px;
+  top: 382px;
+}
+.backgroundDiv4 {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.jungleDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.jungleImage1 {
+  width: 376px;
+  height: 282.12px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}
