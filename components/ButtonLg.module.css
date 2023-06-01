@@ -1,0 +1,718 @@
+.buttonLg {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 36.8px;
+  padding-right: 36.8px;
+  padding-top: 34.8px;
+  padding-bottom: 34.8px;
+  border-radius: 73.6px;
+  position: relative;
+  border-width: 1.84px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnPlayIcnSm {
+  rotate: -0deg;
+  width: 19px;
+  height: 23px;
+}
+.buttonLgComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 36.8px;
+  border-radius: 9.2px;
+  position: relative;
+  border-width: 1.84px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnPlayIcnSmImage {
+  rotate: -0deg;
+  width: 19px;
+  height: 23px;
+}
+.buttonLgComponent1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 36.8px;
+  padding-right: 36.8px;
+  padding-top: 34.8px;
+  padding-bottom: 34.8px;
+  border-radius: 73.6px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnPlayIcnSmImage1 {
+  rotate: -0deg;
+  width: 19px;
+  height: 23px;
+}
+.buttonLgComponent2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 36.8px;
+  border-radius: 9.2px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnPlayIcnSmImage2 {
+  rotate: -0deg;
+  width: 19px;
+  height: 23px;
+}
+.buttonLgComponent3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 40px;
+  position: relative;
+  height: 69.25px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnSm {
+  rotate: -0deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 40px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnSm {
+  rotate: 180deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 40px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXs {
+  width: 24px;
+  height: 24px;
+}
+.buttonLgComponent6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.icnArrowDownIcnSm {
+  rotate: 90deg;
+  width: 12px;
+  height: 21px;
+}
+.buttonLgComponent7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage {
+  width: 24px;
+  height: 24px;
+}
+.h3Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h3Text1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 5px;
+  position: relative;
+  height: 69.25px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnSmImage {
+  rotate: -0deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnSmImage {
+  rotate: 180deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent11 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage1 {
+  width: 24px;
+  height: 24px;
+}
+.buttonLgComponent12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h3Text2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.icnArrowDownIcnSmImage {
+  rotate: 90deg;
+  width: 12px;
+  height: 21px;
+}
+.buttonLgComponent13 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage2 {
+  width: 24px;
+  height: 24px;
+}
+.h3Text3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent14 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h3Text4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(35, 166, 240);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent15 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 40px;
+  position: relative;
+  height: 69.25px;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnSmImage1 {
+  rotate: -0deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent16 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 40px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnSmImage1 {
+  rotate: 180deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent17 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 40px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage3 {
+  width: 24px;
+  height: 24px;
+}
+.buttonLgComponent18 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h3Text5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.icnArrowDownIcnSmImage1 {
+  rotate: 90deg;
+  width: 12px;
+  height: 21px;
+}
+.buttonLgComponent19 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage4 {
+  width: 24px;
+  height: 24px;
+}
+.h3Text6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent20 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 40px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h3Text7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent21 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 5px;
+  position: relative;
+  height: 69.25px;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnSmImage2 {
+  rotate: -0deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnSmImage2 {
+  rotate: 180deg;
+  width: 15px;
+  height: 25px;
+}
+.buttonLgComponent23 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage5 {
+  width: 24px;
+  height: 24px;
+}
+.buttonLgComponent24 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h3Text8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.icnArrowDownIcnSmImage2 {
+  rotate: 90deg;
+  width: 12px;
+  height: 21px;
+}
+.buttonLgComponent25 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage6 {
+  width: 24px;
+  height: 24px;
+}
+.h3Text9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
+.buttonLgComponent26 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h3Text10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.10000000149011612px;
+  line-height: 32px;
+}
