@@ -1,0 +1,17 @@
+.camping {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: 220.37px;
+  position: relative;
+}
+.campingImage {
+  width: 376px;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 20px;
+}

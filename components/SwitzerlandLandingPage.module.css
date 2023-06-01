@@ -1,0 +1,11 @@
+.switzerlandLandingPage {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: absolute;
+  width: 1440px;
+  background-color: rgb(13, 14, 16);
+}

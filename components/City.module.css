@@ -1,0 +1,188 @@
+.city {
+  overflow: hidden;
+  border-radius: 20px;
+  width: 376px;
+  height: 562px;
+  position: relative;
+}
+.background {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+}
+.rectangle_1 {
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    0deg,
+    rgb(13, 14, 16, 0.63) 0%,
+    rgb(217, 217, 217, 0) 100%
+  );
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 432px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 27px;
+  top: 25px;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.title {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-family: Quicksand;
+  font-weight: 600;
+}
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.ticket {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.ticketImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.text_80 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.timeCircle {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.timeCircleImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.text3Hours {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.image {
+  width: 30px;
+  height: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255, 0.37);
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.nameText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.position {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
