@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { TopProgramsPage } from "../components/TopProgramsPage";
 import { SwitzerlandLandingPage } from "../components/SwitzerlandLandingPage";
 
 export default function Home() {
