@@ -1,0 +1,216 @@
+.trendingCollection {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 60px;
+  height: fit-content;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 1046px;
+}
+.heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.trendingCollectionText {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.subhead {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutOurWeeklyUpdatedTrendingCollection {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.collectionCardRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+}
+.trendingCollectionComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.headingDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.trendingCollectionText1 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.subheadDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutOurWeeklyUpdatedTrendingCollectionText {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.collectionSlider {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.trendingCollectionComponent1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.headingDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.trendingCollectionText2 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.subheadDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutOurWeeklyUpdatedTrendingCollectionText1 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.collectionSliderDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}

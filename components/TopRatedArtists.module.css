@@ -1,0 +1,319 @@
+.topRatedArtists {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 60px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineAndButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topCreators {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.subhead {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplace {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artistCardsGrid {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCardsRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCardsRowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCardsRowDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topRatedArtistsComponent {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineAndButtonDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.sectionHeadlineDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.headingDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topCreatorsText {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.subheadDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplaceText {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCardsGridDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.artistCardsRowDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCardsRowDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.artistCardsRowDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topRatedArtistsComponent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineAndButtonDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.sectionHeadlineDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.headingDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topCreatorsText1 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.subheadDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplaceText1 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistCardsRowDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.sectionHeadlineAndButtonDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
