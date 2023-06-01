@@ -1,0 +1,159 @@
+.howItWorks {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 48px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.howItWorksText {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.findOutHowToGetStarted {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.cardRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.howItWorksComponent {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.howItWorksText1 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.findOutHowToGetStartedText {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.cardRowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+}
+.howItWorksComponent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+  position: relative;
+}
+.sectionHeadlineDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
+.howItWorksText2 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.findOutHowToGetStartedText1 {
+  height: fit-content;
+  width: 100%;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.cardRowDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+}
