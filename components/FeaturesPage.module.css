@@ -1,0 +1,10 @@
+.featuresPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
