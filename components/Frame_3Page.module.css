@@ -1,0 +1,7 @@
+.frame_3Page {
+  overflow: hidden;
+  position: absolute;
+  width: 160px;
+  height: 63px;
+  background-color: rgb(255, 255, 255);
+}
