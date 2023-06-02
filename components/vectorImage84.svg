@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" d="M22.9844 8.29295V1.51564L24 0.589844V9.27734C24 11.4864 22.2091 13.2773 20 13.2773H9.3711C8.5016 13.2773 7.65581 13.5606 6.96171 14.0843L0.328125 19.0898L6.8972 13.2935C7.628 12.6487 8.5691 12.2929 9.5437 12.2929H18.9844C21.1935 12.2929 22.9844 10.502 22.9844 8.29295Z" fill="url(#paint0_radial_1_1939)"/>
+<defs>
+<radialGradient id="paint0_radial_1_1939" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.1641 7.85544) rotate(90) scale(11.2344 11.8359)">
+<stop stop-color="#5415C5"/>
+<stop offset="1" stop-color="#7342CA" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

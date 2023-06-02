@@ -1,0 +1,5 @@
+<svg preserveAspectRatio="none" width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" d="M7.28033 3.51654C6.98744 3.22365 6.51256 3.22365 6.21967 3.51654C5.92678 3.80943 5.92678 4.28431 6.21967 4.5772L7.28033 3.51654ZM11 8.29687L11.5303 8.8272C11.8232 8.53431 11.8232 8.05943 11.5303 7.76654L11 8.29687ZM6.21967 12.0166C5.92678 12.3095 5.92678 12.7843 6.21967 13.0772C6.51256 13.3701 6.98744 13.3701 7.28033 13.0772L6.21967 12.0166ZM6.21967 4.5772L10.4697 8.8272L11.5303 7.76654L7.28033 3.51654L6.21967 4.5772ZM10.4697 7.76654L6.21967 12.0166L7.28033 13.0772L11.5303 8.8272L10.4697 7.76654Z" fill="white"/>
+<path vector-effect="non-scaling-stroke" d="M1.75 8.29688H11Z" fill="white"/>
+<path vector-effect="non-scaling-stroke" d="M1.75 8.29688H11" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="10 10"/>
+</svg>

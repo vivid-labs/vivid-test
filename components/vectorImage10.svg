@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" width="29" height="12" viewBox="0 0 29 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" d="M0.842773 1.98325C0.842773 0.900304 1.72065 0.0224609 2.80356 0.0224609H26.333C27.4159 0.0224609 28.2938 0.900304 28.2938 1.98325V9.82638C28.2938 10.9093 27.4159 11.7872 26.333 11.7872H2.80356C1.72065 11.7872 0.842773 10.9093 0.842773 9.82638V1.98325Z" fill="url(#paint0_linear_1_2816)"/>
+<defs>
+<linearGradient vector-effect="non-scaling-stroke" id="paint0_linear_1_2816" x1="2.31336" y1="-6.35009" x2="18.4898" y2="18.6499" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFAB70"/>
+<stop offset="1" stop-color="#FB8532"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="none" width="169" height="147" viewBox="0 0 169 147" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
+<path vector-effect="non-scaling-stroke" d="M0 20.2969C0 9.25088 8.9543 0.296875 20 0.296875H149C160.046 0.296875 169 9.25088 169 20.2969V105.673C169 116.718 160.046 125.673 149 125.673H71.66C69.823 125.673 68.022 126.179 66.454 127.135L35.765 145.846C31.807 148.26 26.7236 145.463 26.6427 140.828L26.5299 134.362C26.4458 129.539 22.5116 125.673 17.6875 125.673C7.919 125.673 0 117.754 0 107.985V20.2969Z" fill="url(#paint0_linear_1_1971)" fill-opacity="0.1"/>
+<path vector-effect="non-scaling-stroke" d="M1 20.2969C1 9.80387 9.5066 1.29688 20 1.29688H149C159.493 1.29688 168 9.80387 168 20.2969V105.673C168 116.166 159.493 124.673 149 124.673H71.66C69.64 124.673 67.659 125.229 65.934 126.281L35.245 144.992C31.946 147.004 27.71 144.673 27.6426 140.811L27.5298 134.345C27.4361 128.976 23.0571 124.673 17.6875 124.673C8.4713 124.673 1 117.202 1 107.985V20.2969Z" stroke="url(#paint1_linear_1_1971)" stroke-opacity="0.6" stroke-width="2"/>
+</g>
+<defs>
+<linearGradient vector-effect="non-scaling-stroke" id="paint0_linear_1_1971" x1="67.958" y1="0.296874" x2="148.285" y2="95.5369" gradientUnits="userSpaceOnUse">
+<stop stop-color="#60E7E9"/>
+<stop offset="1" stop-color="white" stop-opacity="0.1"/>
+</linearGradient>
+<linearGradient vector-effect="non-scaling-stroke" id="paint1_linear_1_1971" x1="115.349" y1="5.78787" x2="12.0156" y2="95.8959" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.33"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
