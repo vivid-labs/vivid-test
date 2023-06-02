@@ -1,0 +1,386 @@
+.airbnbSearch {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: relative;
+  box-shadow: 0px 4px 6px rgb(31, 41, 55, 0.1),
+    0px 2px 4px rgb(31, 41, 55, 0.06);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 231, 235);
+  background-color: rgb(255, 255, 255);
+}
+.attribute {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.value {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.divider {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.valueText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.dividerImage {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.valueText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.iconButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.iconButtonBase {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 4px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  height: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(222, 49, 81);
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
+.airbnbSearchComponent {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 300px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 231, 235);
+  background-color: rgb(255, 255, 255);
+}
+.attributeDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.valueText2 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.iconButtonDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.iconButtonBaseDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 4px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  height: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(222, 49, 81);
+}
+.iconImage {
+  width: 20px;
+  height: 20px;
+}
+.airbnbSearchComponent1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: relative;
+  width: 848px;
+  background-color: rgb(255, 255, 255);
+}
+.attributeDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 193px;
+}
+.attributeText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.valueText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.dividerImage1 {
+  rotate: 90deg;
+  width: 32px;
+  height: 0px;
+}
+.attributeDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.attributeText1 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.valueText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.dividerImage2 {
+  rotate: 90deg;
+  width: 32px;
+  height: 0px;
+}
+.attributeDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.attributeText2 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.valueText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.dividerImage3 {
+  rotate: 90deg;
+  width: 32px;
+  height: 0px;
+}
+.attributeDiv6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.attributeText3 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.valueText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(107, 114, 128);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+}
+.iconButtonDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.iconButtonBaseDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  height: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(222, 49, 81);
+}
+.iconImage1 {
+  width: 20px;
+  height: 20px;
+}
