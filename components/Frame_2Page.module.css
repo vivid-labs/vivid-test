@@ -1,0 +1,43 @@
+.frame_2Page {
+  overflow: hidden;
+  position: absolute;
+  width: 642px;
+  height: 332px;
+  background-color: rgb(255, 255, 255);
+}
+.pregame {
+  position: absolute;
+  width: 211px;
+  left: 33px;
+  height: 207px;
+  top: 62px;
+}
+.pregameImage {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.pregameDiv {
+  position: absolute;
+  width: 211px;
+  left: 392px;
+  height: 205px;
+  top: 63px;
+}
+.pregameImage1 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
