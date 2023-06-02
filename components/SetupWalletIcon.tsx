@@ -1,0 +1,92 @@
+import styles from "./SetupWalletIcon.module.css";
+import vector_78 from "./vector_78.svg";
+import group_6 from "./group_6.svg";
+import vector_77 from "./vector_77.svg";
+import vector_17 from "./vector_17.svg";
+import vector_76 from "./vector_76.svg";
+import vector_75 from "./vector_75.svg";
+import vector_74 from "./vector_74.svg";
+import vector_73 from "./vector_73.svg";
+import vector_72 from "./vector_72.svg";
+import vector_71 from "./vector_71.svg";
+import vector_70 from "./vector_70.svg";
+import vector_69 from "./vector_69.svg";
+import vector_68 from "./vector_68.svg";
+import vector_67 from "./vector_67.svg";
+import vector_66 from "./vector_66.svg";
+import vector_65 from "./vector_65.svg";
+import vector_64 from "./vector_64.svg";
+import vector_63 from "./vector_63.svg";
+import vector_62 from "./vector_62.svg";
+import vector_61 from "./vector_61.svg";
+import vector_60 from "./vector_60.svg";
+import vector_59 from "./vector_59.svg";
+import vector_58 from "./vector_58.svg";
+import vector_57 from "./vector_57.svg";
+import vector_56 from "./vector_56.svg";
+import vector_55 from "./vector_55.svg";
+import vector_54 from "./vector_54.svg";
+import vector_53 from "./vector_53.svg";
+import vector_52 from "./vector_52.svg";
+import vector_51 from "./vector_51.svg";
+import vector_50 from "./vector_50.svg";
+import vector_49 from "./vector_49.svg";
+import vector_48 from "./vector_48.svg";
+import vector_47 from "./vector_47.svg";
+import vector_46 from "./vector_46.svg";
+import vector_45 from "./vector_45.svg";
+import vector_44 from "./vector_44.svg";
+import vector_43 from "./vector_43.svg";
+import vector_42 from "./vector_42.svg";
+import vector_41 from "./vector_41.svg";
+import vector_40 from "./vector_40.svg";
+import vector_39 from "./vector_39.svg";
+
+export const SetupWalletIcon = ({ style }: { style?: any }) => {
+  return (
+    <div style={style} className={styles.setupWalletIcon}>
+      <img src={vector_78.src} className={styles.vector} />
+      <img src={group_6.src} className={styles.group} />
+      <img src={vector_77.src} className={styles.vectorImage} />
+      <img src={vector_17.src} className={styles.vectorImage1} />
+      <img src={vector_76.src} className={styles.vectorImage2} />
+      <img src={vector_75.src} className={styles.vectorImage3} />
+      <img src={vector_74.src} className={styles.vectorImage4} />
+      <img src={vector_73.src} className={styles.vectorImage5} />
+      <img src={vector_72.src} className={styles.vectorImage6} />
+      <img src={vector_71.src} className={styles.vectorImage7} />
+      <img src={vector_70.src} className={styles.vectorImage8} />
+      <img src={vector_69.src} className={styles.vectorImage9} />
+      <img src={vector_68.src} className={styles.vectorImage10} />
+      <img src={vector_67.src} className={styles.vectorImage11} />
+      <img src={vector_66.src} className={styles.vectorImage12} />
+      <img src={vector_65.src} className={styles.vectorImage13} />
+      <img src={vector_64.src} className={styles.vectorImage14} />
+      <img src={vector_63.src} className={styles.vectorImage15} />
+      <img src={vector_62.src} className={styles.vectorImage16} />
+      <img src={vector_61.src} className={styles.vectorImage17} />
+      <img src={vector_60.src} className={styles.vectorImage18} />
+      <img src={vector_59.src} className={styles.vectorImage19} />
+      <img src={vector_58.src} className={styles.vectorImage20} />
+      <img src={vector_57.src} className={styles.vectorImage21} />
+      <img src={vector_56.src} className={styles.vectorImage22} />
+      <img src={vector_55.src} className={styles.vectorImage23} />
+      <img src={vector_54.src} className={styles.vectorImage24} />
+      <img src={vector_53.src} className={styles.vectorImage25} />
+      <img src={vector_52.src} className={styles.vectorImage26} />
+      <img src={vector_51.src} className={styles.vectorImage27} />
+      <img src={vector_50.src} className={styles.vectorImage28} />
+      <img src={vector_49.src} className={styles.vectorImage29} />
+      <img src={vector_48.src} className={styles.vectorImage30} />
+      <img src={vector_47.src} className={styles.vectorImage31} />
+      <img src={vector_46.src} className={styles.vectorImage32} />
+      <img src={vector_45.src} className={styles.vectorImage33} />
+      <img src={vector_44.src} className={styles.vectorImage34} />
+      <img src={vector_43.src} className={styles.vectorImage35} />
+      <img src={vector_42.src} className={styles.vectorImage36} />
+      <img src={vector_41.src} className={styles.vectorImage37} />
+      <img src={vector_40.src} className={styles.vectorImage38} />
+      <img src={vector_39.src} className={styles.vectorImage39} />
+    </div>
+  );
+};

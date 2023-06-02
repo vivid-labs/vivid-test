@@ -1,0 +1,384 @@
+.setupWalletIcon {
+  overflow: hidden;
+  position: relative;
+  width: 276px;
+  height: 276px;
+}
+.vector {
+  position: absolute;
+  left: calc(8.333333333333332%);
+  right: calc(8.333333333333332%);
+  width: calc(83.33333333333334%);
+  top: calc(8.333333333333332%);
+  bottom: calc(8.333333333333332%);
+  height: calc(83.33333333333334%);
+}
+.group {
+  position: absolute;
+  left: 54px;
+  right: 54px;
+  width: auto;
+  top: 54px;
+  bottom: 54px;
+  height: auto;
+}
+.vectorImage {
+  position: absolute;
+  left: calc(44.927536231884055%);
+  right: calc(50.65471262171648%);
+  width: calc(4.417751146399468%);
+  top: calc(12.681159420289855%);
+  bottom: calc(82.90112260459127%);
+  height: calc(4.417717975118876%);
+}
+.vectorImage1 {
+  position: absolute;
+  left: calc(14.855072463768115%);
+  right: calc(80.727209561113%);
+  width: calc(4.41771797511889%);
+  top: calc(70.65217391304348%);
+  bottom: calc(24.930074940557066%);
+  height: calc(4.41775114639945%);
+}
+.vectorImage2 {
+  position: absolute;
+  left: calc(84.05869525411855%);
+  right: calc(11.523548070935236%);
+  width: calc(4.417756674946217%);
+  top: calc(67.7536231884058%);
+  bottom: calc(27.828625665194746%);
+  height: calc(4.417751146399457%);
+}
+.vectorImage3 {
+  position: absolute;
+  left: calc(24.41767264103544%);
+  right: calc(70.50307073454925%);
+  width: calc(5.079256624415308%);
+  top: calc(21.519050045289855%);
+  bottom: calc(73.40169471243154%);
+  height: calc(5.079255242278606%);
+}
+.vectorImage4 {
+  position: absolute;
+  left: calc(77.79746124709862%);
+  right: calc(16.6350561639537%);
+  width: calc(5.5674825889476764%);
+  top: calc(78.15896739130434%);
+  bottom: calc(16.27355001974797%);
+  height: calc(5.567482588947687%);
+}
+.vectorImage5 {
+  position: absolute;
+  left: calc(16.893406190733977%);
+  right: calc(78.6048097886901%);
+  width: calc(4.501784020575926%);
+  top: calc(83.7732397991678%);
+  bottom: calc(11.900692746259164%);
+  height: calc(4.326067454573039%);
+}
+.vectorImage6 {
+  position: absolute;
+  left: calc(82.2189552196558%);
+  right: calc(13.360762596130371%);
+  width: calc(4.420282184213832%);
+  top: calc(24.21466993248981%);
+  bottom: calc(71.34437077287315%);
+  height: calc(4.4409592946370395%);
+}
+.vectorImage7 {
+  position: absolute;
+  left: calc(61.97424626004868%);
+  right: calc(23.994530111119367%);
+  width: calc(14.031223628831953%);
+  top: calc(46.93005326865376%);
+  bottom: calc(44.55334483713344%);
+  height: calc(8.516601894212805%);
+}
+.vectorImage8 {
+  position: absolute;
+  left: calc(71.20526631673178%);
+  right: calc(25.581373684648156%);
+  width: calc(3.2133599986200636%);
+  top: calc(48.83968519127887%);
+  bottom: calc(47.9469555011694%);
+  height: calc(3.213359307551734%);
+}
+.vectorImage9 {
+  position: absolute;
+  left: calc(71.93149069081181%);
+  right: calc(26.309483465941057%);
+  width: calc(1.7590258432471302%);
+  top: calc(49.56673331882643%);
+  bottom: calc(48.674240837926455%);
+  height: calc(1.759025843247116%);
+}
+.vectorImage10 {
+  position: absolute;
+  left: calc(22.98833460047625%);
+  right: calc(30.088633385257445%);
+  width: calc(46.923032014266305%);
+  top: calc(36.110258793485336%);
+  bottom: calc(25.55301500403363%);
+  height: calc(38.33672620248103%);
+}
+.vectorImage11 {
+  position: absolute;
+  left: calc(27.106415016063746%);
+  right: calc(32.489735147227414%);
+  width: calc(40.40384983670884%);
+  top: calc(23.940454013105754%);
+  bottom: calc(42.36567400503849%);
+  height: calc(33.69387198185576%);
+}
+.vectorImage12 {
+  position: absolute;
+  left: calc(58.05003401161968%);
+  right: calc(38.26612735140151%);
+  width: calc(3.6838386369788125%);
+  top: calc(41.64696569028108%);
+  bottom: calc(54.669239901114196%);
+  height: calc(3.683794408604726%);
+}
+.vectorImage13 {
+  position: absolute;
+  left: calc(60.16471973363904%);
+  right: calc(36.151481365811996%);
+  width: calc(3.6837989005489646%);
+  top: calc(40.827565953351446%);
+  bottom: calc(55.48863307289456%);
+  height: calc(3.6838009737539963%);
+}
+.vectorImage14 {
+  position: absolute;
+  left: calc(30.7783375615659%);
+  right: calc(61.80969390316285%);
+  width: calc(7.411968535271242%);
+  top: calc(36.07967763707258%);
+  bottom: calc(57.68147966136104%);
+  height: calc(6.238842701566384%);
+}
+.vectorImage15 {
+  position: absolute;
+  left: calc(53.36362313533175%);
+  right: calc(41.31491909856382%);
+  width: calc(5.32145776610443%);
+  top: calc(27.951138261435688%);
+  bottom: calc(68.44661857770838%);
+  height: calc(3.6022431608559344%);
+}
+.vectorImage16 {
+  position: absolute;
+  left: calc(33.18157196044922%);
+  right: calc(65.7716301040373%);
+  width: calc(1.0467979355134815%);
+  top: calc(46.3251915530882%);
+  bottom: calc(51.87772944353629%);
+  height: calc(1.797079003375508%);
+}
+.vectorImage17 {
+  position: absolute;
+  left: calc(34.1192162555197%);
+  right: calc(64.21659355578215%);
+  width: calc(1.664190188698143%);
+  top: calc(45.88035362354223%);
+  bottom: calc(52.08486042160919%);
+  height: calc(2.03478595484858%);
+}
+.vectorImage18 {
+  position: absolute;
+  left: calc(35.66721211309019%);
+  right: calc(62.882526370062344%);
+  width: calc(1.450261516847469%);
+  top: calc(45.138099228126414%);
+  bottom: calc(52.80949585679649%);
+  height: calc(2.0524049150770978%);
+}
+.vectorImage19 {
+  position: absolute;
+  left: calc(37.583210157311484%);
+  right: calc(61.05564962262693%);
+  width: calc(1.3611402200615856%);
+  top: calc(44.51555445574332%);
+  bottom: calc(53.65036933318429%);
+  height: calc(1.834076211072393%);
+}
+.vectorImage20 {
+  position: absolute;
+  left: calc(40.439097086588546%);
+  right: calc(58.10600778330928%);
+  width: calc(1.454895130102173%);
+  top: calc(43.28317780425583%);
+  bottom: calc(54.65877470762833%);
+  height: calc(2.0580474881158395%);
+}
+.vectorImage21 {
+  position: absolute;
+  left: calc(42.204121575839274%);
+  right: calc(56.406886335732274%);
+  width: calc(1.3889920884284521%);
+  top: calc(42.756680474765055%);
+  bottom: calc(55.32060930694359%);
+  height: calc(1.922710218291357%);
+}
+.vectorImage22 {
+  position: absolute;
+  left: calc(43.496568652166836%);
+  right: calc(55.40651342143184%);
+  width: calc(1.096917926401325%);
+  top: calc(42.06739232160043%);
+  bottom: calc(55.86418103480685%);
+  height: calc(2.0684266435927228%);
+}
+.vectorImage23 {
+  position: absolute;
+  left: calc(45.256235979605414%);
+  right: calc(53.39286059573076%);
+  width: calc(1.3509034246638265%);
+  top: calc(41.642963022425555%);
+  bottom: calc(56.489381928374804%);
+  height: calc(1.8676550491996409%);
+}
+.vectorImage24 {
+  position: absolute;
+  left: calc(48.295847574869796%);
+  right: calc(50.30877097793247%);
+  width: calc(1.3953814471977353%);
+  top: calc(40.390827344811484%);
+  bottom: calc(57.684406335803054%);
+  height: calc(1.924766319385462%);
+}
+.vectorImage25 {
+  position: absolute;
+  left: calc(50.01319664112036%);
+  right: calc(48.55705810629804%);
+  width: calc(1.4297452525816041%);
+  top: calc(39.755815699480586%);
+  bottom: calc(58.38333437408226%);
+  height: calc(1.8608499264371545%);
+}
+.vectorImage26 {
+  position: absolute;
+  left: calc(51.590391518413156%);
+  right: calc(47.36283274664395%);
+  width: calc(1.0467757349428908%);
+  top: calc(39.20472186544667%);
+  bottom: calc(58.9982347211976%);
+  height: calc(1.7970434133557305%);
+}
+.vectorImage27 {
+  position: absolute;
+  left: calc(52.52741385197294%);
+  right: calc(45.808889382127404%);
+  width: calc(1.6636967658996582%);
+  top: calc(38.757105841152914%);
+  bottom: calc(59.2081776563672%);
+  height: calc(2.0347165024798883%);
+}
+.vectorImage28 {
+  position: absolute;
+  left: calc(55.614117608554125%);
+  right: calc(42.93542132861372%);
+  width: calc(1.4504610628321544%);
+  top: calc(37.421795941781305%);
+  bottom: calc(60.525873605755784%);
+  height: calc(2.052330452462911%);
+}
+.vectorImage29 {
+  position: absolute;
+  left: calc(57.52959320510643%);
+  right: calc(41.10927072124205%);
+  width: calc(1.3611360736515223%);
+  top: calc(36.79797131082286%);
+  bottom: calc(61.367345201796375%);
+  height: calc(1.8346834873807651%);
+}
+.vectorImage30 {
+  position: absolute;
+  left: calc(58.84742736816406%);
+  right: calc(39.69767421915911%);
+  width: calc(1.454898412676826%);
+  top: calc(36.16130110146343%);
+  bottom: calc(61.78051233291626%);
+  height: calc(2.0581865656203107%);
+}
+.vectorImage31 {
+  position: absolute;
+  left: calc(60.61225559400476%);
+  right: calc(37.998555363088414%);
+  width: calc(1.3891890429068283%);
+  top: calc(35.63484523607337%);
+  bottom: calc(62.44235176970994%);
+  height: calc(1.9228029942166884%);
+}
+.vectorImage32 {
+  position: absolute;
+  left: calc(35.541559302288555%);
+  right: calc(48.48768261895663%);
+  width: calc(15.970758078754805%);
+  top: calc(45.0739128002222%);
+  bottom: calc(48.09275088102921%);
+  height: calc(6.833336318748586%);
+}
+.vectorImage33 {
+  position: absolute;
+  left: calc(36.20365806247877%);
+  right: calc(52.40253503771795%);
+  width: calc(11.393806899803273%);
+  top: calc(48.556159199147984%);
+  bottom: calc(46.38079767641814%);
+  height: calc(5.063043124433875%);
+}
+.vectorImage34 {
+  position: absolute;
+  left: calc(44.22138048254926%);
+  right: calc(47.90719833926878%);
+  width: calc(7.871421178181961%);
+  top: calc(30.112982487332996%);
+  bottom: calc(66.33537092070648%);
+  height: calc(3.5516465919605196%);
+}
+.vectorImage35 {
+  position: absolute;
+  left: calc(27.720326962678328%);
+  right: calc(32.69964024640512%);
+  width: calc(39.580032790916555%);
+  top: calc(49.813765373782836%);
+  bottom: calc(28.346374069435008%);
+  height: calc(21.839860556782156%);
+}
+.vectorImage36 {
+  position: absolute;
+  left: calc(27.720326962678328%);
+  right: calc(32.69964024640512%);
+  width: calc(39.580032790916555%);
+  top: calc(49.813765373782836%);
+  bottom: calc(28.346374069435008%);
+  height: calc(21.839860556782156%);
+}
+.vectorImage37 {
+  position: absolute;
+  left: calc(22.691587088764578%);
+  right: calc(32.16413000355596%);
+  width: calc(45.14428290767946%);
+  top: calc(42.16996897821841%);
+  bottom: calc(24.850010526353035%);
+  height: calc(32.98002049542856%);
+}
+.vectorImage38 {
+  position: absolute;
+  left: calc(58.25036643207937%);
+  right: calc(38.62609621407329%);
+  width: calc(3.1235373538473397%);
+  top: calc(56.62034076193104%);
+  bottom: calc(39.85538413559181%);
+  height: calc(3.524275102477148%);
+}
+.vectorImage39 {
+  position: absolute;
+  left: calc(59.086332459380664%);
+  right: calc(39.46169649345288%);
+  width: calc(1.4519710471664595%);
+  top: calc(57.56391442340353%);
+  bottom: calc(40.79870106517405%);
+  height: calc(1.6373845114224181%);
+}
