@@ -1,0 +1,9 @@
+.vectorPage {
+  position: absolute;
+  left: calc(14.84375%);
+  right: calc(14.84375%);
+  width: calc(70.3125%);
+  top: calc(14.84375%);
+  bottom: calc(14.84375%);
+  height: calc(70.3125%);
+}
