@@ -1,0 +1,196 @@
+.framePage {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 1348px;
+  top: 10916.45px;
+  background-color: rgb(13, 17, 23);
+}
+.image {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.imageImage {
+  transform: rotate(0deg) scale(185.27%, 100%) translate(-23.01%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.frame {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 34.27px;
+  bottom: -1px;
+}
+.frameImage {
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 34.27px;
+  top: 0px;
+}
+.frameDiv {
+  position: absolute;
+  width: 1280px;
+  left: 80px;
+  height: 333px;
+  top: 112px;
+}
+.thePlaceForAnyoneFromAnywhereToBuildAnything {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 818.37px;
+  left: 230.91px;
+  height: 130px;
+  top: 3px;
+  color: rgb(255, 255, 255);
+  font-size: 64px;
+  font-family: Helvetica;
+  font-weight: 700;
+  letter-spacing: -1.9199999570846558px;
+  line-height: 68px;
+}
+.whetherYouReScalingYourStartupOrJustLearningHowToCodeGitHubIsYourHomeJoinTheWorldSLargestDeveloperPlatformToBuildTheInnovationsThatEmpowerHumanityLetSBuildFromHere {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 700.68px;
+  left: 289.75px;
+  height: 75px;
+  top: 156px;
+  color: rgb(139, 148, 158);
+  font-size: 19px;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: 28px;
+}
+.autoLayoutHorizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 309.55px);
+  top: 276px;
+}
+.frameDiv1 {
+  border-radius: 6px;
+  position: relative;
+  width: 265.84px;
+  height: 57px;
+  background: linear-gradient(
+      180deg,
+      rgb(255, 255, 255, 0.15) 0%,
+      rgb(255, 255, 255, 0) 100%
+    ),
+    linear-gradient(rgb(246, 248, 250), rgb(246, 248, 250));
+}
+.signUpForGitHub {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 39px;
+  top: 19px;
+  color: rgb(13, 17, 23);
+  font-size: 19px;
+  font-family: Helvetica;
+  font-weight: 700;
+  line-height: 20px;
+}
+.frameImage1 {
+  position: absolute;
+  width: 20px;
+  left: calc(50% - -82.92px);
+  height: 20px;
+  top: 18px;
+}
+.frameDiv2 {
+  overflow: hidden;
+  border-radius: 6px;
+  position: relative;
+  box-shadow: inset 0px 0px 0px 1px rgb(255, 255, 255, 0.25);
+  width: 345.25px;
+  height: 57px;
+  background-color: rgb(255, 255, 255, 0);
+}
+.startAFreeEnterpriseTrial {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 44px;
+  top: 19px;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Helvetica;
+  font-weight: 700;
+  line-height: 20px;
+}
+.frameImage2 {
+  position: absolute;
+  width: 20px;
+  left: calc(50% - -122.63px);
+  height: 20px;
+  top: 18px;
+}
+.imageDiv {
+  position: absolute;
+  width: 900px;
+  left: 270px;
+  height: 900px;
+  top: 445px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.imageImage1 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.imageDiv1 {
+  position: absolute;
+  width: 400px;
+  left: calc(50% - 200px);
+  height: 403px;
+  top: 945px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.imageImage2 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
