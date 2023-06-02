@@ -1,0 +1,64 @@
+.screeneqDesktopPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 60px;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.browseCategories {
+  width: 630px;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.categoryCardsGrid {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.categoryCardsRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.categoryCardsRowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
