@@ -1,0 +1,400 @@
+.airbnbNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 1280px;
+}
+.logo {
+  height: 32px;
+  flex: 1 1 0%;
+}
+.pages {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.title {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+}
+.line {
+  width: 16px;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+}
+.pageDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.titleText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+}
+.lineDiv {
+  opacity: 0;
+  width: 16px;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+}
+.pageDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.titleText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 24px;
+}
+.lineDiv1 {
+  opacity: 0;
+  width: 16px;
+  height: 2px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+}
+.right {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.titleText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.globe {
+  width: 24px;
+  height: 24px;
+}
+.profileDropdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 100px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.menu {
+  width: 24px;
+  height: 24px;
+}
+.avatar {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.avatarBase {
+  overflow: hidden;
+  border-radius: 1000px;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(243, 244, 246);
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.airbnbNavComponent {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 1280px;
+}
+.logoImage {
+  height: 32px;
+  flex: 1 1 0%;
+}
+.airbnbSearch {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: relative;
+  box-shadow: 0px 4px 6px rgb(31, 41, 55, 0.1),
+    0px 2px 4px rgb(31, 41, 55, 0.06);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 231, 235);
+  background-color: rgb(255, 255, 255);
+}
+.attribute {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.bordeaux {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.divider {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.feb_19_26 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.dividerImage {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.text2Guests {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.iconButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.iconButtonBase {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 4px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  height: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(222, 49, 81);
+}
+.iconImage {
+  width: 20px;
+  height: 20px;
+}
+.rightDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.titleText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.globeImage {
+  width: 24px;
+  height: 24px;
+}
+.profileDropdownDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 100px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 231, 235);
+  background-color: rgb(255, 255, 255);
+}
+.menuImage {
+  width: 24px;
+  height: 24px;
+}
+.avatarDiv {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.avatarBaseDiv {
+  overflow: hidden;
+  border-radius: 1000px;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(243, 244, 246);
+}
+.iconImage1 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
