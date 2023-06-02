@@ -1,0 +1,124 @@
+.airbnbSearchPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: relative;
+  box-shadow: 0px 4px 6px rgb(31, 41, 55, 0.1),
+    0px 2px 4px rgb(31, 41, 55, 0.06);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 231, 235);
+  background-color: rgb(255, 255, 255);
+}
+.attribute {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.value {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.divider {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.valueText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.dividerImage {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.attributeDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.valueText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.iconButton {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.iconButtonBase {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 4px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  height: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(222, 49, 81);
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
