@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="98" height="98" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M0.464844 0.419434V32.7985V65.1776V97.5567H32.8439V65.1776H65.223V97.5567H97.6021V65.1776H65.223V32.7985H32.8439V0.419434H0.464844Z" fill="url(#paint0_linear_1_3406)"/>
+<defs>
+<linearGradient vector-effect="non-scaling-stroke" id="paint0_linear_1_3406" x1="0.464844" y1="48.9881" x2="97.6021" y2="48.9881" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7B72"/>
+<stop offset="0.5312" stop-color="#DB61A2"/>
+<stop offset="1" stop-color="#D2A8FF"/>
+</linearGradient>
+</defs>
+</svg>
