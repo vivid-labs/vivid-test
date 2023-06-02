@@ -1,0 +1,73 @@
+.rightPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.title {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 20px;
+}
+.globe {
+  width: 24px;
+  height: 24px;
+}
+.profileDropdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 100px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.menu {
+  width: 24px;
+  height: 24px;
+}
+.avatar {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.avatarBase {
+  overflow: hidden;
+  border-radius: 1000px;
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(243, 244, 246);
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
