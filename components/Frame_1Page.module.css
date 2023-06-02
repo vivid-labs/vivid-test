@@ -1,0 +1,9 @@
+.frame_1Page {
+  overflow: hidden;
+  position: absolute;
+  width: 642px;
+  left: 37px;
+  height: 332px;
+  top: 278px;
+  background-color: rgb(255, 255, 255);
+}
