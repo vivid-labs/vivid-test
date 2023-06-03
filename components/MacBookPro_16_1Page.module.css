@@ -1,0 +1,1589 @@
+.macBookPro_16_1Page {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  position: absolute;
+  width: 1728px;
+  background-color: rgb(255, 255, 255);
+}
+.frame_2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-bottom: 184px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(3, 4, 94);
+}
+.frame_1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  position: relative;
+  width: 1728px;
+}
+.frame_7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 144px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.logo {
+  width: 94.41px;
+  height: 24px;
+}
+.frame_6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.rectangle_1 {
+  opacity: 0;
+  width: 1px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.linkDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.textText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.rectangle_1Div {
+  opacity: 0;
+  width: 1px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.linkDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.textText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.rectangle_1Div1 {
+  opacity: 0;
+  width: 1px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.frame_5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.linkDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 10px;
+  position: relative;
+}
+.textText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.rectangle_1Div2 {
+  opacity: 0;
+  width: 1px;
+  height: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.textText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.frame_3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame_20 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.investmentForEveryone {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  font-size: 128px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.investingIsAboutMoreThanJustStocksAndCryptocurrenciesItSAboutYouAndTheFutureYouWantToCreateForYourselfAndYourFamily {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.union {
+  position: absolute;
+  left: calc(50%);
+  right: calc(-27.67741935483871%);
+  width: calc(77.67741935483872%);
+  top: calc(-54.33526011560693%);
+  bottom: calc(74.56647398843931%);
+  height: calc(79.76878612716762%);
+}
+.unionImage {
+  position: absolute;
+  left: calc(58.64516129032258%);
+  right: calc(-36.32258064516129%);
+  width: calc(77.67741935483872%);
+  top: calc(79.76878612716763%);
+  bottom: calc(-59.53757225433526%);
+  height: calc(79.76878612716763%);
+}
+.frame_5Div {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.buttonDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.textText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.buttonDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+.textText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.unionImage1 {
+  position: absolute;
+  left: calc(12.962962962962962%);
+  right: calc(52.19907407407407%);
+  width: calc(34.83796296296297%);
+  top: calc(74.92914685614946%);
+  bottom: calc(-14.022557153778486%);
+  height: calc(39.09341029762903%);
+}
+.frame_8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 64px;
+  position: absolute;
+  opacity: 0.65;
+  width: 128px;
+  left: 227px;
+  height: 128px;
+  top: 252px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.ellipse_1 {
+  height: 100%;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.frame_9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 79px;
+  position: absolute;
+  opacity: 0.7;
+  width: 158px;
+  left: 392px;
+  height: 158px;
+  top: 458px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.ellipse_1Image {
+  height: 100%;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.frame_10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 70px;
+  position: absolute;
+  opacity: 0.75;
+  width: 140px;
+  left: 1226px;
+  height: 140px;
+  top: 397px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(0, 150, 199);
+}
+.ellipse_1Image1 {
+  height: 100%;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.frame_11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 4px;
+  padding: 8px;
+  border-radius: 77px;
+  position: absolute;
+  opacity: 0.6;
+  width: 154px;
+  left: 1354px;
+  height: 154px;
+  top: 162px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: rgb(2, 62, 138);
+}
+.ellipse_1Image2 {
+  height: 100%;
+  flex: 1 1 0%;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 50%;
+}
+.unionImage2 {
+  position: absolute;
+  left: calc(-10.648148148148149%);
+  right: calc(75.81018518518519%);
+  width: calc(34.83796296296296%);
+  top: calc(-0.5665733731144554%);
+  bottom: calc(61.47316307548544%);
+  height: calc(39.09341029762901%);
+}
+.frame_12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  position: relative;
+  width: 100%;
+}
+.frame_18 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 97px;
+  height: fit-content;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 10px;
+  border-style: solid;
+  border-color: rgb(129, 168, 196);
+}
+.frame_13 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame_19 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.appFeaturesThatHelpManageMoneyMoreOrganized {
+  height: fit-content;
+  width: 769px;
+  color: rgb(19, 19, 19);
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.makeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless {
+  height: fit-content;
+  width: 531px;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.buttonDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.textText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.frame_41 {
+  position: absolute;
+  width: 511.84px;
+  left: 688.16px;
+  height: 848px;
+  top: 48px;
+}
+.rectangle {
+  position: absolute;
+  width: 511.84px;
+  left: 511.84px;
+  height: 848px;
+  top: 0px;
+  transform: scale(-100%, 100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.rectangleImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rectangleDiv {
+  position: absolute;
+  rotate: -0deg;
+  width: 457.74px;
+  left: 473.15px;
+  height: 798.28px;
+  top: 16.6px;
+  transform: scale(-100%, 100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.rectangleImage1 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.frame_13Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 96px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+}
+.frame_17 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 16px;
+  position: relative;
+  width: 100%;
+}
+.frame_15 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 747px;
+}
+.frame_13Div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  padding: 48px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(204, 240, 247);
+}
+.frame_32 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.platformsHelpYourMoneyToBeBetter {
+  height: fit-content;
+  width: 651px;
+  color: rgb(19, 19, 19);
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.youNoLongerNeedToGoHomeOrGoToTheBankToDoThisOnlyThroughThisPlatformAllFinancialActivitiesCanBeCompleted {
+  height: fit-content;
+  width: 531px;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_14 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  padding: 48px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(2, 62, 138);
+}
+.frame_24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frame_21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.circleCheck {
+  width: 24px;
+  height: 24px;
+}
+.financialTransactionsBecomeEasier {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.circleCheckImage {
+  width: 24px;
+  height: 24px;
+}
+.acceleratingEconomicTurnover {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frame_23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.circleCheckImage1 {
+  width: 24px;
+  height: 24px;
+}
+.supportingFinancialInclusion {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.circleCheckImage2 {
+  width: 24px;
+  height: 24px;
+}
+.betterFundingAccess {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex: 1 1 0%;
+  position: relative;
+}
+.objectFitCoverOpacity_1371c41ab453127507e1171e4f87b8242a4c3f2c2 {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frame_14Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-bottom: 96px;
+  position: relative;
+  width: 100%;
+}
+.frame_19Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.ourCustomersSays {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(19, 19, 19);
+  font-size: 48px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.makeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamlessText {
+  height: fit-content;
+  text-align: center;
+  width: 531px;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_27 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.frame_29 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.frame_16Div {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  border-radius: 8px;
+  flex: 1 1 0%;
+  position: relative;
+}
+.objectFitCoverOpacity_1941aee40e92e91f20c6599bbd7117696ccfec131 {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frame_28 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 48px;
+  border-radius: 8px;
+  position: relative;
+  width: 768px;
+  background-color: rgb(229, 247, 251);
+}
+.frame_32Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.iHaveBeenUsingThisServiceForThePastYear {
+  height: fit-content;
+  width: 373px;
+  color: rgb(19, 19, 19);
+  font-size: 36px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.theirTeamIsExtremelyKnowledgeableAndAlwaysGoesAboveAndBeyondToHelpMeAchieveMyGoals {
+  height: fit-content;
+  width: 100%;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_33 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.freedaRichards {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.text3YearsOfUsingRaizze {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.image {
+  position: absolute;
+  width: 110px;
+  right: 0px;
+  height: 80px;
+  top: 0px;
+}
+.frame_31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.frame_28Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 48px;
+  border-radius: 8px;
+  position: relative;
+  width: 768px;
+  background-color: rgb(255, 245, 229);
+}
+.frame_32Div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.iWasHesitantToInvestInTheStockMarket {
+  height: fit-content;
+  width: 373px;
+  color: rgb(19, 19, 19);
+  font-size: 36px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.2000000476837158em;
+}
+.theyProvidedMeWithTheEducationAndResourcesINeededToMakeInformedDecisions {
+  height: fit-content;
+  width: 531px;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_33Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.andreaPiacquadio {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.firstYearsOfUsingRaizze {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.imageImage {
+  position: absolute;
+  width: 110px;
+  right: 0px;
+  height: 80px;
+  top: 0px;
+}
+.frame_30 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  border-radius: 8px;
+  flex: 1 1 0%;
+  position: relative;
+}
+.objectFitCoverOpacity_1eb133d237a725d034a910ec712bec40ae2701213 {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.frame_5Div1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.buttonDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  background-color: rgb(255, 109, 0);
+}
+.textText7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.buttonDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 24px;
+  position: relative;
+  height: 48px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(3, 4, 94);
+}
+.textText8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(3, 4, 94);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1em;
+}
+.frame_15Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 96px;
+  height: fit-content;
+  padding-left: 264px;
+  padding-right: 264px;
+  padding-top: 128px;
+  padding-bottom: 64px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(3, 4, 94);
+}
+.frame_37 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.frame_38 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.logoImage {
+  width: 94.41px;
+  height: 24px;
+}
+.stayConnectedWithUs {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_39 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.icons {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.brandFacebook {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.iconsDiv {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.brandInstagram {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.iconsDiv1 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.brandTwitter {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.iconsDiv2 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.brandYoutube {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.frame_36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 144px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frame_34 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.legal {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.frame_35 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linkDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_36Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.learn {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.frame_36Div1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linkDiv6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_37Div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.navigation {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 1em;
+}
+.frame_36Div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.linkDiv10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.linkDiv12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.textText18 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 18px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.frame_40 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.copyright_2022AllRightReserved {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(206, 206, 206);
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.logoDiv {
+  position: relative;
+  width: 76.49px;
+  height: 12px;
+}
+.group_10 {
+  position: absolute;
+  left: 0px;
+  right: 56.34px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.zenve {
+  position: absolute;
+  left: calc(26.956212363890565%);
+  right: calc(0.0000024937374770738247%);
+  width: calc(73.04378514237196%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
