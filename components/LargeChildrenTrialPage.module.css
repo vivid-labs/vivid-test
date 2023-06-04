@@ -1,0 +1,20 @@
+.largeChildrenTrialPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: absolute;
+  width: 150px;
+  left: 31px;
+  height: 50px;
+  top: 74px;
+  background-color: rgb(0, 255, 255);
+}
+.child {
+  overflow: hidden;
+  width: 250px;
+  height: 25px;
+  flex-shrink: 0;
+  background-color: rgb(255, 0, 255);
+  position: relative;
+}
