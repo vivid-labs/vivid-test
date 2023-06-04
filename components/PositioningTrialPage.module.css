@@ -1,0 +1,274 @@
+.positioningTrialPage {
+  position: absolute;
+  width: 917px;
+  left: 65px;
+  height: 400px;
+  top: 81px;
+  background-color: rgb(113, 107, 107);
+}
+.pullTextOut {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: absolute;
+  width: 848px;
+  left: 26px;
+  top: 240px;
+  background-color: rgb(255, 255, 255);
+}
+.guests {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.checkOut {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.checkIn {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.location {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.iconButtonBase {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 100px;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  background-color: rgb(222, 49, 81);
+  position: relative;
+}
+.simplifyIcon {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: absolute;
+  width: 848px;
+  left: 26px;
+  top: 42px;
+  background-color: rgb(255, 255, 255);
+}
+.attribute {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 193px;
+  flex-shrink: 0;
+}
+.locationText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.attributeDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+}
+.checkInText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.attributeDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+}
+.checkOutText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.attributeDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+}
+.guestsAsdfasdfasdfasdfaa {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 162px;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.iconButtonBaseDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 100px;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  background-color: rgb(222, 49, 81);
+  position: relative;
+}
+.minimal {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 32px;
+  height: fit-content;
+  padding-left: 32px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 1000px;
+  position: absolute;
+  width: 848px;
+  left: 26px;
+  top: 141px;
+  background-color: rgb(255, 255, 255);
+}
+.attributeDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+}
+.guestsText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 16px;
+}
+.iconButtonBaseDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 100px;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  background-color: rgb(222, 49, 81);
+  position: relative;
+}
