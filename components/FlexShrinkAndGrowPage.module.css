@@ -1,0 +1,41 @@
+.flexShrinkAndGrowPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 50px;
+  position: absolute;
+  width: 255px;
+  left: 18px;
+  height: 50px;
+  top: 68px;
+  background-color: rgb(0, 255, 255);
+}
+.leftFrame {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 115px;
+  height: 25px;
+  flex-shrink: 0;
+  background-color: rgb(255, 0, 255);
+}
+.rightFrame {
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 159px;
+  height: 15px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 0);
+  position: relative;
+}
+.rightFrameDiv {
+  box-shadow: 0px 1px 2px rgb(31, 41, 55, 0.08);
+  width: 90px;
+  height: 25px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 0);
+  position: relative;
+}
