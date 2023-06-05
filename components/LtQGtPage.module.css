@@ -1,0 +1,27 @@
+.ltQGtPage {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 73px;
+  padding-right: 73px;
+  padding-top: 105px;
+  padding-bottom: 105px;
+  position: absolute;
+  flex-shrink: 0;
+  background-color: rgb(211, 211, 211);
+}
+.ltQGt {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 400;
+}
