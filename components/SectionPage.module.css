@@ -1,0 +1,217 @@
+.sectionPage {
+  position: absolute;
+  width: 980px;
+  left: 22px;
+  height: 113px;
+  top: 2862.13px;
+}
+.div {
+  position: absolute;
+  width: 980px;
+  left: 0px;
+  height: 25px;
+  top: 34px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.moreWaysToShopFindAnAppleStoreOrOtherRetailerNearYou {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 374.68px;
+  left: 0px;
+  height: 14px;
+  top: 1px;
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.orCall_1_800MyApple {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 143.62px;
+  left: 374.48px;
+  height: 14px;
+  top: 1px;
+  color: rgb(110, 110, 115);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv {
+  position: absolute;
+  width: 980px;
+  left: 0px;
+  height: 26px;
+  top: 63px;
+}
+.copyrightCopyright_2023AppleIncAllRightsReserved {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 272.45px;
+  left: 0px;
+  height: 14px;
+  top: 6px;
+  color: rgb(110, 110, 115);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.ul {
+  position: absolute;
+  width: 433.41px;
+  left: 302.25px;
+  height: 21px;
+  top: 0px;
+}
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 13.42px;
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(134, 134, 139);
+}
+.privacyPolicy {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.liDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 14.88px;
+  position: absolute;
+  left: 99.8px;
+  top: 5px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(134, 134, 139);
+}
+.termsOfUse {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.liDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 14.7px;
+  position: absolute;
+  left: 196.05px;
+  top: 5px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(134, 134, 139);
+}
+.salesAndRefunds {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.liDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 11.36px;
+  position: absolute;
+  left: 322.13px;
+  top: 5px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-color: rgb(134, 134, 139);
+}
+.legal {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.siteMap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 49.75px;
+  left: 373.86px;
+  height: 14px;
+  top: 6px;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.unitedStates {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 76.93px;
+  left: 903.27px;
+  height: 14px;
+  top: 69px;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
