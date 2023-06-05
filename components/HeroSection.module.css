@@ -1,0 +1,62 @@
+.heroSection {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 66px;
+  height: fit-content;
+  position: relative;
+  width: 1440px;
+}
+.objectFitCoverOpacity_1e49588a32f965b671dd350d0d37e6396ac7f5f56 {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.headings {
+  position: relative;
+  width: 793px;
+  height: 304px;
+  flex-shrink: 0;
+}
+.switzerlandHasNeverBeenSoAffordable {
+  height: fit-content;
+  text-align: center;
+  position: absolute;
+  width: 793px;
+  left: 0px;
+  top: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.discoverSwitzerlandChooseTheBestProgramsGuidesHotelsAndRestaurants {
+  height: fit-content;
+  text-align: center;
+  position: absolute;
+  width: 469px;
+  left: 162px;
+  top: 186px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: Quicksand;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.features {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
