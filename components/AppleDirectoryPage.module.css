@@ -1,0 +1,1250 @@
+.appleDirectoryPage {
+  position: absolute;
+  width: 980px;
+  left: 22px;
+  height: 414.31px;
+  top: 2447.81px;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.divDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  position: relative;
+}
+.shopAndLearn {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionProducts {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 110px;
+  position: relative;
+}
+.store {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.mac {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.iPad {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.iPhone {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.watch {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.airPods {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.tvAndHome {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.airTag {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.accessories {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.giftCards {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.appleWallet {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionApplewallet {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 113px;
+  position: relative;
+}
+.wallet {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleCard {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.applePay {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleCash {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 51.19px;
+  position: absolute;
+  left: 196px;
+  top: 0px;
+}
+.divDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  position: relative;
+}
+.account {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionAccounts {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 55px;
+  position: relative;
+}
+.manageYourAppleId {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleStoreAccount {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.iCloudCom {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.entertainment {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionEntertainment {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 91px;
+  position: relative;
+}
+.appleOne {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleTv {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleMusic {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleArcade {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleFitness {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleNews {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.applePodcasts {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleBooks {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appStore {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  position: absolute;
+  left: 392px;
+  top: 0px;
+}
+.appleStore {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionStoreservices {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 58px;
+  position: relative;
+}
+.findAStore {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.geniusBar {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.todayAtApple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleCamp {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleStoreApp {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.certifiedRefurbished {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleTradeIn {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.financing {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.carrierDealsAtApple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.orderStatus {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.shoppingHelp {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  padding-bottom: 22.38px;
+  position: absolute;
+  left: 588px;
+  top: 0px;
+}
+.divDiv7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  position: relative;
+}
+.forBusiness {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionBusiness {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 69px;
+  position: relative;
+}
+.appleAndBusiness {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.shopForBusiness {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.forEducation {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionEducation {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 63px;
+  position: relative;
+}
+.appleAndEducation {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.shopForK_12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.shopForCollege {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.forHealthcare {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionHealthcare {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 35px;
+  position: relative;
+}
+.appleInHealthcare {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.healthOnAppleWatch {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.healthRecordsOnIPhone {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.forGovernment {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionGovernment {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 14px;
+  position: relative;
+}
+.shopForGovernment {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.shopForVeteransAndMilitary {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 784px;
+  top: 0px;
+}
+.divDiv12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  position: relative;
+}
+.appleValues {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionResponsibility {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 41px;
+  position: relative;
+}
+.accessibility {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.education {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.environment {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.inclusionAndDiversity {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.privacy {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.racialEquityAndJustice {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.supplierResponsibility {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.divDiv13 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+}
+.aboutApple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionAbout {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 63px;
+  position: relative;
+}
+.newsroom {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleLeadership {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.careerOpportunities {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.investors {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.ethicsAndCompliance {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.events {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.contactApple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
