@@ -1,0 +1,15 @@
+.noMixedFillNoMixedLetterSpacingPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 936.22px;
+  left: 31px;
+  height: 30px;
+  top: 163px;
+  color: rgb(110, 110, 115);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
