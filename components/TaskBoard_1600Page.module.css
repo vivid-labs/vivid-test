@@ -1,0 +1,3684 @@
+.taskBoard_1600Page {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: absolute;
+  width: 1600px;
+  height: 1175px;
+  background-color: rgb(247, 248, 250);
+}
+.navigate {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  position: relative;
+  width: 100%;
+  height: 100px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 35px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.icon {
+  width: 30px;
+  height: 30px;
+}
+.constructor {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 25px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.dashboard {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.aboutUs {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.news {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.userPolicy {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.contacts {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.iconImage {
+  width: 30px;
+  height: 30px;
+}
+.input {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  width: 430px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.left {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.iconImage1 {
+  width: 30px;
+  height: 30px;
+}
+.text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.iconImage2 {
+  width: 30px;
+  height: 30px;
+}
+.right {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.user {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.iconImage3 {
+  width: 30px;
+  height: 30px;
+}
+.claytonSantos {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 13px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 25px;
+}
+.control {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.notification {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.buttonDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage4 {
+  width: 30px;
+  height: 30px;
+}
+.status {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  right: 0px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(230, 46, 123);
+}
+.buttonDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage5 {
+  width: 30px;
+  height: 30px;
+}
+.contentDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.navigateDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  position: relative;
+  height: 100%;
+}
+.leftMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  width: 100px;
+  height: 100%;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+  background-color: rgb(247, 248, 250);
+}
+.top {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.buttonDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage6 {
+  width: 30px;
+  height: 30px;
+}
+.buttonDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage7 {
+  width: 30px;
+  height: 30px;
+}
+.buttonDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.buttonDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage8 {
+  width: 30px;
+  height: 30px;
+}
+.navigationColorDot_5 {
+  position: absolute;
+  width: 30px;
+  right: -10px;
+  height: 30px;
+  top: -10px;
+}
+.iconDiv {
+  position: absolute;
+  left: calc(33.33333333333333%);
+  right: calc(33.33333333333333%);
+  width: calc(33.33333333333334%);
+  top: calc(33.33333333333333%);
+  bottom: calc(33.33333333333333%);
+  height: calc(33.33333333333334%);
+  background-color: rgb(51, 97, 255);
+  border-radius: 7px;
+}
+.buttonDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage9 {
+  width: 30px;
+  height: 30px;
+}
+.buttonDiv7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage10 {
+  width: 30px;
+  height: 30px;
+}
+.buttonDiv8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage11 {
+  width: 30px;
+  height: 30px;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatar {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImage {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.base {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 102, 51, 0.3);
+  border-radius: 30px;
+}
+.baseDiv {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.image {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.statusDiv {
+  border-radius: 100px;
+  box-shadow: 0px 2px 5px rgb(51, 97, 255, 0.03);
+  position: absolute;
+  width: 10px;
+  left: 40px;
+  height: 10px;
+  top: 0px;
+  background-color: rgb(51, 97, 255);
+}
+.avatarImageDiv {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.baseDiv1 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 46, 123, 0.4);
+  border-radius: 30px;
+}
+.baseDiv2 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.imageImage {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.avatarImageDiv1 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.baseDiv3 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(136, 51, 255, 0.3);
+  border-radius: 30px;
+}
+.baseDiv4 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.imageImage1 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.avatarImageDiv2 {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+.baseDiv5 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.9);
+  border-radius: 3000px;
+}
+.baseDiv6 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_7 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv7 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.buttonDiv9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage12 {
+  width: 30px;
+  height: 30px;
+}
+.sidebar {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  position: relative;
+  width: 360px;
+  height: 100%;
+}
+.contentDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.contentDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.head {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.topDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.headDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 60px;
+  padding-right: 60px;
+  position: relative;
+  width: 100%;
+}
+.buttonDiv10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 6px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage13 {
+  width: 28px;
+  height: 28px;
+}
+.buttonDiv11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 6px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  background-color: rgb(255, 255, 255);
+}
+.iconImage14 {
+  width: 28px;
+  height: 28px;
+}
+.userDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.avatarDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.baseImage1 {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.baseImage2 {
+  position: absolute;
+  width: 130px;
+  left: -10px;
+  height: 130px;
+  top: -10px;
+}
+.avatarImageDiv3 {
+  position: absolute;
+  width: 110px;
+  left: calc(50% - 55px);
+  height: 110px;
+  top: 0px;
+}
+.baseDiv8 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.4);
+  border-radius: 3000px;
+}
+.baseDiv9 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.imageImage2 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.line {
+  position: absolute;
+  left: calc(-9.090909090909092%);
+  right: calc(-9.090909090909092%);
+  width: calc(118.18181818181819%);
+  top: calc(-9.090909090909092%);
+  bottom: calc(-9.090909090909092%);
+  height: calc(118.18181818181819%);
+}
+.badge {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  position: absolute;
+  box-shadow: 0px 10px 30px rgb(51, 97, 255, 0.25);
+  width: 30px;
+  left: 105px;
+  height: 30px;
+  top: calc(50% - 15px);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.badgeText {
+  text-align: center;
+  height: 20px;
+  flex: 1 1 0%;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.helloAlfredBryant {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.adrainNaderatYahooCom {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.menuDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  position: relative;
+  width: 240px;
+}
+.lineDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage15 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.itemDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-top-right-radius: 15px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.baseDiv10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 0px 60px 120px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  left: -9.5px;
+  right: -10.5px;
+  width: auto;
+  top: -10px;
+  background-color: rgb(255, 255, 255);
+}
+.contentDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avPlaylistAddCheck {
+  width: 30px;
+  height: 30px;
+}
+.tasks {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.statusDiv1 {
+  border-radius: 100px;
+  box-shadow: 0px 10px 30px rgb(51, 97, 255, 0.3);
+  position: absolute;
+  width: 7px;
+  right: 10px;
+  height: 7px;
+  top: 10px;
+  background-color: rgb(51, 97, 255);
+}
+.lineDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.itemDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage16 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.itemDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage17 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.lineDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.itemDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage18 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.itemDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage19 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.lineDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.itemDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-left-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage20 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.itemDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  border-bottom-right-radius: 20px;
+  height: 120px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.iconImage21 {
+  width: 30px;
+  height: 30px;
+}
+.dashboardText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  padding-left: 60px;
+  padding-right: 60px;
+  position: relative;
+  width: 100%;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  position: relative;
+  width: 100%;
+  height: 60px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.mapsLocalPhone {
+  width: 30px;
+  height: 30px;
+}
+.contentMail {
+  width: 30px;
+  height: 30px;
+}
+.actionChromeReaderMode {
+  width: 30px;
+  height: 30px;
+}
+.socialIconsIcTelegram {
+  width: 30px;
+  height: 30px;
+}
+.socialIconsIcWhatsapp {
+  width: 30px;
+  height: 30px;
+}
+.contentDiv12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: start;
+  gap: 10px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.contentDiv13 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  border-radius: 15px;
+  position: relative;
+  height: 1015px;
+  flex: 1 1 0%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.headDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 92px;
+  padding-left: 30px;
+  padding-right: 20px;
+  position: relative;
+  width: 100%;
+  height: 80px;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.iconTab {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  width: fit-content;
+  position: relative;
+  height: 100%;
+}
+.tab {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+}
+.iconImage22 {
+  width: 30px;
+  height: 30px;
+}
+.tabText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.tabDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.iconImage23 {
+  width: 30px;
+  height: 30px;
+}
+.tabText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.tabDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.iconImage24 {
+  width: 30px;
+  height: 30px;
+}
+.tabText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.tabDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.iconImage25 {
+  width: 30px;
+  height: 30px;
+}
+.tabText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.tabDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.iconImage26 {
+  width: 30px;
+  height: 30px;
+}
+.tabText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.tabDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-right: 10px;
+  position: relative;
+  height: 100%;
+}
+.iconImage27 {
+  width: 30px;
+  height: 30px;
+}
+.tabText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.inputDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 30px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  width: 200px;
+  height: 40px;
+  background-color: rgb(255, 255, 255);
+}
+.actionSearch {
+  width: 24px;
+  height: 24px;
+}
+.textText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.breadcrumbs {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.space {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.hardwareKeyboardArrowRight {
+  width: 30px;
+  height: 30px;
+}
+.nameSpace {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.hardwareKeyboardArrowRightImage {
+  width: 30px;
+  height: 30px;
+}
+.nameTask {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.contentDiv15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+  border-right-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.task {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.contentDiv16 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.inputDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  position: relative;
+}
+.labelText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.inputDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  padding-left: 15px;
+  padding-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  width: 100%;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.textText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.textArea {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  border-radius: 15px;
+  position: relative;
+  width: 100%;
+  height: 170px;
+}
+.labelDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 25px;
+  position: relative;
+}
+.labelText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.textAreaDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  width: 100%;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.textDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  padding-left: 25px;
+  padding-right: 30px;
+  padding-top: 25px;
+  position: relative;
+  width: 100%;
+}
+.labelText2 {
+  height: fit-content;
+  flex: 1 1 0%;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.iconDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  width: 100%;
+  height: 75px;
+}
+.iconImage28 {
+  width: 30px;
+  height: 30px;
+}
+.subTask {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.headDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+.subTasksToDo {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.addTask {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+}
+.contentDiv17 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  flex: 1 1 0%;
+}
+.leftDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigationColorDot_4 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.iconDiv2 {
+  position: absolute;
+  left: calc(36.666666666666664%);
+  right: calc(40%);
+  width: calc(23.333333333333336%);
+  top: calc(40%);
+  bottom: calc(36.666666666666664%);
+  height: calc(23.333333333333336%);
+  background-color: rgb(195, 202, 217);
+  border-radius: 7px;
+}
+.or {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 30px;
+}
+.typeSubTask {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.rightDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.contentFlag {
+  width: 30px;
+  height: 30px;
+}
+.fileAttachment {
+  width: 30px;
+  height: 30px;
+}
+.deviceAccessTime {
+  width: 30px;
+  height: 30px;
+}
+.avatarImageDiv4 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv11 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 46, 46, 0.2);
+  border-radius: 3000px;
+}
+.baseDiv12 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_14 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv13 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage3 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.buttonDiv12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  height: 40px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.buttonText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.buttonDiv13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  position: relative;
+  height: 30px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.buttonText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.attachments {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+}
+.headDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.attachmentsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.rightDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 6px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.navigationApps {
+  width: 30px;
+  height: 30px;
+}
+.actionViewHeadline {
+  width: 30px;
+  height: 30px;
+}
+.buttonDiv14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+}
+.iconImage29 {
+  width: 24px;
+  height: 24px;
+}
+.buttonText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 10px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.contentDiv18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  height: fit-content;
+  padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  width: 100%;
+}
+.file {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageImage3 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 5px;
+}
+.avatarDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImageDiv5 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv14 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(166, 102, 255);
+  border-radius: 30px;
+}
+.baseDiv15 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(196, 196, 196);
+  border-radius: 30px;
+}
+.imageImage4 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
+.statusDiv2 {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.textDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.frame6Jpg {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_7At_2_42Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.fileDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageImage5 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 5px;
+}
+.avatarDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImageDiv6 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv16 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(230, 155, 92);
+  border-radius: 3000px;
+}
+.baseDiv17 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_9 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv18 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage4 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.statusDiv3 {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.textDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.changePdf {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_7At_2_42PmText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.fileDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageImage6 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 5px;
+}
+.avatarDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImageDiv7 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv19 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 213, 89);
+  border-radius: 3000px;
+}
+.baseDiv20 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_15 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv21 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage5 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.statusDiv4 {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.textDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.readMeDoc {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_7At_2_42PmText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.fileDiv2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageDiv3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.imageImage7 {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  opacity: 1;
+  border-radius: 5px;
+}
+.avatarDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImageDiv8 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv22 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(102, 255, 117);
+  border-radius: 3000px;
+}
+.baseDiv23 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_5 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv24 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage6 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.statusDiv5 {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.textDiv4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.readMeDocText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_7At_2_42PmText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.columnDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  position: relative;
+  height: 100%;
+  flex: 1 1 0%;
+}
+.created {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.createdDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.createdDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.contentDiv19 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.createdText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.sep_2_9_06Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.lineDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.baseDiv25 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.lineDiv5 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 1px);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.timeTracked {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.contentDiv20 {
+  position: relative;
+  width: 85px;
+  height: 60px;
+}
+.timeTrackedText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 30px;
+}
+.buttonDiv15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 3px;
+  border-radius: 100px;
+  position: relative;
+  box-shadow: 0px 10px 30px rgb(41, 204, 57, 0.2);
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(41, 204, 57);
+  background-color: rgb(41, 204, 57);
+}
+.iconImage30 {
+  width: 24px;
+  height: 24px;
+}
+.text0_00 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.lineDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.baseDiv26 {
+  position: relative;
+  width: 2px;
+  height: 55px;
+}
+.lineDiv7 {
+  position: absolute;
+  width: 2px;
+  left: calc(50% - 1px);
+  height: 55px;
+  top: 0px;
+  background-color: rgb(237, 239, 242);
+}
+.startEnd {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 17px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.timeTrackedDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.contentDiv21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.startDate {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.sep_3_9_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.navigationChevronRight {
+  width: 30px;
+  height: 30px;
+}
+.dueDate {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.contentDiv22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.dueDateText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.sep_4_9_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.lastActivity {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-bottom-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.lastActivityDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.lastActivityByTas {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(125, 143, 179);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.lastActivityDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.taskDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.you {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.createdThisTask {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_16_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.assignedTo {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.kennethJordan {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_15_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.chandgeDueDateFro {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_14_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.createdSubTaskC {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_12_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.createdSubTaskCText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_12_00PmText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.assignedToText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.kennethJordanText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_11_00Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.chandgeDueDateFroText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_11_40Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.taskDiv7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(51, 97, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.createdSubTaskCText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.sep_3_9_45Pm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.comments {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  position: relative;
+  width: 100%;
+  flex: 1 1 0%;
+  border-bottom-width: 2px;
+}
+.comment {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+.commentsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 30px;
+}
+.contentDiv23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.avatarDiv5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: end;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.avatarImageDiv9 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.baseDiv27 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(255, 203, 51, 0.3);
+  border-radius: 3000px;
+}
+.baseDiv28 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  background-color: rgb(13, 17, 26);
+  border-radius: 3000px;
+}
+.avatar_7Div {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+}
+.baseDiv29 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.baseImage7 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.statusDiv6 {
+  border-radius: 100px;
+  box-shadow: 0px 2px 10px rgb(38, 51, 77, 0.03);
+  position: absolute;
+  width: 10px;
+  left: calc(50% - -5px);
+  height: 10px;
+  top: 0px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  background-color: rgb(41, 204, 57);
+}
+.commentDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 2px 5px rgb(38, 51, 77, 0.03);
+  height: 80px;
+  flex: 1 1 0%;
+  background-color: rgb(255, 255, 255);
+}
+.headDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+.leftDiv9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.youText7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(77, 94, 128);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
+.commented {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.justNow {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(173, 184, 204);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.internetAdvertising {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.footerDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  border-top-width: 2px;
+  border-style: solid;
+  border-color: rgb(237, 239, 242);
+}
+.commentOnTask {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(107, 122, 153);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 20px;
+}
+.buttonDiv16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  height: 40px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(51, 97, 255);
+  background-color: rgb(51, 97, 255);
+}
+.buttonText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 900;
+  line-height: 20px;
+}
