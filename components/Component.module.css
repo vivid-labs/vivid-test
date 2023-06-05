@@ -1,0 +1,17 @@
+.component {
+  position: relative;
+  width: 211px;
+  height: 207px;
+  background: ;
+}
+.pregame {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
