@@ -1,0 +1,252 @@
+.step_3Page {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 15px;
+  position: absolute;
+  width: 1440px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  height: fit-content;
+  padding-left: 88px;
+  padding-right: 88px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.designSystem {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 118, 160);
+}
+.designSystemText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.defineComponents {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 118, 160);
+}
+.defineComponentsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.yourFirstVividGenerationimportant {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.instructions {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.variants {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.variantsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.switch {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(1, 0, 0);
+}
+.switchText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.generateCode {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.generateCodeText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.changeProps {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.changePropsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.getStarted {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 118, 160);
+}
+.getStartedText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Avenir;
+  font-weight: 500;
+}
