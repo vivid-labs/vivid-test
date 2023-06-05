@@ -1,0 +1,591 @@
+.ulGlobalnavListPage {
+  position: absolute;
+  width: 998px;
+  left: 221px;
+  height: 44px;
+  top: 0px;
+}
+.apple {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.svg {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 44px;
+}
+.frame {
+  position: absolute;
+  width: 14px;
+  left: calc(50% - 7px);
+  height: 44px;
+  top: 0px;
+}
+.span {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 13.5px;
+  height: 1px;
+  bottom: 21.5px;
+}
+.appleText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 46.76px;
+  left: 0px;
+  height: 20px;
+  top: 0px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 21.00119972229004px;
+}
+.div {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 22.91px;
+  width: fit-content;
+  height: auto;
+  padding-left: 275.91px;
+  position: absolute;
+  left: -221px;
+  top: 0px;
+  bottom: 0px;
+}
+.store {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage {
+  width: 30px;
+  height: 44px;
+}
+.spanDiv {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 38px;
+  height: 1px;
+  bottom: 43px;
+}
+.storeText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 29.87px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.mac {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage1 {
+  width: 23px;
+  height: 44px;
+}
+.spanDiv1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 31px;
+  height: 1px;
+  bottom: 43px;
+}
+.macText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 23.67px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.iPad {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage2 {
+  width: 24px;
+  height: 44px;
+}
+.spanDiv2 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 32px;
+  height: 1px;
+  bottom: 43px;
+}
+.iPadText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 24.08px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.iPhone {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage3 {
+  width: 38px;
+  height: 44px;
+}
+.spanDiv3 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 46px;
+  height: 1px;
+  bottom: 43px;
+}
+.iPhoneText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 38.09px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.watch {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage4 {
+  width: 35px;
+  height: 44px;
+}
+.spanDiv4 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 43px;
+  height: 1px;
+  bottom: 43px;
+}
+.watchText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 35.31px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.airPods {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage5 {
+  width: 43px;
+  height: 44px;
+}
+.spanDiv5 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 51px;
+  height: 1px;
+  bottom: 43px;
+}
+.airPodsText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 43.18px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.tvAndHome {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage6 {
+  width: 65px;
+  height: 44px;
+}
+.spanDiv6 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 73px;
+  height: 1px;
+  bottom: 43px;
+}
+.tvAndHomeText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 63.4px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.entertainment {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage7 {
+  width: 77px;
+  height: 44px;
+}
+.spanDiv7 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 85px;
+  height: 1px;
+  bottom: 43px;
+}
+.entertainmentText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 78.22px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.accessories {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage8 {
+  width: 67px;
+  height: 44px;
+}
+.spanDiv8 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 75px;
+  height: 1px;
+  bottom: 43px;
+}
+.accessoriesText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 67.12px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.support {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 9px;
+  padding-right: 9px;
+  position: relative;
+}
+.svgDiv9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.frameImage9 {
+  width: 44px;
+  height: 44px;
+}
+.spanDiv9 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 52px;
+  height: 1px;
+  bottom: 43px;
+}
+.supportText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 44.79px;
+  left: 0px;
+  height: 14px;
+  top: -1px;
+  color: rgb(0, 0, 0, 0.8);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
+.svgDiv10 {
+  overflow: hidden;
+  position: absolute;
+  width: 15px;
+  left: 918.97px;
+  height: 44px;
+  top: 0px;
+}
+.frameImage10 {
+  position: absolute;
+  width: 15px;
+  left: calc(50% - 7.5px);
+  height: 44px;
+  top: 0px;
+}
+.svgDiv11 {
+  overflow: hidden;
+  position: absolute;
+  width: 14px;
+  left: 974.88px;
+  height: 44px;
+  top: 0px;
+}
+.frameImage11 {
+  position: absolute;
+  width: 14px;
+  left: calc(50% - 7px);
+  height: 44px;
+  top: 0px;
+}
