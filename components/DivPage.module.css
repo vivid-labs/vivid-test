@@ -1,0 +1,166 @@
+.divPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 20px;
+  padding-top: 24px;
+  position: relative;
+  flex-shrink: 0;
+}
+.entertainment {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.00040054321289px;
+}
+.ulFooterDirectoryColumnSectionEntertainment {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9.59px;
+  height: fit-content;
+  width: fit-content;
+  padding-right: 91px;
+  position: relative;
+  flex-shrink: 0;
+}
+.appleOne {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleTv {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleMusic {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleArcade {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleFitness {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleNews {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.applePodcasts {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appleBooks {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.appStore {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
