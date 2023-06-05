@@ -1,0 +1,7084 @@
+.mainMainPage {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 15528.14px;
+  top: 160px;
+}
+.section {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 2702px;
+  top: 0px;
+}
+.div {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 1069px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv {
+  position: absolute;
+  width: 980px;
+  left: calc(50% - 490px);
+  height: 879px;
+  top: 96px;
+}
+.divDiv1 {
+  position: absolute;
+  width: 583.11px;
+  left: calc(50% - 291.56px);
+  height: 287px;
+  top: calc(50% - 439.5px);
+}
+.new {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 274.36px;
+  top: -1px;
+  color: rgb(110, 110, 115);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.figure {
+  position: absolute;
+  width: 100px;
+  left: 241.55px;
+  height: 21px;
+  top: 37px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.p {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 4px;
+  padding-right: 4.11px;
+  position: absolute;
+  left: 0px;
+  top: 73px;
+}
+.twoGreatSizesNowWithASplashOfYellow {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 61.47px;
+  padding-right: 60.64px;
+  position: absolute;
+  left: 0px;
+  top: 204px;
+}
+.from_799Or_33_29MoFor_24MoBeforeTradeIn2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 28px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 188.59px;
+  padding-right: 188.41px;
+  position: absolute;
+  left: 0px;
+  top: 239.5px;
+}
+.buyIPhone_14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16.2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  position: relative;
+  background-color: rgb(0, 113, 227);
+}
+.buy {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 20.000200271606445px;
+}
+.learnMoreAboutIPhone_14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMore {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv {
+  position: absolute;
+  width: 981px;
+  left: -0.5px;
+  height: 496px;
+  top: 383px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage1 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv2 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 788px;
+  top: 1069px;
+  background-color: rgb(134, 134, 139);
+}
+.divDiv3 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 788px;
+  top: 0px;
+  background-color: rgb(0, 0, 0);
+}
+.divDiv4 {
+  position: absolute;
+  width: 980px;
+  left: calc(50% - 490px);
+  height: 696px;
+  top: 92px;
+}
+.divDiv5 {
+  position: absolute;
+  width: 470.59px;
+  left: calc(50% - 235.3px);
+  height: 205px;
+  top: calc(50% - 348px);
+}
+.figureDiv1 {
+  position: absolute;
+  width: 140px;
+  left: 165.3px;
+  height: 20px;
+  top: 8px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage2 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.proBeyond {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 258.47px;
+  left: 106.16px;
+  height: 58px;
+  top: 41px;
+  color: rgb(245, 245, 247);
+  font-size: 42px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 5px;
+  padding-right: 4.59px;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+}
+.from_999Or_41_62MoFor_24MoBeforeTradeIn2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(245, 245, 247);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 28px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 132.34px;
+  padding-right: 132.14px;
+  position: absolute;
+  left: 0px;
+  top: 157.5px;
+}
+.buyIPhone_14Pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16.2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  position: relative;
+  background-color: rgb(0, 113, 227);
+}
+.buyText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 20.000200271606445px;
+}
+.learnMoreAboutIPhone_14Pro {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(41, 151, 255);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv2 {
+  position: absolute;
+  width: 961px;
+  left: 9.5px;
+  height: 393px;
+  top: 303px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage3 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv6 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 830px;
+  top: 1872px;
+  background-color: rgb(251, 251, 253);
+}
+.divDiv7 {
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 830px;
+  top: 0px;
+}
+.divDiv8 {
+  position: absolute;
+  width: 600px;
+  left: 120px;
+  height: 265px;
+  top: calc(50% - 132.5px);
+}
+.figureDiv3 {
+  position: absolute;
+  width: 96px;
+  left: 252px;
+  height: 22px;
+  top: 8px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage4 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 137.61px;
+  padding-right: 138.39px;
+  position: absolute;
+  left: 0px;
+  top: 45px;
+}
+.loveThePowerLoveThePrice {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(
+    90deg,
+    rgb(30, 55, 145, 1) 0%,
+    rgb(41, 72, 177, 1) 40.00000059604645%,
+    rgb(49, 83, 198, 1) 55.000001192092896%,
+    rgb(56, 95, 218, 1) 60.00000238418579%
+  );
+  color: transparent;
+  background-clip: text;
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 70.03px;
+  padding-right: 68.97px;
+  position: absolute;
+  left: 0px;
+  top: 176px;
+}
+.from_429Or_17_87MoFor_24MoBeforeTradeIn2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 28px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 197.05px;
+  padding-right: 196.85px;
+  position: absolute;
+  left: 0px;
+  top: 217.5px;
+}
+.buyIPhoneSe {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 16px;
+  padding-right: 16.2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  position: relative;
+  background-color: rgb(0, 113, 227);
+}
+.buyText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 20.000200271606445px;
+}
+.learnMoreAboutIPhoneSe {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText1 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv9 {
+  position: absolute;
+  width: 720px;
+  left: 720px;
+  height: 830px;
+  top: calc(50% - 415px);
+  background-color: rgb(251, 251, 253);
+}
+.figureDiv4 {
+  position: absolute;
+  width: 494px;
+  left: 0px;
+  height: 830px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage5 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.sectionDiv {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 838px;
+  top: 2702px;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv10 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 814px;
+  top: 15px;
+}
+.divDiv11 {
+  overflow: hidden;
+  border-radius: 34px;
+  position: absolute;
+  width: 1410px;
+  left: 15px;
+  height: 814px;
+  top: 0px;
+}
+.divGuidedTour {
+  overflow: hidden;
+  position: absolute;
+  width: 1410px;
+  left: 0px;
+  height: 814px;
+  top: calc(50% - 407px);
+}
+.figureDiv5 {
+  position: absolute;
+  width: 1410px;
+  left: 0px;
+  height: 814px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage6 {
+  transform: rotate(0deg) scale(100.14%, 100%) translate(-0.07%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv12 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 21px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 218px;
+  padding-top: 302px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.h2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+}
+.aGuidedTourOf {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.07199999690055847px;
+  line-height: 28px;
+}
+.span {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 4.97px;
+  position: relative;
+}
+.iPhone_14AndIPhone_14Pro {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.watchTheGuidedTourFilm {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 19px;
+  padding-right: 18.23px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+}
+.watchTheFilm {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 20.000200271606445px;
+}
+.sectionDiv1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 2364.19px;
+  top: 5853.75px;
+}
+.waysToSaveOnIPhone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 573.08px;
+  left: 433.56px;
+  height: 67px;
+  top: 106px;
+  color: rgb(29, 29, 31);
+  font-size: 51px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2800000011920929px;
+  line-height: 60px;
+}
+.divDiv13 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 2194.19px;
+  top: 170px;
+}
+.divDiv14 {
+  overflow: hidden;
+  position: absolute;
+  width: 1380px;
+  left: calc(50% - 690px);
+  height: 717px;
+  top: 70px;
+  background-color: rgb(255, 255, 255);
+}
+.figureDiv6 {
+  position: absolute;
+  width: 1380px;
+  left: 0px;
+  height: 410px;
+  top: 307px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage7 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv15 {
+  position: absolute;
+  width: 650px;
+  left: calc(50% - 325px);
+  height: 261px;
+  top: 67px;
+}
+.tradeInYourCurrentPhoneForCreditTowardANewOne {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 640.25px;
+  left: 4.97px;
+  top: -1px;
+  color: rgb(29, 29, 31);
+  font-size: 48px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv4 {
+  position: absolute;
+  width: 379.16px;
+  left: calc(50% - 189.58px);
+  height: 87px;
+  top: 129px;
+}
+.spanDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 179.78px);
+  top: 0px;
+}
+.get_200_600InCreditWhenYouTradeInIPhone_11OrHigherAndUpgradeToIPhone_14OrIPhone_14Pro {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 359.75px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.text1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 317.06px;
+  top: 58px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAppleTradeIn {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 217px;
+}
+.learnMoreText2 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv16 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: 30px;
+  top: 817px;
+  bottom: 620px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.pDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 5.13px;
+  padding-right: 4.92px;
+  position: absolute;
+  left: 40px;
+  top: 51px;
+}
+.saveUpTo_800WithSelectCarrierDealsAtApple_8 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 584.95px;
+  color: rgb(29, 29, 31);
+  font-size: 45px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.divDiv17 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 101px;
+  padding-right: 100.8px;
+  padding-top: 25px;
+  padding-bottom: 61px;
+  position: absolute;
+  left: 40px;
+  top: 156px;
+}
+.getTheCarrierDealsYouLoveAndSaveOnANewIPhoneWhenYouTradeInAndPurchaseRightHereAtApple {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 393.2px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.findYourOfferExploreCarrierDeals {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.findYourDeal {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 141.67px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv18 {
+  position: absolute;
+  width: 550px;
+  left: calc(50% - 275px);
+  height: 331.19px;
+  top: 390px;
+}
+.divDiv19 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 13.59px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.h4 {
+  width: 165px;
+  height: 76px;
+  position: relative;
+}
+.transformRotate0_00degScale100_00pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_13c61358573f930baba16fd3270b7f6ef84cb3b85 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.pDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 68.45px;
+  padding-right: 67.55px;
+  position: relative;
+}
+.getUpTo_800CreditAfterTradeIn {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.divDiv20 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 13.59px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 275px;
+  top: 0px;
+}
+.h4Div {
+  width: 165px;
+  height: 76px;
+  position: relative;
+}
+.transformRotate0_00degScale100_00pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_1bec3ce015e6f62ab6d767a31170fb896e42d31c0 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.pDiv7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 68.45px;
+  padding-right: 67.55px;
+  position: relative;
+}
+.getUpTo_400CreditAfterTradeIn {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.divDiv21 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 13.59px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 137.5px;
+  top: 165.59px;
+}
+.h4Div1 {
+  width: 165px;
+  height: 76px;
+  position: relative;
+}
+.transformRotate0_00degScale100_00pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_10eb6b80d80bf789729e9fe0e82beb1cc17662d5e {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.pDiv8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 68.45px;
+  padding-right: 67.55px;
+  position: relative;
+}
+.getUpTo_800CreditAfterTradeInText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.divDiv22 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: calc(50% - -15px);
+  top: 817px;
+  bottom: 620px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv23 {
+  position: absolute;
+  width: 516px;
+  left: calc(50% - 258px);
+  height: 314px;
+  top: 0px;
+}
+.h3 {
+  position: absolute;
+  width: 516px;
+  left: calc(50% - 258px);
+  height: 104px;
+  top: 52px;
+}
+.get_3pcDailyCashBackWithAppleCard {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 458.72px;
+  left: 28.73px;
+  height: 110px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv9 {
+  position: absolute;
+  width: 516px;
+  left: calc(50% - 258px);
+  height: 87px;
+  top: 181px;
+}
+.andPayForYourNewIPhoneOver_24MonthsInterestFreeWhenYouChooseToCheckOutWithAppleCardMonthlyInstallments {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 429.89px;
+  left: 43.16px;
+  height: 83px;
+  top: 2px;
+  color: rgb(29, 29, 31);
+  font-size: 20px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutDailyCashBackWithAppleCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 270px;
+}
+.learnMoreText3 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv7 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  height: 357px;
+  top: 400.19px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage8 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv24 {
+  position: absolute;
+  width: 1380px;
+  left: 30px;
+  height: 560px;
+  top: 1604.19px;
+}
+.backgroundColorRgb255_255_255 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.transformRotate0_00degScale100_00pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_1ba8b5575dc19e54a58774d200aef30b2f89eb562 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.divDiv25 {
+  position: absolute;
+  width: 750px;
+  left: calc(50% - 375px);
+  height: 290px;
+  top: 134px;
+}
+.whyAppleIsTheBestPlaceToBuyIPhone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 455.62px;
+  left: 147.28px;
+  height: 110px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 44px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv10 {
+  position: absolute;
+  width: 437.5px;
+  left: calc(50% - 218.75px);
+  height: 116px;
+  top: 129px;
+}
+.youCanChooseAPaymentOptionThatWorksForYouPayLessWithATradeInConnectYourNewIPhoneToYourCarrierAndGetSetUpQuicklyYouCanAlsoChatWithASpecialistAnytime {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 428.26px;
+  left: 4.72px;
+  height: 112px;
+  top: 2px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutBuyingIPhoneFromApple {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 246px;
+}
+.learnMoreText4 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.sectionDiv2 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 2089px;
+  top: 8217.94px;
+}
+.h2Div {
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 60px;
+  top: 95px;
+}
+.featuredAccessories {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 522.06px;
+  left: 459.06px;
+  height: 67px;
+  top: -4px;
+  color: rgb(29, 29, 31);
+  font-size: 51px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2800000011920929px;
+  line-height: 60px;
+}
+.divDiv26 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 540px;
+  top: 225px;
+}
+.divDiv27 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 145px;
+  padding-right: 835px;
+  padding-top: 165.8px;
+  padding-bottom: 165.81px;
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv28 {
+  position: relative;
+  width: 400px;
+  height: 198.39px;
+}
+.magSafe {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 107.2px;
+  top: 0px;
+  color: rgb(29, 29, 31);
+  font-size: 44px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.snapOnAMagneticCaseWalletOrBothAndGetFasterWirelessCharging {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 290.01px;
+  left: 55.09px;
+  top: 68.8px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.shopMagSafeAccessories {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 129.56px);
+  top: 154.39px;
+}
+.shopMagSafeAccessoriesText {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 259.31px;
+  color: rgb(0, 102, 204);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv8 {
+  position: absolute;
+  width: 633px;
+  left: 648.59px;
+  height: 463px;
+  bottom: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage9 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv29 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 540px;
+  top: 765px;
+}
+.divDiv30 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: fit-content;
+  padding-left: 835px;
+  padding-right: 145px;
+  padding-top: 164.8px;
+  padding-bottom: 166.81px;
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv31 {
+  position: relative;
+  width: 400px;
+  height: 198.39px;
+}
+.airTag {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 135.11px;
+  top: 0px;
+  color: rgb(29, 29, 31);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 7.28px;
+  padding-right: 7.1px;
+  position: absolute;
+  left: calc(50% - 200px);
+  top: 68.8px;
+}
+.attachOneToYourKeysPutAnotherInYourBackpackIfTheyReMisplacedJustUseTheFindMyApp {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 385.62px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 25.22px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 103.69px;
+  padding-right: 103.5px;
+  position: absolute;
+  left: 0px;
+  top: 154.39px;
+}
+.buyAirTag {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.buyText2 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50.68px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAirTag {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText5 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv9 {
+  position: absolute;
+  width: 806px;
+  right: 579.59px;
+  height: 531px;
+  bottom: -1px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage10 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv32 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 700px;
+  top: 1305px;
+}
+.divDiv33 {
+  overflow: hidden;
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  width: auto;
+  height: 707.59px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv34 {
+  position: absolute;
+  width: 295px;
+  left: calc(50% - 147.5px);
+  height: 217.59px;
+  top: calc(50% - 305.8px);
+}
+.magicRunsInTheFamily {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 278.93px;
+  left: 8.13px;
+  height: 110px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 46px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.exploreAllAirPodsModelsAndFindTheBestOnesForYou {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 274.58px;
+  left: 10.31px;
+  height: 54px;
+  top: 119px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAirpods {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 173.59px;
+}
+.learnMoreText6 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv10 {
+  position: absolute;
+  width: 1063px;
+  left: 158.5px;
+  height: 498px;
+  top: calc(50% - 187.2px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage11 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.a {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 151.13px);
+  top: 2040px;
+}
+.shopAllIPhoneAccessories {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 302.45px;
+  color: rgb(0, 102, 204);
+  font-size: 23px;
+  font-weight: 400;
+  letter-spacing: 0.2160000056028366px;
+  line-height: 32.00189971923828px;
+}
+.sectionDiv3 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 363.78px;
+  top: 10306.94px;
+}
+.divDiv35 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 280.78px;
+  top: 83px;
+}
+.divDiv36 {
+  position: absolute;
+  width: 370px;
+  left: calc(50% - 555px);
+  height: 280.78px;
+  top: 0px;
+}
+.fastFreeDelivery {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.14px;
+  top: 90px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv37 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -6.61px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 15.52px;
+  padding-right: 15.32px;
+  position: absolute;
+  left: calc(50% - 154.17px);
+  top: 127.39px;
+}
+.orPickUpAvailableItemsAtAnAppleStore {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 277.5px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutDelivery {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText7 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv11 {
+  position: absolute;
+  width: 51px;
+  left: 159.5px;
+  height: 75px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage12 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv38 {
+  position: absolute;
+  width: 370px;
+  left: calc(50% - 185px);
+  height: 280.78px;
+  top: 0px;
+}
+.payMonthlyAt_0pcApr {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 75.55px;
+  top: 90px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv12 {
+  position: absolute;
+  width: 55px;
+  left: 157.5px;
+  height: 75px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage13 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv39 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -6.61px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: calc(50% - 154.17px);
+  top: 127.39px;
+}
+.pDiv12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 10.94px;
+  padding-right: 10.74px;
+  position: relative;
+}
+.youCanPayOverTimeWhenYouChooseToCheckOutWithAppleCardMonthlyInstallments {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 286.65px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutPaymentPlans {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText8 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv40 {
+  position: absolute;
+  width: 370px;
+  left: calc(50% - -185px);
+  height: 280.78px;
+  top: 0px;
+}
+.getHelpBuying {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 111.5px;
+  top: 90px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv41 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: -6.61px;
+  height: fit-content;
+  width: fit-content;
+  position: absolute;
+  left: calc(50% - 154.17px);
+  top: 127.39px;
+}
+.pDiv13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 46.53px;
+  padding-right: 46.8px;
+  position: relative;
+}
+.haveAQuestionqCallASpecialistOrChatOnlineCall_1_800MyApple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutOnlinePersonalSessions {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText9 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv13 {
+  position: absolute;
+  width: 71px;
+  left: 149.5px;
+  height: 75px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage14 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.sectionDiv4 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 1493px;
+  top: 10700.72px;
+}
+.whatMakesAnIPhoneAnIPhoneq {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 836.37px;
+  left: 301.91px;
+  height: 67px;
+  top: 106px;
+  color: rgb(29, 29, 31);
+  font-size: 51px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2800000011920929px;
+  line-height: 60px;
+}
+.divDiv42 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 1253px;
+  top: 240px;
+}
+.divDiv43 {
+  position: absolute;
+  width: 1380px;
+  left: 30px;
+  height: 600px;
+  top: 0px;
+}
+.backgroundColorRgb255_255_255Div {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.transformRotate0_00degScale63_04pc_71_33pcTranslate29_31pc_40_19pcTransformOriginTopLeftOpacity_110f8ec3bc031a6e25c67e102a5c7e809c76bbf5c {
+  transform: rotate(0deg) scale(63.04%, 71.33%) translate(29.31%, 40.19%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.divDiv44 {
+  position: absolute;
+  width: 750px;
+  left: calc(50% - 375px);
+  height: 137px;
+  top: 80px;
+}
+.iOs_16 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 138.36px;
+  left: 305.92px;
+  height: 58px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 45px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.personalIsPowerful {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 184.59px;
+  left: 282.8px;
+  height: 25px;
+  top: 65px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutIOs_16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 93px;
+}
+.learnMoreText10 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv45 {
+  overflow: hidden;
+  position: absolute;
+  left: 375px;
+  right: 390px;
+  width: auto;
+  top: 630px;
+  bottom: 30px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv46 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.divDiv47 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 1px;
+  height: fit-content;
+  width: fit-content;
+  padding-top: 61px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.h3Div {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 129.31px;
+  padding-right: 128.69px;
+  position: relative;
+}
+.switchingToIPhoneIsSuperSimple {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 44px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.learnMoreAboutSwitchingToIPhone {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText11 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv14 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  height: 357px;
+  top: 236px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage15 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.h2Div1 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 1163.5px;
+  height: 1px;
+  bottom: 1673px;
+}
+.appleNewsPlus {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 352.54px;
+  left: 0px;
+  height: 58px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 44px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.sectionDiv5 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 3334.42px;
+  top: 12193.72px;
+}
+.getMoreOutOfYourIPhone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 689.54px;
+  left: 375.33px;
+  height: 67px;
+  top: 106px;
+  color: rgb(29, 29, 31);
+  font-size: 50px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2800000011920929px;
+  line-height: 60px;
+}
+.divDiv48 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: calc(50% - 720px);
+  height: 3094.42px;
+  top: 240px;
+}
+.divDiv49 {
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  width: auto;
+  height: 609px;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.figureDiv15 {
+  position: absolute;
+  width: 542px;
+  left: calc(50% - 525.73px);
+  height: 329px;
+  top: 150px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage16 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv50 {
+  position: absolute;
+  width: 420px;
+  left: 793.5px;
+  height: 248px;
+  top: calc(50% - 122px);
+}
+.h2Div2 {
+  position: absolute;
+  width: 317px;
+  left: calc(50% - 158.5px);
+  height: 100px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.h2Image {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.bundleUpToSixAppleServicesAndEnjoyMoreForLess {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 394.76px;
+  left: 12.72px;
+  height: 66px;
+  top: 129px;
+  color: rgb(29, 29, 31);
+  font-size: 25px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: 0.19599999487400055px;
+  line-height: 32px;
+}
+.ulDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 21.42px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 121.59px);
+  top: 204px;
+}
+.aDiv {
+  position: relative;
+  width: 105.06px;
+  height: 25px;
+}
+.spanDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 1.67px;
+  position: absolute;
+  left: calc(50% - 52.53px);
+  top: -2px;
+}
+.tryItFree9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 102, 204);
+  font-size: 18px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 86.67px;
+  top: 4px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-family: Inter;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 21px;
+}
+.learnMoreAboutAppleOne {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText12 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv51 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: 30px;
+  top: 639px;
+  bottom: 1825px;
+  height: auto;
+  background-color: rgb(9, 10, 14);
+}
+.divDiv52 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  height: 161px;
+  top: 67px;
+}
+.h3Div1 {
+  position: absolute;
+  width: 98px;
+  left: 288.5px;
+  height: 39px;
+  top: 0px;
+}
+.transformRotate0_00degScale100_00pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_140888763717d889c8f32fac042c3d6cdda51b248 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.pDiv14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 199.5px;
+  padding-right: 199.5px;
+  position: absolute;
+  left: 0px;
+  top: 54px;
+}
+.get_3MonthsOfAppleTvFreeWhenYouBuyAnIPhone_10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(245, 245, 247);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 25.22px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 214.34px;
+  padding-right: 214.14px;
+  position: absolute;
+  left: 0px;
+  top: 117px;
+}
+.tryAppleTvForFree {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.tryItFree {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 104.39px;
+  color: rgb(41, 151, 255);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.aDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText13 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(41, 151, 255);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv53 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  height: 343.5px;
+  top: 245px;
+}
+.ulDiv5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 4256px;
+  padding-bottom: 13px;
+  position: absolute;
+  left: -210px;
+  top: 47.5px;
+}
+.li {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_13a1f6a8401836a7325b3547ae03aa16dfdfad542 {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div2 {
+  opacity: 0;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.liDiv {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_1ff4d0fab56ddd3fc4a31c2d650f03286a0c0466e {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div3 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv2 {
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  width: auto;
+  top: 56.5px;
+  bottom: 42.5px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.streamNow {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.textText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.47px;
+  top: 12px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 14px;
+}
+.liDiv1 {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_14eba44008d87e252d7a87e5c7265847809f62366 {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div4 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv3 {
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  width: auto;
+  top: 56.5px;
+  bottom: 42.5px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.streamNowText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.textText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.47px;
+  top: 12px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 14px;
+}
+.liDiv2 {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_1df2c3c8c22a5265cd200e49951b25ebba1f016ed {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div5 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: auto;
+  height: auto;
+  padding-left: 17px;
+  padding-right: 38.17px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  top: 56.5px;
+  bottom: 42.5px;
+  background-color: rgb(255, 255, 255);
+}
+.streamNowText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.ulDiv6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 6px;
+  padding-right: 4256px;
+  padding-bottom: 13px;
+  position: absolute;
+  left: 0px;
+  top: 195.5px;
+}
+.liDiv3 {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_107c9a909ae4d3d23ebad8576b719e22724c0f222 {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div6 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv5 {
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  width: auto;
+  top: 56.5px;
+  bottom: 42.5px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.streamNowText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.textText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.47px;
+  top: 12px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 14px;
+}
+.liDiv4 {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_14fe91f36e0c4caa61622f6a25b377aeb33528f97 {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div7 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv6 {
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  width: auto;
+  top: 56.5px;
+  bottom: 42.5px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.streamNowText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.textText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.47px;
+  top: 12px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 14px;
+}
+.liDiv5 {
+  border-radius: 10px;
+  position: relative;
+  width: 238px;
+  height: 135px;
+}
+.transformRotate0_00degScale100_91pc_100_00pcTranslate0_00pc_0_00pcTransformOriginTopLeftOpacity_1021116dfc8587710cdc0661c4238cf905be2d344 {
+  transform: rotate(0deg) scale(100.91%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h4Div8 {
+  position: absolute;
+  opacity: 0;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.spanDiv7 {
+  border-radius: 980px;
+  position: absolute;
+  left: 51.91px;
+  right: 51.91px;
+  width: auto;
+  top: 56.5px;
+  bottom: 42.5px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.streamNowText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 17px;
+  top: 8px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.textText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 102.47px;
+  top: 12px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 700;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 14px;
+}
+.divMusicGallery {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: calc(50% - -15px);
+  top: 639px;
+  bottom: 1825px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.divDiv54 {
+  position: absolute;
+  width: 450px;
+  left: calc(50% - 225px);
+  height: 159.42px;
+  top: 69px;
+}
+.svg {
+  overflow: hidden;
+  position: absolute;
+  width: 154px;
+  left: calc(50% - 77px);
+  height: 36.92px;
+  top: 0px;
+}
+.frame {
+  position: absolute;
+  width: 154px;
+  left: calc(50% - 77px);
+  height: 36.92px;
+  top: 0px;
+}
+.appleMusicLogo {
+  position: absolute;
+  left: calc(0.011585433841737226%);
+  right: calc(-0.011585433841737226%);
+  width: calc(100%);
+  top: calc(-6.917140593855792e-7%);
+  bottom: calc(6.917140593855792e-7%);
+  height: calc(100%);
+}
+.pDiv15 {
+  position: absolute;
+  width: 450px;
+  left: 0px;
+  height: 58px;
+  top: 52.42px;
+}
+.over_100MillionSongsStartListeningForFreeToday {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 249.5px;
+  left: 100.34px;
+  height: 54px;
+  top: 2px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv7 {
+  position: absolute;
+  width: 450px;
+  left: 0px;
+  height: 29px;
+  top: 130.42px;
+}
+.tryAppleMusicFree {
+  position: absolute;
+  width: 114.63px;
+  left: calc(50% - 128.44px);
+  height: 25px;
+  top: 2px;
+}
+.spanDiv8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 0.94px;
+  position: absolute;
+  left: calc(50% - 57.31px);
+  top: -2px;
+}
+.tryItFree11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 102, 204);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.textText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 96.24px;
+  top: 4px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-family: Inter;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 21px;
+}
+.learnMoreAboutAppleMusic {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - -11.73px);
+  top: -15px;
+}
+.learnMoreText14 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv55 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 16px;
+  width: fit-content;
+  height: fit-content;
+  padding: 1px;
+  position: absolute;
+  left: calc(50% - 408.5px);
+  top: 295.42px;
+}
+.divDiv56 {
+  overflow: hidden;
+  border-radius: 8px;
+  position: relative;
+  width: 250px;
+  height: 250px;
+}
+.musicAlbumLeftErm7o9e8f9meLargeJpg {
+  position: absolute;
+  width: 250px;
+  left: 0px;
+  height: 250px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.musicAlbumLeftErm7o9e8f9meLargeJpgImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv57 {
+  overflow: hidden;
+  border-radius: 8px;
+  position: relative;
+  width: 283px;
+  height: 283px;
+}
+.musicAlbumMiddleEo1xuly5gmqaLargeJpg {
+  position: absolute;
+  width: 283px;
+  left: 0px;
+  height: 283px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.musicAlbumMiddleEo1xuly5gmqaLargeJpgImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv58 {
+  overflow: hidden;
+  border-radius: 8px;
+  position: relative;
+  width: 250px;
+  height: 250px;
+}
+.musicAlbumRightCtoplsymatsiLargeJpg {
+  position: absolute;
+  width: 250px;
+  left: 0px;
+  height: 250px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.musicAlbumRightCtoplsymatsiLargeJpgImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv59 {
+  position: absolute;
+  width: 675px;
+  left: calc(50% - 690px);
+  top: 1299.42px;
+  bottom: 1179px;
+  height: auto;
+}
+.backgroundColorRgb249_249_249 {
+  background-color: rgb(249, 249, 249);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.transformRotate0_00degScale100_00pc_97_40pcTranslate0_00pc_2_67pcTransformOriginTopLeftOpacity_1d1d4db0a6824d46873edeca3c9902fb8777b8b1c {
+  transform: rotate(0deg) scale(100%, 97.4%) translate(0%, 2.67%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.divDiv60 {
+  position: absolute;
+  width: 309.84px;
+  left: calc(50% - 154.92px);
+  height: 231px;
+  top: 0px;
+}
+.divDiv61 {
+  position: absolute;
+  width: 184px;
+  left: calc(50% - 92px);
+  height: 39px;
+  top: 69px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.divImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv16 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 5px;
+  padding-right: 3.84px;
+  position: absolute;
+  left: 0px;
+  top: 123px;
+}
+.get_3MonthsOfAppleNewsFreeWhenYouBuyAnIPhone_12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAppleNews {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 187px;
+}
+.learnMoreText15 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv62 {
+  overflow: hidden;
+  position: absolute;
+  width: 690px;
+  left: calc(50% - 0px);
+  height: 616px;
+  top: 1299.42px;
+}
+.divDiv63 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: calc(50% - 330px);
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+}
+.backgroundColorRgb255_255_255Div1 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.transformRotate0_00degScale30_07pc_30_52pcTranslate116_26pc_155_32pcTransformOriginTopLeftOpacity_17c0405ac6089597b68b38d94eee705c02458fe0c {
+  transform: rotate(0deg) scale(30.07%, 30.52%) translate(116.26%, 155.32%);
+  transform-origin: top left;
+  opacity: 1;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.h2Div3 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 426.5px;
+  height: 1px;
+  bottom: 494px;
+}
+.appleArcade {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 284.98px;
+  left: 0px;
+  height: 58px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 44px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.divDiv64 {
+  position: absolute;
+  width: 360px;
+  left: calc(50% - 180px);
+  height: 231px;
+  top: 0px;
+}
+.divDiv65 {
+  position: absolute;
+  width: 180px;
+  left: calc(50% - 90px);
+  height: 39px;
+  top: 69px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.divImage1 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.get_3MonthsOfAppleArcadeFreeWhenYouBuyAnIPhone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 310.09px;
+  left: 25.05px;
+  height: 54px;
+  top: 125px;
+  color: rgb(29, 29, 31);
+  font-size: 21px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.ulDiv8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 29.42px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 51.94px;
+  padding-right: 51.75px;
+  padding-top: 6px;
+  position: absolute;
+  left: 0px;
+  top: 181px;
+}
+.tryAppleArcadeFree {
+  position: relative;
+  width: 109.98px;
+  height: 29px;
+}
+.spanDiv9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 1.59px;
+  position: absolute;
+  left: calc(50% - 54.99px);
+  top: 0px;
+}
+.tryItFree13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 102, 204);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.textText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 91.59px;
+  top: 6px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-family: Inter;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 21px;
+}
+.learnMoreAboutAppleArcade {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.learnMoreText16 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv66 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: calc(50% - 690px);
+  top: 1945.42px;
+  bottom: 536px;
+  height: auto;
+  background-color: rgb(249, 249, 249);
+}
+.h2Div4 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 443.5px;
+  height: 1px;
+  bottom: 492px;
+}
+.fitness {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 182.72px;
+  left: 0px;
+  height: 58px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 45px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.divDiv67 {
+  position: absolute;
+  width: 293.13px;
+  left: calc(50% - 146.56px);
+  height: 230px;
+  top: 0px;
+}
+.divDiv68 {
+  position: absolute;
+  width: 214px;
+  left: calc(50% - 107px);
+  height: 40px;
+  top: 68px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.divImage2 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv17 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 24.91px;
+  padding-right: 26.22px;
+  position: absolute;
+  left: 0px;
+  top: 122px;
+}
+.fitnessForEveryoneNowAllYouNeedIsIPhone {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAppleFitness {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 131.56px);
+  top: 186px;
+}
+.learnMoreText17 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.tryAppleFitnessPlusForFree {
+  position: absolute;
+  width: 116.42px;
+  left: calc(50% - -15.14px);
+  height: 29px;
+  top: 201px;
+}
+.spanDiv10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 1.73px;
+  position: absolute;
+  left: calc(50% - 58.21px);
+  top: 0px;
+}
+.tryItFree14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(0, 102, 204);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.textText7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 98.03px;
+  top: 6px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-family: Inter;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 21px;
+}
+.figureDiv16 {
+  position: absolute;
+  width: 602px;
+  left: calc(50% - 297.5px);
+  height: 299px;
+  top: calc(50% - 34.5px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage17 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv69 {
+  overflow: hidden;
+  position: absolute;
+  width: 675px;
+  left: calc(50% - -15px);
+  top: 1945.42px;
+  bottom: 536px;
+  height: auto;
+  background-color: rgb(249, 249, 249);
+}
+.divDiv70 {
+  position: absolute;
+  width: 258.2px;
+  left: calc(50% - 129.11px);
+  height: 201px;
+  top: 0px;
+}
+.divDiv71 {
+  position: absolute;
+  width: 213px;
+  left: calc(50% - 106.51px);
+  height: 40px;
+  top: 68px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.divImage3 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.forEverythingAndEveryone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 258.4px;
+  left: 0px;
+  height: 25px;
+  top: 124px;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutAppleGiftCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 100.8px);
+  top: 157px;
+}
+.learnMoreText18 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.buyAppleGiftCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - -50.32px);
+  top: 157px;
+}
+.buyText3 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50.68px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.h2Div5 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 443.02px;
+  height: 1px;
+  bottom: 492px;
+}
+.appleGiftCard {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 123.98px;
+  left: 0px;
+  height: 162px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 48px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.figureDiv17 {
+  position: absolute;
+  width: 675px;
+  left: 0px;
+  height: 319px;
+  top: calc(50% - 67.5px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage18 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv72 {
+  overflow: hidden;
+  position: absolute;
+  width: 1380px;
+  left: 30px;
+  height: 476px;
+  top: 2588.42px;
+  background-color: rgb(250, 250, 250);
+}
+.divDiv73 {
+  position: absolute;
+  width: 575px;
+  left: 0px;
+  height: 382px;
+  top: 94px;
+}
+.h2Div6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 140.52px;
+  padding-right: 140.48px;
+  position: absolute;
+  left: 0px;
+  top: 59px;
+}
+.introducingTheAppleResearchApp {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.pDiv18 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 131.25px;
+  padding-right: 131.75px;
+  position: absolute;
+  left: calc(50% - 287.5px);
+  top: 231px;
+}
+.theFutureOfHealthResearchIsYou {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 19px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.learnMoreAboutTheAppleResearchApp {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 58.36px);
+  top: 266px;
+}
+.learnMoreText19 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 116.9px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.figureDiv18 {
+  position: absolute;
+  width: 766px;
+  left: calc(50% - 95.5px);
+  height: 388px;
+  bottom: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage19 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.sectionDiv6 {
+  overflow: hidden;
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 2313.75px;
+  top: 3540px;
+  background-color: rgb(255, 255, 255);
+}
+.spanDiv11 {
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+  right: 458.5px;
+  height: 1px;
+  top: 12px;
+}
+.pseudo {
+  position: absolute;
+  width: 6px;
+  left: -2.5px;
+  height: 1px;
+  top: -0.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv74 {
+  position: absolute;
+  width: 980px;
+  left: calc(50% - 490px);
+  height: 2078.75px;
+  top: 116px;
+}
+.whichIPhoneIsRightForYouq {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 620.2px;
+  left: 180px;
+  height: 58px;
+  top: -3px;
+  color: rgb(29, 29, 31);
+  font-size: 43px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  letter-spacing: -0.14399999380111694px;
+  line-height: 52.0077018737793px;
+}
+.divDiv75 {
+  position: absolute;
+  width: 940px;
+  left: calc(50% - 470px);
+  height: 1887.75px;
+  top: 120px;
+}
+.divDiv76 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 547px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv19 {
+  position: absolute;
+  width: 190px;
+  left: 9.75px;
+  height: 257px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage20 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.iPhone_14ProAvailableInDeepPurpleGoldSilverAndSpaceBlack {
+  position: absolute;
+  width: 68px;
+  left: calc(50% - 34px);
+  height: 14px;
+  bottom: 254px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.iPhone_14ProAvailableInDeepPurpleGoldSilverAndSpaceBlackImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv77 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 183px;
+  top: 328px;
+}
+.figureDiv20 {
+  position: absolute;
+  width: 137px;
+  left: 36.25px;
+  height: 20px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage21 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.theUltimateIPhone {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 157.03px;
+  left: 26.33px;
+  height: 20px;
+  top: 33px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.from_999 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 71.28px;
+  left: 69.2px;
+  height: 16px;
+  top: 94px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.buyIPhone_14ProDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 11.97px;
+  padding-right: 12.03px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 980px;
+  position: absolute;
+  left: calc(50% - 22.5px);
+  top: 128px;
+  background-color: rgb(0, 113, 227);
+}
+.buyText4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.learnMoreAboutIPhone_14ProDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 41.2px);
+  top: 152px;
+}
+.learnMoreText20 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 82.61px;
+  color: rgb(0, 102, 204);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.newText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 24.9px;
+  left: 92.4px;
+  height: 14px;
+  top: -21px;
+  color: rgb(191, 72, 0);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.divDiv78 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 110.38px;
+  top: 587px;
+}
+.text6_7Or_6_1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 95.43px;
+  left: 57.13px;
+  height: 24px;
+  top: 3px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  line-height: 22px;
+}
+.pDiv19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 22.3px;
+  padding-right: 23.2px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+}
+.superRetinaXdrDisplay3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.proMotionTechnology {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 140.89px;
+  left: 34.41px;
+  height: 16px;
+  top: 61.19px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.alwaysOnDisplay {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 118.22px;
+  left: 45.73px;
+  height: 16px;
+  top: 92.38px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv79 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 110px;
+  top: 737.38px;
+}
+.figureDiv21 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage22 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.dynamicIsland {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 97.26px;
+  left: 56.22px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv20 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 44.36px;
+  padding-right: 45.14px;
+  position: absolute;
+  left: 0px;
+  top: 70px;
+}
+.aNewWayToInteractWithIPhone {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv80 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 133.38px;
+  top: 887.38px;
+}
+.figureDiv22 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage23 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv21 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15.05px;
+  padding-right: 16.45px;
+  position: absolute;
+  left: 0px;
+  top: 51px;
+}
+.emergencySosViaSatellite4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.emergencySos {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 103.65px;
+  left: 53.02px;
+  height: 16px;
+  top: 84.19px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 51.73px;
+  padding-right: 51.77px;
+  position: absolute;
+  left: 0px;
+  top: 113.38px;
+}
+.crashDetection5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv81 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 188px;
+  top: 1060.75px;
+}
+.figureDiv23 {
+  position: absolute;
+  width: 36px;
+  left: calc(50% - 18px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage24 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 45.69px;
+  padding-right: 45.81px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.proCameraSystem {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv24 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 120px;
+  top: 68px;
+}
+.text48MpMain {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 32.38px;
+  top: 0px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.spanDiv12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 3.13px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 2.31px;
+  position: absolute;
+  left: calc(50% - -0.94px);
+  top: 0px;
+}
+.or {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.ultraWide {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.telephoto {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 74.08px;
+  top: 20px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.photonicEngineForIncredibleDetailAndColorAutofocusOnTrueDepthFrontCamera {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 13.23px;
+  top: 40px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv82 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 91px;
+  top: 1288.75px;
+}
+.figureDiv24 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage25 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.actionModeSmoothsOutShakyHandheldVideos {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 205.22px;
+  left: 2.23px;
+  height: 36px;
+  top: 53px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv83 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 74px;
+  top: 1419.75px;
+}
+.figureDiv25 {
+  position: absolute;
+  width: 43px;
+  left: calc(50% - 21.5px);
+  height: 22px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage26 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 54.52px;
+  padding-right: 54.98px;
+  position: absolute;
+  left: 0px;
+  top: 34px;
+}
+.upTo_29HoursVideoPlayback6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv84 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 90px;
+  top: 1533.75px;
+}
+.figureDiv26 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage27 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.a16BionicChip {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 97.56px;
+  left: 56.06px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv85 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 70px;
+  top: 1663.75px;
+}
+.figureDiv27 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage28 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.faceId {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 47.59px;
+  left: 81.05px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv86 {
+  position: absolute;
+  left: 0px;
+  right: 730.5px;
+  width: auto;
+  height: 114px;
+  top: 1773.75px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv28 {
+  position: absolute;
+  width: 50px;
+  left: calc(50% - 25px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage29 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv26 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 37.47px;
+  padding-right: 38.03px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.superfast_5GCellular7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv87 {
+  position: absolute;
+  width: 209.5px;
+  left: 243.5px;
+  height: 547px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv29 {
+  position: absolute;
+  width: 180px;
+  left: 14.75px;
+  height: 257px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage30 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.iPhone_14AvailableInBluePurpleYellowMidnightStarlightAndProductred {
+  position: absolute;
+  width: 104px;
+  left: calc(50% - 52px);
+  height: 14px;
+  bottom: 254px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.iPhone_14AvailableInBluePurpleYellowMidnightStarlightAndProductredImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv88 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 183px;
+  top: 328px;
+}
+.figureDiv30 {
+  position: absolute;
+  width: 98px;
+  left: 55.75px;
+  height: 20px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage31 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.aTotalPowerhouse {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 152.79px;
+  left: 28.45px;
+  height: 20px;
+  top: 33px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.buyIPhone_14Div {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 11.97px;
+  padding-right: 12.03px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 980px;
+  position: absolute;
+  left: calc(50% - 22.5px);
+  top: 128px;
+  background-color: rgb(0, 113, 227);
+}
+.buyText5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.learnMoreAboutIPhone_14Div {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 41.2px);
+  top: 152px;
+}
+.learnMoreText21 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 82.61px;
+  color: rgb(0, 102, 204);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv27 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 3px;
+  padding-right: 2.25px;
+  position: absolute;
+  left: calc(50% - 38.13px);
+  top: 92px;
+}
+.from_799 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.newText1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 24.9px;
+  left: 92.4px;
+  height: 14px;
+  top: -21px;
+  color: rgb(191, 72, 0);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.divDiv89 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 110.38px;
+  top: 587px;
+}
+.text6_7Or_6_1Text {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 95.43px;
+  left: 57.13px;
+  height: 24px;
+  top: 3px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  line-height: 22px;
+}
+.pDiv28 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 22.3px;
+  padding-right: 23.2px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+}
+.superRetinaXdrDisplay3Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 68.69px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv1 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 99.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv2 {
+  position: absolute;
+  width: 6px;
+  left: 345.25px;
+  height: 1px;
+  top: 793.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv90 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 133.38px;
+  top: 887.38px;
+}
+.figureDiv31 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage32 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv29 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15.05px;
+  padding-right: 16.45px;
+  position: absolute;
+  left: 0px;
+  top: 51px;
+}
+.emergencySosViaSatellite4Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.emergencySosText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 103.65px;
+  left: 53.02px;
+  height: 16px;
+  top: 84.19px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv30 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 51.73px;
+  padding-right: 51.77px;
+  position: absolute;
+  left: 0px;
+  top: 113.38px;
+}
+.crashDetection5Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv91 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 188px;
+  top: 1060.75px;
+}
+.figureDiv32 {
+  position: absolute;
+  width: 36px;
+  left: calc(50% - 18px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage33 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv31 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 10.02px;
+  padding-right: 10.48px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.advancedDualCameraSystem {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv32 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 120px;
+  top: 68px;
+}
+.text12MpMain {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 31.88px;
+  top: 0px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.spanDiv13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 3.13px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 2.31px;
+  position: absolute;
+  left: calc(50% - 0.56px);
+  top: 0px;
+}
+.orText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.ultraWideText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv3 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 31.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.photonicEngineForIncredibleDetailAndColorAutofocusOnTrueDepthFrontCameraText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 13.23px;
+  top: 20px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv92 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 91px;
+  top: 1288.75px;
+}
+.figureDiv33 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage34 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.actionModeSmoothsOutShakyHandheldVideosText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 205.22px;
+  left: 2.23px;
+  height: 36px;
+  top: 53px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv93 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 74px;
+  top: 1419.75px;
+}
+.figureDiv34 {
+  position: absolute;
+  width: 43px;
+  left: calc(50% - 21.5px);
+  height: 22px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage35 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv33 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 54.52px;
+  padding-right: 54.98px;
+  position: absolute;
+  left: 0px;
+  top: 34px;
+}
+.upTo_26HoursVideoPlayback6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv94 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 90px;
+  top: 1533.75px;
+}
+.figureDiv35 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage36 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv34 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 53.59px;
+  padding-right: 53.91px;
+  position: absolute;
+  left: 0px;
+  top: 50px;
+}
+.a15BionicChipWith_5CoreGpu {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv95 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 70px;
+  top: 1663.75px;
+}
+.figureDiv36 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage37 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.faceIdText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 47.59px;
+  left: 81.05px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv96 {
+  position: absolute;
+  left: 243.5px;
+  right: 487px;
+  width: auto;
+  height: 114px;
+  top: 1773.75px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv37 {
+  position: absolute;
+  width: 50px;
+  left: calc(50% - 25px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage38 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv35 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 37.47px;
+  padding-right: 38.03px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.superfast_5GCellular7Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv97 {
+  position: absolute;
+  width: 209.5px;
+  left: 487px;
+  height: 547px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv38 {
+  position: absolute;
+  width: 161px;
+  left: 24.25px;
+  height: 257px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage39 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.iPhone_13AvailableInGreenPinkBlueMidnightStarlightAndProductred {
+  position: absolute;
+  width: 104px;
+  left: calc(50% - 52px);
+  height: 14px;
+  bottom: 254px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.iPhone_13AvailableInGreenPinkBlueMidnightStarlightAndProductredImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv98 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 183px;
+  top: 328px;
+}
+.figureDiv39 {
+  position: absolute;
+  width: 96px;
+  left: 56.75px;
+  height: 20px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage40 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.asAmazingAsEver {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 151.68px;
+  left: 29px;
+  height: 20px;
+  top: 33px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.buyIPhone_13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 11.97px;
+  padding-right: 12.03px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 980px;
+  position: absolute;
+  left: calc(50% - 22.5px);
+  top: 128px;
+  background-color: rgb(0, 113, 227);
+}
+.buyText6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.pDiv36 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 3px;
+  padding-right: 3.08px;
+  position: absolute;
+  left: calc(50% - 38.55px);
+  top: 92px;
+}
+.from_599 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.learnMoreAboutIPhone_13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 41.2px);
+  top: 152px;
+}
+.learnMoreText22 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 82.61px;
+  color: rgb(0, 102, 204);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv99 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 110.38px;
+  top: 587px;
+}
+.text6_1Or_5_4 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 96.7px;
+  left: 56.5px;
+  height: 24px;
+  top: 3px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  line-height: 22px;
+}
+.pDiv37 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 22.3px;
+  padding-right: 23.2px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+}
+.superRetinaXdrDisplay3Text1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv4 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 68.69px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv5 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 99.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv6 {
+  position: absolute;
+  width: 6px;
+  left: 588.75px;
+  height: 1px;
+  top: 793.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv100 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 133.38px;
+  top: 887.38px;
+}
+.figureDiv40 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage41 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.emergencySosText1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 103.65px;
+  left: 53.02px;
+  height: 16px;
+  top: 84.19px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv7 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 60.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv8 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 122.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv101 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 188px;
+  top: 1060.75px;
+}
+.figureDiv41 {
+  position: absolute;
+  width: 36px;
+  left: calc(50% - 18px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage42 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.dualCameraSystem {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 132.06px;
+  left: 38.81px;
+  height: 16px;
+  top: 50px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv38 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 100px;
+  top: 68px;
+}
+.text12MpMainText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 31.88px;
+  top: 0px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.spanDiv14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 3.13px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 1px;
+  padding-right: 2.31px;
+  position: absolute;
+  left: calc(50% - 0.56px);
+  top: 0px;
+}
+.orText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.ultraWideText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv9 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 31.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.textText8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 104.75px;
+  top: 20px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv10 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 61.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.trueDepthFrontCamera {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 32.31px;
+  top: 60px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv11 {
+  position: absolute;
+  width: 6px;
+  left: 588.75px;
+  height: 1px;
+  top: 1335.75px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv102 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 74px;
+  top: 1419.75px;
+}
+.figureDiv42 {
+  position: absolute;
+  width: 43px;
+  left: calc(50% - 21.5px);
+  height: 22px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage43 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv39 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 54.52px;
+  padding-right: 54.98px;
+  position: absolute;
+  left: 0px;
+  top: 34px;
+}
+.upTo_19HoursVideoPlayback6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv103 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 90px;
+  top: 1533.75px;
+}
+.figureDiv43 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage44 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv40 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 53.42px;
+  padding-right: 54.08px;
+  position: absolute;
+  left: 0px;
+  top: 50px;
+}
+.a15BionicChipWith_4CoreGpu {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv104 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 70px;
+  top: 1663.75px;
+}
+.figureDiv44 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage45 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.faceIdText1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 47.59px;
+  left: 81.05px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv105 {
+  position: absolute;
+  left: 487px;
+  right: 243.5px;
+  width: auto;
+  height: 114px;
+  top: 1773.75px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv45 {
+  position: absolute;
+  width: 50px;
+  left: calc(50% - 25px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage46 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv41 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 37.47px;
+  padding-right: 38.03px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.superfast_5GCellular7Text1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv106 {
+  position: absolute;
+  width: 209.5px;
+  left: 730.5px;
+  height: 547px;
+  top: 0px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv46 {
+  position: absolute;
+  width: 151px;
+  left: 29.25px;
+  height: 257px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage47 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.iPhoneSeAvailableInMidnightStarlightAndProductred {
+  position: absolute;
+  width: 50px;
+  left: calc(50% - 25px);
+  height: 14px;
+  bottom: 254px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.iPhoneSeAvailableInMidnightStarlightAndProductredImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.divDiv107 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 183px;
+  top: 328px;
+}
+.figureDiv47 {
+  position: absolute;
+  width: 98px;
+  left: 55.75px;
+  height: 20px;
+  top: 0px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage48 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.seriousPowerSeriousValue {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 224.18px;
+  left: -7.23px;
+  height: 20px;
+  top: 33px;
+  color: rgb(29, 29, 31);
+  font-size: 17px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.37400001287460327px;
+  line-height: 25px;
+}
+.from_429 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 70.92px;
+  left: 69.39px;
+  height: 16px;
+  top: 94px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.buyIPhoneSeDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 11.97px;
+  padding-right: 12.03px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 980px;
+  position: absolute;
+  left: calc(50% - 22.5px);
+  top: 128px;
+  background-color: rgb(0, 113, 227);
+}
+.buyText7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.learnMoreAboutIPhoneSeDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 41.2px);
+  top: 152px;
+}
+.learnMoreText23 {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 82.61px;
+  color: rgb(0, 102, 204);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv108 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 110.38px;
+  top: 587px;
+}
+.text4_7 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 36.33px;
+  left: 86.69px;
+  height: 24px;
+  top: 3px;
+  color: rgb(29, 29, 31);
+  font-size: 18px;
+  font-family: Helvetica Neue;
+  font-weight: 700;
+  line-height: 22px;
+}
+.pDiv42 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 50.47px;
+  padding-right: 50.03px;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+}
+.retinaHdDisplay {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv12 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 68.69px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv13 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 99.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv14 {
+  position: absolute;
+  width: 6px;
+  left: 832.25px;
+  height: 1px;
+  top: 793.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv109 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 133.38px;
+  top: 887.38px;
+}
+.figureDiv48 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 39px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage49 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.emergencySosText2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 103.65px;
+  left: 53.02px;
+  height: 16px;
+  top: 84.19px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv15 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 60.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.pseudoDiv16 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 122.88px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv110 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 188px;
+  top: 1060.75px;
+}
+.figureDiv49 {
+  position: absolute;
+  width: 36px;
+  left: calc(50% - 18px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage50 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.advancedCameraSystem {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 164.15px;
+  left: 22.77px;
+  height: 16px;
+  top: 50px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pDiv43 {
+  position: absolute;
+  width: 209.5px;
+  left: 0px;
+  height: 100px;
+  top: 68px;
+}
+.text12MpMainText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 68.95px;
+  top: 0px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv17 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 31.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.textText9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 104.75px;
+  top: 20px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv18 {
+  position: absolute;
+  width: 6px;
+  left: 101.75px;
+  height: 1px;
+  top: 61.5px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.frontCamera {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 64.39px;
+  top: 60px;
+  color: rgb(110, 110, 115);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.pseudoDiv19 {
+  position: absolute;
+  width: 6px;
+  left: 832.25px;
+  height: 1px;
+  top: 1335.75px;
+  background-color: rgb(29, 29, 31);
+  border-radius: 50px;
+}
+.divDiv111 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 74px;
+  top: 1419.75px;
+}
+.figureDiv50 {
+  position: absolute;
+  width: 43px;
+  left: calc(50% - 21.5px);
+  height: 22px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage51 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv44 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 54.52px;
+  padding-right: 54.98px;
+  position: absolute;
+  left: 0px;
+  top: 34px;
+}
+.upTo_15HoursVideoPlayback6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv112 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 90px;
+  top: 1533.75px;
+}
+.figureDiv51 {
+  position: absolute;
+  width: 38px;
+  left: calc(50% - 19px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage52 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv45 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 53.42px;
+  padding-right: 54.08px;
+  position: absolute;
+  left: 0px;
+  top: 50px;
+}
+.a15BionicChipWith_4CoreGpuText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv113 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 70px;
+  top: 1663.75px;
+}
+.figureDiv52 {
+  position: absolute;
+  width: 39px;
+  left: calc(50% - 19.5px);
+  height: 38px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage53 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.touchId {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 56.29px;
+  left: 76.7px;
+  height: 16px;
+  top: 52px;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.divDiv114 {
+  position: absolute;
+  left: 730.5px;
+  right: 0px;
+  width: auto;
+  height: 114px;
+  top: 1773.75px;
+  border-bottom-width: 1px;
+  border-style: solid;
+  border-color: rgb(210, 210, 215);
+}
+.figureDiv53 {
+  position: absolute;
+  width: 50px;
+  left: calc(50% - 25px);
+  height: 36px;
+  top: 4px;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.figureImage54 {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pDiv46 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 68.47px;
+  padding-right: 69.03px;
+  position: absolute;
+  left: 0px;
+  top: 48px;
+}
+.text5GCellular7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 14px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.2240000069141388px;
+  line-height: 20.00029945373535px;
+}
+.ulDiv9 {
+  position: absolute;
+  width: 980px;
+  left: 0px;
+  height: 29px;
+  top: 2049.75px;
+}
+.aDiv2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - 215.23px);
+  top: -15px;
+}
+.compareAllIPhoneModels {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 260.25px;
+  color: rgb(0, 102, 204);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.aDiv3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  left: calc(50% - -85.36px);
+  top: -15px;
+}
+.shopIPhone {
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 130.07px;
+  color: rgb(0, 102, 204);
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.23100000619888306px;
+  line-height: 29.000999450683594px;
+}
+.divDiv115 {
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 15494.14px;
+  height: auto;
+}
+.divDiv116 {
+  position: absolute;
+  width: 1440px;
+  left: 0px;
+  height: 34px;
+  top: 0px;
+  background-color: rgb(245, 245, 247);
+}
+.pDiv47 {
+  position: absolute;
+  width: 980px;
+  left: 230px;
+  height: 16px;
+  top: 9px;
+}
+.spanDiv15 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 13px;
+  padding-right: 12.78px;
+  position: absolute;
+  left: calc(50% - 313.83px);
+  top: 0px;
+}
+.get_200_600InCreditTowardIPhone_14OrIPhone_14ProWhenYouTradeInIPhone_11OrHigher {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(29, 29, 31);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.text1Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 716.95px;
+  top: 0px;
+  color: rgb(29, 29, 31);
+  font-size: 11px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.aDiv4 {
+  position: absolute;
+  width: 78.56px;
+  left: calc(50% - -235.25px);
+  height: 14px;
+  top: 1px;
+}
+.shopIPhoneText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  color: rgb(0, 102, 204);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 16.000499725341797px;
+}
+.textText10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 69.38px;
+  top: 2px;
+  color: rgb(0, 102, 204);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  letter-spacing: -0.11999999731779099px;
+  line-height: 12px;
+}
