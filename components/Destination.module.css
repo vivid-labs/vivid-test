@@ -1,0 +1,121 @@
+.destination {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  border-radius: 20px;
+  position: relative;
+  background-color: rgb(231, 255, 254);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: start;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 34px;
+  padding-bottom: 34px;
+  position: relative;
+  height: 100%;
+  flex-shrink: 0;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.details {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.price {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.ticket {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.ticketImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.text_80 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.timeCircle {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.timeCircleImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.text3Hours {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-family: Quicksand;
+  font-weight: 400;
+}
