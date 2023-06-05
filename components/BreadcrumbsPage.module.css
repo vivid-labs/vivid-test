@@ -1,0 +1,128 @@
+.breadcrumbsPage {
+  position: absolute;
+  width: 980px;
+  left: 22px;
+  height: 57.34px;
+  top: 2390.47px;
+}
+.li {
+  overflow: hidden;
+  position: absolute;
+  width: 64.98px;
+  left: 25px;
+  height: 23.34px;
+  top: 17px;
+}
+.pseudo {
+  position: absolute;
+  width: 8px;
+  left: 0px;
+  height: 18px;
+  top: calc(50% - 9.33px);
+}
+.iconLargeSvg {
+  overflow: hidden;
+  position: absolute;
+  width: 8px;
+  left: 0px;
+  height: 36px;
+  bottom: 0px;
+}
+.seperator {
+  position: absolute;
+  left: 0.61px;
+  right: 0.5px;
+  width: auto;
+  top: 0.98px;
+  bottom: 18.99px;
+  height: auto;
+}
+.seperatorImage {
+  position: absolute;
+  left: 0.61px;
+  right: 0.5px;
+  width: auto;
+  top: 18.98px;
+  bottom: 0.99px;
+  height: auto;
+}
+.iPhone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 38.81px;
+  left: 22.38px;
+  height: 14px;
+  top: 4px;
+  color: rgb(66, 66, 69);
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
+.span {
+  position: absolute;
+  width: 14px;
+  left: 0px;
+  height: 18px;
+  top: 17px;
+}
+.iconLargeSvgDiv {
+  overflow: hidden;
+  position: absolute;
+  width: 14px;
+  left: 0px;
+  height: 72px;
+  top: -36px;
+}
+.apple {
+  position: absolute;
+  left: 1.03px;
+  right: 0.9px;
+  width: auto;
+  top: 1.66px;
+  bottom: 55.49px;
+  height: auto;
+}
+.appleImage {
+  position: absolute;
+  left: 1.03px;
+  right: 0.9px;
+  width: auto;
+  top: 19.66px;
+  bottom: 37.49px;
+  height: auto;
+}
+.appleImage1 {
+  position: absolute;
+  left: 1.03px;
+  right: 0.9px;
+  width: auto;
+  top: 37.66px;
+  bottom: 19.49px;
+  height: auto;
+}
+.appleImage2 {
+  position: absolute;
+  left: 1.03px;
+  right: 0.9px;
+  width: auto;
+  top: 55.66px;
+  bottom: 1.49px;
+  height: auto;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 11.11px;
+  left: 0px;
+  height: 14px;
+  top: 1px;
+  font-size: 12px;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+  line-height: 16.00040054321289px;
+}
