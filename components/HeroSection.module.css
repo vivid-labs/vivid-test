@@ -1,0 +1,563 @@
+.heroSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 195px;
+  padding-right: 195px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  background-color: rgb(43, 43, 43);
+}
+.heroSectionFrame {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+  flex-shrink: 0;
+}
+.heroTextAndButtons {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.headlineAndSubhead {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.discoverDigitalArtAndCollectNfTs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 510px;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0;
+  color: rgb(255, 255, 255);
+  font-size: 67px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.100000023841858em;
+}
+.nftMarketplaceUiCreatedWithAnimaForFigmaCollectBuyAndSellArtFromMoreThan_20kNftArtists {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.additionalInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.totalSale {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240k {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.399999976158142em;
+}
+.totalSaleText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 23.989999771118164px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.auctions {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text100k {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.399999976158142em;
+}
+.auctionsText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 23.989999771118164px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.artists {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240kText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.399999976158142em;
+}
+.artistsText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 23.989999771118164px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.heroSectionComponent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+}
+.heroSectionFrameDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+  flex-shrink: 0;
+}
+.heroTextAndButtonsDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 330px;
+  flex-shrink: 0;
+}
+.headlineAndSubheadDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.discoverDigitalArtAndCollectNfTsText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 330px;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2000000476837158em;
+}
+.nftMarketplaceUiCreatedWithAnimaForFigmaCollectBuyAndSellArtFromMoreThan_20kNftArtistsText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.additionalInfoDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.totalSaleDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240kText1 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.totalSaleText1 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.auctionsDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text100kText {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.auctionsText1 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistsDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240kText2 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.artistsText1 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.heroSectionComponent1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+}
+.heroSectionFrameDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+  flex-shrink: 0;
+}
+.heroTextAndButtonsDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 40px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.headlineAndSubheadDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.discoverDigitalArtAndCollectNfTsText1 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.nftMarketplaceUiCreatedWithAnimaForFigmaCollectBuyAndSellArtFromMoreThan_20kNftArtistsText1 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.additionalInfoDiv1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 30px;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.totalSaleDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240kText3 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.totalSaleText2 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.auctionsDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text100kText1 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.auctionsText2 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.artistsDiv1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  height: fit-content;
+  border-radius: 20px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.text240kText4 {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.artistsText2 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
