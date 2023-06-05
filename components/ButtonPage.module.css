@@ -1,0 +1,15 @@
+.buttonPage {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  width: 121px;
+  height: 99px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
