@@ -1,0 +1,11 @@
+.citiesPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 22px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
