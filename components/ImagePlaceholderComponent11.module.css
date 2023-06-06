@@ -1,0 +1,19 @@
+.imagePlaceholderComponent11 {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  background: ;
+}
+.imagePlaceholder {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
