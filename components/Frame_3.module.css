@@ -1,0 +1,8 @@
+.frame_3 {
+  overflow: hidden;
+  position: relative;
+  width: 179px;
+  height: 103px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
