@@ -1,0 +1,1066 @@
+.buttonSm {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  border-radius: 37px;
+  position: relative;
+  height: 50px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnXs {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  border-radius: 37px;
+  position: relative;
+  height: 49px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXs {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.buttonSmComponent1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXs {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnArrowRightIcnXsImage {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.tag {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnArrowRightIcnXsImage1 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnArrowRightIcnXsImage2 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnArrowRightIcnXsImage3 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent6 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6Text2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnCloseIcnXs {
+  width: 10px;
+  height: 10px;
+  flex-shrink: 0;
+}
+.buttonSmComponent7 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6Text3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.dashiconsArrowRightAlt2 {
+  rotate: 90deg;
+  width: 8px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.buttonSmComponent8 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.h6Text4 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent9 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage1 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.h6Text5 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage2 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.h6Text6 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent11 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage3 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.h6Text7 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.h6Text8 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent13 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6Text9 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent14 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnXsImage4 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent15 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage4 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.buttonSmComponent16 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage1 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent17 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.tagText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnCloseIcnXsImage {
+  width: 10px;
+  height: 10px;
+  flex-shrink: 0;
+}
+.buttonSmComponent18 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6Text10 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.dashiconsArrowRightAlt2Image {
+  rotate: 90deg;
+  width: 6px;
+  height: 10.5px;
+  flex-shrink: 0;
+}
+.buttonSmComponent19 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage2 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.h6Text11 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent20 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(35, 166, 240);
+}
+.h6Text12 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(35, 166, 240);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent21 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  border-radius: 37px;
+  position: relative;
+  height: 50px;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnXsImage5 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent22 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  border-radius: 37px;
+  position: relative;
+  height: 49px;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage5 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.buttonSmComponent23 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage3 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent24 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text13 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnCloseIcnXsImage1 {
+  width: 10px;
+  height: 10px;
+  flex-shrink: 0;
+}
+.buttonSmComponent25 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text14 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.dashiconsArrowRightAlt2Image1 {
+  rotate: 90deg;
+  width: 8px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.buttonSmComponent26 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 37px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage4 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.h6Text15 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent27 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowRightIcnXsImage6 {
+  rotate: 0deg;
+  width: 9.14px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent28 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnArrowLeftIcnXsImage6 {
+  rotate: 180deg;
+  width: 8.57px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.buttonSmComponent29 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage5 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.buttonSmComponent30 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text16 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.icnCloseIcnXsImage2 {
+  width: 10px;
+  height: 10px;
+  flex-shrink: 0;
+}
+.buttonSmComponent31 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text17 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.arrowRightAlt2 {
+  rotate: 90deg;
+  width: 6px;
+  height: 10.5px;
+  flex-shrink: 0;
+}
+.buttonSmComponent32 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.icnSettingsIcnXsImage6 {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.h6Text18 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
+.buttonSmComponent33 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  background-color: rgb(35, 166, 240);
+}
+.h6Text19 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 700;
+  letter-spacing: 0.20000000298023224px;
+  line-height: 22px;
+}
