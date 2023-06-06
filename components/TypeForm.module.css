@@ -1,0 +1,30 @@
+.typeForm {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-radius: 20px;
+  position: relative;
+  width: 330px;
+  height: 46px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(133, 133, 132);
+  background-color: rgb(255, 255, 255);
+}
+.username {
+  height: fit-content;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+  color: rgb(43, 43, 43);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
