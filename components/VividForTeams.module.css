@@ -1,0 +1,232 @@
+.vividForTeams {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  width: 1440px;
+  height: 676px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  padding-left: 100px;
+  padding-right: 100px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.section {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 2px;
+  position: relative;
+  width: 100%;
+  height: 519px;
+  flex-shrink: 0;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 160.38px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 28px;
+  padding-bottom: 36px;
+  position: relative;
+  height: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+}
+.teamsInformation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.heading_2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.divAiAddonBlockEyebrowYe8W5 {
+  position: relative;
+  width: 520px;
+  height: 19px;
+  flex-shrink: 0;
+}
+.svg {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 0px;
+  height: 15.31px;
+  top: calc(50% - 7.65px);
+}
+.frame {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 15.31px;
+  top: 0px;
+}
+.group {
+  position: absolute;
+  left: 0.29px;
+  right: 0.32px;
+  width: auto;
+  top: 0.16px;
+  bottom: 0.35px;
+  height: auto;
+}
+.freeFor_1MonthInBeta {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 20px;
+  top: -1px;
+  color: rgb(244, 86, 154);
+  font-size: 13.5px;
+  font-family: Avenir;
+  font-weight: 500;
+  letter-spacing: 0.049949999898672104px;
+  line-height: 19px;
+}
+.vividTeams {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(18, 18, 18);
+  font-size: 36px;
+  font-family: Avenir;
+  font-weight: 800;
+  letter-spacing: -0.8496000170707703px;
+  line-height: 40px;
+}
+.pTextTextJYg6z {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: fit-content;
+  padding-right: 30px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+  color: rgb(18, 18, 18);
+  font-size: 16px;
+  font-family: Avenir;
+  font-weight: 400;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
+.descriptions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.divAiAddonBlockActionsFsahh {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 389.42px;
+  position: relative;
+  flex-shrink: 0;
+}
+.right {
+  overflow: hidden;
+  position: relative;
+  border-top-left-radius: 7px;
+  border-bottom-right-radius: 12px;
+  box-shadow: 0px 4px 18px rgb(0, 0, 0, 0.3);
+  width: 531px;
+  height: 451px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255, 0);
+}
+.pictureAiMobileDesktopPng {
+  position: absolute;
+  width: 666.25px;
+  left: calc(50% - 332.5px);
+  height: 450.38px;
+  top: calc(50% - 224.5px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.pictureAiMobileDesktopPngImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.demoImageGif {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 268px;
+  left: calc(50% - 133.5px);
+  height: 103px;
+  top: calc(50% - 51.5px);
+  color: rgb(255, 252, 252);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}

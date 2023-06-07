@@ -1,0 +1,65 @@
+.navBar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 1440px;
+  height: 82px;
+}
+.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a {
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.insertNavBarHere {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 48px;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
+.navBarComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+  width: 1440px;
+  height: 82px;
+  background-color: rgb(255, 255, 255);
+}
+.insertNavBarHereText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 48px;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
