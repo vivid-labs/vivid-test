@@ -6,10 +6,6 @@ export default function Home() {
       <Head>
         <title>Vivid Test</title>
         <link rel="icon" href="/favicon.ico" />
-        <link
-          rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Inter"
-        />
       </Head>
       <div
         style={{
@@ -18,7 +14,9 @@ export default function Home() {
           height: "100vh",
           padding: "1rem",
         }}
-      ></div>
+      >
+        <div className="border-blue-500 bg-red-300 border-8 w-16 h-16">div</div>
+      </div>
     </>
   );
 }

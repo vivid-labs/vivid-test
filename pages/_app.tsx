@@ -1,6 +1,7 @@
 import type { AppProps } from "next/app";
 
-import "../reset.css";
+import "../globals.css";
+import "../fonts.css";
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
