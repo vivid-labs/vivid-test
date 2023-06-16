@@ -1,0 +1,13 @@
+.text {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 203px;
+  height: 17px;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
