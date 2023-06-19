@@ -1,0 +1,16 @@
+.outlinedLogo {
+  position: relative;
+  width: 62px;
+  height: 62px;
+}
+.vividLogoV2_2 {
+  position: absolute;
+  left: calc(0%);
+  right: calc(0%);
+  width: calc(100%);
+  top: calc(0%);
+  bottom: calc(0%);
+  height: calc(100%);
+  object-fit: cover;
+  opacity: 1;
+}
