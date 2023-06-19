@@ -1,0 +1,204 @@
+.vividDashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+  width: 1440px;
+  height: 840px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.section {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  background-color: rgb(255, 255, 255);
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 28px;
+  padding-bottom: 36px;
+  position: relative;
+  height: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.progress {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.progressBar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 5px;
+  position: relative;
+  width: 360px;
+  flex-shrink: 0;
+  background-color: rgb(217, 217, 217);
+}
+.frame_6 {
+  overflow: hidden;
+  border-radius: 5px;
+  width: 90px;
+  height: 6px;
+  flex-shrink: 0;
+  background-color: rgb(244, 86, 154);
+  position: relative;
+}
+.text25CompleteNiceWork {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(148, 148, 148);
+  font-size: 12px;
+  font-family: Avenir;
+  font-weight: 500;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
+.teamsInformation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.heading_2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.getStartedWithVividimportant {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(18, 18, 18);
+  font-size: 36px;
+  font-family: Avenir;
+  font-weight: 800;
+  letter-spacing: -0.8496000170707703px;
+  line-height: 40px;
+}
+.steps {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.right {
+  overflow: hidden;
+  position: relative;
+  border-top-left-radius: 7px;
+  border-bottom-right-radius: 12px;
+  box-shadow: 0px 4px 18px rgb(0, 0, 0, 0.3);
+  width: 531px;
+  height: 451px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255, 0);
+}
+.pictureAiMobileDesktopPng {
+  position: absolute;
+  width: 666.25px;
+  left: calc(50% - 332.5px);
+  height: 450.38px;
+  top: calc(50% - 224.5px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.pictureAiMobileDesktopPngImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.insertFunImageHere {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  width: 268px;
+  left: calc(50% - 133.5px);
+  height: 103px;
+  top: calc(50% - 51.5px);
+  color: rgb(255, 252, 252);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
