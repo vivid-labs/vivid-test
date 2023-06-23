@@ -1,0 +1,15 @@
+.vividTeams {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(18, 18, 18);
+  font-size: 36px;
+  font-family: Avenir;
+  font-weight: 800;
+  letter-spacing: -0.8496000170707703px;
+  line-height: 40px;
+}
