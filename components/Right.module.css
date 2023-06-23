@@ -1,0 +1,44 @@
+.right {
+  overflow: hidden;
+  border-radius: 5px;
+  position: relative;
+  box-shadow: 0px 4px 18px rgb(0, 0, 0, 0.3);
+  width: 531px;
+  height: 451px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255, 0);
+}
+.pictureAiMobileDesktopPng {
+  position: absolute;
+  width: 666px;
+  left: calc(50% - 332.5px);
+  height: 455px;
+  top: calc(50% - 229px);
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.pictureAiMobileDesktopPngImage {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.figmaScreen_1 {
+  position: absolute;
+  width: 350px;
+  left: 41px;
+  height: 199.62px;
+  top: 58.5px;
+  object-fit: cover;
+  opacity: 1;
+}
+.vsCodeScreen_1 {
+  position: absolute;
+  width: 350px;
+  left: 141px;
+  height: 199.49px;
+  top: 192.5px;
+  object-fit: cover;
+  opacity: 1;
+}
