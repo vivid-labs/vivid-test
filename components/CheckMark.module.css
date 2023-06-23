@@ -1,0 +1,16 @@
+.checkMark {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+  width: 40.63px;
+  height: 40.63px;
+}
+.group {
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+}
