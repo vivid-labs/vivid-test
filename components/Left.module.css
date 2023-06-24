@@ -1,0 +1,147 @@
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 160.38px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 28px;
+  padding-bottom: 36px;
+  position: relative;
+  width: 623px;
+  flex-shrink: 0;
+}
+.teamsInformation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.heading_2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.divAiAddonBlockEyebrowYe8W5 {
+  position: relative;
+  width: 520px;
+  height: 19px;
+  flex-shrink: 0;
+}
+.svg {
+  overflow: hidden;
+  position: absolute;
+  width: 16px;
+  left: 0px;
+  height: 15.31px;
+  top: calc(50% - 7.65px);
+}
+.frame {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 15.31px;
+  top: 0px;
+}
+.group {
+  position: absolute;
+  left: 0.29px;
+  right: 0.32px;
+  width: auto;
+  top: 0.16px;
+  bottom: 0.35px;
+  height: auto;
+}
+.freeFor_1MonthInBeta {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  left: 20px;
+  top: -1px;
+  color: rgb(244, 86, 154);
+  font-size: 13.5px;
+  font-family: Avenir;
+  font-weight: 500;
+  letter-spacing: 0.049949999898672104px;
+  line-height: 19px;
+}
+.vividTeams {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  color: rgb(18, 18, 18);
+  font-size: 36px;
+  font-family: Avenir;
+  font-weight: 800;
+  letter-spacing: -0.8496000170707703px;
+  line-height: 40px;
+}
+.pTextTextJYg6z {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: fit-content;
+  padding-right: 30px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(18, 18, 18);
+  font-size: 16px;
+  font-family: Avenir;
+  font-weight: 400;
+  letter-spacing: 0.00800000037997961px;
+  line-height: 23px;
+}
+.descriptions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 16px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.divAiAddonBlockActionsFsahh {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+  width: fit-content;
+  height: fit-content;
+  padding-right: 389.42px;
+  position: relative;
+  flex-shrink: 0;
+}
