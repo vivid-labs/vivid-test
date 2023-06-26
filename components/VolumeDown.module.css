@@ -1,0 +1,21 @@
+.volumeDown {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.volumeDownImage {
+  position: absolute;
+  left: 4.63px;
+  right: -4.63px;
+  width: auto;
+  top: 5.67px;
+  bottom: -5.67px;
+  height: auto;
+}
