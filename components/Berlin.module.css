@@ -1,0 +1,17 @@
+.berlin {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  position: relative;
+  height: 563.76px;
+}
+.berlinImage {
+  width: 376px;
+  height: 564px;
+  flex-shrink: 0;
+  object-fit: cover;
+  opacity: 1;
+}
