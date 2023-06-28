@@ -1,0 +1,17 @@
+.ski {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  position: relative;
+  height: 416px;
+}
+.skiImage {
+  width: 376px;
+  height: 416px;
+  flex-shrink: 0;
+  object-fit: cover;
+  opacity: 1;
+}
