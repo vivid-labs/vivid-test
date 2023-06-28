@@ -1,0 +1,64 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding-left: 54px;
+  position: relative;
+  width: 1440px;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 7px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.moon {
+  width: 16.64px;
+  height: 16.64px;
+  flex-shrink: 0;
+}
+.milanTour {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-family: Quicksand;
+  font-weight: 700;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.menuItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.hamburgerMenu {
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+}
