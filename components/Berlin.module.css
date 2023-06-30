@@ -1,0 +1,16 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  position: relative;
+  height: 563.76px;
+}
+.cityImage{
+  width: 376px;
+  height: 564px;
+  flex-shrink: 0;
+  object-fit: cover;
+  opacity: 1;
+}
