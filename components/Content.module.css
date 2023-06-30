@@ -1,0 +1,178 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  height: fit-content;
+  padding: 32px 88px;
+  position: relative;
+  width: 1440px;
+  flex-shrink: 0;
+}
+.componentLibrary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 118, 160);
+}
+.componentLibraryText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.fullDesign {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 118, 160);
+}
+.fullDesignText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.yourFirstPageWithVividimportant {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.instructions {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 24px 16px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.variants {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.variantsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.generateCode {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.generateCodeText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.newWindow {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(0, 0, 0);
+}
+.icon {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
+.newWindowIcon {
+  width: 28px;
+  height: 27px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  opacity: 1;
+  overflow: hidden;
+}
+.newWindowIconImage {
+  transform: rotate(0deg) scale(107.14%, 107.41%) translate(-3.33%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.preview {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: Avenir;
+  font-weight: 500;
+}
