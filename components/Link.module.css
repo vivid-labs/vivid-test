@@ -1,0 +1,18 @@
+.linkContainer{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}.linkText{
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Quicksand;
+  font-weight: 500;
+}
