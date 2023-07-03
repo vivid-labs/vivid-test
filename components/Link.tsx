@@ -8,8 +8,8 @@ export const Link = ({
   linkText: string;
 }) => {
   return (
-    <div style={override} className={styles.link}>
-      <p className={styles.default}>{linkText}</p>
-    </div>
+    <div style={override} className={styles.linkContainer}>
+    <p className={styles.linkText}>{linkText}</p>
+   </div> 
   );
 };
