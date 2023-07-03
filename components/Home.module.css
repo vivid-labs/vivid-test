@@ -1,4 +1,4 @@
-.home {
+.container{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -10,7 +10,7 @@
   width: 32px;
   height: 32px;
 }
-.homeImage {
+.imageWrapper{
   position: absolute;
   left: 6px;
   right: -6px;
