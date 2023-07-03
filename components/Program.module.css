@@ -1,4 +1,4 @@
-.program {
+.program{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
   width: 32px;
   height: 32px;
 }
-.group_10 {
+.iconWrapper{
   position: absolute;
   left: 4px;
   right: -4px;

@@ -1,4 +1,4 @@
-.volumeDown {
+.volumeDownContainer{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
   width: 32px;
   height: 32px;
 }
-.volumeDownImage {
+.volumeDownImageContainer{
   position: absolute;
   left: 4.63px;
   right: -4.63px;
