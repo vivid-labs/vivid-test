@@ -1,4 +1,4 @@
-.screeneqDesktop {
+.screeneqDesktop{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -10,7 +10,7 @@
   width: 1440px;
   background-color: rgb(43, 43, 43);
 }
-.sectionHeadline {
+.sectionHeadline{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -20,7 +20,7 @@
   width: 1046px;
   flex-shrink: 0;
 }
-.heading {
+.heading{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -30,7 +30,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.trendingCollection {
+.trendingCollection{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -41,7 +41,7 @@
   font-weight: 600;
   line-height: 1.2000000476837158em;
 }
-.subhead {
+.subhead{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -51,7 +51,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.checkoutOurWeeklyUpdatedTrendingCollection {
+.checkoutOurWeeklyUpdatedTrendingCollection{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -62,7 +62,7 @@
   font-weight: 400;
   line-height: 1.600000023841858em;
 }
-.collectionCardRow {
+.collectionCardRow{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
