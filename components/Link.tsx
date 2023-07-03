@@ -1,15 +1,17 @@
 import styles from "./Link.module.css";
 
-export const Link = ({
+export const Link = (
+ {
   override,
-  linkText,
-}: {
+  linkText
+ }: {
   override?: any;
   linkText: string;
-}) => {
-  return (
-    <div style={override} className={styles.link}>
-      <p className={styles.default}>{linkText}</p>
-    </div>
-  );
+ }
+) => {
+ return (
+   <div style={override} className={styles.linkContainer}>
+   <p className={styles.linkText}>{linkText}</p>
+  </div> 
+ );
 };
