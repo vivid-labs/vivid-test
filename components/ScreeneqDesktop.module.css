@@ -1,0 +1,220 @@
+.screeneqDesktop {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 49px;
+  height: fit-content;
+  padding: 40px 195px;
+  position: relative;
+  width: 1439.41px;
+  background-color: rgb(59, 59, 59);
+}
+.footerInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftMarketplaceInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  padding: 0px 84px 0px 0px;
+  position: relative;
+  width: 327.41px;
+  flex-shrink: 0;
+}
+.nftMarketplace {
+  position: absolute;
+  width: 199.41px;
+  left: 44px;
+  height: 19.8px;
+  top: 8.6px;
+}
+.additionalInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.nftMarketplaceUiCreatedWithAnimaForFigma {
+  height: fit-content;
+  width: 238px;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.communityInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.joinOurCommunity {
+  width: 238px;
+  height: 18px;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.explore {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  position: relative;
+  width: 240px;
+  flex-shrink: 0;
+}
+.exploreText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.pages {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.marketplace {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.rankings {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.connectAWallet {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.subscribe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.joinOurWeeklyDigest {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.subscribeFormAndInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.getExclusivePromotionsAndUpdatesStraightToYourInbox {
+  height: fit-content;
+  width: 330px;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.399999976158142em;
+}
+.frame_239 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.divider {
+  rotate: -0deg;
+  width: 100%;
+  height: 0px;
+  flex-shrink: 0;
+}
+.nftMarketUseThisTemplateFreely {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(204, 204, 204);
+  font-size: 12px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.100000023841858em;
+}
