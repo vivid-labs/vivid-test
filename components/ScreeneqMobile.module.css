@@ -1,4 +1,4 @@
-.screeneqMobile {
+.screeneqMobile{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,7 +9,7 @@
   width: 375px;
   background-color: rgb(59, 59, 59);
 }
-.footerInfo {
+.footer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -19,7 +19,7 @@
   width: 315px;
   flex-shrink: 0;
 }
-.nftMarketplaceInfo {
+.marketplaceInfo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -29,14 +29,14 @@
   width: 100%;
   flex-shrink: 0;
 }
-.nftMarketplace {
+.nftMarketplace{
   position: absolute;
   width: 199.41px;
   left: 44px;
   height: 19.8px;
   top: 8.6px;
 }
-.additionalInfo {
+.additionalInfo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -46,7 +46,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.nftMarketplaceUiCreatedWithAnimaForFigma {
+.nftMarketplaceUi{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -56,7 +56,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.communityInfo {
+.communityInfo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -66,7 +66,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.joinOurCommunity {
+.joinCommunity{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -76,7 +76,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.icons {
+.icons{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -86,7 +86,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.explore {
+.explore{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -96,7 +96,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.exploreText {
+.exploreText{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -106,7 +106,7 @@
   font-weight: 700;
   line-height: 1.600000023841858em;
 }
-.pages {
+.pages{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -116,7 +116,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.marketplace {
+.marketplace{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -127,7 +127,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.rankings {
+.rankings{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -138,7 +138,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.connectAWallet {
+.connectWallet{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -149,7 +149,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.subscribe {
+.subscribe{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -159,7 +159,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.joinOurWeeklyDigest {
+.joinDigest{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -169,7 +169,7 @@
   font-weight: 700;
   line-height: 1.600000023841858em;
 }
-.subscribeFormAndInfo {
+.subscribeForm{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -179,7 +179,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.getExclusivePromotionsAndUpdatesStraightToYourInbox {
+.exclusivePromotions{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -189,7 +189,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.frame_239 {
+.frame{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -199,13 +199,13 @@
   width: 315px;
   flex-shrink: 0;
 }
-.divider {
+.divider{
   rotate: -0deg;
   width: 100%;
   height: 0px;
   flex-shrink: 0;
 }
-.nftMarketUseThisTemplateFreely {
+.nftMarketUseTemplate{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
