@@ -3,9 +3,9 @@ import envelopeSimple from "./envelopeSimple.svg";
 export const EnvelopeSimple = ({ override }: { override?: any }) => {
   return (
     <img
-      src={envelopeSimple.src}
-      style={override}
-      className={styles.envelopeSimple}
-    />
+     src={envelopeSimple.src}
+     style={override}
+     className={styles.envelopeIcon}
+   /> 
   );
 };
