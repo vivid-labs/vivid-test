@@ -1,4 +1,4 @@
-.lake {
+.container{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -7,7 +7,7 @@
   position: relative;
   height: 562.43px;
 }
-.lakeImage {
+.lakeImg{
   width: 376px;
   height: 563px;
   flex-shrink: 0;

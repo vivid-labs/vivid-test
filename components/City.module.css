@@ -1,10 +1,10 @@
-.city {
+.city{
   overflow: hidden;
   border-radius: 20px;
   position: relative;
   width: 376px;
 }
-.background {
+.cityBackground{
   overflow: hidden;
   border-radius: 20px;
   position: absolute;
@@ -16,7 +16,7 @@
     rgb(0, 0, 0, 0) 100%
   );
 }
-.rectangle_1 {
+.cityRectangle{
   position: absolute;
   right: 0%;
   width: calc(100%);
@@ -28,7 +28,7 @@
     rgb(217, 217, 217, 0) 100%
   );
 }
-.content {
+.cityContent{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -37,7 +37,7 @@
   position: absolute;
   width: 376px;
 }
-.heading {
+.cityHeading{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -46,7 +46,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.title {
+.cityTitle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -57,7 +57,7 @@
   font-family: Quicksand;
   font-weight: 600;
 }
-.details {
+.cityDetails{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -67,7 +67,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.price {
+.cityPrice{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -77,14 +77,14 @@
   position: relative;
   flex-shrink: 0;
 }
-.ticket {
+.cityTicket{
   overflow: hidden;
   position: relative;
   width: 14px;
   height: 14px;
   flex-shrink: 0;
 }
-.ticketImage {
+.cityTicketImage{
   position: absolute;
   left: 1.17px;
   right: -1.17px;
@@ -93,7 +93,7 @@
   bottom: -2.33px;
   height: auto;
 }
-.text_80 {
+.cityPriceText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -104,7 +104,7 @@
   font-family: Quicksand;
   font-weight: 400;
 }
-.time {
+.cityTime{
   display: flex;
   flex-direction: row;
   align-items: flex-end;
@@ -114,14 +114,14 @@
   position: relative;
   flex-shrink: 0;
 }
-.timeCircle {
+.cityTimeCircle{
   overflow: hidden;
   position: relative;
   width: 14px;
   height: 14px;
   flex-shrink: 0;
 }
-.timeCircleImage {
+.cityTimeCircleImage{
   position: absolute;
   left: 1.17px;
   right: -1.17px;
@@ -130,7 +130,7 @@
   bottom: -1.17px;
   height: auto;
 }
-.text3Hours {
+.cityTimeText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -141,7 +141,7 @@
   font-family: Quicksand;
   font-weight: 400;
 }
-.label {
+.cityLabel{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -151,7 +151,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.image {
+.cityImage{
   width: 30px;
   height: 30px;
   flex-shrink: 0;
@@ -162,7 +162,7 @@
   opacity: 1;
   border-radius: 50%;
 }
-.name {
+.cityName{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -171,7 +171,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.nameText {
+.cityNameText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -182,7 +182,7 @@
   font-family: Quicksand;
   font-weight: 700;
 }
-.position {
+.cityPosition{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;

@@ -1,4 +1,4 @@
-.topPrograms {
+.container{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,7 +9,7 @@
   width: 1440px;
   background-color: rgb(13, 17, 20);
 }
-.topProgramsText {
+.title{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -20,7 +20,7 @@
   font-family: Quicksand;
   font-weight: 700;
 }
-.ourProgramsAreCompiledByTheBestGuidesEachTouristWillBeAbleToChooseAProgramAccordingToTheirLevel {
+.description{
   height: fit-content;
   text-align: center;
   width: 534px;
@@ -31,7 +31,7 @@
   font-weight: 400;
   letter-spacing: -0.03em;
 }
-.topProgramsDiv {
+.programContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -41,7 +41,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.cities {
+.cityContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

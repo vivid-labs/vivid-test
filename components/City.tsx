@@ -65,49 +65,49 @@ export const City = ({
   }
   return (
     <div
-      style={{
-        ...citySize,
-        ...override,
-      }}
-      className={styles.city}
-    >
-      <div className={styles.background}>
-        {backgroundImage}
-        <div className={styles.rectangle_1} />
-      </div>
-      <div style={contentSize} className={styles.content}>
-        <div className={styles.heading}>
-          <p className={styles.title}>{title}</p>
-          <div className={styles.details}>
-            <div className={styles.price}>
-              <div className={styles.ticket}>
-                <div>
-                  <img src={ticketSrc.src} className={styles.ticketImage} />
-                </div>
+     style={{
+       ...citySize,
+       ...override,
+     }}
+     className={styles.city}
+   >
+    <div className={styles.cityBackground}>
+      {backgroundImage}
+      <div className={styles.cityRectangle} />
+    </div>
+    <div style={contentSize} className={styles.cityContent}>
+      <div className={styles.cityHeading}>
+        <p className={styles.cityTitle}>{title}</p>
+        <div className={styles.cityDetails}>
+          <div className={styles.cityPrice}>
+            <div className={styles.cityTicket}>
+              <div>
+                <img src={ticketSrc.src} className={styles.cityTicketImage} />
               </div>
-              <p className={styles.text_80}>{price}</p>
             </div>
-            <div className={styles.time}>
-              <div className={styles.timeCircle}>
-                <div>
-                  <img
-                    src={timeCircleSrc.src}
-                    className={styles.timeCircleImage}
-                  />
-                </div>
+            <p className={styles.cityPriceText}>{price}</p>
+          </div>
+          <div className={styles.cityTime}>
+            <div className={styles.cityTimeCircle}>
+              <div>
+                <img
+                  src={timeCircleSrc.src}
+                  className={styles.cityTimeCircleImage}
+                />
               </div>
-              <p className={styles.text3Hours}>{time}</p>
             </div>
+            <p className={styles.cityTimeText}>{time}</p>
           </div>
         </div>
-        <div className={styles.label}>
-          <img src={image.src} className={styles.image} />
-          <div className={styles.name}>
-            <p className={styles.nameText}>{guideName}</p>
-            <p className={styles.position}>{guidePosition}</p>
-          </div>
+      </div>
+      <div className={styles.cityLabel}>
+        <img src={image.src} className={styles.cityImage} />
+        <div className={styles.cityName}>
+          <p className={styles.cityNameText}>{guideName}</p>
+          <p className={styles.cityPosition}>{guidePosition}</p>
         </div>
       </div>
     </div>
+   </div> 
   );
 };
