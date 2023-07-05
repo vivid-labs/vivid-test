@@ -1,4 +1,4 @@
-.gitHubIcon {
+.container{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -7,7 +7,7 @@
   width: 50px;
   height: 50px;
 }
-.githubPagesLogoRepositoryForkGithub_86eddab19cbc3ae293ada0fe0fb9e27d_1 {
+.iconImage{
   height: 100%;
   flex-shrink: 0;
   flex: 1 1 0%;
