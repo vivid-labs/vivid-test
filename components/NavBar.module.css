@@ -1,4 +1,4 @@
-.navBar {
+.navBar{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -9,7 +9,7 @@
   width: 1440px;
   height: 82px;
 }
-.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a {
+.imageContainer{
   object-fit: cover;
   opacity: 1;
   position: absolute;
@@ -17,7 +17,7 @@
   height: 100%;
   width: 100%;
 }
-.left {
+.leftContainer{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -26,7 +26,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.ellipse_2 {
+.ellipseImage{
   width: 62px;
   height: 62px;
   flex-shrink: 0;
@@ -34,7 +34,7 @@
   opacity: 1;
   border-radius: 50%;
 }
-.navBarComponent {
+.navBarComponent{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -46,7 +46,7 @@
   height: 82px;
   background-color: rgb(255, 255, 255);
 }
-.ellipse_1 {
+.ellipseImageWhite{
   width: 62px;
   height: 62px;
   flex-shrink: 0;

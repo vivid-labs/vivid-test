@@ -1,4 +1,4 @@
-.vividForTeams {
+.vividForTeams{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -8,7 +8,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255);
 }
-.content {
+.content{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,7 +22,7 @@
   min-height: 0px;
   background-color: rgb(255, 255, 255);
 }
-.section {
+.section{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -35,7 +35,7 @@
   height: 519px;
   flex-shrink: 0;
 }
-.left {
+.left{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -47,7 +47,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.teamsInformation {
+.teamsInformation{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -57,7 +57,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.heading_2 {
+.heading_2{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -67,33 +67,33 @@
   position: relative;
   flex-shrink: 0;
 }
-.divAiAddonBlockEyebrowYe8W5 {
+.divAiAddonBlockEyebrowYe8W5{
   position: relative;
   width: 520px;
   height: 19px;
   flex-shrink: 0;
 }
-.svg {
+.svg{
   overflow: hidden;
   position: absolute;
   width: 16px;
   height: 15.31px;
   top: calc(50% - 7.65px);
 }
-.frame {
+.frame{
   position: absolute;
   width: 16px;
   left: calc(50% - 8px);
   height: 15.31px;
 }
-.group {
+.group{
   position: absolute;
   right: 0.32px;
   width: auto;
   bottom: 0.35px;
   height: auto;
 }
-.freeFor_2WeeksInBeta {
+.freeFor_2WeeksInBeta{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -110,7 +110,7 @@
   letter-spacing: 0.049949999898672104px;
   line-height: 19px;
 }
-.vividTeams {
+.vividTeams{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -125,7 +125,7 @@
   letter-spacing: -0.8496000170707703px;
   line-height: 40px;
 }
-.pTextTextJYg6z {
+.pTextTextJYg6z{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -135,7 +135,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -150,7 +150,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.descriptions {
+.descriptions{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -160,7 +160,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.divAiAddonBlockActionsFsahh {
+.divAiAddonBlockActionsFsahh{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -171,7 +171,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.right {
+.right{
   overflow: hidden;
   position: relative;
   border-top-left-radius: 7px;
@@ -182,7 +182,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255, 0);
 }
-.pictureAiMobileDesktopPng {
+.pictureAiMobileDesktopPng{
   position: absolute;
   width: 666.25px;
   left: calc(50% - 332.5px);
@@ -192,13 +192,13 @@
   opacity: 1;
   overflow: hidden;
 }
-.pictureAiMobileDesktopPngImage {
+.pictureAiMobileDesktopPngImage{
   transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.demoImageGif {
+.demoImageGif{
   text-align: center;
   display: flex;
   flex-direction: column;

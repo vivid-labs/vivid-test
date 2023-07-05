@@ -14,24 +14,24 @@ export const NavBar = ({
     case "Colored":
       return (
         <div style={override} className={styles.navBar}>
-          <img
-            src={pictureAiMobileDesktopPng.src}
-            className={
-              styles.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a
-            }
-          />
-          <div className={styles.left}>
-            <OutlinedLogo />
-          </div>
-          <img src={ellipse_1.src} className={styles.ellipse_2} />
+        <img
+          src={pictureAiMobileDesktopPng.src}
+          className={
+            styles.imageContainer
+          }
+        />
+        <div className={styles.leftContainer}>
+          <OutlinedLogo />
         </div>
+        <img src={ellipse_1.src} className={styles.ellipseImage} />
+       </div>)
       );
     case "White":
       return (
-        <div style={override} className={styles.navBarComponent}>
-          <NoOutlineLogo />
-          <img src={ellipse_1.src} className={styles.ellipse_1} />
-        </div>
+       (<div style={override} className={styles.navBarComponent}>
+        <NoOutlineLogo />
+        <img src={ellipse_1.src} className={styles.ellipseImageWhite} />
+       </div> 
       );
     default:
       return null;
