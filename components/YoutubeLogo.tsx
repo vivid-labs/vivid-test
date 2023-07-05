@@ -3,9 +3,9 @@ import youtubeLogo from "./youtubeLogo.svg";
 export const YoutubeLogo = ({ override }: { override?: any }) => {
   return (
     <img
-      src={youtubeLogo.src}
-      style={override}
-      className={styles.youtubeLogo}
-    />
+     src={youtubeLogo.src}
+     style={override}
+     className={styles.logoImage}
+   /> 
   );
 };
