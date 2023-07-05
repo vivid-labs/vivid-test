@@ -1,0 +1,11 @@
+.features {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
