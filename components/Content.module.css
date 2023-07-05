@@ -1,11 +1,11 @@
-.content {
+.content{
   overflow: hidden;
   position: relative;
   width: 1440px;
   height: 799px;
   flex-shrink: 0;
 }
-.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a {
+.image{
   object-fit: cover;
   opacity: 1;
   position: absolute;
@@ -13,7 +13,7 @@
   height: 100%;
   width: 100%;
 }
-.frame_2 {
+.frameWrapper{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -30,7 +30,7 @@
   top: calc(50% - 183px);
   background-color: rgb(255, 255, 255);
 }
-.frame_3 {
+.title{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -41,7 +41,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.getStartedWithVividTeamsimportant {
+.text{
   height: fit-content;
   text-align: center;
   flex-shrink: 0;
@@ -52,7 +52,7 @@
   font-family: Avenir;
   font-weight: 800;
 }
-.frame_4 {
+.optionsWrapper{
   overflow: hidden;
   border-radius: 5px;
   position: relative;
@@ -61,7 +61,7 @@
   flex-shrink: 0;
   background-color: rgb(245, 241, 241);
 }
-.vividWillNowTakeYouToGitHubAndAskYouToDoSomeStuffWhenYouReDoneWithThatStuffComeBackToEditThisCopyToReflectWhatActuallyNeedsToGetDoneMakeThisStylingABitPrettierAndThenMoveOnimportant {
+.laterButton{
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -78,7 +78,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.options {
+.githubButton{
   display: flex;
   flex-direction: row;
   align-items: center;
