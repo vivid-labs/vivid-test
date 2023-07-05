@@ -7,19 +7,19 @@ import pictureAiMobileDesktopPng from "./pictureAiMobileDesktopPng.jpg";
 export const Content = ({ override }: { override?: any }) => {
   divProps = [
     {
-      className: styles.left,
+      className: styles.leftContainer,
     },
     {
-      className: styles.right,
+      className: styles.rightContainer,
     },
   ];
   return (
-    <div style={override} className={styles.content}>
-      <div className={styles.section}>
-        {divProps.map((props, i) => (
-          <div {...props} key={i} />
-        ))}
-      </div>
+    <div style={override} className={styles.container}>
+    <div className={styles.sectionContainer}>
+      {divProps.map((props, i) => (
+        <div {...props} key={i} />
+      ))}
     </div>
+   </div> 
   );
 };
