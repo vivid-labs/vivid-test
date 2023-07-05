@@ -1,9 +1,9 @@
-.delete {
+.delete{
   position: relative;
   width: 80px;
   height: 55px;
 }
-.image {
+.deleteImage{
   position: absolute;
   right: 0%;
   width: calc(100%);

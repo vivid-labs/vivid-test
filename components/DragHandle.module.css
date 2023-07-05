@@ -1,9 +1,9 @@
-.dragHandle {
+.dragHandle{
   position: relative;
   width: 8px;
   height: 5px;
 }
-.ellipse_7 {
+.outerEllipse{
   position: absolute;
   right: 75%;
   width: calc(25%);
@@ -12,7 +12,7 @@
   background-color: rgb(160, 160, 160);
   border-radius: 50%;
 }
-.ellipse_9 {
+.innerEllipse{
   position: absolute;
   left: 75%;
   right: 0%;
@@ -22,7 +22,7 @@
   background-color: rgb(160, 160, 160);
   border-radius: 50%;
 }
-.ellipse_8 {
+.ellipse_8{
   position: absolute;
   left: 37.5%;
   right: 37.5%;
@@ -32,7 +32,7 @@
   background-color: rgb(160, 160, 160);
   border-radius: 50%;
 }
-.ellipse_10 {
+.ellipse_9{
   position: absolute;
   right: 75%;
   width: calc(25%);
@@ -42,7 +42,7 @@
   background-color: rgb(160, 160, 160);
   border-radius: 50%;
 }
-.ellipse_11 {
+.ellipse_10{
   position: absolute;
   left: 75%;
   right: 0%;
@@ -53,7 +53,7 @@
   background-color: rgb(160, 160, 160);
   border-radius: 50%;
 }
-.ellipse_12 {
+.ellipse_11{
   position: absolute;
   left: 37.5%;
   right: 37.5%;
