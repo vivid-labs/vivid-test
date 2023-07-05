@@ -1,4 +1,4 @@
-.content {
+.content{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +11,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255);
 }
-.section {
+.section{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -24,7 +24,7 @@
   height: 519px;
   flex-shrink: 0;
 }
-.left {
+.left{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -36,7 +36,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.teamsInformation {
+.teamsContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -46,7 +46,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.heading_2 {
+.headingContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -56,33 +56,33 @@
   position: relative;
   flex-shrink: 0;
 }
-.divAiAddonBlockEyebrowYe8W5 {
+.eyebrowContainer{
   position: relative;
   width: 520px;
   height: 19px;
   flex-shrink: 0;
 }
-.svg {
+.svgContainer{
   overflow: hidden;
   position: absolute;
   width: 16px;
   height: 15.31px;
   top: calc(50% - 7.65px);
 }
-.frame {
+.frameContainer{
   position: absolute;
   width: 16px;
   left: calc(50% - 8px);
   height: 15.31px;
 }
-.group {
+.groupImage{
   position: absolute;
   right: 0.32px;
   width: auto;
   bottom: 0.35px;
   height: auto;
 }
-.freeFor_1MonthInBeta {
+.betaMessage{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -99,7 +99,7 @@
   letter-spacing: 0.049949999898672104px;
   line-height: 19px;
 }
-.vividTeams {
+.vividTeamsText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -114,7 +114,7 @@
   letter-spacing: -0.8496000170707703px;
   line-height: 40px;
 }
-.pTextTextJYg6z {
+.descriptionContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -124,7 +124,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+.description{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -139,7 +139,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.descriptions {
+.featuresContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -149,7 +149,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.divAiAddonBlockActionsFsahh {
+.actionsContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -160,7 +160,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.right {
+.right{
   overflow: hidden;
   position: relative;
   border-top-left-radius: 7px;
@@ -171,7 +171,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255, 0);
 }
-.pictureAiMobileDesktopPng {
+.pictureContainer{
   position: absolute;
   width: 666.25px;
   left: calc(50% - 332.5px);
@@ -181,13 +181,13 @@
   opacity: 1;
   overflow: hidden;
 }
-.pictureAiMobileDesktopPngImage {
+.pictureImage{
   transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.demoImageGif {
+.demoText{
   text-align: center;
   display: flex;
   flex-direction: column;
