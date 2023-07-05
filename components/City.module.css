@@ -1,10 +1,10 @@
-.city {
+.city{
   overflow: hidden;
   border-radius: 20px;
   position: relative;
   width: 376px;
 }
-.background {
+.background{
   overflow: hidden;
   border-radius: 20px;
   position: absolute;
@@ -16,7 +16,7 @@
     rgb(0, 0, 0, 0) 100%
   );
 }
-.rectangle_1 {
+.gradientOverlay{
   position: absolute;
   right: 0%;
   width: calc(100%);
@@ -28,7 +28,7 @@
     rgb(217, 217, 217, 0) 100%
   );
 }
-.content {
+.content{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -37,7 +37,7 @@
   position: absolute;
   width: 376px;
 }
-.heading {
+.infoContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -46,7 +46,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.title {
+.sectionTitle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -57,7 +57,7 @@
   font-family: Quicksand;
   font-weight: 600;
 }
-.details {
+.details{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -67,7 +67,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.price {
+.price{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -77,14 +77,14 @@
   position: relative;
   flex-shrink: 0;
 }
-.ticket {
+.ticketWrapper{
   overflow: hidden;
   position: relative;
   width: 14px;
   height: 14px;
   flex-shrink: 0;
 }
-.ticketImage {
+.ticketImage{
   position: absolute;
   left: 1.17px;
   right: -1.17px;
@@ -93,7 +93,7 @@
   bottom: -2.33px;
   height: auto;
 }
-.text_80 {
+.ticketPrice{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -104,7 +104,7 @@
   font-family: Quicksand;
   font-weight: 400;
 }
-.time {
+.time{
   display: flex;
   flex-direction: row;
   align-items: flex-end;
@@ -114,14 +114,14 @@
   position: relative;
   flex-shrink: 0;
 }
-.timeCircle {
+.timeCircleWrapper{
   overflow: hidden;
   position: relative;
   width: 14px;
   height: 14px;
   flex-shrink: 0;
 }
-.timeCircleImage {
+.timeCircleImage{
   position: absolute;
   left: 1.17px;
   right: -1.17px;
@@ -130,7 +130,7 @@
   bottom: -1.17px;
   height: auto;
 }
-.text3Hours {
+.timeText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -141,7 +141,7 @@
   font-family: Quicksand;
   font-weight: 400;
 }
-.label {
+.guideLabel{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -151,7 +151,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.image {
+.guideImage{
   width: 30px;
   height: 30px;
   flex-shrink: 0;
@@ -162,7 +162,7 @@
   opacity: 1;
   border-radius: 50%;
 }
-.name {
+.guideInfoContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -171,7 +171,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.nameText {
+.guideName{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -182,7 +182,7 @@
   font-family: Quicksand;
   font-weight: 700;
 }
-.position {
+.guidePosition{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;

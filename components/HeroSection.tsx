@@ -26,37 +26,37 @@ export const HeroSection = ({ override }: { override?: any }) => {
   ];
   return (
     <div style={override} className={styles.heroSection}>
-      <img
-        src={heroSection.src}
+    <img
+      src={heroSection.src}
+      className={
+        styles.fullScreenImage
+      }
+    />
+    <Navigation
+      override={{
+        height: "fit-content",
+        width: "100%",
+      }}
+    />
+    <div className={styles.sectionHeadings}>
+      <p className={styles.mainHeading}>
+        Switzerland Has Never Been So Affordable
+      </p>
+      <p
         className={
-          styles.objectFitCoverOpacity_1e49588a32f965b671dd350d0d37e6396ac7f5f56
+          styles.subHeading
         }
-      />
-      <Navigation
-        override={{
-          height: "fit-content",
-          width: "100%",
-        }}
-      />
-      <div className={styles.headings}>
-        <p className={styles.switzerlandHasNeverBeenSoAffordable}>
-          Switzerland Has Never Been So Affordable
-        </p>
-        <p
-          className={
-            styles.discoverSwitzerlandChooseTheBestProgramsGuidesHotelsAndRestaurants
-          }
-        >
-          Discover Switzerland. Choose the best programs, guides, hotels and
-          restaurants.
-        </p>
-      </div>
-      <Button color="White" />
-      <div className={styles.features}>
-        {featureProps.map((props, i) => (
-          <Feature {...props} key={i} />
-        ))}
-      </div>
+      >
+        Discover Switzerland. Choose the best programs, guides, hotels and
+        restaurants.
+      </p>
     </div>
+    <Button color="White" />
+    <div className={styles.featureContainer}>
+      {featureProps.map((props, i) => (
+        <Feature {...props} key={i} />
+      ))}
+    </div>
+   </div> 
   );
 };

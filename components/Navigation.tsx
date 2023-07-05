@@ -18,19 +18,19 @@ export const Navigation = ({ override }: { override?: any }) => {
     },
   ];
   return (
-    <div style={override} className={styles.navigation}>
-      <div className={styles.logo}>
-        <img src={moon.src} className={styles.moon} />
-        <p className={styles.milanTour}>MilanTour</p>
-      </div>
-      <div className={styles.links}>
-        <div className={styles.menuItems}>
-          {linkProps.map((props, i) => (
-            <Link {...props} key={i} />
-          ))}
-        </div>
-        <img src={hamburgerMenu.src} className={styles.hamburgerMenu} />
-      </div>
+    <div style={override} className={styles.navContainer}>
+    <div className={styles.navLogo}>
+      <img src={moon.src} className={styles.navLogoImage} />
+      <p className={styles.navTitle}>MilanTour</p>
     </div>
+    <div className={styles.navLinks}>
+      <div className={styles.menuItemsContainer}>
+        {linkProps.map((props, i) => (
+          <Link {...props} key={i} />
+        ))}
+      </div>
+      <img src={hamburgerMenu.src} className={styles.hamburgerMenuIcon} />
+    </div>
+   </div> 
   );
 };

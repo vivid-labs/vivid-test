@@ -1,4 +1,4 @@
-.navigation {
+.navContainer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -8,7 +8,7 @@
   position: relative;
   width: 1440px;
 }
-.logo {
+.navLogo{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -18,12 +18,12 @@
   position: relative;
   flex-shrink: 0;
 }
-.moon {
+.navLogoImage{
   width: 16.64px;
   height: 16.64px;
   flex-shrink: 0;
 }
-.milanTour {
+.navTitle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -34,7 +34,7 @@
   font-family: Quicksand;
   font-weight: 700;
 }
-.links {
+.navLinks{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -44,7 +44,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.menuItems {
+.menuItemsContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -54,7 +54,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.hamburgerMenu {
+.hamburgerMenuIcon{
   width: 50px;
   height: 50px;
   flex-shrink: 0;

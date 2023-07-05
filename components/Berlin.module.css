@@ -1,4 +1,4 @@
-.berlin {
+.berlinContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -7,7 +7,7 @@
   position: relative;
   height: 563.76px;
 }
-.berlinImage {
+.berlinImage{
   width: 376px;
   height: 564px;
   flex-shrink: 0;

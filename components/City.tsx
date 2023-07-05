@@ -65,49 +65,49 @@ export const City = ({
   }
   return (
     <div
-      style={{
-        ...citySize,
-        ...override,
-      }}
-      className={styles.city}
-    >
-      <div className={styles.background}>
-        {backgroundImage}
-        <div className={styles.rectangle_1} />
-      </div>
-      <div style={contentSize} className={styles.content}>
-        <div className={styles.heading}>
-          <p className={styles.title}>{title}</p>
-          <div className={styles.details}>
-            <div className={styles.price}>
-              <div className={styles.ticket}>
-                <div>
-                  <img src={ticketSrc.src} className={styles.ticketImage} />
-                </div>
+     style={{
+       ...citySize,
+       ...override,
+     }}
+     className={styles.city}
+   >
+    <div className={styles.background}>
+      {backgroundImage}
+      <div className={styles.gradientOverlay} />
+    </div>
+    <div style={contentSize} className={styles.content}>
+      <div className={styles.infoContainer}>
+        <p className={styles.sectionTitle}>{title}</p>
+        <div className={styles.details}>
+          <div className={styles.price}>
+            <div className={styles.ticketWrapper}>
+              <div>
+                <img src={ticketSrc.src} className={styles.ticketImage} />
               </div>
-              <p className={styles.text_80}>{price}</p>
             </div>
-            <div className={styles.time}>
-              <div className={styles.timeCircle}>
-                <div>
-                  <img
-                    src={timeCircleSrc.src}
-                    className={styles.timeCircleImage}
-                  />
-                </div>
+            <p className={styles.ticketPrice}>{price}</p>
+          </div>
+          <div className={styles.time}>
+            <div className={styles.timeCircleWrapper}>
+              <div>
+                <img
+                  src={timeCircleSrc.src}
+                  className={styles.timeCircleImage}
+                />
               </div>
-              <p className={styles.text3Hours}>{time}</p>
             </div>
+            <p className={styles.timeText}>{time}</p>
           </div>
         </div>
-        <div className={styles.label}>
-          <img src={image.src} className={styles.image} />
-          <div className={styles.name}>
-            <p className={styles.nameText}>{guideName}</p>
-            <p className={styles.position}>{guidePosition}</p>
-          </div>
+      </div>
+      <div className={styles.guideLabel}>
+        <img src={image.src} className={styles.guideImage} />
+        <div className={styles.guideInfoContainer}>
+          <p className={styles.guideName}>{guideName}</p>
+          <p className={styles.guidePosition}>{guidePosition}</p>
         </div>
       </div>
     </div>
+   </div> 
   );
 };

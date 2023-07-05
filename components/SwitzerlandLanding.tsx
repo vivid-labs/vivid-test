@@ -4,15 +4,15 @@ import { TopPrograms } from "./TopPrograms";
 import { Footer } from "./Footer";
 export const SwitzerlandLanding = ({ override }: { override?: any }) => {
   return (
-    <div style={override} className={styles.switzerlandLanding}>
-      <HeroSection />
-      <TopPrograms
-        override={{
-          height: "fit-content",
-          width: "100%",
-        }}
-      />
-      <Footer />
-    </div>
+    <div style={override} className={styles.landingContainer}>
+    <HeroSection />
+    <TopPrograms
+      override={{
+        height: "fit-content",
+        width: "100%",
+      }}
+    />
+    <Footer />
+   </div> 
   );
 };
