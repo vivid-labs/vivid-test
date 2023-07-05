@@ -23,27 +23,27 @@ import vector from "./vector.svg";
 export const CreateCollectionIcon = ({ override }: { override?: any }) => {
   return (
     <div style={override} className={styles.createCollectionIcon}>
-      <img src={vectorImage18.src} className={styles.vector} />
-      <img src={group.src} className={styles.group} />
-      <img src={vectorImage17.src} className={styles.vectorImage} />
-      <img src={vectorImage16.src} className={styles.vectorImage1} />
-      <img src={vectorImage15.src} className={styles.vectorImage2} />
-      <img src={vectorImage14.src} className={styles.vectorImage3} />
-      <img src={vectorImage13.src} className={styles.vectorImage4} />
-      <img src={vectorImage12.src} className={styles.vectorImage5} />
-      <img src={vectorImage11.src} className={styles.vectorImage6} />
-      <img src={vectorImage10.src} className={styles.vectorImage7} />
-      <img src={vectorImage9.src} className={styles.vectorImage8} />
-      <img src={vectorImage8.src} className={styles.vectorImage9} />
-      <img src={vectorImage7.src} className={styles.vectorImage10} />
-      <img src={vectorImage6.src} className={styles.vectorImage11} />
-      <img src={vectorImage5.src} className={styles.vectorImage12} />
-      <img src={vectorImage4.src} className={styles.vectorImage13} />
-      <img src={vectorImage3.src} className={styles.vectorImage14} />
-      <img src={vectorImage2.src} className={styles.vectorImage15} />
-      <img src={vectorImage1.src} className={styles.vectorImage16} />
-      <img src={vectorImage.src} className={styles.vectorImage17} />
-      <img src={vector.src} className={styles.vectorImage18} />
-    </div>
+    <img src={vectorImage18.src} className={styles.vectorIcon} />
+    <img src={group.src} className={styles.groupIcon} />
+    <img src={vectorImage17.src} className={styles.vectorImageIcon} />
+    <img src={vectorImage16.src} className={styles.vectorImageIcon1} />
+    <img src={vectorImage15.src} className={styles.vectorImageIcon2} />
+    <img src={vectorImage14.src} className={styles.vectorImageIcon3} />
+    <img src={vectorImage13.src} className={styles.vectorImageIcon4} />
+    <img src={vectorImage12.src} className={styles.vectorImageIcon5} />
+    <img src={vectorImage11.src} className={styles.vectorImageIcon6} />
+    <img src={vectorImage10.src} className={styles.vectorImageIcon7} />
+    <img src={vectorImage9.src} className={styles.vectorImageIcon8} />
+    <img src={vectorImage8.src} className={styles.vectorImageIcon9} />
+    <img src={vectorImage7.src} className={styles.vectorImageIcon10} />
+    <img src={vectorImage6.src} className={styles.vectorImageIcon11} />
+    <img src={vectorImage5.src} className={styles.vectorImageIcon12} />
+    <img src={vectorImage4.src} className={styles.vectorImageIcon13} />
+    <img src={vectorImage3.src} className={styles.vectorImageIcon14} />
+    <img src={vectorImage2.src} className={styles.vectorImageIcon15} />
+    <img src={vectorImage1.src} className={styles.vectorImageIcon16} />
+    <img src={vectorImage.src} className={styles.vectorImageIcon17} />
+    <img src={vector.src} className={styles.vectorImageIcon18} />
+   </div> 
   );
 };

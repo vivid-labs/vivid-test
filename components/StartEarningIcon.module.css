@@ -1,10 +1,10 @@
-.startEarningIcon {
+.startEarningIcon{
   overflow: hidden;
   position: relative;
   width: 276px;
   height: 276px;
 }
-.vector {
+.vector{
   position: absolute;
   left: 8.333333333333332%;
   right: 8.333333333333332%;
@@ -13,7 +13,7 @@
   bottom: 8.333333333333332%;
   height: 83.33333333333334%;
 }
-.group {
+.group{
   position: absolute;
   left: 68px;
   right: 54px;
@@ -22,7 +22,7 @@
   bottom: 54px;
   height: auto;
 }
-.vectorImage {
+.vectorImage{
   position: absolute;
   left: 20.28985507246377%;
   right: 75.29242695241734%;
@@ -31,7 +31,7 @@
   bottom: 66.2344559379246%;
   height: 4.417717975118876%;
 }
-.vectorImage1 {
+.vectorImage1{
   position: absolute;
   left: 16.304347826086957%;
   right: 79.27793419879416%;
@@ -40,7 +40,7 @@
   bottom: 27.103987984035328%;
   height: 4.417751146399453%;
 }
-.vectorImage2 {
+.vectorImage2{
   position: absolute;
   left: 75%;
   right: 20.582248853600543%;
@@ -49,7 +49,7 @@
   bottom: 80.36489072053328%;
   height: 4.41771797511889%;
 }
-.vectorImage3 {
+.vectorImage3{
   position: absolute;
   left: 21.519050045289855%;
   right: 73.40169333029485%;
@@ -58,7 +58,7 @@
   bottom: 79.92343176966128%;
   height: 5.079257315483645%;
 }
-.vectorImage4 {
+.vectorImage4{
   position: absolute;
   left: 79.60824275362319%;
   right: 14.824274657429129%;
@@ -67,7 +67,7 @@
   bottom: 66.27351408419402%;
   height: 5.5675185245016365%;
 }
-.vectorImage5 {
+.vectorImage5{
   position: absolute;
   left: 16.16883208786232%;
   right: 79.32938389156176%;
@@ -76,7 +76,7 @@
   bottom: 15.523626838905225%;
   height: 4.326067454573041%;
 }
-.vectorImage6 {
+.vectorImage6{
   position: absolute;
   left: 76.42114611639492%;
   right: 19.15857550026714%;
@@ -85,7 +85,7 @@
   bottom: 23.156035119208738%;
   height: 4.441055007602856%;
 }
-.groupImage {
+.groupImage{
   position: absolute;
   left: 68.28px;
   right: 76.97px;
@@ -94,7 +94,7 @@
   bottom: 38.36px;
   height: auto;
 }
-.groupImage1 {
+.groupImage1{
   position: absolute;
   left: 87.15px;
   right: 122.96px;
@@ -103,7 +103,7 @@
   bottom: 129.06px;
   height: auto;
 }
-.vectorImage7 {
+.vectorImage7{
   position: absolute;
   left: 36.51193812273551%;
   right: 50.01940658127052%;
@@ -112,7 +112,7 @@
   bottom: 61.130883382714316%;
   height: 3.5996419796045274%;
 }
-.vectorImage8 {
+.vectorImage8{
   position: absolute;
   left: 38.44082597373188%;
   right: 48.20742814437203%;
@@ -121,7 +121,7 @@
   bottom: 50.896529529405676%;
   height: 3.536215035811715%;
 }
-.vectorImage9 {
+.vectorImage9{
   position: absolute;
   left: 37.490800498188406%;
   right: 49.15727532428244%;
@@ -130,7 +130,7 @@
   bottom: 56.28463772759922%;
   height: 3.5361842832703516%;
 }
-.vectorImage10 {
+.vectorImage10{
   position: absolute;
   left: 35.481417006340585%;
   right: 57.992190208987914%;
@@ -139,7 +139,7 @@
   bottom: 66.5841275367184%;
   height: 4.442395334658414%;
 }
-.groupImage2 {
+.groupImage2{
   position: absolute;
   left: 124.58px;
   right: 85.58px;
@@ -148,7 +148,7 @@
   bottom: 157.14px;
   height: auto;
 }
-.vectorImage11 {
+.vectorImage11{
   position: absolute;
   left: 48.196013077445656%;
   right: 47.84420676853346%;
@@ -157,7 +157,7 @@
   bottom: 61.47623753202134%;
   height: 3.959818853848226%;
 }
-.vectorImage12 {
+.vectorImage12{
   position: absolute;
   left: 55.271314538043484%;
   right: 40.76890254366225%;
@@ -166,7 +166,7 @@
   bottom: 61.47623753202134%;
   height: 3.959818853848226%;
 }
-.vectorImage13 {
+.vectorImage13{
   position: absolute;
   left: 62.34679291213768%;
   right: 33.69342416956805%;
@@ -175,7 +175,7 @@
   bottom: 61.47623753202134%;
   height: 3.959818853848226%;
 }
-.vectorImage14 {
+.vectorImage14{
   position: absolute;
   left: 31.404268568840582%;
   right: 36.43987627996915%;
@@ -184,7 +184,7 @@
   bottom: 25.89400471120641%;
   height: 11.083038993503731%;
 }
-.vectorImage15 {
+.vectorImage15{
   position: absolute;
   left: 61.484162703804344%;
   right: 22.03340945036515%;
@@ -193,7 +193,7 @@
   bottom: 41.206445555756055%;
   height: 13.621169933374375%;
 }
-.vectorImage16 {
+.vectorImage16{
   position: absolute;
   left: 34.06646286231884%;
   right: 57.23796789196955%;
@@ -202,7 +202,7 @@
   bottom: 23.09792629186658%;
   height: 8.695551969002981%;
 }
-.vectorImage17 {
+.vectorImage17{
   position: absolute;
   left: 30.773041213768117%;
   right: 32.42800892263219%;
@@ -211,7 +211,7 @@
   bottom: 30.7458379994268%;
   height: 24.55519800600798%;
 }
-.vectorImage18 {
+.vectorImage18{
   position: absolute;
   left: 36.11052139945652%;
   right: 59.52090940613678%;
@@ -220,7 +220,7 @@
   bottom: 25.275806413180586%;
   height: 4.368526693703476%;
 }
-.groupImage3 {
+.groupImage3{
   position: absolute;
   left: 81.52px;
   right: 74.7px;
@@ -229,7 +229,7 @@
   bottom: 84.15px;
   height: auto;
 }
-.vectorImage19 {
+.vectorImage19{
   position: absolute;
   left: 29.950570369112317%;
   right: 31.29473700039629%;

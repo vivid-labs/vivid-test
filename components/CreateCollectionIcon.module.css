@@ -1,10 +1,10 @@
-.createCollectionIcon {
+.createCollectionIcon{
   overflow: hidden;
   position: relative;
   width: 276px;
   height: 276px;
 }
-.vector {
+.vectorIcon{
   position: absolute;
   left: 8.333333333333332%;
   right: 8.333333333333332%;
@@ -13,7 +13,7 @@
   bottom: 8.333333333333332%;
   height: 83.33333333333334%;
 }
-.group {
+.groupIcon{
   position: absolute;
   left: 54px;
   right: 54px;
@@ -22,7 +22,7 @@
   bottom: 54px;
   height: auto;
 }
-.vectorImage {
+.vectorImageIcon{
   position: absolute;
   left: 27.898550724637683%;
   right: 67.68373130024344%;
@@ -31,7 +31,7 @@
   bottom: 80.36489072053328%;
   height: 4.41771797511889%;
 }
-.vectorImage1 {
+.vectorImageIcon1{
   position: absolute;
   left: 16.304347826086957%;
   right: 79.27793419879416%;
@@ -40,7 +40,7 @@
   bottom: 27.103987984035328%;
   height: 4.417751146399453%;
 }
-.vectorImage2 {
+.vectorImageIcon2{
   position: absolute;
   left: 79.71014492753623%;
   right: 15.872103926064312%;
@@ -49,7 +49,7 @@
   bottom: 62.61123159657353%;
   height: 4.417753910672843%;
 }
-.vectorImage3 {
+.vectorImageIcon3{
   position: absolute;
   left: 13.548107423644135%;
   right: 81.37263595194057%;
@@ -58,7 +58,7 @@
   bottom: 76.30024543706921%;
   height: 5.07925524227862%;
 }
-.vectorImage4 {
+.vectorImageIcon4{
   position: absolute;
   left: 80.69519927536231%;
   right: 13.73731813569%;
@@ -67,7 +67,7 @@
   bottom: 76.05611310488936%;
   height: 5.5675185245016365%;
 }
-.vectorImage5 {
+.vectorImageIcon5{
   position: absolute;
   left: 16.16876850957456%;
   right: 79.32944746984951%;
@@ -76,7 +76,7 @@
   bottom: 15.523881152056266%;
   height: 4.326067454573032%;
 }
-.vectorImage6 {
+.vectorImageIcon6{
   position: absolute;
   left: 77.50808605249378%;
   right: 18.071635564168297%;
@@ -85,7 +85,7 @@
   bottom: 24.6052054391391%;
   height: 4.441055007602852%;
 }
-.vectorImage7 {
+.vectorImageIcon7{
   position: absolute;
   left: 25.774654443713203%;
   right: 31.13820172738338%;
@@ -94,7 +94,7 @@
   bottom: 17.944722935773324%;
   height: 36.798963684966594%;
 }
-.vectorImage8 {
+.vectorImageIcon8{
   position: absolute;
   left: 45.44497227323228%;
   right: 25.962727311728656%;
@@ -103,7 +103,7 @@
   bottom: 36.814999234849125%;
   height: 28.592250658118218%;
 }
-.vectorImage9 {
+.vectorImageIcon9{
   position: absolute;
   left: 52.69097590792007%;
   right: 44.17738776276077%;
@@ -112,7 +112,7 @@
   bottom: 47.481033076410704%;
   height: 3.131773160851523%;
 }
-.vectorImage10 {
+.vectorImageIcon10{
   position: absolute;
   left: 54.563041355298914%;
   right: 39.852175505264945%;
@@ -121,7 +121,7 @@
   bottom: 48.141302578691125%;
   height: 7.069203473519586%;
 }
-.vectorImage11 {
+.vectorImageIcon11{
   position: absolute;
   left: 58.124879477680594%;
   right: 38.743351162343785%;
@@ -130,7 +130,7 @@
   bottom: 46.350963219352394%;
   height: 3.131769359975621%;
 }
-.vectorImage12 {
+.vectorImageIcon12{
   position: absolute;
   left: 60.00688525213711%;
   right: 34.40905584805254%;
@@ -139,7 +139,7 @@
   bottom: 47.014131407806836%;
   height: 7.0695655933324915%;
 }
-.vectorImage13 {
+.vectorImageIcon13{
   position: absolute;
   left: 58.56630629387455%;
   right: 33.80652165067369%;
@@ -148,7 +148,7 @@
   bottom: 53.366304480511204%;
   height: 1.8452906954115775%;
 }
-.vectorImage14 {
+.vectorImageIcon14{
   position: absolute;
   left: 57.401811903801516%;
   right: 34.967754198157266%;
@@ -157,7 +157,7 @@
   bottom: 51.76195891007133%;
   height: 1.8452851668648123%;
 }
-.vectorImage15 {
+.vectorImageIcon15{
   position: absolute;
   left: 33.43482915905939%;
   right: 41.075197855631515%;
@@ -166,7 +166,7 @@
   bottom: 56.88245607459027%;
   height: 22.7700316387674%;
 }
-.vectorImage16 {
+.vectorImageIcon16{
   position: absolute;
   left: 35.66815196603969%;
   right: 41.090042003686875%;
@@ -175,7 +175,7 @@
   bottom: 56.73134430595066%;
   height: 16.16126488948214%;
 }
-.vectorImage17 {
+.vectorImageIcon17{
   position: absolute;
   left: 37.2442024341528%;
   right: 59.151773176331446%;
@@ -184,7 +184,7 @@
   bottom: 69.28552026334016%;
   height: 3.603558954985246%;
 }
-.vectorImage18 {
+.vectorImageIcon18{
   position: absolute;
   left: 25.254454128984094%;
   right: 34.36525040778561%;

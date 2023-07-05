@@ -1,10 +1,10 @@
-.setupWalletIcon {
+.setupWalletIcon{
   overflow: hidden;
   position: relative;
   width: 276px;
   height: 276px;
 }
-.vector {
+.vector{
   position: absolute;
   left: 8.333333333333332%;
   right: 8.333333333333332%;
@@ -13,7 +13,7 @@
   bottom: 8.333333333333332%;
   height: 83.33333333333334%;
 }
-.group {
+.group{
   position: absolute;
   left: 54px;
   right: 54px;
@@ -22,7 +22,7 @@
   bottom: 54px;
   height: auto;
 }
-.vectorImage {
+.vectorImage{
   position: absolute;
   left: 44.927536231884055%;
   right: 50.65471262171648%;
@@ -31,7 +31,7 @@
   bottom: 82.90112260459127%;
   height: 4.417717975118876%;
 }
-.vectorImage1 {
+.vectorImage1{
   position: absolute;
   left: 14.855072463768115%;
   right: 80.727209561113%;
@@ -40,7 +40,7 @@
   bottom: 24.930074940557066%;
   height: 4.41775114639945%;
 }
-.vectorImage2 {
+.vectorImage2{
   position: absolute;
   left: 84.05869525411855%;
   right: 11.523548070935236%;
@@ -49,7 +49,7 @@
   bottom: 27.828625665194746%;
   height: 4.417751146399457%;
 }
-.vectorImage3 {
+.vectorImage3{
   position: absolute;
   left: 24.41767264103544%;
   right: 70.50307073454925%;
@@ -58,7 +58,7 @@
   bottom: 73.40169471243154%;
   height: 5.079255242278606%;
 }
-.vectorImage4 {
+.vectorImage4{
   position: absolute;
   left: 77.79746124709862%;
   right: 16.6350561639537%;
@@ -67,7 +67,7 @@
   bottom: 16.27355001974797%;
   height: 5.567482588947687%;
 }
-.vectorImage5 {
+.vectorImage5{
   position: absolute;
   left: 16.893406190733977%;
   right: 78.6048097886901%;
@@ -76,7 +76,7 @@
   bottom: 11.900692746259164%;
   height: 4.326067454573039%;
 }
-.vectorImage6 {
+.vectorImage6{
   position: absolute;
   left: 82.2189552196558%;
   right: 13.360762596130371%;
@@ -85,7 +85,7 @@
   bottom: 71.34437077287315%;
   height: 4.4409592946370395%;
 }
-.vectorImage7 {
+.vectorImage7{
   position: absolute;
   left: 61.97424626004868%;
   right: 23.994530111119367%;
@@ -94,7 +94,7 @@
   bottom: 44.55334483713344%;
   height: 8.516601894212805%;
 }
-.vectorImage8 {
+.vectorImage8{
   position: absolute;
   left: 71.20526631673178%;
   right: 25.581373684648156%;
@@ -103,7 +103,7 @@
   bottom: 47.9469555011694%;
   height: 3.213359307551734%;
 }
-.vectorImage9 {
+.vectorImage9{
   position: absolute;
   left: 71.93149069081181%;
   right: 26.309483465941057%;
@@ -112,7 +112,7 @@
   bottom: 48.674240837926455%;
   height: 1.759025843247116%;
 }
-.vectorImage10 {
+.vectorImage10{
   position: absolute;
   left: 22.98833460047625%;
   right: 30.088633385257445%;
@@ -121,7 +121,7 @@
   bottom: 25.55301500403363%;
   height: 38.33672620248103%;
 }
-.vectorImage11 {
+.vectorImage11{
   position: absolute;
   left: 27.106415016063746%;
   right: 32.489735147227414%;
@@ -130,7 +130,7 @@
   bottom: 42.36567400503849%;
   height: 33.69387198185576%;
 }
-.vectorImage12 {
+.vectorImage12{
   position: absolute;
   left: 58.05003401161968%;
   right: 38.26612735140151%;
@@ -139,7 +139,7 @@
   bottom: 54.669239901114196%;
   height: 3.683794408604726%;
 }
-.vectorImage13 {
+.vectorImage13{
   position: absolute;
   left: 60.16471973363904%;
   right: 36.151481365811996%;
@@ -148,7 +148,7 @@
   bottom: 55.48863307289456%;
   height: 3.6838009737539963%;
 }
-.vectorImage14 {
+.vectorImage14{
   position: absolute;
   left: 30.7783375615659%;
   right: 61.80969390316285%;
@@ -157,7 +157,7 @@
   bottom: 57.68147966136104%;
   height: 6.238842701566384%;
 }
-.vectorImage15 {
+.vectorImage15{
   position: absolute;
   left: 53.36362313533175%;
   right: 41.31491909856382%;
@@ -166,7 +166,7 @@
   bottom: 68.44661857770838%;
   height: 3.6022431608559344%;
 }
-.vectorImage16 {
+.vectorImage16{
   position: absolute;
   left: 33.18157196044922%;
   right: 65.7716301040373%;
@@ -175,7 +175,7 @@
   bottom: 51.87772944353629%;
   height: 1.797079003375508%;
 }
-.vectorImage17 {
+.vectorImage17{
   position: absolute;
   left: 34.1192162555197%;
   right: 64.21659355578215%;
@@ -184,7 +184,7 @@
   bottom: 52.08486042160919%;
   height: 2.03478595484858%;
 }
-.vectorImage18 {
+.vectorImage18{
   position: absolute;
   left: 35.66721211309019%;
   right: 62.882526370062344%;
@@ -193,7 +193,7 @@
   bottom: 52.80949585679649%;
   height: 2.0524049150770978%;
 }
-.vectorImage19 {
+.vectorImage19{
   position: absolute;
   left: 37.583210157311484%;
   right: 61.05564962262693%;
@@ -202,7 +202,7 @@
   bottom: 53.65036933318429%;
   height: 1.834076211072393%;
 }
-.vectorImage20 {
+.vectorImage20{
   position: absolute;
   left: 40.439097086588546%;
   right: 58.10600778330928%;
@@ -211,7 +211,7 @@
   bottom: 54.65877470762833%;
   height: 2.0580474881158395%;
 }
-.vectorImage21 {
+.vectorImage21{
   position: absolute;
   left: 42.204121575839274%;
   right: 56.406886335732274%;
@@ -220,7 +220,7 @@
   bottom: 55.32060930694359%;
   height: 1.922710218291357%;
 }
-.vectorImage22 {
+.vectorImage22{
   position: absolute;
   left: 43.496568652166836%;
   right: 55.40651342143184%;
@@ -229,7 +229,7 @@
   bottom: 55.86418103480685%;
   height: 2.0684266435927228%;
 }
-.vectorImage23 {
+.vectorImage23{
   position: absolute;
   left: 45.256235979605414%;
   right: 53.39286059573076%;
@@ -238,7 +238,7 @@
   bottom: 56.489381928374804%;
   height: 1.8676550491996409%;
 }
-.vectorImage24 {
+.vectorImage24{
   position: absolute;
   left: 48.295847574869796%;
   right: 50.30877097793247%;
@@ -247,7 +247,7 @@
   bottom: 57.684406335803054%;
   height: 1.924766319385462%;
 }
-.vectorImage25 {
+.vectorImage25{
   position: absolute;
   left: 50.01319664112036%;
   right: 48.55705810629804%;
@@ -256,7 +256,7 @@
   bottom: 58.38333437408226%;
   height: 1.8608499264371545%;
 }
-.vectorImage26 {
+.vectorImage26{
   position: absolute;
   left: 51.590391518413156%;
   right: 47.36283274664395%;
@@ -265,7 +265,7 @@
   bottom: 58.9982347211976%;
   height: 1.7970434133557305%;
 }
-.vectorImage27 {
+.vectorImage27{
   position: absolute;
   left: 52.52741385197294%;
   right: 45.808889382127404%;
@@ -274,7 +274,7 @@
   bottom: 59.2081776563672%;
   height: 2.0347165024798883%;
 }
-.vectorImage28 {
+.vectorImage28{
   position: absolute;
   left: 55.614117608554125%;
   right: 42.93542132861372%;
@@ -283,7 +283,7 @@
   bottom: 60.525873605755784%;
   height: 2.052330452462911%;
 }
-.vectorImage29 {
+.vectorImage29{
   position: absolute;
   left: 57.52959320510643%;
   right: 41.10927072124205%;
@@ -292,7 +292,7 @@
   bottom: 61.367345201796375%;
   height: 1.8346834873807651%;
 }
-.vectorImage30 {
+.vectorImage30{
   position: absolute;
   left: 58.84742736816406%;
   right: 39.69767421915911%;
@@ -301,7 +301,7 @@
   bottom: 61.78051233291626%;
   height: 2.0581865656203107%;
 }
-.vectorImage31 {
+.vectorImage31{
   position: absolute;
   left: 60.61225559400476%;
   right: 37.998555363088414%;
@@ -310,7 +310,7 @@
   bottom: 62.44235176970994%;
   height: 1.9228029942166884%;
 }
-.vectorImage32 {
+.vectorImage32{
   position: absolute;
   left: 35.541559302288555%;
   right: 48.48768261895663%;
@@ -319,7 +319,7 @@
   bottom: 48.09275088102921%;
   height: 6.833336318748586%;
 }
-.vectorImage33 {
+.vectorImage33{
   position: absolute;
   left: 36.20365806247877%;
   right: 52.40253503771795%;
@@ -328,7 +328,7 @@
   bottom: 46.38079767641814%;
   height: 5.063043124433875%;
 }
-.vectorImage34 {
+.vectorImage34{
   position: absolute;
   left: 44.22138048254926%;
   right: 47.90719833926878%;
@@ -337,7 +337,7 @@
   bottom: 66.33537092070648%;
   height: 3.5516465919605196%;
 }
-.vectorImage35 {
+.vectorImage35{
   position: absolute;
   left: 27.720326962678328%;
   right: 32.69964024640512%;
@@ -346,7 +346,7 @@
   bottom: 28.346374069435008%;
   height: 21.839860556782156%;
 }
-.vectorImage36 {
+.vectorImage36{
   position: absolute;
   left: 27.720326962678328%;
   right: 32.69964024640512%;
@@ -355,7 +355,7 @@
   bottom: 28.346374069435008%;
   height: 21.839860556782156%;
 }
-.vectorImage37 {
+.vectorImage37{
   position: absolute;
   left: 22.691587088764578%;
   right: 32.16413000355596%;
@@ -364,7 +364,7 @@
   bottom: 24.850010526353035%;
   height: 32.98002049542856%;
 }
-.vectorImage38 {
+.vectorImage38{
   position: absolute;
   left: 58.25036643207937%;
   right: 38.62609621407329%;
@@ -373,7 +373,7 @@
   bottom: 39.85538413559181%;
   height: 3.524275102477148%;
 }
-.vectorImage39 {
+.vectorImage39{
   position: absolute;
   left: 59.086332459380664%;
   right: 39.46169649345288%;

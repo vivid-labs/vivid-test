@@ -1,4 +1,4 @@
-.infoCard {
+.infoCard{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,7 +10,7 @@
   width: 330px;
   background-color: rgb(59, 59, 59);
 }
-.cardDetails {
+.cardDetails{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,7 +20,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.setupYourWallet {
+.setupWallet{
   height: fit-content;
   text-align: center;
   width: 100%;
@@ -31,7 +31,7 @@
   font-weight: 600;
   line-height: 1.399999976158142em;
 }
-.setUpYourWalletOfChoiceConnectItToTheNftMarketByClickingTheWalletIconInTheTopRightCorner {
+.connectWallet{
   height: fit-content;
   text-align: center;
   width: 100%;
@@ -42,7 +42,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.infoCardComponent {
+.infoCardSmall{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,7 +54,7 @@
   width: 198px;
   background-color: rgb(59, 59, 59);
 }
-.cardDetailsDiv {
+.cardDetailsDiv{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -64,7 +64,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.setupYourWalletText {
+.setupWalletText{
   height: fit-content;
   text-align: center;
   width: 100%;
@@ -75,7 +75,7 @@
   font-weight: 600;
   line-height: 1.399999976158142em;
 }
-.setUpYourWalletOfChoiceConnectItToTheNftMarketByClickingTheWalletIconInTheTopRightCornerText {
+.connectWalletText{
   height: fit-content;
   text-align: center;
   width: 100%;
@@ -86,7 +86,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.infoCardComponent1 {
+.infoCardHorizontal{
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -99,7 +99,7 @@
   width: 315px;
   background-color: rgb(59, 59, 59);
 }
-.cardDetailsDiv1 {
+.cardDetailsDiv1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -110,7 +110,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.setupYourWalletText1 {
+.setupWalletText1{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -120,7 +120,7 @@
   font-weight: 600;
   line-height: 1.399999976158142em;
 }
-.setUpYourWalletOfChoiceConnectItToTheNftMarketByClickingTheWalletIconInTheTopRightCornerText1 {
+.connectWalletText1{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
