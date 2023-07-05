@@ -1,4 +1,4 @@
-.sideBar {
+.sideBar{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -9,7 +9,7 @@
   width: 62px;
   height: 676px;
 }
-.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a {
+.coverOpacityImage{
   object-fit: cover;
   opacity: 1;
   position: absolute;
@@ -17,7 +17,7 @@
   height: 100%;
   width: 100%;
 }
-.ellipse_2 {
+.ellipseImage{
   width: 100%;
   height: 42px;
   flex-shrink: 0;
@@ -25,7 +25,7 @@
   opacity: 1;
   border-radius: 50%;
 }
-.sideBarComponent {
+.sideBarComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@
   height: 676px;
   background-color: rgb(255, 255, 255);
 }
-.ellipse_2Image {
+.ellipseImageComponent{
   width: 100%;
   height: 42px;
   flex-shrink: 0;

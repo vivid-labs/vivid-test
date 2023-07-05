@@ -39,49 +39,49 @@ export const VividDashboard = ({ override }: { override?: any }) => {
     },
   ];
   return (
-    <div style={override} className={styles.vividDashboard}>
-      <SideBar
-        style="Colored"
-        override={{
-          height: "100%",
-          width: "62px",
-        }}
-      />
-      <div className={styles.content}>
-        <div className={styles.section}>
-          <div className={styles.left}>
-            <div className={styles.progress}>
-              <div className={styles.progressBar}>
-                <div className={styles.frame_6} />
-              </div>
-              <p className={styles.text33CompleteNiceWork}>
-                33% complete — nice work!
+    <div style={override} className={styles.dashboardContainer}>
+    <SideBar
+      style="Colored"
+      override={{
+        height: "100%",
+        width: "62px",
+      }}
+    />
+    <div className={styles.dashboardContent}>
+      <div className={styles.dashboardSection}>
+        <div className={styles.dashboardLeft}>
+          <div className={styles.dashboardProgress}>
+            <div className={styles.dashboardProgressBar}>
+              <div className={styles.dashboardFrame_6} />
+            </div>
+            <p className={styles.dashboardTextCompleteNiceWork}>
+              33% complete — nice work!
+            </p>
+          </div>
+          <div className={styles.dashboardTeamsInformation}>
+            <div className={styles.dashboardHeading}>
+              <p className={styles.dashboardGetStartedWithVivid}>
+                Get Started with Vivid!
               </p>
             </div>
-            <div className={styles.teamsInformation}>
-              <div className={styles.heading_2}>
-                <p className={styles.getStartedWithVividimportant}>
-                  Get Started with Vivid!
-                </p>
-              </div>
-            </div>
-            <div className={styles.steps}>
-              {stepProps.map((props, i) => (
-                <Step {...props} key={i} />
-              ))}
-            </div>
           </div>
-          <div className={styles.right}>
-            <div className={styles.pictureAiMobileDesktopPng}>
-              <img
-                src={pictureAiMobileDesktopPng.src}
-                className={styles.pictureAiMobileDesktopPngImage}
-              />
-            </div>
-            <p className={styles.insertFunImageHere}>Insert fun image here</p>
+          <div className={styles.dashboardSteps}>
+            {stepProps.map((props, i) => (
+              <Step {...props} key={i} />
+            ))}
           </div>
+        </div>
+        <div className={styles.dashboardRight}>
+          <div className={styles.dashboardPictureAiMobileDesktop}>
+            <img
+              src={pictureAiMobileDesktopPng.src}
+              className={styles.dashboardPictureAiMobileDesktopImage}
+            />
+          </div>
+          <p className={styles.dashboardInsertFunImageHere}>Insert fun image here</p>
         </div>
       </div>
     </div>
+   </div> 
   );
 };

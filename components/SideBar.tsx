@@ -14,32 +14,32 @@ export const SideBar = ({
     case "Colored":
       return (
         <div style={override} className={styles.sideBar}>
-          <img
-            src={pictureAiMobileDesktopPng.src}
-            className={
-              styles.objectFitCoverOpacity_1d2e2e0e68f0404c71db06348976ba084f36ad43a
-            }
-          />
-          <OutlinedLogo
-            override={{
-              height: "51px",
-              width: "52px",
-            }}
-          />
-          <img src={ellipse_2.src} className={styles.ellipse_2} />
-        </div>
+        <img
+          src={pictureAiMobileDesktopPng.src}
+          className={
+            styles.coverOpacityImage
+          }
+        />
+        <OutlinedLogo
+          override={{
+            height: "51px",
+            width: "52px",
+          }}
+        />
+        <img src={ellipse_2.src} className={styles.ellipseImage} />
+       </div>)
       );
     case "White":
       return (
-        <div style={override} className={styles.sideBarComponent}>
-          <NoOutlineLogo
-            override={{
-              height: "44px",
-              width: "42px",
-            }}
-          />
-          <img src={ellipse_2.src} className={styles.ellipse_2Image} />
-        </div>
+       (<div style={override} className={styles.sideBarComponent}>
+        <NoOutlineLogo
+          override={{
+            height: "44px",
+            width: "42px",
+          }}
+        />
+        <img src={ellipse_2.src} className={styles.ellipseImageComponent} />
+       </div> 
       );
     default:
       return null;

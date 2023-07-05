@@ -1,4 +1,4 @@
-.vividDashboard {
+.dashboardContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -8,7 +8,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255);
 }
-.content {
+.dashboardContent{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -21,7 +21,7 @@
   min-width: 0px;
   background-color: rgb(255, 255, 255);
 }
-.section {
+.dashboardSection{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -37,7 +37,7 @@
   min-width: 0px;
   background-color: rgb(255, 255, 255);
 }
-.left {
+.dashboardLeft{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -49,7 +49,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.progress {
+.dashboardProgress{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -59,7 +59,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.progressBar {
+.dashboardProgressBar{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -72,7 +72,7 @@
   flex-shrink: 0;
   background-color: rgb(240, 240, 240);
 }
-.frame_6 {
+.dashboardFrame_6{
   overflow: hidden;
   border-radius: 5px;
   width: 110px;
@@ -81,7 +81,7 @@
   background-color: rgb(244, 86, 154);
   position: relative;
 }
-.text33CompleteNiceWork {
+.dashboardTextCompleteNiceWork{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -96,7 +96,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.teamsInformation {
+.dashboardTeamsInformation{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -106,7 +106,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.heading_2 {
+.dashboardHeading{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -116,7 +116,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.getStartedWithVividimportant {
+.dashboardGetStartedWithVivid{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -131,7 +131,7 @@
   letter-spacing: -0.8496000170707703px;
   line-height: 40px;
 }
-.steps {
+.dashboardSteps{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -141,7 +141,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.right {
+.dashboardRight{
   overflow: hidden;
   position: relative;
   border-top-left-radius: 7px;
@@ -152,7 +152,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255, 0);
 }
-.pictureAiMobileDesktopPng {
+.dashboardPictureAiMobileDesktop{
   position: absolute;
   width: 666.25px;
   left: calc(50% - 332.5px);
@@ -162,13 +162,13 @@
   opacity: 1;
   overflow: hidden;
 }
-.pictureAiMobileDesktopPngImage {
+.dashboardPictureAiMobileDesktopImage{
   transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.insertFunImageHere {
+.dashboardInsertFunImageHere{
   text-align: center;
   display: flex;
   flex-direction: column;
