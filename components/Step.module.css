@@ -1,4 +1,4 @@
-.step {
+.step{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -14,20 +14,20 @@
   border-color: rgb(207, 207, 207);
   background-color: rgb(255, 255, 255);
 }
-.frame_8 {
+.frame_8{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.ellipse_3 {
+.ellipse_3{
   position: absolute;
   width: 56px;
   height: 56px;
   background-color: rgb(244, 86, 154);
   border-radius: 50%;
 }
-.frame_7 {
+.frame_7{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -38,7 +38,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.doThisTask {
+.doThisTask{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -52,7 +52,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.timeToDoThisTask {
+.timeToDoThisTask{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -66,14 +66,14 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.img_2585_1 {
+.img_2585_1{
   width: 20px;
   height: 20.29px;
   flex-shrink: 0;
   object-fit: cover;
   opacity: 0.30000001192092896;
 }
-.stepComponent {
+.stepComponent{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -89,7 +89,7 @@
   border-color: rgb(207, 207, 207);
   background-color: rgb(255, 255, 255);
 }
-.frame_7Div {
+.frame_7Div{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -100,7 +100,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.doThisTaskText {
+.doThisTaskText{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -115,7 +115,7 @@
   line-height: 23px;
   text-decoration: line-through;
 }
-.timeToDoThisTaskText {
+.timeToDoThisTaskText{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -129,7 +129,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.stepComponent1 {
+.stepComponent_1{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -145,20 +145,20 @@
   border-color: rgb(207, 207, 207);
   background-color: rgb(245, 241, 241);
 }
-.frame_8Div {
+.frame_8Div{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.ellipse_3Div {
+.ellipse_3Div{
   position: absolute;
   width: 56px;
   height: 56px;
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_7Div1 {
+.frame_7Div_1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -169,7 +169,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.frame_14 {
+.frame_14{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -179,7 +179,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.doThisTaskText1 {
+.doThisTaskText_1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -194,7 +194,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.frame_13 {
+.frame_13{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -208,7 +208,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.comingSoonimportant {
+.comingSoonImportant{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -223,7 +223,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.timeToDoThisTaskText1 {
+.timeToDoThisTaskText_1{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -237,7 +237,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.stepComponent2 {
+.stepComponent_2{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -253,20 +253,20 @@
   border-color: rgb(207, 207, 207);
   background-color: rgb(255, 255, 255);
 }
-.frame_8Div1 {
+.frame_8Div_1{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.ellipse_3Div1 {
+.ellipse_3Div_1{
   position: absolute;
   width: 56px;
   height: 56px;
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_7Div2 {
+.frame_7Div_2{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -277,7 +277,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.frame_38 {
+.frame_38{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -287,7 +287,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.doThisTaskText2 {
+.doThisTaskText_2{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -302,7 +302,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.frame_14Div {
+.frame_14Div{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -316,7 +316,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.upNextimportant {
+.upNextImportant{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -331,7 +331,7 @@
   letter-spacing: 0.00800000037997961px;
   line-height: 23px;
 }
-.timeToDoThisTaskText2 {
+.timeToDoThisTaskText_2{
   display: flex;
   flex-direction: column;
   justify-content: center;
