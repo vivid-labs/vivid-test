@@ -1,0 +1,66 @@
+.dragHandle {
+  position: relative;
+  width: 8px;
+  height: 5px;
+}
+.ellipse_7 {
+  position: absolute;
+  right: 75%;
+  width: calc(25%);
+  bottom: 60%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_9 {
+  position: absolute;
+  left: 75%;
+  right: 0%;
+  width: calc(25%);
+  bottom: 60%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_8 {
+  position: absolute;
+  left: 37.5%;
+  right: 37.5%;
+  width: calc(25%);
+  bottom: 60%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_10 {
+  position: absolute;
+  right: 75%;
+  width: calc(25%);
+  top: 60%;
+  bottom: 0%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_11 {
+  position: absolute;
+  left: 75%;
+  right: 0%;
+  width: calc(25%);
+  top: 60%;
+  bottom: 0%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
+.ellipse_12 {
+  position: absolute;
+  left: 37.5%;
+  right: 37.5%;
+  width: calc(25%);
+  top: 60%;
+  bottom: 0%;
+  height: 40%;
+  background-color: rgb(160, 160, 160);
+  border-radius: 50%;
+}
