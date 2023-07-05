@@ -5,10 +5,10 @@ import { Program } from "./Program";
 import { Home } from "./Home";
 export const Features = ({ override }: { override?: any }) => {
   return (
-    <div style={override} className={styles.features}>
-      {featureProps.map((props, i) => (
-        <Feature {...props} key={i} />
-      ))}
-    </div>
+    <div style={override} className={styles.featuresContainer}>
+    {featureProps.map((props, i) => (
+      <Feature {...props} key={i} />
+    ))}
+   </div> 
   );
 };
