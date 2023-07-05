@@ -1,0 +1,195 @@
+.createCollectionIcon {
+  overflow: hidden;
+  position: relative;
+  width: 276px;
+  height: 276px;
+}
+.vector {
+  position: absolute;
+  left: 8.333333333333332%;
+  right: 8.333333333333332%;
+  width: calc(83.33333333333334%);
+  top: 8.333333333333332%;
+  bottom: 8.333333333333332%;
+  height: 83.33333333333334%;
+}
+.group {
+  position: absolute;
+  left: 54px;
+  right: 54px;
+  width: auto;
+  top: 54px;
+  bottom: 54px;
+  height: auto;
+}
+.vectorImage {
+  position: absolute;
+  left: 27.898550724637683%;
+  right: 67.68373130024344%;
+  width: calc(4.417717975118876%);
+  top: 15.217391304347828%;
+  bottom: 80.36489072053328%;
+  height: 4.41771797511889%;
+}
+.vectorImage1 {
+  position: absolute;
+  left: 16.304347826086957%;
+  right: 79.27793419879416%;
+  width: calc(4.41771797511889%);
+  top: 68.47826086956522%;
+  bottom: 27.103987984035328%;
+  height: 4.417751146399453%;
+}
+.vectorImage2 {
+  position: absolute;
+  left: 79.71014492753623%;
+  right: 15.872103926064312%;
+  width: calc(4.417751146399453%);
+  top: 32.971014492753625%;
+  bottom: 62.61123159657353%;
+  height: 4.417753910672843%;
+}
+.vectorImage3 {
+  position: absolute;
+  left: 13.548107423644135%;
+  right: 81.37263595194057%;
+  width: calc(5.079256624415294%);
+  top: 18.620499320652172%;
+  bottom: 76.30024543706921%;
+  height: 5.07925524227862%;
+}
+.vectorImage4 {
+  position: absolute;
+  left: 80.69519927536231%;
+  right: 13.73731813569%;
+  width: calc(5.567482588947687%);
+  top: 18.376368370609004%;
+  bottom: 76.05611310488936%;
+  height: 5.5675185245016365%;
+}
+.vectorImage5 {
+  position: absolute;
+  left: 16.16876850957456%;
+  right: 79.32944746984951%;
+  width: calc(4.501784020575926%);
+  top: 80.1500513933707%;
+  bottom: 15.523881152056266%;
+  height: 4.326067454573032%;
+}
+.vectorImage6 {
+  position: absolute;
+  left: 77.50808605249378%;
+  right: 18.071635564168297%;
+  width: calc(4.420278383337923%);
+  top: 70.95373955325805%;
+  bottom: 24.6052054391391%;
+  height: 4.441055007602852%;
+}
+.vectorImage7 {
+  position: absolute;
+  left: 25.774654443713203%;
+  right: 31.13820172738338%;
+  width: calc(43.08714382890342%);
+  top: 45.25631337926008%;
+  bottom: 17.944722935773324%;
+  height: 36.798963684966594%;
+}
+.vectorImage8 {
+  position: absolute;
+  left: 45.44497227323228%;
+  right: 25.962727311728656%;
+  width: calc(28.592300415039062%);
+  top: 34.592750107032664%;
+  bottom: 36.814999234849125%;
+  height: 28.592250658118218%;
+}
+.vectorImage9 {
+  position: absolute;
+  left: 52.69097590792007%;
+  right: 44.17738776276077%;
+  width: calc(3.131636329319157%);
+  top: 49.38719376273777%;
+  bottom: 47.481033076410704%;
+  height: 3.131773160851523%;
+}
+.vectorImage10 {
+  position: absolute;
+  left: 54.563041355298914%;
+  right: 39.852175505264945%;
+  width: calc(5.584783139436141%);
+  top: 44.78949394778929%;
+  bottom: 48.141302578691125%;
+  height: 7.069203473519586%;
+}
+.vectorImage11 {
+  position: absolute;
+  left: 58.124879477680594%;
+  right: 38.743351162343785%;
+  width: calc(3.131769359975621%);
+  top: 50.517267420671985%;
+  bottom: 46.350963219352394%;
+  height: 3.131769359975621%;
+}
+.vectorImage12 {
+  position: absolute;
+  left: 60.00688525213711%;
+  right: 34.40905584805254%;
+  width: calc(5.584058899810351%);
+  top: 45.91630299886067%;
+  bottom: 47.014131407806836%;
+  height: 7.0695655933324915%;
+}
+.vectorImage13 {
+  position: absolute;
+  left: 58.56630629387455%;
+  right: 33.80652165067369%;
+  width: calc(7.627172055451766%);
+  top: 44.78840482407722%;
+  bottom: 53.366304480511204%;
+  height: 1.8452906954115775%;
+}
+.vectorImage14 {
+  position: absolute;
+  left: 57.401811903801516%;
+  right: 34.967754198157266%;
+  width: calc(7.630433898041218%);
+  top: 46.39275592306386%;
+  bottom: 51.76195891007133%;
+  height: 1.8452851668648123%;
+}
+.vectorImage15 {
+  position: absolute;
+  left: 33.43482915905939%;
+  right: 41.075197855631515%;
+  width: calc(25.489972985309095%);
+  top: 20.347512286642324%;
+  bottom: 56.88245607459027%;
+  height: 22.7700316387674%;
+}
+.vectorImage16 {
+  position: absolute;
+  left: 35.66815196603969%;
+  right: 41.090042003686875%;
+  width: calc(23.241806030273438%);
+  top: 27.1073908045672%;
+  bottom: 56.73134430595066%;
+  height: 16.16126488948214%;
+}
+.vectorImage17 {
+  position: absolute;
+  left: 37.2442024341528%;
+  right: 59.151773176331446%;
+  width: calc(3.6040243895157573%);
+  top: 27.11092078167459%;
+  bottom: 69.28552026334016%;
+  height: 3.603558954985246%;
+}
+.vectorImage18 {
+  position: absolute;
+  left: 25.254454128984094%;
+  right: 34.36525040778561%;
+  width: calc(40.3802954632303%);
+  top: 46.550131535184555%;
+  bottom: 18.152670929397363%;
+  height: 35.29719753541808%;
+}

@@ -1,0 +1,91 @@
+import styles from "./SetupWalletIcon.module.css";
+import vectorImage77 from "./vectorImage77.svg";
+import groupImage5 from "./groupImage5.svg";
+import vectorImage76 from "./vectorImage76.svg";
+import vectorImage16 from "./vectorImage16.svg";
+import vectorImage75 from "./vectorImage75.svg";
+import vectorImage74 from "./vectorImage74.svg";
+import vectorImage73 from "./vectorImage73.svg";
+import vectorImage72 from "./vectorImage72.svg";
+import vectorImage71 from "./vectorImage71.svg";
+import vectorImage70 from "./vectorImage70.svg";
+import vectorImage69 from "./vectorImage69.svg";
+import vectorImage68 from "./vectorImage68.svg";
+import vectorImage67 from "./vectorImage67.svg";
+import vectorImage66 from "./vectorImage66.svg";
+import vectorImage65 from "./vectorImage65.svg";
+import vectorImage64 from "./vectorImage64.svg";
+import vectorImage63 from "./vectorImage63.svg";
+import vectorImage62 from "./vectorImage62.svg";
+import vectorImage61 from "./vectorImage61.svg";
+import vectorImage60 from "./vectorImage60.svg";
+import vectorImage59 from "./vectorImage59.svg";
+import vectorImage58 from "./vectorImage58.svg";
+import vectorImage57 from "./vectorImage57.svg";
+import vectorImage56 from "./vectorImage56.svg";
+import vectorImage55 from "./vectorImage55.svg";
+import vectorImage54 from "./vectorImage54.svg";
+import vectorImage53 from "./vectorImage53.svg";
+import vectorImage52 from "./vectorImage52.svg";
+import vectorImage51 from "./vectorImage51.svg";
+import vectorImage50 from "./vectorImage50.svg";
+import vectorImage49 from "./vectorImage49.svg";
+import vectorImage48 from "./vectorImage48.svg";
+import vectorImage47 from "./vectorImage47.svg";
+import vectorImage46 from "./vectorImage46.svg";
+import vectorImage45 from "./vectorImage45.svg";
+import vectorImage44 from "./vectorImage44.svg";
+import vectorImage43 from "./vectorImage43.svg";
+import vectorImage42 from "./vectorImage42.svg";
+import vectorImage41 from "./vectorImage41.svg";
+import vectorImage40 from "./vectorImage40.svg";
+import vectorImage39 from "./vectorImage39.svg";
+import vectorImage38 from "./vectorImage38.svg";
+export const SetupWalletIcon = ({ override }: { override?: any }) => {
+  return (
+    <div style={override} className={styles.setupWalletIcon}>
+      <img src={vectorImage77.src} className={styles.vector} />
+      <img src={groupImage5.src} className={styles.group} />
+      <img src={vectorImage76.src} className={styles.vectorImage} />
+      <img src={vectorImage16.src} className={styles.vectorImage1} />
+      <img src={vectorImage75.src} className={styles.vectorImage2} />
+      <img src={vectorImage74.src} className={styles.vectorImage3} />
+      <img src={vectorImage73.src} className={styles.vectorImage4} />
+      <img src={vectorImage72.src} className={styles.vectorImage5} />
+      <img src={vectorImage71.src} className={styles.vectorImage6} />
+      <img src={vectorImage70.src} className={styles.vectorImage7} />
+      <img src={vectorImage69.src} className={styles.vectorImage8} />
+      <img src={vectorImage68.src} className={styles.vectorImage9} />
+      <img src={vectorImage67.src} className={styles.vectorImage10} />
+      <img src={vectorImage66.src} className={styles.vectorImage11} />
+      <img src={vectorImage65.src} className={styles.vectorImage12} />
+      <img src={vectorImage64.src} className={styles.vectorImage13} />
+      <img src={vectorImage63.src} className={styles.vectorImage14} />
+      <img src={vectorImage62.src} className={styles.vectorImage15} />
+      <img src={vectorImage61.src} className={styles.vectorImage16} />
+      <img src={vectorImage60.src} className={styles.vectorImage17} />
+      <img src={vectorImage59.src} className={styles.vectorImage18} />
+      <img src={vectorImage58.src} className={styles.vectorImage19} />
+      <img src={vectorImage57.src} className={styles.vectorImage20} />
+      <img src={vectorImage56.src} className={styles.vectorImage21} />
+      <img src={vectorImage55.src} className={styles.vectorImage22} />
+      <img src={vectorImage54.src} className={styles.vectorImage23} />
+      <img src={vectorImage53.src} className={styles.vectorImage24} />
+      <img src={vectorImage52.src} className={styles.vectorImage25} />
+      <img src={vectorImage51.src} className={styles.vectorImage26} />
+      <img src={vectorImage50.src} className={styles.vectorImage27} />
+      <img src={vectorImage49.src} className={styles.vectorImage28} />
+      <img src={vectorImage48.src} className={styles.vectorImage29} />
+      <img src={vectorImage47.src} className={styles.vectorImage30} />
+      <img src={vectorImage46.src} className={styles.vectorImage31} />
+      <img src={vectorImage45.src} className={styles.vectorImage32} />
+      <img src={vectorImage44.src} className={styles.vectorImage33} />
+      <img src={vectorImage43.src} className={styles.vectorImage34} />
+      <img src={vectorImage42.src} className={styles.vectorImage35} />
+      <img src={vectorImage41.src} className={styles.vectorImage36} />
+      <img src={vectorImage40.src} className={styles.vectorImage37} />
+      <img src={vectorImage39.src} className={styles.vectorImage38} />
+      <img src={vectorImage38.src} className={styles.vectorImage39} />
+    </div>
+  );
+};
