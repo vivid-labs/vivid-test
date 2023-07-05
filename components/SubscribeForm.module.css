@@ -1,4 +1,4 @@
-.subscribeForm {
+.subscribeForm{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -10,7 +10,7 @@
   height: 60px;
   background-color: rgb(255, 255, 255);
 }
-.enterYourEmailHere {
+.emailText{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;

@@ -1,4 +1,4 @@
-.subscribeWidget {
+.subscribeWidget{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -9,7 +9,7 @@
   width: 1440px;
   background-color: rgb(43, 43, 43);
 }
-.subscribeWidgetDiv {
+.subscribeWidgetDiv{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -22,7 +22,7 @@
   flex-shrink: 0;
   background-color: rgb(59, 59, 59);
 }
-.photo {
+.photo{
   height: 310px;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -31,7 +31,7 @@
   opacity: 1;
   border-radius: 20px;
 }
-.frame_179 {
+.frame_179{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -42,7 +42,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.headlineAndSubhead {
+.headlineAndSubhead{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -52,7 +52,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.joinOurWeeklyDigest {
+.joinOurWeeklyDigest{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -62,7 +62,7 @@
   font-weight: 600;
   line-height: 1.2000000476837158em;
 }
-.getExclusivePromotionsAndUpdatesStraightToYourInbox {
+.getExclusivePromotionsAndUpdatesStraightToYourInbox{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -72,7 +72,7 @@
   font-weight: 400;
   line-height: 1.600000023841858em;
 }
-.subscribeWidgetComponent {
+.subscribeWidgetComponent{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -83,7 +83,7 @@
   width: 834px;
   background-color: rgb(43, 43, 43);
 }
-.subscribeWidgetDiv1 {
+.subscribeWidgetDiv1{
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -97,7 +97,7 @@
   flex-shrink: 0;
   background-color: rgb(59, 59, 59);
 }
-.photoImage {
+.photoImage{
   flex-shrink: 0;
   flex: 1 1 0%;
   min-width: 0px;
@@ -105,7 +105,7 @@
   opacity: 1;
   border-radius: 20px;
 }
-.frame_179Div {
+.frame_179Div{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -116,7 +116,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.headlineAndSubheadDiv {
+.headlineAndSubheadDiv{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -126,7 +126,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.joinOurWeeklyDigestText {
+.joinOurWeeklyDigestText{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -136,7 +136,7 @@
   font-weight: 600;
   line-height: 1.399999976158142em;
 }
-.getExclusivePromotionsAndUpdatesStraightToYourInboxText {
+.getExclusivePromotionsAndUpdatesStraightToYourInboxText{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -146,7 +146,7 @@
   font-weight: 400;
   line-height: 1.399999976158142em;
 }
-.subscribeWidgetComponent1 {
+.subscribeWidgetComponent1{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -157,7 +157,7 @@
   width: 375px;
   background-color: rgb(43, 43, 43);
 }
-.subscribeWidgetDiv2 {
+.subscribeWidgetDiv2{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -169,7 +169,7 @@
   width: 315px;
   flex-shrink: 0;
 }
-.photoImage1 {
+.photoImage1{
   width: 100%;
   height: 255px;
   flex-shrink: 0;
@@ -177,7 +177,7 @@
   opacity: 1;
   border-radius: 20px;
 }
-.frame_179Div1 {
+.frame_179Div1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -187,7 +187,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.headlineAndSubheadDiv1 {
+.headlineAndSubheadDiv1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -197,7 +197,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.joinOurWeeklyDigestText1 {
+.joinOurWeeklyDigestText1{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -207,7 +207,7 @@
   font-weight: 600;
   line-height: 1.399999976158142em;
 }
-.getExclusivePromotionsAndUpdatesStraightToYourInboxText1 {
+.getExclusivePromotionsAndUpdatesStraightToYourInboxText1{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;

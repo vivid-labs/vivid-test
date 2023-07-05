@@ -12,18 +12,18 @@ export const SubscribeForm = ({
 }) => {
   return (
     <div style={override} className={styles.subscribeForm}>
-      <p className={styles.enterYourEmailHere}>{email}</p>
-      <Button
-        property_1="Secondary/Filled"
-        hasLeftIcon={true}
-        leftIcon={<EnvelopeSimple />}
-        hasText={true}
-        text="Subscribe"
-        override={{
-          height: "60px",
-          width: "fit-content",
-        }}
-      />
-    </div>
+    <p className={styles.emailText}>{email}</p>
+    <Button
+      property_1="Secondary/Filled"
+      hasLeftIcon={true}
+      leftIcon={<EnvelopeSimple />}
+      hasText={true}
+      text="Subscribe"
+      override={{
+        height: "60px",
+        width: "fit-content",
+      }}
+    />
+   </div> 
   );
 };
