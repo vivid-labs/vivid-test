@@ -1,0 +1,11 @@
+.switzerlandHasNeverBeenSoAffordable {
+  height: fit-content;
+  text-align: center;
+  width: 793px;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-family: Quicksand;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
