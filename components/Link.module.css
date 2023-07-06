@@ -1,4 +1,4 @@
-.link {
+.linkContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -6,7 +6,7 @@
   height: fit-content;
   position: relative;
 }
-.default {
+.defaultText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
