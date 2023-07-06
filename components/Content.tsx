@@ -39,39 +39,39 @@ export const Content = ({ override }: { override?: any }) => {
   ];
   return (
     <div style={override} className={styles.content}>
-      <div className={styles.section}>
-        <div className={styles.left}>
-          <div className={styles.progress}>
-            <div className={styles.progressBar}>
-              <div className={styles.frame_6} />
-            </div>
-            <p className={styles.text33CompleteNiceWork}>
-              33% complete — nice work!
+    <div className={styles.section}>
+      <div className={styles.left}>
+        <div className={styles.progress}>
+          <div className={styles.progressBar}>
+            <div className={styles.frame6} />
+          </div>
+          <p className={styles.textCompleteNiceWork}>
+            33% complete — nice work!
+          </p>
+        </div>
+        <div className={styles.teamsInformation}>
+          <div className={styles.heading2}>
+            <p className={styles.getStartedWithVividimportant}>
+              Get Started with Vivid!
             </p>
           </div>
-          <div className={styles.teamsInformation}>
-            <div className={styles.heading_2}>
-              <p className={styles.getStartedWithVividimportant}>
-                Get Started with Vivid!
-              </p>
-            </div>
-          </div>
-          <div className={styles.steps}>
-            {stepProps.map((props, i) => (
-              <Step {...props} key={i} />
-            ))}
-          </div>
         </div>
-        <div className={styles.right}>
-          <div className={styles.pictureAiMobileDesktopPng}>
-            <img
-              src={pictureAiMobileDesktopPng.src}
-              className={styles.pictureAiMobileDesktopPngImage}
-            />
-          </div>
-          <p className={styles.insertFunImageHere}>Insert fun image here</p>
+        <div className={styles.steps}>
+          {stepProps.map((props, i) => (
+            <Step {...props} key={i} />
+          ))}
         </div>
       </div>
+      <div className={styles.right}>
+        <div className={styles.pictureAiMobileDesktopPng}>
+          <img
+            src={pictureAiMobileDesktopPng.src}
+            className={styles.pictureAiMobileDesktopPngImage}
+          />
+        </div>
+        <p className={styles.insertFunImageHere}>Insert fun image here</p>
+      </div>
     </div>
+   </div> 
   );
 };

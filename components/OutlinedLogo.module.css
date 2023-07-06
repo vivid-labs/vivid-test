@@ -1,9 +1,9 @@
-.outlinedLogo {
+.outlinedContainer{
   position: relative;
   width: 62px;
   height: 62px;
 }
-.vividLogoV2_2 {
+.logoImage{
   position: absolute;
   right: 0%;
   width: calc(100%);
