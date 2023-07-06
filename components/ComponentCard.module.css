@@ -1,4 +1,4 @@
-.componentCard {
+.componentCard{
   display: inline-flex;
   padding: 0px 42px 40px 0px;
   flex-direction: column;
@@ -7,7 +7,7 @@
   border: 1px solid var(--figma-figma-border-gray, #444);
   background: var(--figma-figma-border-gray, #444);
 }
-.imageFrame {
+.imageFrame{
   display: flex;
   width: 90px;
   padding: 2px 5px 4px 5px;
@@ -16,14 +16,14 @@
   align-items: center;
   gap: 2px;
 }
-.text {
+.text{
   display: flex;
   padding: 4px 10px;
   justify-content: space-between;
   align-items: center;
   background: var(--figma-figma-dark-gray, #1e1e1e);
 }
-.card {
+.card{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
