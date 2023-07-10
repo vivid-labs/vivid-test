@@ -1,4 +1,4 @@
-.screenDesktop {
+.screenDesktop{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,7 +9,7 @@
   width: 100%;
   background-color: rgb(43, 43, 43);
 }
-.artistInfoSection {
+.infoSection{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -19,7 +19,7 @@
   width: 1050px;
   flex-shrink: 0;
 }
-.nftInfo {
+.nftInfo{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -29,7 +29,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.nftInfoDiv {
+.nftInfoDiv{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,7 +40,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.headlineSubhead {
+.headlineSubhead{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -50,7 +50,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.artistName {
+.artistName{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -63,7 +63,7 @@
   font-weight: 600;
   line-height: 1.1em;
 }
-.mintedOnSep_30_2022 {
+.mintedDate{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -73,7 +73,7 @@
   font-weight: 400;
   line-height: 1.6em;
 }
-.additionalInfo {
+.additionalInfo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -83,7 +83,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.createdBy {
+.creatorSection{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -93,7 +93,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.createdByText {
+.creatorText{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -103,7 +103,7 @@
   font-weight: 700;
   line-height: 1.6em;
 }
-.description {
+.description{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -113,7 +113,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.descriptionText {
+.descriptionText{
   height: fit-content;
   width: 510px;
   flex-shrink: 0;
@@ -123,7 +123,7 @@
   font-weight: 700;
   line-height: 1.6em;
 }
-.theOrbitiansIsACollectionOf_10_000UniqueNfTsOnTheEthereumBlockchainThereAreAllSortsOfBeingsInTheNftUniverseTheMostAdvancedAndFriendlyOfTheBunchAreOrbitiansTheyLiveInAMetalSpaceMachinesHighUpInTheSkyAndOnlyHaveOneFootOnEarthTheseOrbitiansAreAPeacefulRaceButTheyHaveBeenAtWarWithAGroupOfInvadersForManyGenerationsTheInvadersAreCalledUpsideDownsBecauseOfTheirInvertedBodiesThatLiveOnTheGroundYetDoNotKnowAnyOtherWayToBeUpsideDownsBelieveThatTheyWillBeAbleToWinThisWarIfTheyCouldOnlyGetAnEyeIntoOrbitianTerritorySoTheyVeTakenToMakeHumanBeingsTheirTarget {
+.descriptionContent{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -133,7 +133,7 @@
   font-weight: 400;
   line-height: 1.6em;
 }
-.details {
+.details{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -143,7 +143,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.detailsText {
+.detailsText{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -153,7 +153,7 @@
   font-weight: 700;
   line-height: 1.6em;
 }
-.websiteLink {
+.websiteLink{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -163,7 +163,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.viewOnEtherscan {
+.etherscanLink{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -174,7 +174,7 @@
   font-weight: 400;
   line-height: 1.6em;
 }
-.websiteLinkDiv {
+.websiteLinkDiv{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -184,7 +184,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.viewOriginal {
+.originalLink{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -195,7 +195,7 @@
   font-weight: 400;
   line-height: 1.6em;
 }
-.tags {
+.tags{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -205,7 +205,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.tagsText {
+.tagsText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -216,7 +216,7 @@
   font-weight: 600;
   line-height: 1.4em;
 }
-.frame_243 {
+.tagFrame{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -226,7 +226,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.auctionTimerCta {
+.auctionTimerCta{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

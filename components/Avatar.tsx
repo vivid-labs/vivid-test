@@ -18,15 +18,15 @@ export const Avatar = ({
       );
     case "Big":
       return (
-        <div style={override} className={styles.avatarComponent}>
-          {avatarPhoto}
-        </div>
+        <div style={override} className={styles.avatarMedium}>
+        {avatarPhoto}
+       </div>)
       );
     case "Small":
       return (
-        <div style={override} className={styles.avatarComponent1}>
-          {avatarPhoto}
-        </div>
+       (<div style={override} className={styles.avatarBig}>
+        {avatarPhoto}
+       </div> 
       );
     default:
       return null;

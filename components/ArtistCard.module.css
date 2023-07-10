@@ -1,4 +1,4 @@
-.artistCard {
+.card{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,7 +10,7 @@
   width: 240px;
   background-color: rgb(59, 59, 59);
 }
-.artistAvatar {
+.avatarWrapper{
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -19,7 +19,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.artistInfo {
+.artistInfoWrapper{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -30,7 +30,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.dishStudio {
+.artistName{
   height: fit-content;
   text-align: center;
   width: 100%;
@@ -41,7 +41,7 @@
   font-weight: 600;
   line-height: 1.4em;
 }
-.additionalInfo {
+.additionalInfoWrapper{
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -52,7 +52,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.totalSales {
+.totalSales{
   height: fit-content;
   text-align: end;
   flex-shrink: 0;
@@ -64,7 +64,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.text34_53Eth {
+.salesNumber{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -75,7 +75,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.rankingNumber {
+.rankingNumberWrapper{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -88,7 +88,7 @@
   top: 18px;
   background-color: rgb(43, 43, 43);
 }
-.text1 {
+.rankingNumberText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -105,7 +105,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.artistCardComponent {
+.horizontalCard{
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -118,7 +118,7 @@
   width: 315px;
   background-color: rgb(59, 59, 59);
 }
-.artistAvatarDiv {
+.horizontalAvatarWrapper{
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -127,7 +127,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.artistInfoDiv {
+.horizontalInfoWrapper{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -139,7 +139,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.dishStudioText {
+.horizontalArtistName{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -149,7 +149,7 @@
   font-weight: 600;
   line-height: 1.4em;
 }
-.additionalInfoDiv {
+.horizontalInfoWrapper2{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -159,7 +159,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.totalSalesText {
+.horizontalTotalSales{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -170,7 +170,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.text34_53EthText {
+.horizontalSalesNumber{
   height: fit-content;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -181,7 +181,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.rankingNumberDiv {
+.horizontalRankingNumberWrapper{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -194,7 +194,7 @@
   top: 13px;
   background-color: rgb(43, 43, 43);
 }
-.text1Text {
+.horizontalRankingNumberText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -211,7 +211,7 @@
   font-weight: 400;
   line-height: 1.4em;
 }
-.artistCardComponent1 {
+.horizontalCard1{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -223,7 +223,7 @@
   position: relative;
   background-color: rgb(59, 59, 59);
 }
-.dishStudioText1 {
+.horizontalArtistName1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -234,7 +234,7 @@
   font-weight: 600;
   line-height: 1.4em;
 }
-.artistCardComponent2 {
+.horizontalCard2{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -246,7 +246,7 @@
   position: relative;
   background-color: rgb(59, 59, 59);
 }
-.dishStudioText2 {
+.horizontalArtistName2{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
