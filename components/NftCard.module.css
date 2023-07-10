@@ -1,0 +1,336 @@
+.nftCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  position: relative;
+  width: 330px;
+  height: 468px;
+  background-color: rgb(59, 59, 59);
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+}
+.imagePlaceholder {
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  object-fit: cover;
+  opacity: 1;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.nftInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  padding: 20px 30px 25px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artstInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftName {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.artistAvatarAndName {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftArtist {
+  height: fit-content;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.additionalInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  border-top-width: 1px;
+}
+.price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  padding: 0px 21px 0px 0px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.priceText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
+.text1_63Eth {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.highestBid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 8px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.highestBidText {
+  height: fit-content;
+  text-align: end;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
+.text0_33WEth {
+  height: fit-content;
+  text-align: end;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.nftCardComponent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  position: relative;
+  width: 238px;
+  height: 402px;
+  background-color: rgb(59, 59, 59);
+}
+.imageDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+}
+.imagePlaceholderImage {
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  object-fit: cover;
+  opacity: 1;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.nftInfoDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  padding: 20px 20px 25px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftNameText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.artistAvatarAndNameDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 12px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistName {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.nftArtistText {
+  height: fit-content;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.additionalInfoDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.priceDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  padding: 0px 21px 0px 0px;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.priceText1 {
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  color: rgb(133, 133, 132);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
+.text1_63EthText {
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
+.highestBidDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 8px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.highestBidText1 {
+  text-align: end;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  color: rgb(133, 133, 132);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
+.text0_33WEthText {
+  text-align: end;
+  width: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Space Mono;
+  font-weight: 400;
+  line-height: 1.1em;
+}
