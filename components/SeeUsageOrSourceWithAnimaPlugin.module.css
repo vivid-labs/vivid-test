@@ -1,0 +1,133 @@
+.seeUsageOrSourceWithAnimaPlugin {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  position: relative;
+  width: 100%;
+  height: 658px;
+  flex-shrink: 0;
+  background-color: rgb(255, 248, 233);
+}
+.content {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 80px 40px;
+  position: relative;
+  width: 400px;
+  height: 100%;
+  flex-shrink: 0;
+  background-color: rgb(0, 147, 121);
+}
+.frame_16145 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.inThePluginInspect {
+  height: fit-content;
+  width: 298px;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 32px;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: 1.2em;
+}
+.toggleToSwitchBetweenUsageAndSource {
+  height: fit-content;
+  width: 292px;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Mulish;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+.tryIt {
+  width: 107.62px;
+  height: 54.08px;
+  flex-shrink: 0;
+}
+.visuals {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  background-color: rgb(236, 236, 235);
+}
+.rectangle_2747 {
+  position: absolute;
+  width: 453px;
+  left: 368px;
+  height: 235px;
+  top: 180px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 8px;
+}
+.image_15 {
+  position: absolute;
+  width: 453px;
+  left: 368px;
+  height: 222px;
+  top: 180px;
+  transform-origin: top left;
+  opacity: 1;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.image_15Image {
+  transform: rotate(0deg) scale(100%, 282.88%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.toggleToViewSource {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 368px;
+  top: 148px;
+  color: rgb(0, 0, 0);
+  font-size: 12.91px;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: 19.36px;
+}
+.selectTheButton {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 79px;
+  top: 148px;
+  color: rgb(0, 0, 0);
+  font-size: 12.91px;
+  font-family: Mulish;
+  font-weight: 700;
+  line-height: 19.36px;
+}
+.tryItOut {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  position: absolute;
+  left: 52px;
+  top: 46px;
+  color: rgb(0, 147, 121);
+  font-size: 44px;
+  font-family: Caveat;
+  font-weight: 400;
+  line-height: 1.2em;
+}
