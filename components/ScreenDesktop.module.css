@@ -1,0 +1,241 @@
+.screenDesktop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  padding: 40px 0px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(43, 43, 43);
+}
+.artistInfoSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 1050px;
+  flex-shrink: 0;
+}
+.nftInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 150px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftInfoDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.headlineSubhead {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistName {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 51px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.100000023841858em;
+}
+.mintedOnSep_30_2022 {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.additionalInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.createdBy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.createdByText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.descriptionText {
+  height: fit-content;
+  width: 510px;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.theOrbitiansIsACollectionOf_10_000UniqueNfTsOnTheEthereumBlockchainThereAreAllSortsOfBeingsInTheNftUniverseTheMostAdvancedAndFriendlyOfTheBunchAreOrbitiansTheyLiveInAMetalSpaceMachinesHighUpInTheSkyAndOnlyHaveOneFootOnEarthTheseOrbitiansAreAPeacefulRaceButTheyHaveBeenAtWarWithAGroupOfInvadersForManyGenerationsTheInvadersAreCalledUpsideDownsBecauseOfTheirInvertedBodiesThatLiveOnTheGroundYetDoNotKnowAnyOtherWayToBeUpsideDownsBelieveThatTheyWillBeAbleToWinThisWarIfTheyCouldOnlyGetAnEyeIntoOrbitianTerritorySoTheyVeTakenToMakeHumanBeingsTheirTarget {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.detailsText {
+  height: fit-content;
+  width: 100%;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Space Mono;
+  font-weight: 700;
+  line-height: 1.600000023841858em;
+}
+.websiteLink {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.viewOnEtherscan {
+  height: fit-content;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.websiteLinkDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.viewOriginal {
+  height: fit-content;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.600000023841858em;
+}
+.tags {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.tagsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(133, 133, 132);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.399999976158142em;
+}
+.frame_243 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.auctionTimerCta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 20px;
+  position: relative;
+  width: 295px;
+  flex-shrink: 0;
+  background-color: rgb(59, 59, 59);
+}
