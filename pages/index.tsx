@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { Content } from "../components/Content";
 
 export default function Home() {
   return (
@@ -15,9 +14,7 @@ export default function Home() {
           height: "100vh",
           padding: "1rem",
         }}
-      >
-        <Content />
-      </div>
+      ></div>
     </>
   );
 }
