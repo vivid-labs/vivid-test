@@ -1,9 +1,9 @@
-.avatar_1 {
+.profileContainer{
   position: relative;
   width: 120px;
   height: 120px;
 }
-.avatarPlaceholder {
+.avatarImg{
   position: absolute;
   right: 0%;
   width: 100%;
