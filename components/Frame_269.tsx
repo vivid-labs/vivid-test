@@ -9,15 +9,15 @@ export const Frame_269 = ({
   text: string;
 }) => {
   return (
-    <div style={override} className={styles.frame_269}>
-      <p
-        style={{
-          visibility: showText,
-        }}
-        className={styles.trext}
-      >
-        {text}
-      </p>
-    </div>
+    <div style={override} className={styles.frameContainer}>
+    <p
+      style={{
+        visibility: showText,
+      }}
+      className={styles.textVisible}
+    >
+      {text}
+    </p>
+   </div> 
   );
 };
