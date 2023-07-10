@@ -131,38 +131,38 @@ export const ScreenDesktop = ({ override }: { override?: any }) => {
   ];
   return (
     <div style={override} className={styles.screenDesktop}>
-      <div className={styles.sectionHeadlineAndButton}>
-        <div className={styles.sectionHeadline}>
-          <p className={styles.moreFromThisArtist}>More from this artist</p>
-        </div>
-        <Button
-          property_1="Secondary/Outlined"
-          hasLeftIcon={true}
-          leftIcon={<ArrowRight />}
-          hasText={true}
-          text="Go To Artist Page"
-          override={{
-            padding: "0px 50px",
-            width: "fit-content",
-            height: "60px",
-          }}
-        />
+    <div className={styles.headlineAndButton}>
+      <div className={styles.headline}>
+        <p className={styles.artistInfo}>More from this artist</p>
       </div>
-      <div className={styles.nftCardsRow}>
-        {nftCardProps.map((props, i) => (
-          <NftCard {...props} key={i} />
-        ))}
-      </div>
-      <div className={styles.nftCardsRowDiv}>
-        {nftCardProps1.map((props, i) => (
-          <NftCard {...props} key={i} />
-        ))}
-      </div>
-      <div className={styles.nftCardsRowDiv1}>
-        {nftCardProps2.map((props, i) => (
-          <NftCard {...props} key={i} />
-        ))}
-      </div>
+      <Button
+        property_1="Secondary/Outlined"
+        hasLeftIcon={true}
+        leftIcon={<ArrowRight />}
+        hasText={true}
+        text="Go To Artist Page"
+        override={{
+          padding: "0px 50px",
+          width: "fit-content",
+          height: "60px",
+        }}
+      />
     </div>
+    <div className={styles.nftCardsRow}>
+      {nftCardProps.map((props, i) => (
+        <NftCard {...props} key={i} />
+      ))}
+    </div>
+    <div className={styles.nftCardsRowDiv}>
+      {nftCardProps1.map((props, i) => (
+        <NftCard {...props} key={i} />
+      ))}
+    </div>
+    <div className={styles.nftCardsRowDiv1}>
+      {nftCardProps2.map((props, i) => (
+        <NftCard {...props} key={i} />
+      ))}
+    </div>
+   </div> 
   );
 };
