@@ -3,15 +3,11 @@ export const InvestingIsAboutMoreThanJustStocksAndCryptocurrenciesItSAboutYouAnd
   ({ override }: { override?: any }) => {
     return (
       <p
-        style={override}
-        className={
-          styles.investingIsAboutMoreThanJustStocksAndCryptocurrenciesItSAboutYouAndTheFutureYouWantToCreateForYourselfAndYourFamily
-        }
-      >
-        Investing is about more than just stocks and cryptocurrencies.
-        <br />
-        It’s about you and the future you want to create for yourself and your
-        family.
-      </p>
+       style={override}
+       className={
+         styles.mainText
+       }
+     >Investing is about more than just stocks and cryptocurrencies.<br />It’s about you and the future you want to create for yourself and your
+              family.</p> 
     );
   };
