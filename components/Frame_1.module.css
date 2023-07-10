@@ -1,0 +1,22 @@
+.frame_1 {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 1730px;
+  flex-shrink: 0;
+  background-color: rgb(177, 185, 255);
+}
+.frame_2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 10px;
+  position: absolute;
+  left: 900px;
+  top: 696px;
+  background-color: rgb(86, 11, 11);
+}
