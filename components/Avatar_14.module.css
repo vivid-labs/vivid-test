@@ -1,9 +1,9 @@
-.avatar_14 {
+.avatarContainer{
   position: relative;
   width: 120px;
   height: 120px;
 }
-.avatarPlaceholder {
+.avatarImage{
   position: absolute;
   right: 0%;
   width: 100%;

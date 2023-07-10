@@ -69,22 +69,22 @@ export const Button = ({
   }[property_1];
   return (
     <div
+     style={{
+       ...buttonDivProperty_1,
+       ...override,
+     }}
+     className={styles.buttonContainer}
+   >
+    {hasLeftIcon ? leftIcon : null}
+    <p
       style={{
-        ...buttonDivProperty_1,
-        ...override,
+        ...buttonProperty_1,
+        visibility: hasText,
       }}
-      className={styles.button}
+      className={styles.buttonText}
     >
-      {hasLeftIcon ? leftIcon : null}
-      <p
-        style={{
-          ...buttonProperty_1,
-          visibility: hasText,
-        }}
-        className={styles.buttonText}
-      >
-        {text}
-      </p>
-    </div>
+      {text}
+    </p>
+   </div> 
   );
 };

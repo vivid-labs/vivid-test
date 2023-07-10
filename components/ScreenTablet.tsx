@@ -61,108 +61,108 @@ export const ScreenTablet = ({ override }: { override?: any }) => {
   ];
   return (
     <div style={override} className={styles.screenTablet}>
-      <div className={styles.artistInfoSection}>
-        <div className={styles.nftInfo}>
-          <div className={styles.nftInfoDiv}>
-            <div className={styles.headlineSubhead}>
-              <p className={styles.artistName}>The Orbitians</p>
-              <p className={styles.mintedOnSep_30_2022}>
-                Minted on Sep 30, 2022
+    <div className={styles.artistInfoSection}>
+      <div className={styles.nftInfo}>
+        <div className={styles.nftInfoDiv}>
+          <div className={styles.headlineSubhead}>
+            <p className={styles.artistName}>The Orbitians</p>
+            <p className={styles.mintedOnSep_30_2022}>
+              Minted on Sep 30, 2022
+            </p>
+          </div>
+          <div className={styles.additionalInfo}>
+            <div className={styles.createdBy}>
+              <p className={styles.createdByText}>Created By</p>
+              <ArtistCard
+                property_1="Horizontal Small"
+                artistName="Orbitian"
+                additionalInfo={true}
+                totalSales="Total Sales:"
+                salesNumber="34.53 ETH"
+                rankingNumber2={true}
+                rankingNumber="1"
+                override={{
+                  height: "fit-content",
+                  width: "100%",
+                }}
+              />
+            </div>
+            <div className={styles.description}>
+              <p className={styles.descriptionText}>Description</p>
+              <p
+                className={
+                  styles.orbitalUniverse
+                }
+              >
+                The Orbitians
+                <br />
+                is a collection of 10,000 unique NFTs on the Ethereum
+                blockchain, There are all sorts of beings in the NFT Universe.
+                The most advanced and friendly of the bunch are Orbitians.
+                They live in a metal space machines, high up in the sky and
+                only have one foot on Earth.
+                <br />
+                These Orbitians are a peaceful race, but they have been at war
+                with a group of invaders for many generations. The invaders
+                are called Upside-Downs, because of their inverted bodies that
+                live on the ground, yet do not know any other way to be.
+                Upside-Downs believe that they will be able to win this war if
+                they could only get an eye into Orbitian territory, so
+                they&#39;ve taken to make human beings their target.
               </p>
             </div>
-            <div className={styles.additionalInfo}>
-              <div className={styles.createdBy}>
-                <p className={styles.createdByText}>Created By</p>
-                <ArtistCard
-                  property_1="Horizontal Small"
-                  artistName="Orbitian"
-                  additionalInfo={true}
-                  totalSales="Total Sales:"
-                  salesNumber="34.53 ETH"
-                  rankingNumber2={true}
-                  rankingNumber="1"
+            <div className={styles.details}>
+              <p className={styles.detailsText}>Details</p>
+              <div className={styles.websiteLink}>
+                <Globe
                   override={{
-                    height: "fit-content",
-                    width: "100%",
+                    width: "24px",
+                    height: "24px",
                   }}
                 />
+                <p className={styles.viewOnEtherscan}>View on Etherscan</p>
               </div>
-              <div className={styles.description}>
-                <p className={styles.descriptionText}>Description</p>
-                <p
-                  className={
-                    styles.theOrbitiansIsACollectionOf_10_000UniqueNfTsOnTheEthereumBlockchainThereAreAllSortsOfBeingsInTheNftUniverseTheMostAdvancedAndFriendlyOfTheBunchAreOrbitiansTheyLiveInAMetalSpaceMachinesHighUpInTheSkyAndOnlyHaveOneFootOnEarthTheseOrbitiansAreAPeacefulRaceButTheyHaveBeenAtWarWithAGroupOfInvadersForManyGenerationsTheInvadersAreCalledUpsideDownsBecauseOfTheirInvertedBodiesThatLiveOnTheGroundYetDoNotKnowAnyOtherWayToBeUpsideDownsBelieveThatTheyWillBeAbleToWinThisWarIfTheyCouldOnlyGetAnEyeIntoOrbitianTerritorySoTheyVeTakenToMakeHumanBeingsTheirTarget
-                  }
-                >
-                  The Orbitians
-                  <br />
-                  is a collection of 10,000 unique NFTs on the Ethereum
-                  blockchain, There are all sorts of beings in the NFT Universe.
-                  The most advanced and friendly of the bunch are Orbitians.
-                  They live in a metal space machines, high up in the sky and
-                  only have one foot on Earth.
-                  <br />
-                  These Orbitians are a peaceful race, but they have been at war
-                  with a group of invaders for many generations. The invaders
-                  are called Upside-Downs, because of their inverted bodies that
-                  live on the ground, yet do not know any other way to be.
-                  Upside-Downs believe that they will be able to win this war if
-                  they could only get an eye into Orbitian territory, so
-                  they&#39;ve taken to make human beings their target.
-                </p>
+              <div className={styles.websiteLinkDiv}>
+                <Globe
+                  override={{
+                    width: "24px",
+                    height: "24px",
+                  }}
+                />
+                <p className={styles.viewOriginal}>View Original</p>
               </div>
-              <div className={styles.details}>
-                <p className={styles.detailsText}>Details</p>
-                <div className={styles.websiteLink}>
-                  <Globe
-                    override={{
-                      width: "24px",
-                      height: "24px",
-                    }}
-                  />
-                  <p className={styles.viewOnEtherscan}>View on Etherscan</p>
-                </div>
-                <div className={styles.websiteLinkDiv}>
-                  <Globe
-                    override={{
-                      width: "24px",
-                      height: "24px",
-                    }}
-                  />
-                  <p className={styles.viewOriginal}>View Original</p>
-                </div>
-              </div>
-              <div className={styles.tags}>
-                <p className={styles.tagsText}>Tags</p>
-                <div className={styles.tagsDiv}>
-                  {buttonProps.map((props, i) => (
-                    <Button {...props} key={i} />
-                  ))}
-                </div>
+            </div>
+            <div className={styles.tags}>
+              <p className={styles.tagsText}>Tags</p>
+              <div className={styles.tagsDiv}>
+                {buttonProps.map((props, i) => (
+                  <Button {...props} key={i} />
+                ))}
               </div>
             </div>
           </div>
-          <div className={styles.auctionTimerCta}>
-            <AuctionTimer
-              override={{
-                height: "fit-content",
-                width: "100%",
-              }}
-            />
-            <Button
-              property_1="Secondary/Filled"
-              hasLeftIcon={true}
-              leftIcon={<Wallet />}
-              hasText={true}
-              text="Place Bid"
-              override={{
-                height: "60px",
-                width: "100%",
-              }}
-            />
-          </div>
+        </div>
+        <div className={styles.auctionTimerCta}>
+          <AuctionTimer
+            override={{
+              height: "fit-content",
+              width: "100%",
+            }}
+          />
+          <Button
+            property_1="Secondary/Filled"
+            hasLeftIcon={true}
+            leftIcon={<Wallet />}
+            hasText={true}
+            text="Place Bid"
+            override={{
+              height: "60px",
+              width: "100%",
+            }}
+          />
         </div>
       </div>
     </div>
+   </div> 
   );
 };
