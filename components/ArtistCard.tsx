@@ -24,75 +24,75 @@ export const ArtistCard = ({
   switch (property_1) {
     case "Default":
       return (
-        <div style={override} className={styles.artistCard}>
-          <div className={styles.artistAvatar}>
-            <Avatar
-              property_1="Big"
-              avatarPhoto={<Avatar_14 />}
-              override={{
-                height: "fit-content",
-                width: "120px",
-              }}
-            />
-          </div>
-          <div className={styles.artistInfo}>
-            <p className={styles.dishStudio}>{artistName}</p>
-            {additionalInfo ? (
-              <div className={styles.artistInfoDiv}>
-                <p className={styles.totalSales}>{totalSales}</p>
-                <p className={styles.text34_53Eth}>{salesNumber}</p>
-              </div>
-            ) : null}
-          </div>
-          {rankingNumber2 ? (
-            <div className={styles.artistCardDiv}>
-              <p className={styles.text1}>{rankingNumber}</p>
+        <div style={override} className={styles.card}>
+        <div className={styles.avatarContainer}>
+          <Avatar
+            property_1="Big"
+            avatarPhoto={<Avatar_14 />}
+            override={{
+              height: "fit-content",
+              width: "120px",
+            }}
+          />
+        </div>
+        <div className={styles.infoContainer}>
+          <p className={styles.artistName}>{artistName}</p>
+          {additionalInfo ? (
+            <div className={styles.additionalInfoContainer}>
+              <p className={styles.totalSales}>{totalSales}</p>
+              <p className={styles.salesNumber}>{salesNumber}</p>
             </div>
           ) : null}
         </div>
+        {rankingNumber2 ? (
+          <div className={styles.rankingNumberContainer}>
+            <p className={styles.cardHorizontalBig}>{rankingNumber}</p>
+          </div>
+        ) : null}
+       </div>)
       );
     case "Horizontal Big":
       return (
-        <div style={override} className={styles.artistCardComponent}>
-          <div className={styles.artistAvatarDiv}>
-            <Avatar
-              property_1="medium"
-              avatarPhoto={<Avatar_1 />}
-              override={{
-                height: "fit-content",
-                width: "60px",
-              }}
-            />
-          </div>
-          <div className={styles.artistInfoDiv1}>
-            <p className={styles.dishStudioText}>{artistName}</p>
-            {additionalInfo ? (
-              <div className={styles.artistInfoDiv2}>
-                <p className={styles.totalSalesText}>{totalSales}</p>
-                <p className={styles.text34_53EthText}>{salesNumber}</p>
-              </div>
-            ) : null}
-          </div>
-          {rankingNumber2 ? (
-            <div className={styles.artistCardDiv1}>
-              <p className={styles.text1Text}>{rankingNumber}</p>
+       (<div style={override} className={styles.avatarContainerHorizontalBig}>
+        <div className={styles.infoContainerHorizontalBig}>
+          <Avatar
+            property_1="medium"
+            avatarPhoto={<Avatar_1 />}
+            override={{
+              height: "fit-content",
+              width: "60px",
+            }}
+          />
+        </div>
+        <div className={styles.artistNameText}>
+          <p className={styles.additionalInfoContainerHorizontalBig}>{artistName}</p>
+          {additionalInfo ? (
+            <div className={styles.totalSalesText}>
+              <p className={styles.salesNumberText}>{totalSales}</p>
+              <p className={styles.rankingNumberContainerHorizontalBig}>{salesNumber}</p>
             </div>
           ) : null}
         </div>
+        {rankingNumber2 ? (
+          <div className={styles.cardHorizontalMedium}>
+            <p className={styles.avatarContainerHorizontalMedium}>{rankingNumber}</p>
+          </div>
+        ) : null}
+       </div>)
       );
     case "Horizontal Medium":
       return (
-        <div style={override} className={styles.artistCardComponent1}>
-          <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
-          <p className={styles.dishStudioText1}>{artistName}</p>
-        </div>
+       (<div style={override} className={styles.artistNameText1}>
+        <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
+        <p className={styles.cardHorizontalSmall}>{artistName}</p>
+       </div>)
       );
     case "Horizontal Small":
       return (
-        <div style={override} className={styles.artistCardComponent2}>
-          <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
-          <p className={styles.dishStudioText2}>{artistName}</p>
-        </div>
+       (<div style={override} className={styles.avatarContainerHorizontalSmall}>
+        <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
+        <p className={styles.artistNameText2}>{artistName}</p>
+       </div> 
       );
     default:
       return null;
