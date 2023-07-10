@@ -1,4 +1,4 @@
-.screenMobile {
+.container{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,7 +9,7 @@
   width: 100%;
   background-color: rgb(59, 59, 59);
 }
-.nftCardsRow {
+.cardGrid{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

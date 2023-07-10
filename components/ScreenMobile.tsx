@@ -46,12 +46,12 @@ export const ScreenMobile = ({ override }: { override?: any }) => {
     },
   ];
   return (
-    <div style={override} className={styles.screenMobile}>
-      <div className={styles.nftCardsRow}>
-        {nftCardProps.map((props, i) => (
-          <NftCard {...props} key={i} />
-        ))}
-      </div>
+    <div style={override} className={styles.container}>
+    <div className={styles.cardGrid}>
+      {nftCardProps.map((props, i) => (
+        <NftCard {...props} key={i} />
+      ))}
     </div>
+   </div> 
   );
 };
