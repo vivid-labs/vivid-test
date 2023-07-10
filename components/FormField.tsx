@@ -15,21 +15,21 @@ export const FormField = ({
     case "TextInput":
       return (
         <div style={override} className={styles.formField}>
-        <p className={styles.fieldTitle}>{field}</p>
-        <div className={styles.inputContainer}>
-          <p className={styles.placeholderText}>{placeholder}</p>
+          <p className={styles.fieldTitle}>{field}</p>
+          <div className={styles.inputContainer}>
+            <p className={styles.placeholderText}>{placeholder}</p>
+          </div>
         </div>
-       </div>)
       );
     case "Select":
       return (
-       (<div style={override} className={styles.formFieldComponent}>
-        <p className={styles.fieldTitleText}>{field}</p>
-        <div className={styles.selectContainer}>
-          <p className={styles.selectPlaceholderText}>{placeholder}</p>
-          <img src={img_2585_1.src} className={styles.selectImage} />
+        <div style={override} className={styles.formFieldComponent}>
+          <p className={styles.fieldTitleText}>{field}</p>
+          <div className={styles.selectContainer}>
+            <p className={styles.selectPlaceholderText}>{placeholder}</p>
+            <img src={img_2585_1.src} className={styles.selectImage} />
+          </div>
         </div>
-       </div> 
       );
     default:
       return null;

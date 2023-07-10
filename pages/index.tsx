@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { Content } from "../components/Content";
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
           padding: "1rem",
         }}
       >
-        <div className="border-blue-500 bg-red-300 border-8 w-16 h-16">div</div>
+        <Content />
       </div>
     </>
   );
