@@ -1,4 +1,4 @@
-.componentCard {
+.componentCard{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -12,7 +12,7 @@
   border-width: 1px;
   background-color: rgb(63, 63, 70);
 }
-.imageFrame {
+.componentCardImageFrame{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,7 +23,7 @@
   height: 88px;
   flex-shrink: 0;
 }
-.text {
+.componentCardText{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -36,7 +36,7 @@
   flex-shrink: 0;
   background-color: rgb(24, 24, 27);
 }
-.card {
+.componentCardTextContent{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -49,7 +49,7 @@
   font-family: Inter;
   font-weight: 400;
 }
-.componentCardComponent {
+.componentCardComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -63,7 +63,7 @@
   border-width: 1px;
   background-color: rgb(68, 68, 68);
 }
-.imageFrameDiv {
+.componentCardImageFrameDiv{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -74,7 +74,7 @@
   height: 88px;
   flex-shrink: 0;
 }
-.textDiv {
+.componentCardTextDiv{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -87,7 +87,7 @@
   flex-shrink: 0;
   background-color: rgb(30, 30, 30);
 }
-.cardText {
+.componentCardTextContent2{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -100,7 +100,7 @@
   font-family: Inter;
   font-weight: 400;
 }
-.componentCardComponent1 {
+.componentCardComponent1{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -114,7 +114,7 @@
   border-width: 1px;
   background-color: rgb(63, 63, 70);
 }
-.imageFrameDiv1 {
+.componentCardImageFrameDiv1{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -125,7 +125,7 @@
   height: 75px;
   flex-shrink: 0;
 }
-.textDiv1 {
+.componentCardTextDiv1{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -138,7 +138,7 @@
   flex-shrink: 0;
   background-color: rgb(24, 24, 27);
 }
-.cardText1 {
+.componentCardTextContent1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -151,7 +151,7 @@
   font-family: Inter;
   font-weight: 400;
 }
-.componentCardComponent2 {
+.componentCardComponent2{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -165,7 +165,7 @@
   border-width: 1px;
   background-color: rgb(68, 68, 68);
 }
-.imageFrameDiv2 {
+.componentCardImageFrameDiv2{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -177,7 +177,7 @@
   height: 75px;
   flex-shrink: 0;
 }
-.textDiv2 {
+.componentCardTextDiv2{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -190,7 +190,7 @@
   flex-shrink: 0;
   background-color: rgb(30, 30, 30);
 }
-.cardText2 {
+.componentCardTextContent2{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;

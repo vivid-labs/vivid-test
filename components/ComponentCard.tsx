@@ -19,82 +19,82 @@ export const ComponentCard = ({
   if (colors === "Figma" && size === "Small") {
     return (
       <div style={override} className={styles.componentCardComponent2}>
-        <div className={styles.imageFrameDiv2}>
-          {draggable ? (
-            <DragHandle
-              override={{
-                borderWidth: "1px",
-                position: "relative",
-                borderColor: "rgb(0, 0, 0)",
-              }}
-            />
-          ) : null}
-          {draggable ? instance : null}
-        </div>
-        <div className={styles.textDiv2}>
-          <p className={styles.cardText2}>{text}</p>
-        </div>
+      <div className={styles.componentCardImageFrameDiv2}>
+        {draggable ? (
+          <DragHandle
+            override={{
+              borderWidth: "1px",
+              position: "relative",
+              borderColor: "rgb(0, 0, 0)",
+            }}
+          />
+        ) : null}
+        {draggable ? instance : null}
       </div>
+      <div className={styles.componentCardTextDiv2}>
+        <p className={styles.componentCardTextContent2}>{text}</p>
+      </div>
+     </div>)
     );
   } else if (colors === "Zinc" && size === "Small") {
     return (
-      <div style={override} className={styles.componentCardComponent1}>
-        <div className={styles.imageFrameDiv1}>
-          {draggable ? (
-            <DragHandle
-              override={{
-                borderWidth: "1px",
-                position: "absolute",
-                borderColor: "rgb(0, 0, 0)",
-              }}
-            />
-          ) : null}
-          {draggable ? instance : null}
-        </div>
-        <div className={styles.textDiv1}>
-          <p className={styles.cardText1}>{text}</p>
-        </div>
+     (<div style={override} className={styles.componentCardComponent1}>
+      <div className={styles.componentCardImageFrameDiv1}>
+        {draggable ? (
+          <DragHandle
+            override={{
+              borderWidth: "1px",
+              position: "absolute",
+              borderColor: "rgb(0, 0, 0)",
+            }}
+          />
+        ) : null}
+        {draggable ? instance : null}
       </div>
+      <div className={styles.componentCardTextDiv1}>
+        <p className={styles.componentCardTextContent1}>{text}</p>
+      </div>
+     </div>)
     );
   } else if (colors === "Figma" && size === "Large") {
     return (
-      <div style={override} className={styles.componentCardComponent}>
-        <div className={styles.imageFrameDiv}>
-          {draggable ? (
-            <DragHandle
-              override={{
-                borderWidth: "1px",
-                position: "absolute",
-                borderColor: "rgb(0, 0, 0)",
-              }}
-            />
-          ) : null}
-          {draggable ? instance : null}
-        </div>
-        <div className={styles.textDiv}>
-          <p className={styles.cardText}>{text}</p>
-        </div>
+     (<div style={override} className={styles.componentCardComponent}>
+      <div className={styles.componentCardImageFrameDiv}>
+        {draggable ? (
+          <DragHandle
+            override={{
+              borderWidth: "1px",
+              position: "absolute",
+              borderColor: "rgb(0, 0, 0)",
+            }}
+          />
+        ) : null}
+        {draggable ? instance : null}
       </div>
+      <div className={styles.componentCardTextDiv}>
+        <p className={styles.componentCardTextContent2}>{text}</p>
+      </div>
+     </div>)
     );
   } else if (colors === "Zinc" && size === "Large") {
     return (
-      <div style={override} className={styles.componentCard}>
-        <div className={styles.imageFrame}>
-          {draggable ? (
-            <DragHandle
-              override={{
-                borderWidth: "1px",
-                position: "absolute",
-                borderColor: "rgb(0, 0, 0)",
-              }}
-            />
-          ) : null}
-          {draggable ? instance : null}
-        </div>
-        <div className={styles.text}>
-          <p className={styles.card}>{text}</p>
-        </div>
+     (<div style={override} className={styles.componentCard}>
+      <div className={styles.componentCardImageFrame}>
+        {draggable ? (
+          <DragHandle
+            override={{
+              borderWidth: "1px",
+              position: "absolute",
+              borderColor: "rgb(0, 0, 0)",
+            }}
+          />
+        ) : null}
+        {draggable ? instance : null}
       </div>
+      <div className={styles.componentCardText}>
+        <p className={styles.componentCardTextContent}>{text}</p>
+      </div>
+     </div> 
     );
   } else {
     return null;
