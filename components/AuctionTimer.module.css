@@ -1,4 +1,4 @@
-.auctionTimer {
+.container{
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -12,7 +12,7 @@
   width: 295px;
   background-color: rgb(59, 59, 59, 0.5);
 }
-.auctionEndsIn {
+.endsIn{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -22,7 +22,7 @@
   font-weight: 400;
   line-height: 1.1em;
 }
-.timer {
+.timerContainer{
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -32,7 +32,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.hours {
+.hoursContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -43,7 +43,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.text59 {
+.hours{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -53,7 +53,7 @@
   font-weight: 700;
   line-height: 1.2em;
 }
-.hoursText {
+.hoursText{
   width: 100%;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -64,7 +64,7 @@
   font-weight: 400;
   line-height: 1.1em;
 }
-.text {
+.separator{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -75,7 +75,7 @@
   font-weight: 700;
   line-height: 1.4em;
 }
-.minutes {
+.minutesContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -86,7 +86,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.text59Text {
+.minutes{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -96,7 +96,7 @@
   font-weight: 700;
   line-height: 1.2em;
 }
-.minutesText {
+.minutesText{
   width: 100%;
   flex-shrink: 0;
   flex: 1 1 0%;
@@ -107,7 +107,7 @@
   font-weight: 400;
   line-height: 1.1em;
 }
-.textText {
+.separator{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -118,7 +118,7 @@
   font-weight: 700;
   line-height: 1.4em;
 }
-.seconds {
+.secondsContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -129,7 +129,7 @@
   flex: 1 1 0%;
   min-width: 0px;
 }
-.text59Text1 {
+.seconds{
   height: fit-content;
   width: 100%;
   flex-shrink: 0;
@@ -139,7 +139,7 @@
   font-weight: 700;
   line-height: 1.2em;
 }
-.secondsText {
+.secondsText{
   width: 100%;
   flex-shrink: 0;
   flex: 1 1 0%;
