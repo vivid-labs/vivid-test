@@ -9,8 +9,8 @@ export const Frame_269 = ({
   text: string;
 }) => {
   return (
-    <div style={override} className={styles.frame_269}>
-      {showText ? <p className={styles.frame_269Div}>{text}</p> : null}
-    </div>
+    <div style={override} className={styles.frameContainer}>
+    {showText ? <p className={styles.frameText}>{text}</p> : null}
+   </div> 
   );
 };

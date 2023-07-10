@@ -1,4 +1,4 @@
-.frame_269 {
+.frameContainer{
   overflow: hidden;
   display: flex;
   flex-direction: row;
@@ -11,7 +11,7 @@
   position: relative;
   background-color: rgb(255, 255, 255);
 }
-.frame_269Div {
+.frameText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
