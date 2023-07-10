@@ -1,0 +1,12 @@
+.nftMarketplace {
+  width: 100%;
+  white-space: nowrap;
+  height: fit-content;
+  flex-shrink: 0;
+  color: rgb(255, 255, 255);
+  font-size: 67px;
+  font-family: Work Sans;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  line-height: 1.1em;
+}
