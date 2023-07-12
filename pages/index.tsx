@@ -14,7 +14,9 @@ export default function Home() {
           height: "100vh",
           padding: "1rem",
         }}
-      ></div>
+      >
+        Random text
+      </div>
     </>
   );
 }
