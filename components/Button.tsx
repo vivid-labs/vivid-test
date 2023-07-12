@@ -20,12 +20,12 @@ export const Button = ({
       style={{
         ...buttonType,
         display: "flex",
-        flexDirection: "row",
+        flexDirection: "col",
         justifyContent: "center",
         alignItems: "center",
         width: "fit-content",
         height: "fit-content",
-        padding: "8px 16px",
+        padding: "16px 16px",
         borderRadius: "5px",
         position: "relative",
         boxShadow:
