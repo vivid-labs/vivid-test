@@ -2,13 +2,25 @@ import logo_2 from "./logo_2.png";
 export const NoOutlineLogo = ({ override }: { override?: any }) => {
   return (
     <div
-      style={override}
-      className="relative w-[62px] h-[62px]"
+      style={{
+        position: "relative",
+        width: "62px",
+        height: "62px",
+        ...override,
+      }}
       figma-id="27:221"
     >
       <img
+        style={{
+          position: "absolute",
+          right: "0%",
+          width: "100%",
+          bottom: "0%",
+          height: "100%",
+          objectFit: "cover",
+          opacity: 1,
+        }}
         src={logo_2.src}
-        className="absolute right-[0%] w-full bottom-[0%] h-full object-cover opacity-100"
         figma-id="27:196"
       />
     </div>
