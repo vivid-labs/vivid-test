@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { ButtonPage } from "../components/ButtonPage";
 
 export default function Home() {
   return (
@@ -15,9 +14,7 @@ export default function Home() {
           height: "100vh",
           padding: "1rem",
         }}
-      >
-        <ButtonPage />
-      </div>
+      ></div>
     </>
   );
 }
