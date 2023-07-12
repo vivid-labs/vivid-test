@@ -1,4 +1,4 @@
-.checkMark{
+.checkMark {
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -7,7 +7,7 @@
   width: 40.63px;
   height: 40.63px;
 }
-.group{
+.group {
   width: 100%;
   flex-shrink: 0;
   flex: 1 1 0%;
