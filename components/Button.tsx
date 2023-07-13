@@ -32,7 +32,7 @@ export const Button = ({
           "0px 4px 9px  rgb(0, 0, 0, 0.05), 0px 1.54px 2.87px  rgb(0, 0, 0, 0.07), 0px 0.33px 0.73px  rgb(0, 0, 0, 0.12)",
         ...override,
       }}
-      figma-id="1:1204"
+      figma-id="255:207"
     >
       <p
         style={{
@@ -44,14 +44,14 @@ export const Button = ({
           flexDirection: "column",
           justifyContent: "center",
           flexShrink: 0,
-          color: "rgb(255, 205, 41)",
+          color: "rgb(255, 255, 255)",
           fontSize: "16px",
           fontFamily: "Avenir",
           fontWeight: 500,
           letterSpacing: "0.01px",
           lineHeight: "23px",
         }}
-        figma-id="1:257"
+        figma-id="255:208"
       >
         {text}
       </p>
