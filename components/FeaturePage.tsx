@@ -2,8 +2,12 @@ import { Feature } from "./Feature";
 export const FeaturePage = ({ override }: { override?: any }) => {
   return (
     <Feature
-      heading="Work faster"
-      description="Generate summaries, action items & insights"
+      heading="Call existing components"
+      description="Already have components implemented in your codebase? Vivid  links your Figma components to existing React components."
+      override={{
+        height: "fit-content",
+        width: "177.67px",
+      }}
       override={{
         width: "100%",
       }}
