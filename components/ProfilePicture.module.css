@@ -1,0 +1,16 @@
+.profilePicture {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+}
+.profilePictureDiv {
+  overflow: hidden;
+  border-radius: 100px;
+  width: 45px;
+  height: 45px;
+  flex-shrink: 0;
+  background-color: rgb(193, 193, 193);
+}
