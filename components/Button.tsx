@@ -6,10 +6,13 @@ export const Button = ({ override }: { override?: any }) => {
         whiteSpace: "nowrap",
         height: "fit-content",
         textAlign: "center",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
         color: "rgb(255, 255, 255)",
         fontSize: "12px",
         fontFamily: "Inter",
-        fontWeight: 600,
+        fontWeight: 900,
         ...override,
       }}
       figma-id="1912:902"
