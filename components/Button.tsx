@@ -29,13 +29,34 @@ export const Button = ({
       style={{
         ...buttonSize,
         ...buttonDivHover,
+        overflow: "hidden",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        gap: "10px",
+        width: "fit-content",
+        height: "fit-content",
+        borderRadius: "4px",
+        position: "relative",
+        backgroundColor: "rgb(0, 129, 225)",
         ...override,
       }}
-      className="overflow-hidden flex justify-center items-center gap-[10px] rounded-[4px] relative bg-[rgb(0,_129,_225)]"
       figma-id="34:3574"
     >
       <p
-        className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(255,_255,_255)] text-[12px] font-[Inter] font-semibold"
+        style={{
+          width: "fit-content",
+          whiteSpace: "nowrap",
+          height: "fit-content",
+          textAlign: "center",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          color: "rgb(255, 255, 255)",
+          fontSize: "12px",
+          fontFamily: "Inter",
+          fontWeight: 600,
+        }}
         figma-id="34:3575"
       >
         Button
