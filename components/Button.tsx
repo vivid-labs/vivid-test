@@ -12,7 +12,7 @@ export const Button = ({ override }: { override?: any }) => {
         color: "rgb(255, 255, 255)",
         fontSize: "12px",
         fontFamily: "Inter",
-        fontWeight: 200,
+        fontWeight: 600,
         ...override,
       }}
       figma-id="1912:902"
