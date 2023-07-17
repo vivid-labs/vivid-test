@@ -38,7 +38,7 @@ export const Button = ({
         height: "fit-content",
         borderRadius: "4px",
         position: "relative",
-        backgroundColor: "rgb(222, 136, 88)",
+        backgroundColor: "rgb(63, 63, 70)",
         ...override,
       }}
       figma-id="34:3574"
