@@ -9,7 +9,8 @@ export const Button = ({ override }: { override?: any }) => {
         color: "rgb(60, 157, 93)",
         fontSize: "12px",
         fontFamily: "Inter",
-        fontWeight: 600,
+        fontStyle: "italic",
+        fontWeight: 100,
         ...override,
       }}
       figma-id="1912:902"
