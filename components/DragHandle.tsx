@@ -2,7 +2,6 @@ export const DragHandle = ({ override }: { override?: any }) => {
   const onClickHandler = () => {
     console.log("dragging");
   };
-
   return (
     <div
       style={{
