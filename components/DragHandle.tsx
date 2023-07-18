@@ -1,4 +1,8 @@
 export const DragHandle = ({ override }: { override?: any }) => {
+  const onClickHandler = () => {
+    console.log("dragging");
+  };
+
   return (
     <div
       style={{
@@ -7,6 +11,7 @@ export const DragHandle = ({ override }: { override?: any }) => {
         height: "5px",
         ...override,
       }}
+      onClick={onClickHandler}
       figma-id="33:1183"
     >
       <div
