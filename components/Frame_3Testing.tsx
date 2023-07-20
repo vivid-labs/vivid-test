@@ -17,6 +17,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
       figma-id="3:1962:975"
     >
       <p>This is a developer-added div</p>
+      <h1>Another div</h1>
     </div>
   );
 };
