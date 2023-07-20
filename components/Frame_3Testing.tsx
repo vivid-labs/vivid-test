@@ -29,6 +29,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
           fontFamily: "Inter",
           fontWeight: 900,
         }}
+        onClick={() => console.log("hello")}
         figma-id="3:1976:888"
       >
         new text
