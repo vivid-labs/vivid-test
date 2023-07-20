@@ -31,7 +31,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
         }}
         figma-id="3:1976:888"
       >
-        new text
+        new text 2 new text
       </p>
     </div>
   );
