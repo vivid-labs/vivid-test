@@ -2,7 +2,6 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
   const eventHandler = () => {
     console.log("event handler");
   };
-
   return (
     <div
       style={{
@@ -61,7 +60,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
-          color: "rgb(255, 0, 0)",
+          color: "rgb(32, 17, 121)",
           fontSize: "40px",
           fontFamily: "Inter",
           fontWeight: 900,
