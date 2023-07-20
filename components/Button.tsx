@@ -27,8 +27,6 @@ export const Button = ({
   return (
     <div
       style={{
-        ...buttonSize,
-        ...buttonDivHover,
         overflow: "hidden",
         display: "flex",
         justifyContent: "center",
@@ -38,7 +36,8 @@ export const Button = ({
         height: "fit-content",
         borderRadius: "4px",
         position: "relative",
-        backgroundColor: "rgb(0, 129, 225)",
+        ...buttonSize,
+        ...buttonDivHover,
         ...override,
       }}
       figma-id="3:34:3574"
