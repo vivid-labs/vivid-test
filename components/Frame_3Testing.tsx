@@ -1,4 +1,8 @@
 export const Frame_3Testing = ({ override }: { override?: any }) => {
+  const eventHandler = () => {
+    console.log("event handler");
+  };
+
   return (
     <div
       style={{
@@ -14,6 +18,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
         ...override,
       }}
       figma-id="3:1976:889"
+      onClick={eventHandler}
     >
       <div
         style={{
@@ -29,6 +34,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
           backgroundColor: "rgb(255, 255, 255)",
         }}
         figma-id="3:1978:893"
+        onClick={eventHandler}
       >
         <p
           style={{
