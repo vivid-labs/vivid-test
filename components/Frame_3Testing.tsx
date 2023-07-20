@@ -11,22 +11,6 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
         ...override,
       }}
       figma-id="3:1962:975"
-    >
-      <p
-        style={{
-          textAlign: "center",
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "center",
-          color: "rgb(85, 16, 16)",
-          fontSize: "12px",
-          fontFamily: "Inter",
-          fontWeight: 800,
-        }}
-        figma-id="3:1962:976"
-      >
-        HELLO
-      </p>
-    </div>
+    ></div>
   );
 };
