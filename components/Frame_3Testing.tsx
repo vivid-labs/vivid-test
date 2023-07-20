@@ -23,6 +23,9 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
           left: "227px",
           height: "75px",
           top: "72px",
+          borderStyle: "solid",
+          borderColor: "rgb(0, 0, 0)",
+          borderWidth: "4px",
           backgroundColor: "rgb(255, 255, 255)",
         }}
         figma-id="3:1978:893"
@@ -33,7 +36,7 @@ export const Frame_3Testing = ({ override }: { override?: any }) => {
             display: "flex",
             flexDirection: "column",
             justifyContent: "center",
-            color: "rgb(82, 0, 255)",
+            color: "rgb(231, 18, 18)",
             fontSize: "12px",
             fontFamily: "Inter",
             fontWeight: 800,
