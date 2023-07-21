@@ -2,25 +2,16 @@ export const Button = ({
   override,
   size,
   hover,
+  callback,
 }: {
   override?: any;
   size: string;
   hover: string;
+  callback: () => void;
 }) => {
   const buttonSize =
-    size === "Small"
-      ? {
-          padding: "5px 10px",
-        }
-      : {
-          padding: "10px 15px",
-        };
-  const buttonDivHover =
-    hover === "True"
-      ? {
-          opacity: "0.5",
-        }
-      : {};
+    size === "Small" ? { padding: "5px 10px" } : { padding: "10px 15px" };
+  const buttonDivHover = hover === "True" ? { opacity: "0.5" } : {};
   if (size === "Large" && hover === "False") {
     return null;
   }
@@ -44,6 +35,7 @@ export const Button = ({
       figma-id="3:34:3574"
     >
       <p
+        onClick={callback}
         style={{
           width: "fit-content",
           whiteSpace: "nowrap",

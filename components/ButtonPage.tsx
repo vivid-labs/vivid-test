@@ -9,6 +9,7 @@ export const ButtonPage = ({ override }: { override?: any }) => {
         width: "100%",
       }}
       figma-id="3:1948:900"
+      callback={() => null}
     />
   );
 };
