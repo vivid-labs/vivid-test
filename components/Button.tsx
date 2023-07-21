@@ -25,7 +25,7 @@ export const Button = ({
     return null;
   }
   return (
-    <div
+    <button
       style={{
         ...buttonSize,
         ...buttonDivHover,
@@ -61,6 +61,6 @@ export const Button = ({
       >
         Button
       </p>
-    </div>
+    </button>
   );
 };
