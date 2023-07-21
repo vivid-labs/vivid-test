@@ -5,7 +5,7 @@ export const ButtonPage = ({ override }: { override?: any }) => {
       size="Large"
       hover="True"
       override={{
-        backgroundColor: "rgb(113, 113, 122)",
+        backgroundColor: "rgb(60, 157, 93)",
         width: "100%",
       }}
       figma-id="3:1948:900"
