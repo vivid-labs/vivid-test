@@ -10,16 +10,25 @@ export const Button = ({
   callback: () => void;
 }) => {
   const buttonSize =
-    size === "Small" ? { padding: "5px 10px" } : { padding: "10px 15px" };
-  const buttonDivHover = hover === "True" ? { opacity: "0.5" } : {};
+    size === "Small"
+      ? {
+          padding: "5px 10px",
+        }
+      : {
+          padding: "10px 15px",
+        };
+  const buttonDivHover =
+    hover === "True"
+      ? {
+          opacity: "0.5",
+        }
+      : {};
   if (size === "Large" && hover === "False") {
     return null;
   }
   return (
     <button
       style={{
-        ...buttonSize,
-        ...buttonDivHover,
         overflow: "hidden",
         display: "flex",
         justifyContent: "center",
@@ -30,6 +39,8 @@ export const Button = ({
         borderRadius: "4px",
         position: "relative",
         backgroundColor: "rgb(222, 136, 88)",
+        ...buttonSize,
+        ...buttonDivHover,
         ...override,
       }}
       figma-id="3:34:3574"
@@ -44,13 +55,14 @@ export const Button = ({
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
-          color: "rgb(255, 255, 255)",
+          color: "rgb(39, 39, 42)",
           fontSize: "12px",
           fontFamily: "Inter",
           fontWeight: 800,
         }}
         figma-id="3:34:3575"
       >
+        {text}
         Button
       </p>
     </button>
