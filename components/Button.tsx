@@ -27,8 +27,6 @@ export const Button = ({
   return (
     <button
       style={{
-        ...buttonSize,
-        ...buttonDivHover,
         overflow: "hidden",
         display: "flex",
         justifyContent: "center",
@@ -39,6 +37,8 @@ export const Button = ({
         borderRadius: "4px",
         position: "relative",
         backgroundColor: "rgb(222, 136, 88)",
+        ...buttonSize,
+        ...buttonDivHover,
         ...override,
       }}
       figma-id="3:34:3574"
@@ -52,13 +52,14 @@ export const Button = ({
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
-          color: "rgb(255, 255, 255)",
+          color: "rgb(39, 39, 42)",
           fontSize: "12px",
           fontFamily: "Inter",
           fontWeight: 800,
         }}
         figma-id="3:34:3575"
       >
+        {text}
         Button
       </p>
     </button>
