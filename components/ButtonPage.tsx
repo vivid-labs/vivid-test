@@ -9,6 +9,10 @@ export const ButtonPage = ({ override }: { override?: any }) => {
         width: "100%",
       }}
       figma-id="3:1948:900"
+      style={{
+        backgroundColor: "rgb(60, 157, 93)",
+        width: "100%",
+      }}
     />
   );
 };
