@@ -1,18 +1,16 @@
 export const Button = ({
   override,
   size,
-  hover,
   callback,
 }: {
   override?: any;
   size: string;
-  hover: string;
   callback: () => void;
 }) => {
   const buttonSize =
     size === "Small" ? { padding: "5px 10px" } : { padding: "10px 15px" };
 
-  if (size === "Large" && hover === "False") {
+  if (size === "Large") {
     return null;
   }
   return (
