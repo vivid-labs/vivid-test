@@ -33,7 +33,7 @@ export const Frame_6 = ({ override }: { override?: any }) => {
         }}
         figma-id="3:1987:894"
       >
-        Sample
+        Sample{" "}
       </p>
     </div>
   );
