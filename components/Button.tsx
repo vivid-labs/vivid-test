@@ -11,7 +11,7 @@ export const Button = ({
 }) => {
   const buttonSize =
     size === "Small" ? { padding: "5px 10px" } : { padding: "10px 15px" };
-  const buttonDivHover = hover === "True" ? { opacity: "0.5" } : {};
+
   if (size === "Large" && hover === "False") {
     return null;
   }
@@ -19,7 +19,6 @@ export const Button = ({
     <button
       style={{
         ...buttonSize,
-        ...buttonDivHover,
         overflow: "hidden",
         display: "flex",
         justifyContent: "center",
