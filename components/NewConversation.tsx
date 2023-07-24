@@ -14,7 +14,7 @@ export const NewConversation = ({ override }: { override?: any }) => {
         borderStyle: "solid",
         borderColor: "rgb(242, 242, 242)",
         borderBottomWidth: "1px",
-        backgroundColor: "rgb(255, 255, 255)",
+        backgroundColor: "rgb(209, 70, 70)",
         ...override,
       }}
       figma-id="5:19:87"
