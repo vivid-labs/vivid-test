@@ -1,0 +1,25 @@
+.button {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(39, 39, 42);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 800;
+}
+.buttonComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgb(222, 136, 88);
+}
