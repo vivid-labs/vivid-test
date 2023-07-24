@@ -1,0 +1,18 @@
+.gitHubImage {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  object-fit: cover;
+  opacity: 1;
+}
+.gitHubLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  border-radius: 4px;
+  position: relative;
+  width: 25px;
+  height: 25px;
+  background-color: rgb(250, 250, 250);
+}
