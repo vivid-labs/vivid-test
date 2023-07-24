@@ -1,0 +1,288 @@
+.topCreators {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+.heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplace {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+.subhead {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.sectionHeadlineAndButton {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv1 {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsGrid {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.topRatedArtists {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  height: fit-content;
+  padding: 80px 195px;
+  position: relative;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+}
+.topCreatorsText {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.headingDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplaceText {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.subheadDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.sectionHeadlineDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.sectionHeadlineAndButtonDiv {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv2 {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv3 {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv4 {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.artistCardsGridDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+  flex-shrink: 0;
+}
+.topRatedArtistsComponent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 40px 195px;
+  position: relative;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+}
+.topCreatorsText1 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.headingDiv1 {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.checkoutTopRatedCreatorsOnTheNftMarketplaceText1 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.subheadDiv1 {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.sectionHeadlineDiv1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.sectionHeadlineAndButtonDiv1 {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+  flex-shrink: 0;
+}
+.artistCardsRowDiv5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+  flex-shrink: 0;
+}
+.sectionHeadlineAndButtonDiv2 {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 315px;
+  flex-shrink: 0;
+}
+.topRatedArtistsComponent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 40px 195px;
+  position: relative;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+}
