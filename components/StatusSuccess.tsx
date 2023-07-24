@@ -1,7 +1,6 @@
 import { Tab } from "./Tab";
 import { StatusButton } from "./StatusButton";
 import { useState } from "react";
-
 export const StatusSuccess = ({ override }: { override?: any }) => {
   const [successState, setSuccessState] = useState(true);
   return (
@@ -43,14 +42,14 @@ export const StatusSuccess = ({ override }: { override?: any }) => {
             whiteSpace: "nowrap",
             height: "fit-content",
             textAlign: "center",
-            color: "rgb(48, 170, 17)",
+            color: "rgb(0, 0, 0)",
             fontSize: "32px",
             fontFamily: "Avenir",
             fontWeight: 800,
           }}
           figma-id="5:170:62"
         >
-          This was a success!
+          Was this a success?
         </p>
       </div>
       <div
@@ -68,6 +67,9 @@ export const StatusSuccess = ({ override }: { override?: any }) => {
         }}
         figma-id="5:170:63"
       >
+        <Tab status="Default" figma-id="5:170:69" />
+        <Tab status="Default" figma-id="5:170:71" />
+        <Tab status="Default" figma-id="5:170:73" />
         <Tab
           status={successState ? "Success" : "Failure"}
           figma-id="5:170:69"
@@ -81,6 +83,14 @@ export const StatusSuccess = ({ override }: { override?: any }) => {
           figma-id="5:170:73"
         />
       </div>
+      <StatusButton
+        status="Failure"
+        override={{
+          height: "67px",
+          width: "fit-content",
+        }}
+        figma-id="5:170:85"
+      />
       <StatusButton
         status={successState}
         statusHandler={setSuccessState}

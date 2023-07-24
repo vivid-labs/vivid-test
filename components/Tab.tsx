@@ -16,12 +16,13 @@ export const Tab = ({
   return (
     <div
       style={{
-        ...tabStatus,
         overflow: "hidden",
         borderRadius: "12px",
         position: "relative",
         width: "110px",
         height: "83px",
+        backgroundColor: "rgb(48, 170, 17)",
+        ...tabStatus,
         ...override,
       }}
       figma-id="5:170:67"
