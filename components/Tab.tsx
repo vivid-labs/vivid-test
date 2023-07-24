@@ -6,7 +6,7 @@ export const Tab = ({
   status: string;
 }) => {
   const tabStatus =
-    status === "Default"
+    status === "Success"
       ? {
           backgroundColor: "rgb(48, 170, 17)",
         }

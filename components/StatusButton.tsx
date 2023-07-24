@@ -1,14 +1,18 @@
+import { Dispatch } from "react";
+
 export const StatusButton = ({
   override,
   status,
+  statusHandler,
 }: {
   override?: any;
-  status: string;
+  status: boolean;
+  statusHandler: Dispatch<React.SetStateAction<boolean>>;
 }) => {
   switch (status) {
-    case "Success":
+    case false:
       return (
-        <div
+        <button
           style={{
             overflow: "hidden",
             display: "flex",
@@ -23,6 +27,7 @@ export const StatusButton = ({
             ...override,
           }}
           figma-id="5:170:77"
+          onClick={() => statusHandler(true)}
         >
           <p
             style={{
@@ -36,11 +41,11 @@ export const StatusButton = ({
           >
             Success!
           </p>
-        </div>
+        </button>
       );
-    case "Failure":
+    case true:
       return (
-        <div
+        <button
           style={{
             overflow: "hidden",
             display: "flex",
@@ -53,6 +58,9 @@ export const StatusButton = ({
             position: "relative",
             backgroundColor: "rgb(195, 46, 46)",
             ...override,
+          }}
+          onClick={() => {
+            statusHandler(!status);
           }}
           figma-id="5:170:79"
         >
@@ -68,7 +76,7 @@ export const StatusButton = ({
           >
             Failure!
           </p>
-        </div>
+        </button>
       );
     default:
       return null;

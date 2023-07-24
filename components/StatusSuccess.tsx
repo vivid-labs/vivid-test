@@ -1,7 +1,9 @@
 import { Tab } from "./Tab";
 import { StatusButton } from "./StatusButton";
+import { useState } from "react";
 
 export const StatusSuccess = ({ override }: { override?: any }) => {
+  const [successState, setSuccessState] = useState(true);
   return (
     <div
       style={{
@@ -66,11 +68,24 @@ export const StatusSuccess = ({ override }: { override?: any }) => {
         }}
         figma-id="5:170:63"
       >
-        <Tab status="Default" figma-id="5:170:69" />
-        <Tab status="Default" figma-id="5:170:71" />
-        <Tab status="Default" figma-id="5:170:73" />
+        <Tab
+          status={successState ? "Success" : "Failure"}
+          figma-id="5:170:69"
+        />
+        <Tab
+          status={successState ? "Success" : "Failure"}
+          figma-id="5:170:71"
+        />
+        <Tab
+          status={successState ? "Success" : "Failure"}
+          figma-id="5:170:73"
+        />
       </div>
-      <StatusButton status="Failure" figma-id="5:170:85" />
+      <StatusButton
+        status={successState}
+        statusHandler={setSuccessState}
+        figma-id="5:170:85"
+      />
     </div>
   );
 };
