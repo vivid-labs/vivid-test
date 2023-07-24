@@ -1,0 +1,31 @@
+.frame_273 {
+  overflow: hidden;
+  width: 40px;
+  height: 85px;
+  flex-shrink: 0;
+  background-color: rgb(132, 17, 17);
+  position: relative;
+}
+.frame_272 {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.frame_271 {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  width: 100%;
+  height: fit-content;
+  padding: 5px 58px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
