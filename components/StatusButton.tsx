@@ -1,5 +1,4 @@
 import { Dispatch } from "react";
-
 export const StatusButton = ({
   override,
   status,
@@ -16,13 +15,13 @@ export const StatusButton = ({
           style={{
             overflow: "hidden",
             display: "flex",
-            alignItems: "flex-start",
+            alignItems: "center",
             gap: "10px",
             width: "fit-content",
-            height: "fit-content",
             padding: "10px",
             borderRadius: "12px",
             position: "relative",
+            height: "67px",
             backgroundColor: "rgb(48, 170, 17)",
             ...override,
           }}
@@ -49,13 +48,13 @@ export const StatusButton = ({
           style={{
             overflow: "hidden",
             display: "flex",
-            alignItems: "flex-start",
+            alignItems: "center",
             gap: "10px",
             width: "fit-content",
-            height: "fit-content",
             padding: "10px",
             borderRadius: "12px",
             position: "relative",
+            height: "67px",
             backgroundColor: "rgb(195, 46, 46)",
             ...override,
           }}
