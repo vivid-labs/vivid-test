@@ -1,0 +1,21 @@
+.failureimportant {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.button {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 20px 76px;
+  position: relative;
+  background-color: rgb(189, 17, 17);
+}
