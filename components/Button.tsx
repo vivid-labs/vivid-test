@@ -24,7 +24,6 @@ export const Button = ({
   return (
     <div
       style={{
-        ...buttonColor,
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
@@ -34,13 +33,20 @@ export const Button = ({
         padding: "20px 50px",
         borderRadius: "7px",
         position: "relative",
+        ...buttonColor,
         ...override,
       }}
       figma-id="4:6:302"
     >
       <p
+        style={startToExploreColor}
+        className={styles.startToExplore}
+        figma-id="4:6:303"
+      >
+        Start to explore
+      </p>
+      <p
         style={{
-          ...startToExploreColor,
           width: "fit-content",
           whiteSpace: "nowrap",
           height: "fit-content",
@@ -49,6 +55,7 @@ export const Button = ({
           fontFamily: "Quicksand",
           fontWeight: 600,
           letterSpacing: "-0.03em",
+          ...startToExploreColor,
         }}
         figma-id="4:6:303"
       >

@@ -1,0 +1,21 @@
+.group_10 {
+  position: absolute;
+  left: 4px;
+  right: -4px;
+  width: auto;
+  top: 6.23px;
+  bottom: -6.23px;
+  height: auto;
+}
+.program {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}

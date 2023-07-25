@@ -65,15 +65,67 @@ export const City = ({
   return (
     <div
       style={{
-        ...citySize,
         overflow: "hidden",
         borderRadius: "20px",
         position: "relative",
         width: "376px",
+        ...citySize,
         ...override,
       }}
       figma-id="4:6:339"
     >
+      <div className={styles.background} figma-id="4:6:340">
+        {backgroundImage}
+        <div className={styles.rectangle_1} figma-id="4:6:342" />
+      </div>
+      <div style={contentSize} className={styles.content} figma-id="4:6:343">
+        <div className={styles.heading} figma-id="4:6:344">
+          <p className={styles.title} figma-id="4:6:345">
+            {title}
+          </p>
+          <div className={styles.details} figma-id="4:6:346">
+            <div className={styles.price} figma-id="4:6:347">
+              <div className={styles.ticketDiv} figma-id="4:6:348">
+                <div figma-id="4:6:349">
+                  <img
+                    src={ticketSrc.src}
+                    className={styles.ticket}
+                    figma-id="4:6:350"
+                  />
+                </div>
+              </div>
+              <p className={styles.text_80} figma-id="4:6:353">
+                {price}
+              </p>
+            </div>
+            <div className={styles.time} figma-id="4:6:354">
+              <div className={styles.timeCircleDiv} figma-id="4:6:355">
+                <div figma-id="4:6:356">
+                  <img
+                    src={timeCircleSrc.src}
+                    className={styles.timeCircle}
+                    figma-id="4:6:357"
+                  />
+                </div>
+              </div>
+              <p className={styles.text3Hours} figma-id="4:6:360">
+                {time}
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className={styles.label} figma-id="4:6:361">
+          <img src={image.src} className={styles.image} figma-id="4:6:362" />
+          <div className={styles.nameDiv} figma-id="4:6:363">
+            <p className={styles.name} figma-id="4:6:364">
+              {guideName}
+            </p>
+            <p className={styles.position} figma-id="4:6:365">
+              {guidePosition}
+            </p>
+          </div>
+        </div>
+      </div>
       <div
         style={{
           overflow: "hidden",
@@ -102,7 +154,6 @@ export const City = ({
       </div>
       <div
         style={{
-          ...contentSize,
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
@@ -110,6 +161,7 @@ export const City = ({
           padding: "34px 24px",
           position: "absolute",
           width: "376px",
+          ...contentSize,
         }}
         figma-id="4:6:343"
       >

@@ -5,7 +5,6 @@ import { Feature } from "./Feature";
 import { VolumeDown } from "./VolumeDown";
 import { Program } from "./Program";
 import { Home } from "./Home";
-
 export const HeroSection = ({ override }: { override?: any }) => {
   return (
     <div
@@ -68,7 +67,7 @@ export const HeroSection = ({ override }: { override?: any }) => {
           style={{
             height: "fit-content",
             textAlign: "center",
-            color: "rgb(255, 0, 0)",
+            color: "rgb(255, 255, 255)",
             fontSize: "25px",
             fontFamily: "Quicksand",
             fontWeight: 400,
