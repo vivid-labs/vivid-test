@@ -1,0 +1,61 @@
+.label {
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+}
+.labelText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+}
+.labelText1 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+}
+.labelText2 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+}
+.labelText3 {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  line-height: 24px;
+}
+.lightScheme {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
