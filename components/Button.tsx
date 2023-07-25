@@ -24,23 +24,14 @@ export const Button = ({
   return (
     <div
       style={{
+        width: "100%",
         ...buttonColor,
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        gap: "10px",
-        width: "fit-content",
-        height: "fit-content",
-        padding: "20px 50px",
-        borderRadius: "7px",
-        position: "relative",
         ...override,
       }}
       figma-id="4:6:302"
     >
       <p
         style={{
-          ...startToExploreColor,
           width: "fit-content",
           whiteSpace: "nowrap",
           height: "fit-content",
@@ -49,6 +40,7 @@ export const Button = ({
           fontFamily: "Quicksand",
           fontWeight: 600,
           letterSpacing: "-0.03em",
+          ...startToExploreColor,
         }}
         figma-id="4:6:303"
       >
