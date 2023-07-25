@@ -5,7 +5,6 @@ import { Feature } from "./Feature";
 import { VolumeDown } from "./VolumeDown";
 import { Program } from "./Program";
 import { Home } from "./Home";
-
 export const HeroSection = ({ override }: { override?: any }) => {
   return (
     <div
@@ -54,7 +53,7 @@ export const HeroSection = ({ override }: { override?: any }) => {
           style={{
             height: "fit-content",
             textAlign: "center",
-            color: "rgb(255, 255, 255)",
+            color: "rgb(255, 0, 0)",
             fontSize: "70px",
             fontFamily: "Quicksand",
             fontWeight: 700,
@@ -112,7 +111,38 @@ export const HeroSection = ({ override }: { override?: any }) => {
           icon={<Home figma-id="4:" />}
           figma-id="4:6:430"
         />
+        <Feature
+          title="Audio Guide"
+          description="Travel on your own. Use the services of an audio guide."
+          icon={<VolumeDown figma-id="4:" />}
+          figma-id="4:6:428"
+        />
+        <Feature
+          title="Programs"
+          description="Choose a travel program that is right for you."
+          icon={<Program figma-id="4:" />}
+          figma-id="4:6:429"
+        />
+        <Feature
+          title="Hotels & Restaurant"
+          description="Book hotels and restaurants at the best prices"
+          icon={<Home figma-id="4:" />}
+          figma-id="4:6:430"
+        />
       </div>
+      <img
+        src={heroSection.src}
+        style={{
+          objectFit: "cover",
+          opacity: 1,
+          position: "absolute",
+          inset: 0,
+          height: "100%",
+          width: "100%",
+        }}
+        figma-id=""
+      />
+      <Button color="White" figma-id="4:6:426" />
     </div>
   );
 };
