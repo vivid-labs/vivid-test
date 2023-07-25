@@ -32,7 +32,7 @@ export const ButtonDifferentLayerNames = ({
       figma-id="3:1438:924"
     >
       <p
-        className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(255,_255,_255)] text-[12px] font-[Inter] font-semibold"
+        className="whitespace-nowrap text-center flex flex-col justify-center text-white text-[12px] font-[Inter] font-semibold"
         figma-id="3:1438:925"
       >
         Button
