@@ -1,0 +1,160 @@
+.discoverMoreNfTs {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 38px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+.exploreNewTrendingNfTs {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 22px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+.sectionHeadline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.sectionHeadlineAndButton {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.nftCardsRow {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.discoverMoreNfTsComponent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  height: fit-content;
+  padding: 80px 195px;
+  position: relative;
+  width: 1440px;
+  background-color: rgb(43, 43, 43);
+}
+.discoverMoreNfTsText {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.exploreNewTrendingNfTsText {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.sectionHeadlineDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-width: 0px;
+}
+.sectionHeadlineAndButtonDiv {
+  display: flex;
+  align-items: flex-end;
+  gap: 100px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+  flex-shrink: 0;
+}
+.nftCardsRowDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  height: fit-content;
+  position: relative;
+  width: 690px;
+  flex-shrink: 0;
+}
+.discoverMoreNfTsComponent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 40px 195px 80px;
+  position: relative;
+  width: 834px;
+  background-color: rgb(43, 43, 43);
+}
+.discoverMoreNfTsText1 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-family: Work Sans;
+  font-weight: 600;
+  line-height: 1.4em;
+}
+.exploreNewTrendingNfTsText1 {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: Work Sans;
+  font-weight: 400;
+  line-height: 1.4em;
+}
+.sectionHeadlineDiv1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  width: 315px;
+  flex-shrink: 0;
+  flex: 1 1 0%;
+  min-height: 0px;
+}
+.nftCardsRowDiv1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.discoverMoreNfTsComponent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  height: fit-content;
+  padding: 40px 0px 60px;
+  position: relative;
+  width: 375px;
+  background-color: rgb(43, 43, 43);
+}
