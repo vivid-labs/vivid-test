@@ -10,7 +10,7 @@ export const Link = ({
       style={{
         display: "flex",
         alignItems: "flex-start",
-        width: "fit-content",
+        width: "100%",
         height: "fit-content",
         position: "relative",
         ...override,
@@ -23,13 +23,14 @@ export const Link = ({
           whiteSpace: "nowrap",
           height: "fit-content",
           textAlign: "center",
-          color: "rgb(255, 255, 255)",
+          color: "rgb(255, 0, 0)",
           fontSize: "15px",
           fontFamily: "Quicksand",
           fontWeight: 500,
         }}
         figma-id="4:6:330"
       >
+        Default
         {linkText}
       </p>
     </div>
