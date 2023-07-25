@@ -1,0 +1,23 @@
+.arrow {
+  flex-shrink: 0;
+}
+.dropdown {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: Inter;
+  font-weight: 400;
+}
+.dropdownDifferentSvgs {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  height: fit-content;
+  padding: 0px 2px;
+  position: relative;
+  width: 151px;
+}
