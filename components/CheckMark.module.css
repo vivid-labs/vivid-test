@@ -1,0 +1,14 @@
+.group {
+  width: 100%;
+  min-height: 0px;
+  flex: 1 0 0%;
+}
+.checkMark {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 40.63px;
+  height: 40.63px;
+}
