@@ -1,0 +1,35 @@
+.frame_1 {
+  overflow: hidden;
+  position: absolute;
+  width: 92px;
+  left: 239px;
+  height: 70px;
+  top: 44px;
+  background-color: rgb(96, 120, 241);
+}
+.frame_2 {
+  overflow: hidden;
+  position: absolute;
+  width: 92px;
+  left: 275px;
+  height: 70px;
+  top: 124px;
+  background-color: rgb(96, 120, 241);
+}
+.frame_3 {
+  overflow: hidden;
+  position: absolute;
+  width: 92px;
+  left: 239px;
+  height: 70px;
+  top: 204px;
+  background-color: rgb(96, 120, 241);
+}
+.groups {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 318px;
+  flex-shrink: 0;
+  background-color: rgb(92, 225, 70);
+}
