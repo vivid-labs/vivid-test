@@ -1,0 +1,5 @@
+<svg preserveAspectRatio="none" width="99" height="15" viewBox="0 0 99 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" d="M0 7.5C0 3.35786 3.35786 0 7.5 0H31.5C35.6421 0 39 3.35786 39 7.5C39 11.6421 35.6421 15 31.5 15H7.5C3.35787 15 0 11.6421 0 7.5Z" fill="#EF790C"/>
+<circle vector-effect="non-scaling-stroke" cx="61.5" cy="7.5" r="7.5" fill="#EF790C" fill-opacity="0.2"/>
+<circle vector-effect="non-scaling-stroke" cx="91.5" cy="7.5" r="7.5" fill="#EF790C" fill-opacity="0.2"/>
+</svg>
