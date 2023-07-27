@@ -1,0 +1,287 @@
+.diveDeeperWith {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 23px;
+  line-height: 40px;
+}
+.aiChat {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-family: Lato;
+  font-weight: 700;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.headerBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: fit-content;
+  padding: 8px 16px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  background: linear-gradient(
+    160deg,
+    rgb(253, 185, 67, 1) 0%,
+    rgb(215, 113, 231, 1) 100%
+  );
+}
+.whatObjectionsShowedUpInThisConversationq {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.initialChat {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  height: fit-content;
+  padding: 12px 16px;
+  border-radius: 10px;
+  position: relative;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(218, 218, 218);
+  border-width: 2px;
+}
+.messageWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  height: fit-content;
+  padding: 0px 12px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.priceBudgetTheCustomerMentionedTheirInitialBudgetExpectationWasAround_10KSignificantlyLowerThanTheQuote {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.timingTheCustomerMentionedHavingOtherProjectsGoingOnAndWantingToThinkAboutTimingCashFlow {
+  height: fit-content;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 400;
+}
+.teaser {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  padding: 16px 8px;
+  border-radius: 10px;
+  position: relative;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(218, 218, 218);
+  border-width: 2px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255, 0) 38.02083432674408%,
+    rgb(255, 255, 255, 0.5) 58.85416865348816%,
+    rgb(255, 255, 255, 1) 81.25%
+  );
+}
+.messageWrapperDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: fit-content;
+  padding: 0px 12px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.frame_15 {
+  overflow: hidden;
+  position: absolute;
+  width: 100px;
+  left: 139px;
+  height: 100px;
+  top: 4.37px;
+}
+.frame_13 {
+  overflow: hidden;
+  position: absolute;
+  right: 0%;
+  width: 100%;
+  top: 28.11%;
+  bottom: 0%;
+  height: 71.89%;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255, 0) 50%,
+    rgb(255, 255, 255, 1) 84.375%
+  );
+}
+.chats {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px 0px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.introducing {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(64, 64, 64);
+  font-size: 20px;
+  font-family: Lato;
+  font-weight: 500;
+}
+.rillaAiChat {
+  background: linear-gradient(
+    135deg,
+    rgb(254, 186, 68, 1) 0%,
+    rgb(216, 114, 232, 1) 100%
+  );
+  color: transparent;
+  background-clip: text;
+  font-size: 20px;
+  font-family: Lato;
+  font-weight: 700;
+}
+.text {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.beta {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(64, 64, 64);
+  font-size: 14px;
+  font-family: Lato;
+  font-weight: 500;
+}
+.betaDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  padding: 0px 8px;
+  border-radius: 15px;
+  position: relative;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 1px;
+}
+.heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.fromObjectionsToWhereTheSalesRepWentOffScriptAiChatHasAnswersForAllYourQuestions {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(64, 64, 64);
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: 500;
+}
+.rillaAiChatIntroduction {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  height: fit-content;
+  padding: 0px 28px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.chatInput {
+  border-radius: 5px;
+  width: 100%;
+  height: 35px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(209, 208, 209);
+  border-width: 1px;
+  position: relative;
+}
+.pleaseNoteThatRillaChatIsCurrentlyExperimentalAndMayProduceInaccurateInformationAboutTheConversation {
+  color: rgb(155, 155, 155);
+  font-size: 10px;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: 14px;
+}
+.chat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  height: fit-content;
+  padding: 0px 12px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.aiChatSidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  height: 856px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
