@@ -20,22 +20,22 @@ export const CtaButton = ({
         };
   return (
     <div
-      style={{
-        ...ctaButtonVariants,
-        ...override,
+     style={{
+       ...ctaButtonVariants,
+       ...override,
+     }}
+     className={styles.button}
+     figma-id="5:186:147"
+   >
+    <Logo
+      override={{
+        position: "relative",
       }}
-      className={styles.ctaButton}
-      figma-id="5:186:147"
-    >
-      <Logo
-        override={{
-          position: "relative",
-        }}
-        figma-id="5:186:148"
-      />
-      <p className={styles.dummyText} figma-id="5:186:149">
-        {text}
-      </p>
-    </div>
+      figma-id="5:186:148"
+    />
+    <p className={styles.text} figma-id="5:186:149">
+      {text}
+    </p>
+   </div> 
   );
 };
