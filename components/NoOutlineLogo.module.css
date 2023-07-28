@@ -1,4 +1,4 @@
-.logo_2 {
+.logo2{
   position: absolute;
   right: 0%;
   width: 100%;
@@ -6,7 +6,7 @@
   height: 100%;
   object-fit: cover;
 }
-.noOutlineLogo {
+.container{
   position: relative;
   width: 62px;
   height: 62px;

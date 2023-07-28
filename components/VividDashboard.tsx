@@ -66,67 +66,67 @@ export const VividDashboard = ({ override }: { override?: any }) => {
     },
   ];
   return (
-    <div style={override} className={styles.vividDashboard} figma-id="8:15:103">
-      <NavBar
-        type="Colored"
-        time="Time to do this task"
-        icon={<FigmaLogo figma-id="8:" />}
-        task="Do this task"
-        figma-id="8:15:104"
-      />
-      <div className={styles.content} figma-id="8:17:83">
-        <div className={styles.section} figma-id="8:17:84">
-          <div className={styles.left} figma-id="8:17:85">
-            <div className={styles.progress} figma-id="8:18:165">
-              <div className={styles.progressBar} figma-id="8:18:162">
-                <div className={styles.frame_6} figma-id="8:18:163" />
-              </div>
-              <p className={styles.text25CompleteNiceWork} figma-id="8:18:164">
-                25% complete &#x2014; nice work!
+    <div style={override} className={styles.dashboardVividDashboard} figma-id="8:15:103">
+    <NavBar
+      type="Colored"
+      time="Time to do this task"
+      icon={<FigmaLogo figma-id="8:" />}
+      task="Do this task"
+      figma-id="8:15:104"
+    />
+    <div className={styles.dashboardContent} figma-id="8:17:83">
+      <div className={styles.dashboardSection} figma-id="8:17:84">
+        <div className={styles.dashboardLeft} figma-id="8:17:85">
+          <div className={styles.dashboardProgress} figma-id="8:18:165">
+            <div className={styles.dashboardProgressBar} figma-id="8:18:162">
+              <div className={styles.dashboardFrame6} figma-id="8:18:163" />
+            </div>
+            <p className={styles.dashboardText25CompleteNiceWork} figma-id="8:18:164">
+              25% complete &#x2014; nice work!
+            </p>
+          </div>
+          <div className={styles.dashboardTeamsInformation} figma-id="8:17:86">
+            <div className={styles.dashboardHeading2} figma-id="8:17:87">
+              <p
+                className={styles.dashboardGetStartedWithVivid}
+                figma-id="8:17:95"
+              >
+                Get Started with Vivid!
               </p>
             </div>
-            <div className={styles.teamsInformation} figma-id="8:17:86">
-              <div className={styles.heading_2} figma-id="8:17:87">
-                <p
-                  className={styles.getStartedWithVividimportant}
-                  figma-id="8:17:95"
-                >
-                  Get Started with Vivid!
-                </p>
-              </div>
-            </div>
-            <div className={styles.steps} figma-id="8:27:264">
-              {stepProps.map((props, i) => (
-                <Step {...props} key={i} />
-              ))}
-            </div>
           </div>
-          <div figma-id="8:232:171">
-            <div className={styles.right} figma-id="8:15:231">
-              <div
-                className={styles.pictureAiMobileDesktopPngDiv}
+          <div className={styles.dashboardSteps} figma-id="8:27:264">
+            {stepProps.map((props, i) => (
+              <Step {...props} key={i} />
+            ))}
+          </div>
+        </div>
+        <div figma-id="8:232:171">
+          <div className={styles.dashboardRight} figma-id="8:15:231">
+            <div
+              className={styles.dashboardPictureAiMobileDesktopDiv}
+              figma-id="8:15:232"
+            >
+              <img
+                src={pictureAiMobileDesktopPng.src}
+                className={styles.dashboardPictureAiMobileDesktop}
                 figma-id="8:15:232"
-              >
-                <img
-                  src={pictureAiMobileDesktopPng.src}
-                  className={styles.pictureAiMobileDesktopPng}
-                  figma-id="8:15:232"
-                />
-              </div>
-              <img
-                src={figmaScreen_1.src}
-                className={styles.figmaScreen_1}
-                figma-id="8:226:1608"
-              />
-              <img
-                src={vsCodeScreen_1.src}
-                className={styles.vsCodeScreen_1}
-                figma-id="8:226:1607"
               />
             </div>
+            <img
+              src={figmaScreen_1.src}
+              className={styles.dashboardFigmaScreen1}
+              figma-id="8:226:1608"
+            />
+            <img
+              src={vsCodeScreen_1.src}
+              className={styles.dashboardVsCodeScreen1}
+              figma-id="8:226:1607"
+            />
           </div>
         </div>
       </div>
     </div>
+   </div> 
   );
 };

@@ -2,12 +2,12 @@ import styles from "./FigmaLogo.module.css";
 import figmaLogoWhite_1 from "./figmaLogoWhite_1.png";
 export const FigmaLogo = ({ override }: { override?: any }) => {
   return (
-    <div style={override} className={styles.figmaLogo} figma-id="8:29:482">
-      <img
-        src={figmaLogoWhite_1.src}
-        className={styles.figmaLogoWhite_1}
-        figma-id="8:29:481"
-      />
-    </div>
+    <div style={override} className={styles.logoImage} figma-id="8:29:482">
+    <img
+      src={figmaLogoWhite_1.src}
+      className={styles.logoBackground}
+      figma-id="8:29:481"
+    />
+   </div> 
   );
 };
