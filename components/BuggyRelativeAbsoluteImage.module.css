@@ -1,0 +1,96 @@
+.image {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.frame {
+  overflow: hidden;
+  border-radius: 4.33px;
+  position: absolute;
+  right: 0px;
+  width: auto;
+  bottom: 0px;
+  height: auto;
+}
+.frameDiv {
+  border-radius: 4.33px;
+  position: relative;
+  box-shadow: 0px 8px 24px rgb(0, 0, 0, 0.5);
+  width: 173px;
+  height: 173px;
+  flex-shrink: 0;
+  background-color: rgb(51, 51, 51);
+}
+.bollywoodJazz {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 25.6px;
+}
+.autoLayoutHorizontal {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  width: fit-content;
+  height: fit-content;
+  padding: 0px 0.72px 4.59px 0px;
+  position: relative;
+  flex-shrink: 0;
+}
+.theBestOfJazzMusicFromBollywoodCoverArRahman {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(167, 167, 167);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22.4px;
+}
+.frameDiv1 {
+  overflow: hidden;
+  position: relative;
+  width: 173px;
+  height: 44.78px;
+  flex-shrink: 0;
+}
+.autoLayoutVertical {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.autoLayoutVerticalDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.buggyRelativeAbsoluteImage {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  height: fit-content;
+  padding: 16px;
+  border-radius: 6.33px;
+  position: relative;
+  flex-shrink: 0;
+  background-color: rgb(24, 24, 24);
+}
