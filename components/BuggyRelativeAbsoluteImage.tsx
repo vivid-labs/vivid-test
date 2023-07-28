@@ -7,32 +7,32 @@ export const BuggyRelativeAbsoluteImage = ({
 }) => {
   return (
     <div
-      style={override}
-      className={styles.buggyRelativeAbsoluteImage}
-      figma-id="15:132:19"
-    >
-      <div className={styles.autoLayoutVerticalDiv} figma-id="15:132:20">
-        <div className={styles.frameDiv} figma-id="15:132:21">
-          <div className={styles.frame} figma-id="15:132:22">
-            <img src={frame.src} className={styles.image} figma-id="" />
-          </div>
+     style={override}
+     className={styles.buggyRelativeAbsoluteImageClass}
+     figma-id="15:132:19"
+   >
+    <div className={styles.autoLayoutVerticalDivClass} figma-id="15:132:20">
+      <div className={styles.frameDivClass} figma-id="15:132:21">
+        <div className={styles.frameClass} figma-id="15:132:22">
+          <img src={frame.src} className={styles.imageClass} figma-id="" />
         </div>
-        <div className={styles.autoLayoutVertical} figma-id="15:132:23">
-          <div className={styles.autoLayoutHorizontal} figma-id="15:132:24">
-            <p className={styles.bollywoodJazz} figma-id="15:132:25">
-              Bollywood Jazz
-            </p>
-          </div>
-          <div className={styles.frameDiv1} figma-id="15:132:26">
-            <p
-              className={styles.theBestOfJazzMusicFromBollywoodCoverArRahman}
-              figma-id="15:132:27"
-            >
-              The best of Jazz music from Bollywood. Cover- A R Rahman
-            </p>
-          </div>
+      </div>
+      <div className={styles.autoLayoutVerticalClass} figma-id="15:132:23">
+        <div className={styles.autoLayoutHorizontalClass} figma-id="15:132:24">
+          <p className={styles.bollywoodJazzClass} figma-id="15:132:25">
+            Bollywood Jazz
+          </p>
+        </div>
+        <div className={styles.frameDiv1Class} figma-id="15:132:26">
+          <p
+            className={styles.theBestOfJazzMusicFromBollywoodCoverArRahmanClass}
+            figma-id="15:132:27"
+          >
+            The best of Jazz music from Bollywood. Cover- A R Rahman
+          </p>
         </div>
       </div>
     </div>
+   </div> 
   );
 };
