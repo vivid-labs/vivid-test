@@ -1,4 +1,4 @@
-.frame_6 {
+.dashboardFrame{
   overflow: hidden;
   border-radius: 5px;
   width: 90px;
@@ -7,7 +7,7 @@
   background-color: rgb(244, 86, 154);
   position: relative;
 }
-.progressBar {
+.progressBar{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -20,7 +20,7 @@
   flex-shrink: 0;
   background-color: rgb(217, 217, 217);
 }
-.text25CompleteNiceWork {
+.completionText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -34,7 +34,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.progress {
+.progressContainer{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -44,7 +44,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.getStartedWithVividimportant {
+.vividTitle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -58,7 +58,7 @@
   letter-spacing: -0.85px;
   line-height: 40px;
 }
-.heading_2 {
+.vividHeading{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -68,7 +68,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.teamsInformation {
+.teamsInfo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -78,7 +78,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.steps {
+.taskSteps{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -88,7 +88,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.left {
+.leftSection{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -99,13 +99,13 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.pictureAiMobileDesktopPng {
+.aiPreview{
   transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.pictureAiMobileDesktopPngDiv {
+.aiPreviewContainer{
   position: absolute;
   width: 598px;
   left: calc(50% - 332.5px);
@@ -114,7 +114,7 @@
   transform-origin: top left;
   overflow: hidden;
 }
-.figmaScreen_1 {
+.figmaPreview{
   position: absolute;
   width: 350px;
   left: 41px;
@@ -122,7 +122,7 @@
   top: 58.5px;
   object-fit: cover;
 }
-.vsCodeScreen_1 {
+.vsCodePreview{
   position: absolute;
   width: 350px;
   left: 141px;
@@ -130,7 +130,7 @@
   top: 192.5px;
   object-fit: cover;
 }
-.right {
+.rightSection{
   overflow: hidden;
   border-radius: 5px;
   position: absolute;
@@ -142,7 +142,7 @@
   bottom: -113.5px;
   height: auto;
 }
-.section {
+.dashboardSection{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -156,7 +156,7 @@
   background-color: rgb(255, 255, 255);
   flex: 1 0 0%;
 }
-.content {
+.dashboardContent{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -168,7 +168,7 @@
   background-color: rgb(255, 255, 255);
   flex: 1 0 0%;
 }
-.vividDashboard {
+.dashboardWrapper{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

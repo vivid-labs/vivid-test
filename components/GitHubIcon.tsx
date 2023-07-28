@@ -3,15 +3,15 @@ import githubPagesLogoRepositoryForkGithub_86eddab19cbc3ae293ada0fe0fb9e27d_1 fr
 export const GitHubIcon = ({ override }: { override?: any }) => {
   return (
     <div style={override} className={styles.gitHubIcon} figma-id="8:29:343">
-      <img
-        src={
-          githubPagesLogoRepositoryForkGithub_86eddab19cbc3ae293ada0fe0fb9e27d_1.src
-        }
-        className={
-          styles.githubPagesLogoRepositoryForkGithub_86eddab19cbc3ae293ada0fe0fb9e27d_1
-        }
-        figma-id="8:29:332"
-      />
-    </div>
+    <img
+      src={
+        githubPagesLogoRepositoryForkGithub_86eddab19cbc3ae293ada0fe0fb9e27d_1.src
+      }
+      className={
+        styles.forkLogo
+      }
+      figma-id="8:29:332"
+    />
+   </div> 
   );
 };

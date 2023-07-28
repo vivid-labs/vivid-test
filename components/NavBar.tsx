@@ -13,46 +13,46 @@ export const NavBar = ({
   switch (type) {
     case "Colored":
       return (
-        <div style={override} className={styles.navBar} figma-id="8:10:220">
-          <img
-            src={pictureAiMobileDesktopPng.src}
-            className={styles.image}
-            figma-id=""
-          />
-          <div className={styles.left} figma-id="8:29:736">
-            <OutlinedLogo
-              override={{
-                position: "relative",
-              }}
-              figma-id="8:27:222"
-            />
-          </div>
-          <img
-            src={ellipse_1.src}
-            className={styles.ellipse_2}
-            figma-id="8:15:173"
+        <div style={override} className={styles.navBarContainer} figma-id="8:10:220">
+        <img
+          src={pictureAiMobileDesktopPng.src}
+          className={styles.navBarImage}
+          figma-id=""
+        />
+        <div className={styles.leftContainer} figma-id="8:29:736">
+          <OutlinedLogo
+            override={{
+              position: "relative",
+            }}
+            figma-id="8:27:222"
           />
         </div>
+        <img
+          src={ellipse_1.src}
+          className={styles.ellipse2}
+          figma-id="8:15:173"
+        />
+       </div> 
       );
     case "White":
       return (
         <div
-          style={override}
-          className={styles.navBarComponent}
-          figma-id="8:10:224"
-        >
-          <NoOutlineLogo
-            override={{
-              position: "relative",
-            }}
-            figma-id="8:27:232"
-          />
-          <img
-            src={ellipse_1.src}
-            className={styles.ellipse_1}
-            figma-id="8:15:166"
-          />
-        </div>
+         style={override}
+         className={styles.navBarComponent}
+         figma-id="8:10:224"
+       >
+        <NoOutlineLogo
+          override={{
+            position: "relative",
+          }}
+          figma-id="8:27:232"
+        />
+        <img
+          src={ellipse_1.src}
+          className={styles.ellipse1}
+          figma-id="8:15:166"
+        />
+       </div> 
       );
     default:
       return null;
