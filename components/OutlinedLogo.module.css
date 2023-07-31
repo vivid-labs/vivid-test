@@ -1,4 +1,4 @@
-.vividLogoV2_2 {
+.vividLogoV2_2{
   position: absolute;
   left: 0%;
   right: 0%;
@@ -8,7 +8,7 @@
   height: 100%;
   object-fit: cover;
 }
-.outlinedLogo {
+.outlinedLogo{
   position: relative;
   width: 62px;
   height: 62px;
