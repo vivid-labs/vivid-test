@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" width="43" height="49" viewBox="0 0 43 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M3.14146 43.7065H10.076C11.8212 43.7065 13.2407 42.4798 13.2174 40.9917V31H20.0067C28.8405 31 36 24.509 36 16.5C36 8.49105 28.8405 2 19.9846 2H13.2174H8.44125H3.14146C1.41948 2 0 3.22666 0 4.71474V40.9917C0 42.4798 1.39621 43.7065 3.14146 43.7065Z" fill="url(#paint0_linear_3_1303)" fill-opacity="0.8"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" clip-rule="evenodd" d="M11.1636 48.642H17.9186C19.6187 48.642 21.0014 47.4153 20.9787 45.9273V36.1341H25.6631C34.7529 36.1341 42.1198 29.5986 42.1198 21.5348C42.1198 13.471 34.7529 6.93555 25.6405 6.93555H20.9787H13.7626H11.1636C9.48624 6.93555 8.10352 8.16221 8.10352 9.65029V45.9273C8.10352 47.4153 9.46358 48.642 11.1636 48.642Z" fill="url(#paint1_linear_3_1303)" fill-opacity="0.74"/>
+<path vector-effect="non-scaling-stroke" d="M5 45L6.72475 44.9946C8.929 44.9877 10.7122 43.1989 10.7122 40.9946V31.7991H17.9662C23.7028 31.7176 35.1405 28.5235 34.9987 16.3996C34.8569 4.27558 23.5846 1.08153 17.9662 1" stroke="white" stroke-width="2"/>
+<defs>
+<linearGradient vector-effect="non-scaling-stroke" id="paint0_linear_3_1303" x1="7.46207" y1="3.62944" x2="19.2249" y2="47.0916" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7D7AFF"/>
+<stop offset="1" stop-color="#3CBBFF"/>
+</linearGradient>
+<linearGradient vector-effect="non-scaling-stroke" id="paint1_linear_3_1303" x1="15.3724" y1="8.56499" x2="27.4036" y2="51.8679" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF60CF"/>
+<stop offset="1" stop-color="#FFBA64"/>
+</linearGradient>
+</defs>
+</svg>
