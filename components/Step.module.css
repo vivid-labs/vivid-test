@@ -1,4 +1,4 @@
-.ellipse_3 {
+.circle{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -7,13 +7,13 @@
   background-color: rgb(244, 86, 154);
   border-radius: 50%;
 }
-.frame_8 {
+.frame{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTask {
+.task{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +24,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.timeToDoThisTask {
+.time{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,7 +35,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7 {
+.container{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -45,14 +45,14 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.img_2585_1 {
+.image{
   width: 20px;
   height: 20.29px;
   flex-shrink: 0;
   object-fit: cover;
   opacity: 0.30000001192092896;
 }
-.step {
+.step{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -67,7 +67,7 @@
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 }
-.doThisTaskText {
+.taskText{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,7 +79,7 @@
   line-height: 23px;
   text-decoration: line-through;
 }
-.timeToDoThisTaskText {
+.timeText{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -90,7 +90,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div {
+.containerDiv{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -100,7 +100,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent {
+.stepComponent{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -115,7 +115,7 @@
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 }
-.ellipse_3Div {
+.circleDiv{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -124,13 +124,13 @@
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_8Div {
+.frameDiv{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTaskText1 {
+.taskText1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -144,7 +144,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.comingSoonimportant {
+.comingSoon{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -158,7 +158,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_13 {
+.frameDiv1{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
@@ -171,7 +171,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.frame_14 {
+.frameText{
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -180,7 +180,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.timeToDoThisTaskText1 {
+.timeText1{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -191,7 +191,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div1 {
+.containerDiv1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -201,7 +201,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent1 {
+.stepComponent1{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -216,7 +216,7 @@
   border-width: 1px;
   background-color: rgb(245, 241, 241);
 }
-.ellipse_3Div1 {
+.circleDiv1{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -225,13 +225,13 @@
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_8Div1 {
+.frameDiv1{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTaskText2 {
+.taskText2{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -245,7 +245,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.upNextimportant {
+.upNext{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -259,7 +259,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_14Div {
+.frameDiv2{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
@@ -272,7 +272,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.frame_38 {
+.frameText1{
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -281,7 +281,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.timeToDoThisTaskText2 {
+.timeText2{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -292,7 +292,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div2 {
+.containerDiv2{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -302,7 +302,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent2 {
+.stepComponent2{
   overflow: hidden;
   display: flex;
   align-items: center;

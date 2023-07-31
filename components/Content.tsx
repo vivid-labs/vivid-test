@@ -60,43 +60,43 @@ export const Content = ({ override }: { override?: any }) => {
     },
   ];
   return (
-    <div style={override} className={styles.content}>
-      <div className={styles.section}>
-        <div className={styles.left}>
-          <div className={styles.progress}>
-            <div className={styles.progressBar}>
-              <div className={styles.frame_6} />
-            </div>
-            <p className={styles.text25CompleteNiceWork}>
-              25% complete &#x2014; nice work!
+    <div style={override} className={styles.contentContainer}>
+    <div className={styles.sectionContainer}>
+      <div className={styles.leftContainer}>
+        <div className={styles.progressContainer}>
+          <div className={styles.progressBarContainer}>
+            <div className={styles.frameContainer} />
+          </div>
+          <p className={styles.completionText}>
+            25% complete &#x2014; nice work!
+          </p>
+        </div>
+        <div className={styles.teamsInformationContainer}>
+          <div className={styles.informationHeading}>
+            <p className={styles.importantHeading}>
+              Get Started with Vivid!
             </p>
           </div>
-          <div className={styles.teamsInformation}>
-            <div className={styles.heading_2}>
-              <p className={styles.getStartedWithVividimportant}>
-                Get Started with Vivid!
-              </p>
-            </div>
-          </div>
-          <div className={styles.steps}>
-            {stepProps.map((props, i) => (
-              <Step {...props} key={i} />
-            ))}
-          </div>
         </div>
-        <div>
-          <div className={styles.right}>
-            <div className={styles.pictureAiMobileDesktopPngDiv}>
-              <img
-                src={pictureAiMobileDesktopPng.src}
-                className={styles.pictureAiMobileDesktopPng}
-              />
-            </div>
-            <img src={figmaScreen_1.src} className={styles.figmaScreen_1} />
-            <img src={vsCodeScreen_1.src} className={styles.vsCodeScreen_1} />
+        <div className={styles.stepsContainer}>
+          {stepProps.map((props, i) => (
+            <Step {...props} key={i} />
+          ))}
+        </div>
+      </div>
+      <div>
+        <div className={styles.rightContainer}>
+          <div className={styles.pictureDiv}>
+            <img
+              src={pictureAiMobileDesktopPng.src}
+              className={styles.pictureContainer}
+            />
           </div>
+          <img src={figmaScreen_1.src} className={styles.figmaImage} />
+          <img src={vsCodeScreen_1.src} className={styles.vsCodeImage} />
         </div>
       </div>
     </div>
+   </div> 
   );
 };

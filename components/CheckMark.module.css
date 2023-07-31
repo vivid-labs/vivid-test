@@ -1,9 +1,9 @@
-.group {
+.sprite{
   width: 100%;
   min-height: 0px;
   flex: 1 0 0%;
 }
-.checkMark {
+.checkContainer{
   overflow: hidden;
   display: flex;
   flex-direction: column;

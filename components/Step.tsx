@@ -19,67 +19,67 @@ export const Step = ({
     case "Todo":
       return (
         <div style={override} className={styles.step}>
-          <div className={styles.frame_8}>
-            <div className={styles.ellipse_3} />
-            {icon}
-          </div>
-          <div className={styles.frame_7}>
-            <p className={styles.doThisTask}>{task}</p>
-            <p className={styles.timeToDoThisTask}>{time}</p>
-          </div>
-          <img src={img_2585_1.src} className={styles.img_2585_1} />
+        <div className={styles.frame}>
+          <div className={styles.circle} />
+          {icon}
         </div>
+        <div className={styles.container}>
+          <p className={styles.task}>{task}</p>
+          <p className={styles.time}>{time}</p>
+        </div>
+        <img src={img_2585_1.src} className={styles.image} />
+       </div> 
       );
     case "Complete":
       return (
         <div style={override} className={styles.stepComponent}>
-          <CheckMark
-            override={{
-              height: "56px",
-              width: "56px",
-            }}
-          />
-          <div className={styles.frame_7Div}>
-            <p className={styles.doThisTaskText}>{task}</p>
-            <p className={styles.timeToDoThisTaskText}>{time}</p>
-          </div>
+        <CheckMark
+          override={{
+            height: "56px",
+            width: "56px",
+          }}
+        />
+        <div className={styles.containerDiv}>
+          <p className={styles.taskText}>{task}</p>
+          <p className={styles.timeText}>{time}</p>
         </div>
+       </div> 
       );
     case "Unsupported":
       return (
         <div style={override} className={styles.stepComponent1}>
-          <div className={styles.frame_8Div}>
-            <div className={styles.ellipse_3Div} />
-            {icon}
-          </div>
-          <div className={styles.frame_7Div1}>
-            <div className={styles.frame_14}>
-              <p className={styles.doThisTaskText1}>{task}</p>
-              <div className={styles.frame_13}>
-                <p className={styles.comingSoonimportant}>Coming Soon!</p>
-              </div>
-            </div>
-            <p className={styles.timeToDoThisTaskText1}>{time}</p>
-          </div>
+        <div className={styles.frameDiv}>
+          <div className={styles.circleDiv} />
+          {icon}
         </div>
+        <div className={styles.containerDiv1}>
+          <div className={styles.frameText}>
+            <p className={styles.taskText1}>{task}</p>
+            <div className={styles.frameDiv1}>
+              <p className={styles.comingSoon}>Coming Soon!</p>
+            </div>
+          </div>
+          <p className={styles.timeText1}>{time}</p>
+        </div>
+       </div> 
       );
     case "Up Next":
       return (
         <div style={override} className={styles.stepComponent2}>
-          <div className={styles.frame_8Div1}>
-            <div className={styles.ellipse_3Div1} />
-            {icon}
-          </div>
-          <div className={styles.frame_7Div2}>
-            <div className={styles.frame_38}>
-              <p className={styles.doThisTaskText2}>{task}</p>
-              <div className={styles.frame_14Div}>
-                <p className={styles.upNextimportant}>Up Next!</p>
-              </div>
-            </div>
-            <p className={styles.timeToDoThisTaskText2}>{time}</p>
-          </div>
+        <div className={styles.frameDiv1}>
+          <div className={styles.circleDiv1} />
+          {icon}
         </div>
+        <div className={styles.containerDiv2}>
+          <div className={styles.frameText1}>
+            <p className={styles.taskText2}>{task}</p>
+            <div className={styles.frameDiv2}>
+              <p className={styles.upNext}>Up Next!</p>
+            </div>
+          </div>
+          <p className={styles.timeText2}>{time}</p>
+        </div>
+       </div> 
       );
     default:
       return null;
