@@ -1,4 +1,4 @@
-.twRoundedFull {
+.roundedFull{
   overflow: hidden;
   border-radius: 60px;
   width: 120px;
@@ -6,7 +6,7 @@
   flex-shrink: 0;
   background-color: rgb(227, 0, 0);
 }
-.twRounded_3xl {
+.roundedExtraLarge{
   overflow: hidden;
   border-radius: 24px;
   width: 130px;
@@ -14,7 +14,7 @@
   flex-shrink: 0;
   background-color: rgb(227, 0, 0);
 }
-.twRounded_2xl {
+.roundedDoubleExtraLarge{
   overflow: hidden;
   border-radius: 16px;
   width: 130px;
@@ -22,7 +22,7 @@
   flex-shrink: 0;
   background-color: rgb(227, 0, 0);
 }
-.frame_1 {
+.frameContainer{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
