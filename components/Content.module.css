@@ -1,4 +1,4 @@
-.group {
+.group{
   position: absolute;
   left: 0.29px;
   right: 0.32px;
@@ -7,14 +7,14 @@
   bottom: 0.35px;
   height: auto;
 }
-.frame {
+.frame{
   position: absolute;
   width: 16px;
   left: calc(50% - 8px);
   height: 15.31px;
   top: 0px;
 }
-.svg {
+.svg{
   overflow: hidden;
   position: absolute;
   width: 16px;
@@ -22,7 +22,7 @@
   height: 15.31px;
   top: calc(50% - 7.65px);
 }
-.freeFor_2WeeksInBeta {
+.freeForTwoWeeksInBeta{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -36,13 +36,13 @@
   letter-spacing: 0.05px;
   line-height: 19px;
 }
-.divAiAddonBlockEyebrowYe8W5 {
+.divAiAddonBlockEyebrow{
   position: relative;
   width: 520px;
   height: 19px;
   flex-shrink: 0;
 }
-.vividTeams {
+.vividTeams{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -56,7 +56,7 @@
   letter-spacing: -0.85px;
   line-height: 40px;
 }
-.heading_2 {
+.headingTwo{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -66,7 +66,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+.manageDesignSystemInFigma{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -78,7 +78,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.pTextTextJYg6z {
+.pText{
   display: flex;
   align-items: flex-start;
   height: fit-content;
@@ -87,7 +87,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.descriptions {
+.descriptions{
   display: flex;
   align-items: flex-start;
   gap: 16px;
@@ -96,7 +96,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.teamsInformation {
+.teamsInformation{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -106,7 +106,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.divAiAddonBlockActionsFsahh {
+.divAiAddonBlockActions{
   display: flex;
   align-items: flex-start;
   gap: 12px;
@@ -116,7 +116,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.left {
+.left{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -127,19 +127,19 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.frame_39 {
+.frame39{
   overflow: hidden;
   width: 100px;
   height: 100px;
   flex-shrink: 0;
 }
-.pictureAiMobileDesktopPng {
+.pictureAiMobileDesktopPng{
   transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.pictureAiMobileDesktopPngDiv {
+.pictureAiMobileDesktopPngDiv{
   position: absolute;
   width: 666.25px;
   left: calc(50% - 332.5px);
@@ -148,7 +148,7 @@
   transform-origin: top left;
   overflow: hidden;
 }
-.demoImageGif {
+.demoImageGif{
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -160,7 +160,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.right {
+.right{
   overflow: hidden;
   position: relative;
   border-top-left-radius: 7px;
@@ -171,7 +171,7 @@
   flex-shrink: 0;
   background-color: rgb(255, 255, 255, 0);
 }
-.section {
+.section{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -183,7 +183,7 @@
   height: 519px;
   flex-shrink: 0;
 }
-.content {
+.content{
   display: flex;
   flex-direction: column;
   justify-content: center;

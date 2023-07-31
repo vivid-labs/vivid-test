@@ -44,54 +44,54 @@ export const Content = ({ override }: { override?: any }) => {
   ];
   return (
     <div style={override} className={styles.content}>
-      <div className={styles.section}>
-        <div className={styles.left}>
-          <div className={styles.teamsInformation}>
-            <div className={styles.heading_2}>
-              <div className={styles.divAiAddonBlockEyebrowYe8W5}>
-                <div className={styles.svg}>
-                  <div className={styles.frame}>
-                    <img src={group.src} className={styles.group} />
-                  </div>
+    <div className={styles.section}>
+      <div className={styles.left}>
+        <div className={styles.teamsInformation}>
+          <div className={styles.headingTwo}>
+            <div className={styles.divAiAddonBlockEyebrow}>
+              <div className={styles.svg}>
+                <div className={styles.frame}>
+                  <img src={group.src} className={styles.group} />
                 </div>
-                <p className={styles.freeFor_2WeeksInBeta}>
-                  Free for 2 weeks in beta
-                </p>
               </div>
-              <p className={styles.vividTeams}>Vivid Teams</p>
-            </div>
-            <div className={styles.pTextTextJYg6z}>
-              <p
-                className={
-                  styles.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster
-                }
-              >
-                Manage your entire design system in Figma. Let developers focus
-                on functionality while designers own the UI. Ship faster.{" "}
+              <p className={styles.freeForTwoWeeksInBeta}>
+                Free for 2 weeks in beta
               </p>
             </div>
-            <div className={styles.descriptions}>
-              {featureProps.map((props, i) => (
-                <Feature {...props} key={i} />
-              ))}
-            </div>
+            <p className={styles.vividTeams}>Vivid Teams</p>
           </div>
-          <div className={styles.divAiAddonBlockActionsFsahh}>
-            <Button type="Primary" text="Get started" />
-            <Button type="Secondary" text="I like shipping slowly" />
+          <div className={styles.pText}>
+            <p
+              className={
+                styles.manageDesignSystemInFigma
+              }
+            >
+              Manage your entire design system in Figma. Let developers focus
+              on functionality while designers own the UI. Ship faster.{" "}
+            </p>
+          </div>
+          <div className={styles.descriptions}>
+            {featureProps.map((props, i) => (
+              <Feature {...props} key={i} />
+            ))}
           </div>
         </div>
-        <div className={styles.frame_39} />
-        <div className={styles.right}>
-          <div className={styles.pictureAiMobileDesktopPngDiv}>
-            <img
-              src={pictureAiMobileDesktopPng.src}
-              className={styles.pictureAiMobileDesktopPng}
-            />
-          </div>
-          <p className={styles.demoImageGif}>DEMO IMAGE/GIF</p>
+        <div className={styles.divAiAddonBlockActions}>
+          <Button type="Primary" text="Get started" />
+          <Button type="Secondary" text="I like shipping slowly" />
         </div>
       </div>
+      <div className={styles.frame39} />
+      <div className={styles.right}>
+        <div className={styles.pictureAiMobileDesktopPngDiv}>
+          <img
+            src={pictureAiMobileDesktopPng.src}
+            className={styles.pictureAiMobileDesktopPng}
+          />
+        </div>
+        <p className={styles.demoImageGif}>DEMO IMAGE/GIF</p>
+      </div>
     </div>
+   </div> 
   );
 };

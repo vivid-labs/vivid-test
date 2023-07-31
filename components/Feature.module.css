@@ -1,18 +1,18 @@
-.frame {
+.featureContainer{
   position: absolute;
   width: 16px;
   left: calc(50% - 8px);
   height: 16px;
   top: 0px;
 }
-.svg {
+.termContainer{
   overflow: hidden;
   position: relative;
   width: 16px;
   height: 16px;
   flex-shrink: 0;
 }
-.workFaster {
+.svgContainer{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -26,7 +26,7 @@
   letter-spacing: 0.06px;
   line-height: 19px;
 }
-.term {
+.frameImage{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -37,7 +37,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.generateSummariesActionItemsAndInsights {
+.workFasterText{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -49,7 +49,7 @@
   letter-spacing: 0.1px;
   line-height: 19px;
 }
-.details {
+.detailsContainer{
   display: flex;
   align-items: flex-start;
   height: fit-content;
@@ -58,7 +58,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.feature {
+.actionItemsText{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

@@ -1,4 +1,4 @@
-.getStarted {
+.getStarted{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -13,7 +13,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.button {
+.button{
   display: flex;
   justify-content: center;
   align-items: center;

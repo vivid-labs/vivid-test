@@ -10,18 +10,18 @@ export const Feature = ({
   description: string;
 }) => {
   return (
-    <div style={override} className={styles.feature}>
-      <div className={styles.term}>
-        <div className={styles.svg}>
-          <img src={frame.src} className={styles.frame} />
-        </div>
-        <p className={styles.workFaster}>{heading}</p>
+    <div style={override} className={styles.actionItemsText}>
+    <div className={styles.frameImage}>
+      <div className={styles.termContainer}>
+        <img src={frame.src} className={styles.featureContainer} />
       </div>
-      <div className={styles.details}>
-        <p className={styles.generateSummariesActionItemsAndInsights}>
-          {description}
-        </p>
-      </div>
+      <p className={styles.svgContainer}>{heading}</p>
     </div>
+    <div className={styles.detailsContainer}>
+      <p className={styles.workFasterText}>
+        {description}
+      </p>
+    </div>
+   </div> 
   );
 };
