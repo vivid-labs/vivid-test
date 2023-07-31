@@ -11,31 +11,19 @@ export const Avatar = ({
   switch (property_1) {
     case "medium":
       return (
-        <div
-          style={override}
-          className="flex items-start gap-[10px] relative"
-          figma-id="7:1188:11040"
-        >
+        <div style={override} className="flex items-start gap-[10px] relative">
           {avatarPhoto}
         </div>
       );
     case "Big":
       return (
-        <div
-          style={override}
-          className="flex items-start gap-[10px] relative"
-          figma-id="7:1210:11457"
-        >
+        <div style={override} className="flex items-start gap-[10px] relative">
           {avatarPhoto}
         </div>
       );
     case "Small":
       return (
-        <div
-          style={override}
-          className="flex items-start gap-[10px] relative"
-          figma-id="7:1188:11047"
-        >
+        <div style={override} className="flex items-start gap-[10px] relative">
           {avatarPhoto}
         </div>
       );

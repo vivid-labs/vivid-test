@@ -26,61 +26,37 @@ export const ArtistCard = ({
         <div
           style={override}
           className="flex flex-col items-center gap-5 p-5 rounded-[20px] relative w-60 bg-[rgb(59,_59,_59)]"
-          figma-id="7:1288:12923"
         >
-          <div
-            className="flex flex-col items-end relative flex-shrink-0"
-            figma-id="7:1288:13060"
-          >
+          <div className="flex flex-col items-end relative flex-shrink-0">
             <Avatar
               property_1="Big"
-              avatarPhoto={<Avatar_14 figma-id="7:" />}
+              avatarPhoto={<Avatar_14 />}
               override={{
                 height: "fit-content",
                 width: "120px",
+                justifyContent: "flex-start",
+                alignItems: "flex-start",
               }}
-              figma-id="7:1288:12907"
             />
           </div>
-          <div
-            className="flex flex-col justify-center items-center gap-[5px] relative w-full flex-shrink-0"
-            figma-id="7:1288:12914"
-          >
-            <p
-              className="text-center text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]"
-              figma-id="7:1288:12909"
-            >
+          <div className="flex flex-col justify-center items-center gap-[5px] relative w-full flex-shrink-0">
+            <p className="text-center text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]">
               {artistName}
             </p>
             {additionalInfo ? (
-              <div
-                className="flex justify-center items-start gap-[10px] relative w-full flex-shrink-0"
-                figma-id="7:1288:12913"
-              >
-                <p
-                  className="text-[rgb(133,_133,_132)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]"
-                  figma-id="7:1288:12910"
-                >
+              <div className="flex justify-center items-start gap-[10px] relative w-full flex-shrink-0">
+                <p className="text-[rgb(133,_133,_132)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]">
                   {totalSales}
                 </p>
-                <p
-                  className="text-[rgb(255,_255,_255)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]"
-                  figma-id="7:1288:12911"
-                >
+                <p className="text-[rgb(255,_255,_255)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]">
                   {salesNumber}
                 </p>
               </div>
             ) : null}
           </div>
           {rankingNumber2 ? (
-            <div
-              className="flex items-start gap-[10px] rounded-[20px] absolute w-[30px] left-5 top-[18px] bg-[rgb(43,_43,_43)]"
-              figma-id="7:1411:5351"
-            >
-              <p
-                className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(133,_133,_132)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]"
-                figma-id="7:1385:2277"
-              >
+            <div className="flex items-start gap-[10px] rounded-[20px] absolute w-[30px] left-5 top-[18px] bg-[rgb(43,_43,_43)]">
+              <p className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(133,_133,_132)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]">
                 {rankingNumber}
               </p>
             </div>
@@ -92,61 +68,37 @@ export const ArtistCard = ({
         <div
           style={override}
           className="flex justify-center items-start gap-5 p-5 rounded-[20px] relative w-[315px] bg-[rgb(59,_59,_59)]"
-          figma-id="7:1666:9873"
         >
-          <div
-            className="flex flex-col items-end relative flex-shrink-0"
-            figma-id="7:1666:9874"
-          >
+          <div className="flex flex-col items-end relative flex-shrink-0">
             <Avatar
               property_1="medium"
-              avatarPhoto={<Avatar_1 figma-id="7:" />}
+              avatarPhoto={<Avatar_1 />}
               override={{
                 height: "fit-content",
                 width: "60px",
+                justifyContent: "flex-start",
+                alignItems: "flex-start",
               }}
-              figma-id="7:1666:9875"
             />
           </div>
-          <div
-            className="flex flex-col justify-center items-start gap-[5px] relative flex-shrink-0 flex-1 min-w-[0rem]"
-            figma-id="7:1666:9876"
-          >
-            <p
-              className="text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]"
-              figma-id="7:1666:9877"
-            >
+          <div className="flex flex-col justify-center items-start gap-[5px] relative flex-shrink-0 flex-1 min-w-[0rem]">
+            <p className="text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]">
               {artistName}
             </p>
             {additionalInfo ? (
-              <div
-                className="flex items-center gap-[5px] relative w-full flex-shrink-0"
-                figma-id="7:1666:9878"
-              >
-                <p
-                  className="text-[rgb(133,_133,_132)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]"
-                  figma-id="7:1666:9879"
-                >
+              <div className="flex items-center gap-[5px] relative w-full flex-shrink-0">
+                <p className="text-[rgb(133,_133,_132)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]">
                   {totalSales}
                 </p>
-                <p
-                  className="text-[rgb(255,_255,_255)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]"
-                  figma-id="7:1666:9880"
-                >
+                <p className="text-[rgb(255,_255,_255)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]">
                   {salesNumber}
                 </p>
               </div>
             ) : null}
           </div>
           {rankingNumber2 ? (
-            <div
-              className="flex items-start gap-[10px] rounded-[20px] absolute w-[30px] left-3 top-[13px] bg-[rgb(43,_43,_43)]"
-              figma-id="7:1666:9881"
-            >
-              <p
-                className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(133,_133,_132)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]"
-                figma-id="7:1666:9882"
-              >
+            <div className="flex items-start gap-[10px] rounded-[20px] absolute w-[30px] left-3 top-[13px] bg-[rgb(43,_43,_43)]">
+              <p className="whitespace-nowrap text-center flex flex-col justify-center text-[rgb(133,_133,_132)] text-[16px] font-[Space_Mono] font-normal leading-[1.4em]">
                 {rankingNumber}
               </p>
             </div>
@@ -158,17 +110,9 @@ export const ArtistCard = ({
         <div
           style={override}
           className="flex items-center gap-3 p-5 rounded-[20px] relative bg-[rgb(59,_59,_59)]"
-          figma-id="7:1288:12999"
         >
-          <Avatar
-            property_1="Small"
-            avatarPhoto={<Avatar_1 figma-id="7:" />}
-            figma-id="7:1288:13000"
-          />
-          <p
-            className="whitespace-nowrap text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]"
-            figma-id="7:1288:13002"
-          >
+          <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
+          <p className="whitespace-nowrap text-[rgb(255,_255,_255)] text-[22px] font-[Work_Sans] font-semibold leading-[1.4em]">
             {artistName}
           </p>
         </div>
@@ -178,17 +122,9 @@ export const ArtistCard = ({
         <div
           style={override}
           className="flex items-center gap-3 p-5 rounded-[20px] relative bg-[rgb(59,_59,_59)]"
-          figma-id="7:1288:13008"
         >
-          <Avatar
-            property_1="Small"
-            avatarPhoto={<Avatar_1 figma-id="7:" />}
-            figma-id="7:1288:13009"
-          />
-          <p
-            className="whitespace-nowrap text-[rgb(255,_255,_255)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]"
-            figma-id="7:1288:13011"
-          >
+          <Avatar property_1="Small" avatarPhoto={<Avatar_1 />} />
+          <p className="whitespace-nowrap text-[rgb(255,_255,_255)] text-[16px] font-[Work_Sans] font-normal leading-[1.4em]">
             {artistName}
           </p>
         </div>
