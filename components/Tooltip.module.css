@@ -1,4 +1,4 @@
-.addToLibrary {
+.addToLibraryClass{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -8,7 +8,7 @@
   font-weight: 500;
   line-height: 20px;
 }
-.tooltip {
+.tooltipClass{
   display: flex;
   align-items: center;
   gap: 10px;
