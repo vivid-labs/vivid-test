@@ -1,0 +1,168 @@
+.frame_6 {
+  overflow: hidden;
+  border-radius: 5px;
+  width: 90px;
+  height: 6px;
+  flex-shrink: 0;
+  background-color: rgb(244, 86, 154);
+}
+.progressBar {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  border-radius: 5px;
+  position: relative;
+  width: 360px;
+  flex-shrink: 0;
+  background-color: rgb(217, 217, 217);
+}
+.text25CompleteNiceWork {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(148, 148, 148);
+  font-size: 12px;
+  font-family: Avenir;
+  font-weight: 500;
+  letter-spacing: 0.01px;
+  line-height: 23px;
+}
+.progress {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.getStartedWithVividimportant {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(18, 18, 18);
+  font-size: 36px;
+  font-family: Avenir;
+  font-weight: 900;
+  letter-spacing: -0.85px;
+  line-height: 40px;
+}
+.heading_2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  width: fit-content;
+  position: relative;
+  flex-shrink: 0;
+}
+.teamsInformation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.steps {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 28px 10px 36px;
+  position: relative;
+  height: 100%;
+  min-width: 0px;
+  flex: 1 0 0%;
+}
+.pictureAiMobileDesktopPng {
+  transform: rotate(0deg) scale(100%, 100%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.pictureAiMobileDesktopPngDiv {
+  position: absolute;
+  width: 598px;
+  left: calc(50% - 332.5px);
+  height: 455px;
+  top: calc(50% - 229px);
+  transform-origin: top left;
+  overflow: hidden;
+}
+.figmaScreen_1 {
+  position: absolute;
+  width: 350px;
+  left: 41px;
+  height: 199.62px;
+  top: 58.5px;
+  object-fit: cover;
+}
+.vsCodeScreen_1 {
+  position: absolute;
+  width: 350px;
+  left: 141px;
+  height: 199.49px;
+  top: 192.5px;
+  object-fit: cover;
+}
+.right {
+  overflow: hidden;
+  border-radius: 5px;
+  position: absolute;
+  box-shadow: 0px 4px 18px rgb(0, 0, 0, 0.3);
+  left: 707px;
+  right: -707px;
+  width: auto;
+  top: 113.5px;
+  bottom: -113.5px;
+  height: auto;
+}
+.section {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
+  padding: 10px 2px;
+  border-radius: 5px;
+  position: relative;
+  width: 100%;
+  min-height: 0px;
+  background-color: rgb(255, 255, 255);
+  flex: 1 0 0%;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 40px 100px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
