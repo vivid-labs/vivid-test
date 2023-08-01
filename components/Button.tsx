@@ -29,16 +29,16 @@ export const Button = ({
   }
   return (
     <div
-      className={styles.buttonComponent}
-      style={{
-        ...buttonSize,
-        ...buttonDivHover,
-        ...override,
-      }}
-    >
-      <p className={styles.button} style={{}}>
-        {text}
-      </p>
-    </div>
+     className={styles.buttonComponentStyle}
+     style={{
+       ...buttonSize,
+       ...buttonDivHover,
+       ...override,
+     }}
+   >
+    <p className={styles.buttonStyle} style={{}}>
+      {text}
+    </p>
+   </div> 
   );
 };
