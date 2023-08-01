@@ -29,39 +29,39 @@ export const Button = ({
   }
   return (
     <div
-      className={styles.buttonComponent}
+     className={styles.buttonComponent}
+     style={{
+       ...buttonSize,
+       ...buttonDivHover,
+       overflow: "hidden",
+       display: "flex",
+       justifyContent: "center",
+       alignItems: "center",
+       width: "fit-content",
+       height: "fit-content",
+       borderRadius: "4px",
+       position: "relative",
+       backgroundColor: "rgb(222, 136, 88)",
+       ...override,
+     }}
+   >
+    <p
+      className={styles.buttonPrimary}
       style={{
-        ...buttonSize,
-        ...buttonDivHover,
-        overflow: "hidden",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
         width: "fit-content",
+        whiteSpace: "nowrap",
         height: "fit-content",
-        borderRadius: "4px",
-        position: "relative",
-        backgroundColor: "rgb(222, 136, 88)",
-        ...override,
+        textAlign: "center",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        color: "rgb(39, 39, 42)",
+        fontSize: "12px",
+        fontWeight: 800,
       }}
     >
-      <p
-        className={styles.button}
-        style={{
-          width: "fit-content",
-          whiteSpace: "nowrap",
-          height: "fit-content",
-          textAlign: "center",
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "center",
-          color: "rgb(39, 39, 42)",
-          fontSize: "12px",
-          fontWeight: 800,
-        }}
-      >
-        {text}
-      </p>
-    </div>
+      {text}
+    </p>
+   </div> 
   );
 };

@@ -1,4 +1,4 @@
-.button {
+.buttonPrimary{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -10,7 +10,7 @@
   font-size: 12px;
   font-weight: 800;
 }
-.buttonComponent {
+.buttonComponent{
   overflow: hidden;
   display: flex;
   justify-content: center;
