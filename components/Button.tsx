@@ -28,8 +28,8 @@ export const Button = ({
     return null;
   }
   return (
-    <div className={styles.buttonComponent} style={override}>
-      <p className={styles.button}>{text}</p>
-    </div>
+    <div className={styles.buttonComponentStyle} style={override}>
+    <p className={styles.buttonStyle}>{text}</p>
+   </div> 
   );
 };
