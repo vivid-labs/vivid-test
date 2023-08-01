@@ -1,4 +1,4 @@
-.tree {
+.tree{
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -7,7 +7,7 @@
   font-size: 12px;
   font-weight: 800;
 }
-.frame_4 {
+.frame{
   overflow: hidden;
   position: absolute;
   width: 86px;
@@ -19,7 +19,7 @@
   border-width: 4px;
   background-color: rgb(255, 255, 255);
 }
-.newText {
+.newText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -31,7 +31,7 @@
   font-size: 40px;
   font-weight: 900;
 }
-.otherText {
+.otherText{
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -40,7 +40,7 @@
   font-size: 20px;
   font-weight: 200;
 }
-.frame_3Testing {
+.frame_3Testing{
   overflow: hidden;
   position: relative;
   width: 100%;
