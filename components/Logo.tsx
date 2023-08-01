@@ -1,4 +1,9 @@
 import logo from "./logo.svg";
-export const Logo = ({ override }: { override?: any }) => {
-  return <img src={logo.src} style={override} className="w-4 h-4" />;
-};
+
+const LogoImage = () => (
+  <img src={logo.src} className="w-4 h-4" />
+);
+
+export const Logo = ({ override }) => (
+  <LogoImage />
+);
