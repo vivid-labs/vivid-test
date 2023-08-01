@@ -1,0 +1,54 @@
+.tree {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(231, 18, 18);
+  font-size: 12px;
+  font-weight: 800;
+}
+.frame_4 {
+  overflow: hidden;
+  position: absolute;
+  width: 86px;
+  left: 227px;
+  height: 75px;
+  top: 72px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-width: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.newText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(32, 17, 121);
+  font-size: 40px;
+  font-weight: 900;
+}
+.otherText {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 200;
+}
+.frame_3Testing {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 161px;
+  border-style: solid;
+  border-color: rgb(231, 18, 18);
+  border-width: 3px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  font-family: Inter;
+}
