@@ -1,22 +1,17 @@
 import { Logo } from "./Logo";
-export const CtaButton = ({
-  override,
-  variants,
-  text,
-}: {
-  override?: any;
-  variants: string;
-  text: string;
-}) => {
-  const ctaButtonVariants =
-    variants === "Gradient"
-      ? {
-          background:
-            "linear-gradient(160deg, rgb(253, 185, 67) 0%, rgb(215, 113, 231) 100%)",
-        }
-      : {
-          backgroundColor: "rgb(0, 0, 0)",
-        };
+
+const CtaButtonVariant1 = () => ({
+  background:
+    "linear-gradient(160deg, rgb(253, 185, 67) 0%, rgb(215, 113, 231) 100%)",
+});
+
+const CtaButtonVariant2 = () => ({
+  backgroundColor: "rgb(0, 0, 0)",
+});
+
+const CtaButton = ({ override, variants, text }) => {
+  const ctaButtonVariants = variants === "Gradient" ? CtaButtonVariant1() : CtaButtonVariant2();
+
   return (
     <div
       style={{
@@ -30,3 +25,5 @@ export const CtaButton = ({
     </div>
   );
 };
+
+export default CtaButton;
