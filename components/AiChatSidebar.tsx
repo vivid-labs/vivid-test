@@ -1,6 +1,40 @@
 import { Logo } from "./Logo";
 import { CtaButton } from "./CtaButton";
-export const AiChatSidebar = ({ override }: { override?: any }) => {
+
+const GradientBox = () => (
+  <div className="flex flex-col justify-center items-start px-3 py-[0rem] relative w-full flex-shrink-0">
+    <div className="flex flex-col justify-center items-center px-2 py-4 rounded-[0.625rem] relative flex-shrink-0 border-solid border-[rgb(218,_218,_218)] border-[0.125rem] bg-[linear-gradient(_180deg,_rgba(255,_255,_255)_38.02083432674408%,_rgba(255,_255,_255)_58.85416865348816%,_rgb(255,_255,_255)_81.25%_)]">
+      <p className="text-black text-sm font-[Lato] font-normal">
+        Price/budget - The customer mentioned their initial budget
+        expectation was around &#x24;10K, significantly lower than the quote.{" "}
+      </p>
+      <p className="text-black text-sm font-[Lato] font-normal">
+        Timing - The customer mentioned having other projects going on
+        and wanting to think about timing/cash flow.
+      </p>
+    </div>
+  </div>
+);
+
+const IntroSection = () => (
+  <div className="flex items-start gap-1 relative flex-shrink-0">
+    <div className="flex items-start gap-2 relative flex-shrink-0">
+      <p className="whitespace-nowrap text-neutral-700 text-xl font-[Lato] font-medium">
+        Introducing
+      </p>
+      <p className="bg-[linear-gradient(_135deg,_rgb(254,_186,_68)_0%,_rgb(216,_114,_232)_100%_)] text-transparent bg-clip-text text-xl font-[Lato] font-bold">
+        Rilla AI Chat
+      </p>
+    </div>
+    <div className="flex justify-center items-center px-2 py-[0rem] rounded-[15px] relative flex-shrink-0 border-solid border-black border">
+      <p className="whitespace-nowrap text-neutral-700 text-sm font-[Lato] font-medium">
+        Beta
+      </p>
+    </div>
+  </div>
+);
+
+const AiChatSidebar = ({ override }: { override?: any }) => {
   return (
     <div
       style={override}
@@ -19,47 +53,12 @@ export const AiChatSidebar = ({ override }: { override?: any }) => {
             </p>
           </div>
         </div>
-        <div className="flex flex-col justify-center items-center gap-2.5 px-[0rem] py-2.5 relative w-full flex-shrink-0">
-          <div className="flex flex-col justify-center items-end px-3 py-[0rem] relative w-full flex-shrink-0">
-            <div className="flex justify-center items-center px-4 py-3 rounded-[0.625rem] relative flex-shrink-0 border-solid border-[rgb(218,_218,_218)] border-[0.125rem]">
-              <p className="whitespace-nowrap text-black text-sm font-[Lato] font-normal">
-                What objections showed up in this conversation?
-              </p>
-            </div>
-          </div>
-          <div className="flex flex-col justify-center items-start px-3 py-[0rem] relative w-full flex-shrink-0">
-            <div className="flex flex-col justify-center items-center px-2 py-4 rounded-[0.625rem] relative flex-shrink-0 border-solid border-[rgb(218,_218,_218)] border-[0.125rem] bg-[linear-gradient(_180deg,_rgba(255,_255,_255)_38.02083432674408%,_rgba(255,_255,_255)_58.85416865348816%,_rgb(255,_255,_255)_81.25%_)]">
-              <p className="text-black text-sm font-[Lato] font-normal">
-                Price/budget - The customer mentioned their initial budget
-                expectation was around &#x24;10K, significantly lower than the
-                quote.{" "}
-              </p>
-              <p className="text-black text-sm font-[Lato] font-normal">
-                Timing - The customer mentioned having other projects going on
-                and wanting to think about timing/cash flow.
-              </p>
-            </div>
-          </div>
-          <div className="overflow-hidden absolute left-[0%] right-[0%] w-full top-[28.11%] bottom-[0%] h-[71.89%] bg-[linear-gradient(_180deg,_rgba(255,_255,_255)_50%,_rgb(255,_255,_255)_84.375%_)]">
-            <div className="overflow-hidden absolute w-[100px] left-[139px] h-[100px] top-[4.37px]" />
-          </div>
+        <GradientBox />
+        <div className="overflow-hidden absolute left-[0%] right-[0%] w-full top-[28.11%] bottom-[0%] h-[71.89%] bg-[linear-gradient(_180deg,_rgba(255,_255,_255)_50%,_rgb(255,_255,_255)_84.375%_)]">
+          <div className="overflow-hidden absolute w-[100px] left-[139px] h-[100px] top-[4.37px]" />
         </div>
         <div className="flex flex-col items-start gap-5 px-7 py-[0rem] relative w-full flex-shrink-0">
-          <div className="flex items-start gap-1 relative flex-shrink-0">
-            <div className="flex items-start gap-2 relative flex-shrink-0">
-              <p className="whitespace-nowrap text-neutral-700 text-xl font-[Lato] font-medium">
-                Introducing
-              </p>
-              <p className="bg-[linear-gradient(_135deg,_rgb(254,_186,_68)_0%,_rgb(216,_114,_232)_100%_)] text-transparent bg-clip-text text-xl font-[Lato] font-bold">
-                Rilla AI Chat
-              </p>
-            </div>
-            <div className="flex justify-center items-center px-2 py-[0rem] rounded-[15px] relative flex-shrink-0 border-solid border-black border">
-              <p className="whitespace-nowrap text-neutral-700 text-sm font-[Lato] font-medium">
-                Beta
-              </p>
-            </div>
-          </div>
+          <IntroSection />
           <p className="flex flex-col justify-center text-neutral-700 text-base font-[Lato] font-medium">
             From objections to where the sales rep went off script &#x2013; AI
             Chat has answers for all your questions.
@@ -84,3 +83,5 @@ export const AiChatSidebar = ({ override }: { override?: any }) => {
     </div>
   );
 };
+
+export default AiChatSidebar;
