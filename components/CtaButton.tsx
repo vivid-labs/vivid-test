@@ -1,22 +1,4 @@
-import { Logo } from "./Logo";
-export const CtaButton = ({
-  override,
-  variants,
-  text,
-}: {
-  override?: any;
-  variants: string;
-  text: string;
-}) => {
-  const ctaButtonVariants =
-    variants === "Gradient"
-      ? {
-          background:
-            "linear-gradient(160deg, rgb(253, 185, 67) 0%, rgb(215, 113, 231) 100%)",
-        }
-      : {
-          backgroundColor: "rgb(0, 0, 0)",
-        };
+const Button = ({text}) => {
   return (
     <div
       className="flex items-center gap-2.5 px-3 py-[9px] rounded-[5px] relative [box-shadow:0px_0px_4px_rgba(190,_190,_190,_0.25)]"
@@ -46,5 +28,20 @@ export const CtaButton = ({
         {text}
       </p>
     </div>
+  );
+};
+
+export const CtaButton = ({override, variants, text}) => {
+  const ctaButtonVariants =
+    variants === "Gradient"
+      ? {
+          background:
+            "linear-gradient(160deg, rgb(253, 185, 67) 0%, rgb(215, 113, 231) 100%)",
+        }
+      : {
+          backgroundColor: "rgb(0, 0, 0)",
+        };
+  return (
+    <Button text={text} />
   );
 };
