@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { StatusSuccess } from "../components/StatusSuccess";
+import { Content } from "../components/Content";
 
 export default function Home() {
   return (
@@ -8,7 +8,7 @@ export default function Home() {
         <title>Vivid Test</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <StatusSuccess />
+      <Content />
     </>
   );
 }
