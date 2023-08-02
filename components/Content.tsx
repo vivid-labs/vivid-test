@@ -1,86 +1,79 @@
-import group from "./group.svg";
-import { Feature } from "./Feature";
-import { Button } from "./Button";
+import { Step } from "./Step";
+import { FigmaLogo } from "./FigmaLogo";
+import { GitHubIcon } from "./GitHubIcon";
+import { OutlinedLogo } from "./OutlinedLogo";
 import pictureAiMobileDesktopPng from "./pictureAiMobileDesktopPng.jpg";
 export const Content = ({ override }: { override?: any }) => {
-  const featureOverride = {
-    height: "fit-content",
-    flex: "1 1 0%",
-    minWidth: "0px",
-    justifyContent: "flex-start",
-    alignItems: "flex-start",
-  };
-  const featureProps = [
+  const stepProps = [
     {
-      description:
-        "As soon as designs are complete, developers can review generated code in their normal workflow. ",
-      heading: "Create PRs in GitHub",
-      override: featureOverride,
+      status: "Complete",
+      time: "5 minutes",
+      task: "Install Figma Plugin",
+      icon: <FigmaLogo />,
+      override: {
+        height: "86px",
+        width: "100%",
+      },
     },
     {
-      description:
-        "Once you generate a component, Vivid will call that component in future generations so you never generate duplicated code. ",
-      heading: "Reuse Components",
-      override: featureOverride,
+      status: "Todo",
+      time: "5 minutes",
+      task: "Connect to GitHub",
+      icon: <GitHubIcon />,
+      override: {
+        width: "100%",
+        height: "86px",
+      },
     },
     {
-      description:
-        "Already have components implemented in your codebase? Vivid  links your Figma components to existing React components.",
-      heading: "Call existing components",
-      override: featureOverride,
+      status: "Todo",
+      time: "15 minutes",
+      task: "Submit existing components",
+      icon: <OutlinedLogo />,
+      override: {
+        height: "86px",
+        width: "100%",
+      },
     },
   ];
   return (
     <div
-      className="flex flex-col items-center px-[100px] w-full bg-white font-[Avenir]"
+      className="relative flex w-full flex-shrink-0 items-center bg-white px-[100px] py-10 font-[Avenir]"
       style={override}
     >
-      <div className="flex flex-col lg:flex-row justify-center items-center gap-2.5 p-0.5 w-full h-[520px]">
-        <div className="flex-col flex gap-[125px] pt-7 px-2.5 pb-9 h-full flex-1 min-w-[0rem]">
-          <div className="flex flex-col  gap-[25px] w-full">
-            <div className="flex flex-col gap-2">
-              <div className="relative w-[520px] h-[20px]">
-                <div className="overflow-hidden absolute w-4 left-[0rem] h-[15px]">
-                  <div className="absolute w-4 h-[15px] top-[0rem]">
-                    <img
-                      className="absolute left-[0.29px] right-[0.32px] w-auto top-[0.16px] bottom-[0.35px] h-auto"
-                      src={group.src}
-                    />
-                  </div>
-                </div>
-                <p className="whitespace-nowrap text-[rgb(244,_86,_154)] text-[13.5px] font-medium tracking-[0.05px] leading-[19px]">
-                  Free for 2 weeks in beta
-                </p>
-              </div>
-              <p className="whitespace-nowrap text-[rgb(18,_18,_18)] text-4xl font-black tracking-[-0.85px] leading-10">
-                Vivid Teams
-              </p>
+      <div className="relative flex h-[519px] min-w-0 flex-1 flex-shrink-0 items-center justify-center gap-12 overflow-hidden rounded-[5px] bg-white px-0.5 py-2.5">
+        <div className="relative flex h-full min-w-0 flex-1 flex-shrink-0 flex-col gap-6 px-2.5 pb-9 pt-7">
+          <div className="relative flex flex-shrink-0 flex-col gap-1">
+            <div className="relative flex w-[330px] flex-shrink-0 flex-col overflow-hidden rounded-[5px] bg-[rgb(240,_240,_240)]">
+              <div className="h-1.5 w-[110px] flex-shrink-0 overflow-hidden rounded-[5px] bg-[rgb(244,_86,_154)]" />
             </div>
-            <div className="flex items-start pr-[30px] w-full">
-              <p className="text-[rgb(18,_18,_18)] text-base font-normal tracking-[0.01px] leading-[23px]">
-                Manage your entire design system in Figma. Let developers focus
-                on functionality while designers own the UI. Ship faster.{" "}
+            <p className="flex flex-col justify-center whitespace-nowrap text-xs font-medium leading-[23px] tracking-[0.01px] text-[rgb(148,_148,_148)]">
+              33% complete &#x2014; nice work!
+            </p>
+          </div>
+          <div className="relative flex w-full flex-shrink-0 flex-col">
+            <div className="relative flex flex-shrink-0 flex-col">
+              <p className="flex flex-col justify-center whitespace-nowrap text-4xl font-black leading-10 tracking-[-0.85px] text-[rgb(18,_18,_18)]">
+                Get Started with Vivid!
               </p>
-            </div>
-            <div className="flex items-start w-full gap-4">
-              {featureProps.map((props, i) => (
-                <Feature {...props} key={i} />
-              ))}
             </div>
           </div>
-          <div className="flex items-start gap-3 pr-[389px]">
-            <Button type="Primary" text="Get started" />
-            <Button type="Secondary" text="I like shipping slowly" />
+          <div className="relative flex w-full flex-shrink-0 flex-col gap-6">
+            {stepProps.map((props, i) => (
+              <Step {...props} key={i} />
+            ))}
           </div>
         </div>
-        <div className="overflow-hidden w-[100px] h-[100px]" />
-        <div className="overflow-hidden relative rounded-tl-[7px] rounded-br-[12px] w-[530px] h-[450px] bg-white [box-shadow:0px_4px_18px_rgba(0,_0,_0)]">
-          <div className="absolute w-[665px] h-[450px] origin-top-left">
+        <div className="relative h-[451px] w-[531px] flex-shrink-0 overflow-hidden rounded-br-[12px] rounded-tl-[7px] bg-[rgba(255,_255,_255,_0)] [box-shadow:0px_4px_18px_rgba(0,_0,_0,_0.3)]">
+          <div className="absolute h-[450.38px] w-[666.25px] origin-top-left overflow-hidden">
             <img
-              className="w-full h-full origin-top-left"
+              className="h-full w-full origin-top-left"
               src={pictureAiMobileDesktopPng.src}
             />
           </div>
+          <p className="flex flex-col justify-center text-center font-[Inter] text-base font-semibold leading-[23px] tracking-[0.01px] text-[rgb(255,_252,_252)]">
+            Insert fun image here
+          </p>
         </div>
       </div>
     </div>
