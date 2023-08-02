@@ -13,23 +13,23 @@ export const SideBar = ({
     case "Colored":
       return (
         <div
-          className="overflow-hidden flex flex-col justify-between items-center p-2.5 relative w-[62px] h-[676px]"
+          className="overflow-hidden flex flex-col justify-between items-center p-2.5 relative w-[62px]"
           style={override}
         >
-          <img
-            className="object-cover absolute h-full w-full"
-            src={pictureAiMobileDesktopPng.src}
-          />
-          <OutlinedLogo
-            override={{
-              height: "51px",
-              width: "52px",
-            }}
-          />
-          <img
-            className="w-full h-[42px] flex-shrink-0 object-cover rounded-[50%]"
-            src={ellipse_2.src}
-          />
+         <img
+           className="object-cover absolute h-full w-full"
+           src={pictureAiMobileDesktopPng.src}
+         />
+         <OutlinedLogo
+           override={{
+             height: "51px",
+             width: "52px",
+           }}
+         />
+         <img
+           className="w-full h-[42px] flex-shrink-0 object-cover rounded-[50%]"
+           src={ellipse_2.src}
+         />
         </div>
       );
     case "White":
