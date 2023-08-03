@@ -14,22 +14,22 @@ export const FormField = ({
   switch (type) {
     case "TextInput":
       return (
-        <div className={styles.formField} style={override}>
-          <p className={styles.addText}>{field}</p>
-          <div className={styles.input}>
-            <p className={styles.placeholder}>{placeholder}</p>
-          </div>
+        <div className={styles.placeholder} style={override}>
+        <p className={styles.formField}>{field}</p>
+        <div className={styles.input}>
+          <p className={styles.addText}>{placeholder}</p>
         </div>
+       </div> 
       );
     case "Select":
       return (
-        <div className={styles.formFieldComponent} style={override}>
-          <p className={styles.addTextText}>{field}</p>
-          <div className={styles.inputDiv}>
-            <p className={styles.placeholderText}>{placeholder}</p>
-            <img className={styles.img_2585_1} src={img_2585_1.src} />
-          </div>
+        <div className={styles.img_2585_1} style={override}>
+        <p className={styles.formFieldComponent}>{field}</p>
+        <div className={styles.placeholderText}>
+          <p className={styles.addTextText}>{placeholder}</p>
+          <img className={styles.inputDiv} src={img_2585_1.src} />
         </div>
+       </div> 
       );
     default:
       return null;
