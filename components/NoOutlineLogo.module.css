@@ -1,0 +1,15 @@
+.logo_2 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  top: 0%;
+  bottom: 0%;
+  height: 100%;
+  object-fit: cover;
+}
+.noOutlineLogo {
+  position: relative;
+  width: 62px;
+  height: 62px;
+}
