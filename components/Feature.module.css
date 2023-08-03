@@ -1,0 +1,67 @@
+.frame {
+  position: absolute;
+  width: 16px;
+  left: calc(50% - 8px);
+  height: 16px;
+  top: 0px;
+}
+.svg {
+  overflow: hidden;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.workFaster {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(18, 18, 18);
+  font-size: 15px;
+  font-weight: 900;
+  letter-spacing: 0.06px;
+  line-height: 19px;
+}
+.term {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  height: fit-content;
+  width: fit-content;
+  padding: 0px 103.53px 2px 0px;
+  position: relative;
+  flex-shrink: 0;
+}
+.generateSummariesActionItemsAndInsights {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(18, 18, 18);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+  line-height: 19px;
+}
+.details {
+  display: flex;
+  align-items: flex-start;
+  height: fit-content;
+  padding: 0px 35.53px 0px 0px;
+  position: relative;
+  width: 100%;
+  flex-shrink: 0;
+}
+.feature {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: fit-content;
+  padding: 0px 0px 1px;
+  position: relative;
+}
