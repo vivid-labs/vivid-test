@@ -1,10 +1,10 @@
-.figmaLogoWhite_1 {
+.figmaLogoImage{
   width: 20px;
   height: 31px;
   flex-shrink: 0;
   object-fit: cover;
 }
-.figmaLogo {
+.figmaLogoContainer{
   display: flex;
   justify-content: center;
   align-items: center;
