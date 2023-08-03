@@ -2,6 +2,7 @@ import { NavBar } from "./NavBar";
 import content from "./content.jpg";
 import { FormField } from "./FormField";
 import { Button } from "./Button";
+
 export const OrganizationSignUp = ({ override }: { override?: any }) => {
   return (
     <div
@@ -20,36 +21,48 @@ export const OrganizationSignUp = ({ override }: { override?: any }) => {
               Get started with Vivid Teams!
             </p>
           </div>
-          <FormField
-            type="TextInput"
-            field="Company Name"
-            placeholder="Pied Piper"
-            override={{
-              height: "fit-content",
-              width: "100%",
-            }}
-          />
-          <FormField
-            type="Select"
-            field="CSS Solution"
-            placeholder="Select one"
-            override={{
-              height: "fit-content",
-              width: "100%",
-            }}
-          />
-          <Button
-            type="Primary"
-            text="Start my free trial!"
-            override={{
-              height: "fit-content",
-              width: "100%",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
-          />
+          <CompanyName />
+          <FormFieldComponent />
+          <StartMyFreeTrial />
         </div>
       </div>
     </div>
   );
 };
+
+const CompanyName = () => (
+  <FormField
+    type="TextInput"
+    field="Company Name"
+    placeholder="Pied Piper"
+    override={{
+      height: "fit-content",
+      width: "100%",
+    }}
+  />
+);
+
+const FormFieldComponent = () => (
+  <FormField
+    type="Select"
+    field="CSS Solution"
+    placeholder="Select one"
+    override={{
+      height: "fit-content",
+      width: "100%",
+    }}
+  />
+);
+
+const StartMyFreeTrial = () => (
+  <Button
+    type="Primary"
+    text="Start my free trial!"
+    override={{
+      height: "fit-content",
+      width: "100%",
+      justifyContent: "center",
+      alignItems: "center",
+    }}
+  />
+);
