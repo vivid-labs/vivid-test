@@ -1,0 +1,1794 @@
+.rotation {
+  rotate: -9deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.clipContent {
+  overflow: hidden;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.cornerRadius {
+  border-radius: 4px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.splitCorners {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 6px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.transforms {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.child {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.fixed {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv {
+  overflow: hidden;
+  height: 100%;
+  min-width: 0px;
+  background-color: rgb(255, 255, 255);
+  flex: 1 0 0%;
+}
+.fill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv1 {
+  overflow: hidden;
+  height: 5px;
+  min-width: 0px;
+  background-color: rgb(255, 255, 255);
+  flex: 1 0 0%;
+}
+.fillWidth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv2 {
+  overflow: hidden;
+  width: 5px;
+  height: 100%;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.fillHeight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv3 {
+  overflow: hidden;
+  width: 10px;
+  height: 10px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.hug {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  padding: 4px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.constraints {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.row {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  flex-shrink: 0;
+}
+.childDiv4 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv5 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv6 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv7 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv8 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv9 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.rowDiv {
+  display: flex;
+  align-items: flex-start;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv10 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv11 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv12 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.topCenter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv13 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv14 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv15 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.bottomRight {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv16 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv17 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv18 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv19 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv20 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv21 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.padding {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px 5px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv22 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv23 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv24 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.gap {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv25 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv26 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv27 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.splitPadding {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px 8px 10px 4px;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv28 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv29 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv30 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.hugDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv31 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv32 {
+  overflow: hidden;
+  width: 4px;
+  height: 12px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv33 {
+  overflow: hidden;
+  width: 4px;
+  flex-shrink: 0;
+  align-self: stretch;
+  background-color: rgb(255, 255, 255);
+}
+.hugFullChild {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  width: fit-content;
+  height: fit-content;
+  padding: 4px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.autoLayout {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.frameOpacity {
+  opacity: 0.6;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.colorOpacity {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgba(191, 43, 43, 0.4);
+}
+.multipleFills {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(rgba(36, 0, 255, 0.2), rgba(36, 0, 255, 0.2)),
+    linear-gradient(rgba(191, 43, 43, 0.4), rgba(191, 43, 43, 0.4));
+}
+.stroke {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  border-width: 1px;
+  background-color: rgb(191, 43, 43);
+}
+.strokeWidth {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  border-width: 4px;
+  background-color: rgb(191, 43, 43);
+}
+.splitWidths {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  border-top-width: 2px;
+  border-bottom-width: 4px;
+  border-left-width: 1px;
+  border-right-width: 3px;
+  background-color: rgb(191, 43, 43);
+}
+.fillAndStroke {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.dropShadow {
+  box-shadow: 0px 4px 4px rgb(255, 255, 255);
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.blur {
+  filter: blur(2px);
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.innerShadow {
+  box-shadow: inset 0px 4px 4px rgb(0, 0, 0);
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.effects {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.rowDiv1 {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+  flex-shrink: 0;
+}
+.linearGradient {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.linearRotatedAndScaled {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    235deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.radialGradient {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: radial-gradient(rgb(191, 43, 43) 0%, rgba(191, 43, 43, 0) 100%);
+}
+.radialCorner {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: radial-gradient(rgb(191, 43, 43) 0%, rgba(191, 43, 43, 0) 100%);
+}
+.radialScaled {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: radial-gradient(rgb(191, 43, 43) 0%, rgba(191, 43, 43, 0) 100%);
+}
+.angularConcialGradient {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: conic-gradient(
+    from 180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.angularConcialRotated {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: conic-gradient(
+    from 216deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.gradientOpacity {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43, 0.5) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.multipleGradients {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: conic-gradient(
+      from 180deg,
+      rgb(36, 0, 255, 0.2) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(rgb(82, 255, 0, 0.2) 0%, rgba(216, 15, 15, 0) 100%),
+    linear-gradient(180deg, rgb(191, 43, 43, 0.5) 0%, rgba(191, 43, 43, 0) 100%);
+}
+.gradient {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.fillText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.gradients {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  background: linear-gradient(
+      180deg,
+      rgb(255, 0, 0) 0%,
+      rgba(255, 255, 255, 0) 100%
+    ),
+    conic-gradient(from 180deg, rgb(0, 66, 255, 0.6) 0%, rgba(0, 0, 0, 0) 100%),
+    radial-gradient(
+      rgb(0, 255, 41, 0.5) 0%,
+      rgba(0, 0, 0, 0) 100%,
+      rgba(0, 0, 0, 0) 100%
+    );
+  color: transparent;
+  background-clip: text;
+  font-size: 8px;
+  font-weight: 400;
+}
+.strokeText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke-color: rgb(255, 0, 0);
+  -webkit-text-stroke-width: 0.5px;
+  font-size: 8px;
+  font-weight: 400;
+}
+.font {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-family: Times New Roman;
+  font-weight: 400;
+}
+.italic {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-style: italic;
+  font-weight: 400;
+}
+.weight {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 700;
+}
+.italicWeight {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-style: italic;
+  font-weight: 700;
+}
+.size {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+}
+.kerning {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: 0.3em;
+}
+.leading {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+  line-height: 15px;
+}
+.text0Leading {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+  line-height: 0px;
+}
+.paragraphLeading {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.underline {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.strike {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+  text-decoration: line-through;
+}
+.case {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.textStyle {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.singleGradient {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 0, 0.9) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+.gradientsDiv {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: conic-gradient(
+      from 180deg,
+      rgb(36, 255, 0, 0.4) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgb(255, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.singleSolid {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgba(36, 255, 0, 0.79);
+}
+.solids {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(rgba(255, 0, 0, 0.49), rgba(255, 0, 0, 0.49)),
+    linear-gradient(rgba(36, 255, 0, 0.79), rgba(36, 255, 0, 0.79));
+}
+.singleImage {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.singleImageCropImage {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.singleImageCrop {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.image {
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.imageImage {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.imageImage1 {
+  transform: rotate(10.87deg) scale(96.46%, 34.74%) translate(2.9%, -4.12%);
+  transform-origin: top left;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.images {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.div {
+  background-color: rgb(0, 255, 255);
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.imageImage2 {
+  object-fit: cover;
+  opacity: 0.5;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.divDiv {
+  background: conic-gradient(
+    from 180deg,
+    rgb(36, 255, 0, 0.4) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.imageImage3 {
+  transform: rotate(-71.88deg) scale(96.46%, 34.74%) translate(-78.4%, 135.5%);
+  transform-origin: top left;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.divDiv1 {
+  background: radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgba(0, 0, 0, 0) 100%);
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.imageImage4 {
+  transform: rotate(10.87deg) scale(96.46%, 34.74%) translate(2.9%, -4.12%);
+  transform-origin: top left;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.divDiv2 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 0, 0.9) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.combo {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.rectFills {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.square {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.grow {
+  width: 10px;
+  flex-shrink: 0;
+  align-self: stretch;
+  background-color: rgb(191, 43, 43);
+}
+.rotate_1 {
+  rotate: -80.6deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.rotate_2 {
+  rotate: 123.5deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.corners {
+  rotate: 0deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+  border-radius: 8px;
+}
+.splitCornersDiv {
+  rotate: 0deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+  border-top-left-radius: 2px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 6px;
+}
+.multipleFillsDiv {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(rgba(5, 0, 255, 0.5), rgba(5, 0, 255, 0.5)),
+    linear-gradient(rgba(255, 0, 0, 0.52), rgba(255, 0, 0, 0.52));
+}
+.gradientsDiv1 {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: conic-gradient(
+      from 180deg,
+      rgb(36, 255, 0, 0.4) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(rgb(82, 0, 255, 0.8) 0%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(180deg, rgb(255, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0) 100%);
+}
+.strokeDiv {
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+  border-style: solid;
+  border-color: rgb(232, 149, 114);
+  border-width: 4px;
+}
+.rectangle {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.t {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotate_1Div {
+  overflow: hidden;
+  position: relative;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.tText {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotate_2Div {
+  overflow: hidden;
+  position: relative;
+  rotate: 36.6deg;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.tText1 {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotate_3 {
+  overflow: hidden;
+  position: relative;
+  rotate: 128.5deg;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.tText2 {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotate_4 {
+  overflow: hidden;
+  position: relative;
+  rotate: -141.9deg;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.tText3 {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+}
+.rotate_5 {
+  overflow: hidden;
+  position: relative;
+  rotate: -51.3deg;
+  width: 34px;
+  height: 34px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.rotate_6 {
+  rotate: 0deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.rotate_7 {
+  rotate: 50.6deg;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(191, 43, 43) 0%,
+    rgba(191, 43, 43, 0) 100%
+  );
+}
+.rotationDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.autoWidth {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.autoHeight {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.fixedSize {
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.truncate {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.center {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.right {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.justify {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.top {
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.middle {
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.bottom {
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.effectsText {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  filter: blur(1px) drop-shadow(0px 4px 2px rgb(255, 0, 0));
+  color: rgb(255, 255, 255);
+  font-size: 8px;
+  font-weight: 400;
+}
+.textLayoutAndEffects {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.vector_1 {
+  width: 25px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.vector_2 {
+  width: 25px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.polygon_1 {
+  width: 19px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.polygon_2 {
+  width: 19px;
+  height: 51px;
+  flex-shrink: 0;
+}
+.star_1 {
+  width: 41px;
+  height: 21px;
+  flex-shrink: 0;
+}
+.line_1 {
+  rotate: -37.3deg;
+  width: 48px;
+  height: 0px;
+  flex-shrink: 0;
+}
+.group_1 {
+  rotate: 25.5deg;
+  width: 38px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.toPreventGrouping {
+  color: rgb(255, 255, 255);
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 600;
+}
+.svg {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  position: relative;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.fillImage {
+  width: 32px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.fit {
+  width: 32px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.tile {
+  width: 32px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: none;
+}
+.effectsImage {
+  box-shadow: 0px 4px 4px rgb(255, 255, 255);
+  opacity: 0.8;
+  rotate: -9deg;
+  width: 32px;
+  height: 40px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-style: solid;
+  border-color: rgb(226, 19, 19);
+  border-width: 1px;
+  border-radius: 8px;
+}
+.ellipse {
+  width: 83px;
+  height: 45px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-style: solid;
+  border-color: rgb(255, 0, 0);
+  border-width: 1px;
+  border-radius: 50%;
+}
+.imageDiv {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.normalImage {
+  transform: scale(100%, 98.37%) translate(0%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.normal {
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.scaleXImage {
+  transform: scale(25.93%, 100%) translate(142.86%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.scaleX {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.scaleYImage {
+  transform: scale(109.91%, 16.85%) translate(-2.8%, 230.97%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.scaleY {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.scaleRotateImage {
+  transform: rotate(45.45deg) scale(109.05%, 18.66%) translate(16.85%, -49.42%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.scaleRotate {
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.translateXImage {
+  transform: scale(109.91%, 100%) translate(60.37%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.translateX {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.translateYImage {
+  transform: scale(109.91%, 100%) translate(-4.51%, -81.14%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.translateY {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.rotate_1Image {
+  transform: rotate(42.3deg) scale(114.97%, 104.61%) translate(17.52%, -46.81%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rotate_1Div1 {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.rotate_2Image {
+  transform: rotate(137.7deg) scale(114.97%, 104.61%)
+    translate(-46.81%, -117.52%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rotate_2Div1 {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.rotate_3Image {
+  transform: rotate(-137.7deg) scale(114.97%, 104.61%)
+    translate(-117.52%, -53.19%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rotate_3Div {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.rotate_4Image {
+  transform: rotate(-42.3deg) scale(114.97%, 104.61%) translate(-53.19%, 17.52%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rotate_4Div {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.rotate_5Image {
+  transform: rotate(0deg) scale(109.91%, 100%) translate(-4.51%, 0%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.rotate_5Div {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.comboImage {
+  transform: rotate(-26.7deg) scale(40.31%, 186.1%) translate(35.17%, 17.99%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.comboDiv {
+  width: 27px;
+  height: 30px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.imageCrop {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.normalImage1 {
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.flipX {
+  transform: scale(-100%, 100%);
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.flipY {
+  rotate: -180deg;
+  transform: scale(-100%, 100%);
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.flipXy {
+  rotate: 180deg;
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.flipCropImage {
+  transform: rotate(51.94deg) scale(55.72%, 84.75%) translate(85.01%, -60.09%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.flipCrop {
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.flips {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.component {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.childDiv34 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv35 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv36 {
+  overflow: hidden;
+  position: absolute;
+  width: 4px;
+  left: 10px;
+  height: 4px;
+  top: 4px;
+  background-color: rgb(255, 255, 255);
+}
+.colDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv37 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv38 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv39 {
+  overflow: hidden;
+  position: absolute;
+  width: 4px;
+  right: 22px;
+  height: 4px;
+  bottom: 16px;
+  background-color: rgb(255, 255, 255);
+}
+.rowDiv2 {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv40 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv41 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv42 {
+  overflow: hidden;
+  position: absolute;
+  left: 8px;
+  right: 9px;
+  width: auto;
+  top: 12.62px;
+  bottom: 13.38px;
+  height: auto;
+  background-color: rgb(255, 255, 255);
+}
+.topCenterDiv {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.childDiv43 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv44 {
+  overflow: hidden;
+  width: 4px;
+  height: 4px;
+  flex-shrink: 0;
+  background-color: rgb(255, 255, 255);
+}
+.childDiv45 {
+  overflow: hidden;
+  position: absolute;
+  left: 43.33%;
+  right: 43.33%;
+  width: 13.33%;
+  top: 42.06%;
+  bottom: 44.61%;
+  height: 13.33%;
+  background-color: rgb(255, 255, 255);
+}
+.bottomRightDiv {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+  background-color: rgb(191, 43, 43);
+}
+.constraintsDiv {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  border-style: solid;
+  border-color: rgb(75, 75, 75);
+  border-width: 1px;
+  background-color: rgb(15, 15, 15);
+}
+.rootComponent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  width: 100%;
+  padding: 8px;
+  flex-shrink: 0;
+  font-family: Arial;
+}
