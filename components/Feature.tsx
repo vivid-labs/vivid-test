@@ -11,17 +11,17 @@ export const Feature = ({
 }) => {
   return (
     <div className={styles.feature} style={override}>
-      <div className={styles.term}>
-        <div className={styles.svg}>
-          <img className={styles.frame} src={frame.src} />
-        </div>
-        <p className={styles.workFaster}>{heading}</p>
+    <div className={styles.term}>
+      <div className={styles.svg}>
+        <img className={styles.frame} src={frame.src} />
       </div>
-      <div className={styles.details}>
-        <p className={styles.generateSummariesActionItemsAndInsights}>
-          {description}
-        </p>
-      </div>
+      <p className={styles.heading}>{heading}</p>
     </div>
+    <div className={styles.details}>
+      <p className={styles.description}>
+        {description}
+      </p>
+    </div>
+   </div> 
   );
 };

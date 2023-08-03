@@ -1,4 +1,4 @@
-.group {
+.headerGroup{
   position: absolute;
   left: 0.29px;
   right: 0.32px;
@@ -7,14 +7,14 @@
   bottom: 0.35px;
   height: auto;
 }
-.frame {
+.headerFrame{
   position: absolute;
   width: 16px;
   left: calc(50% - 8px);
   height: 15.31px;
   top: 0px;
 }
-.svg {
+.headerSvg{
   overflow: hidden;
   position: absolute;
   width: 16px;
@@ -22,7 +22,7 @@
   height: 15.31px;
   top: calc(50% - 7.65px);
 }
-.freeFor_2WeeksInBeta {
+.headerFreeFor2WeeksInBeta{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -35,13 +35,13 @@
   letter-spacing: 0.05px;
   line-height: 19px;
 }
-.divAiAddonBlockEyebrowYe8W5 {
+.headerDivAiAddonBlockEyebrowYe8W5{
   position: relative;
   width: 520px;
   height: 19px;
   flex-shrink: 0;
 }
-.vividTeams {
+.headerVividTeams{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -54,7 +54,7 @@
   letter-spacing: -0.85px;
   line-height: 40px;
 }
-.heading_2 {
+.headerHeading2{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -64,7 +64,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.manageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster {
+.headerManageYourEntireDesignSystemInFigmaLetDevelopersFocusOnFunctionalityWhileDesignersOwnTheUiShipFaster{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -75,7 +75,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.pTextTextJYg6z {
+.headerPTextTextJYg6z{
   display: flex;
   align-items: flex-start;
   height: fit-content;
@@ -84,7 +84,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.descriptions {
+.descriptions{
   display: flex;
   align-items: flex-start;
   gap: 16px;
@@ -93,7 +93,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.teamsInformation {
+.headerTeamsInformation{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -103,7 +103,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.divAiAddonBlockActionsFsahh {
+.headerDivAiAddonBlockActionsFsahh{
   display: flex;
   align-items: flex-start;
   gap: 12px;
@@ -113,7 +113,7 @@
   position: relative;
   flex-shrink: 0;
 }
-.left {
+.headerLeft{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -124,12 +124,12 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.pictureAiMobileDesktopPng {
+.headerPictureAiMobileDesktopPng{
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.pictureAiMobileDesktopPngDiv {
+.headerPictureAiMobileDesktopPngDiv{
   position: absolute;
   width: 666.25px;
   left: calc(50% - 332.5px);
@@ -138,7 +138,7 @@
   transform-origin: top left;
   overflow: hidden;
 }
-.demoImageGif {
+.headerDemoImageGif{
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -150,7 +150,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.right {
+.headerRight{
   overflow: hidden;
   position: relative;
   border-top-left-radius: 7px;
@@ -161,7 +161,7 @@
   flex-shrink: 0;
   background-color: rgba(255, 255, 255, 0);
 }
-.section {
+.headerSection{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -172,7 +172,7 @@
   height: 583px;
   flex-shrink: 0;
 }
-.content {
+.headerContent{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -184,7 +184,7 @@
   background-color: rgb(255, 255, 255);
   flex: 1 0 0%;
 }
-.vividForTeams {
+.headerVividForTeams{
   display: flex;
   flex-direction: column;
   align-items: flex-start;

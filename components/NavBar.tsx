@@ -13,20 +13,20 @@ export const NavBar = ({
   switch (type) {
     case "Colored":
       return (
-        <div className={styles.navBar} style={override}>
-          <img className={styles.image} src={pictureAiMobileDesktopPng.src} />
-          <div className={styles.left}>
-            <OutlinedLogo />
-          </div>
-          <img className={styles.ellipse_2} src={ellipse_1.src} />
+        <div className={styles.navbar} style={override}>
+        <img className={styles.navbarImage} src={pictureAiMobileDesktopPng.src} />
+        <div className={styles.navbarLeft}>
+          <OutlinedLogo />
         </div>
+        <img className={styles.navbarEllipse} src={ellipse_1.src} />
+       </div> 
       );
     case "White":
       return (
-        <div className={styles.navBarComponent} style={override}>
-          <NoOutlineLogo />
-          <img className={styles.ellipse_1} src={ellipse_1.src} />
-        </div>
+        <div className={styles.navbarEllipseComponent} style={override}>
+        <NoOutlineLogo />
+        <img className={styles.navbarComponent} src={ellipse_1.src} />
+       </div> 
       );
     default:
       return null;

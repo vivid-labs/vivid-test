@@ -1,11 +1,11 @@
-.image {
+.navbarImage{
   object-fit: cover;
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.left {
+.navbarLeft{
   display: flex;
   align-items: center;
   width: fit-content;
@@ -13,14 +13,14 @@
   position: relative;
   flex-shrink: 0;
 }
-.ellipse_2 {
+.navbarEllipse{
   width: 62px;
   height: 62px;
   flex-shrink: 0;
   object-fit: cover;
   border-radius: 50%;
 }
-.navBar {
+.navbar{
   overflow: hidden;
   display: flex;
   justify-content: space-between;
@@ -30,14 +30,14 @@
   width: 1440px;
   height: 82px;
 }
-.ellipse_1 {
+.navbarComponent{
   width: 62px;
   height: 62px;
   flex-shrink: 0;
   object-fit: cover;
   border-radius: 50%;
 }
-.navBarComponent {
+.navbarEllipseComponent{
   overflow: hidden;
   display: flex;
   justify-content: space-between;
