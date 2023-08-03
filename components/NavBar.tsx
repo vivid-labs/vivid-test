@@ -14,19 +14,19 @@ export const NavBar = ({
     case "Colored":
       return (
         <div className={styles.navBar} style={override}>
-          <img className={styles.image} src={content.src} />
-          <div className={styles.left}>
-            <OutlinedLogo />
-          </div>
-          <img className={styles.ellipse_2} src={ellipse_1.src} />
+        <img className={styles.navBarImage} src={content.src} />
+        <div className={styles.navBarLeft}>
+          <OutlinedLogo />
         </div>
+        <img className={styles.navBarEllipse2} src={ellipse_1.src} />
+       </div> 
       );
     case "White":
       return (
         <div className={styles.navBarComponent} style={override}>
-          <NoOutlineLogo />
-          <img className={styles.ellipse_1} src={ellipse_1.src} />
-        </div>
+        <NoOutlineLogo />
+        <img className={styles.navBarEllipse1} src={ellipse_1.src} />
+       </div> 
       );
     default:
       return null;

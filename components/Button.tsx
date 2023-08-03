@@ -18,13 +18,13 @@ export const Button = ({
         };
   return (
     <div
-      className={styles.button}
-      style={{
-        ...buttonType,
-        ...override,
-      }}
-    >
-      <p className={styles.getStarted}>{text}</p>
-    </div>
+     className={styles.mainButton}
+     style={{
+       ...buttonType,
+       ...override,
+     }}
+   >
+    <p className={styles.startButton}>{text}</p>
+   </div> 
   );
 };

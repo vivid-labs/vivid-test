@@ -1,18 +1,18 @@
-.image {
+.heroImage{
   object-fit: cover;
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.getStartedWithVividTeamsimportant {
+.importantText{
   height: fit-content;
   text-align: center;
   color: rgb(244, 86, 154);
   font-size: 30px;
   font-weight: 900;
 }
-.frame_3 {
+.headerFrame{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.frame_2 {
+.mainFrame{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -38,14 +38,14 @@
   top: calc(50% - 191px);
   background-color: rgb(255, 255, 255);
 }
-.content {
+.pageContent{
   overflow: hidden;
   position: relative;
   width: 1440px;
   height: 799px;
   flex-shrink: 0;
 }
-.organizationSignUp {
+.orgSignUp{
   overflow: hidden;
   display: flex;
   flex-direction: column;

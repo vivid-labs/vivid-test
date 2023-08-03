@@ -1,4 +1,4 @@
-.addText {
+.formField{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,7 +8,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.placeholder {
+.addText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -22,7 +22,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.input {
+.input{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
@@ -37,7 +37,7 @@
   border-width: 1px;
   background-color: rgb(245, 241, 241);
 }
-.formField {
+.placeholder{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -46,7 +46,7 @@
   position: relative;
   width: 379px;
 }
-.addTextText {
+.formFieldComponent{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -56,7 +56,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.placeholderText {
+.addTextText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -70,7 +70,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.img_2585_1 {
+.inputDiv{
   rotate: 90deg;
   width: 20px;
   height: 20.29px;
@@ -78,7 +78,7 @@
   object-fit: cover;
   opacity: 0.30000001192092896;
 }
-.inputDiv {
+.placeholderText{
   overflow: hidden;
   display: flex;
   justify-content: space-between;
@@ -94,7 +94,7 @@
   border-width: 1px;
   background-color: rgb(245, 241, 241);
 }
-.formFieldComponent {
+.img_2585_1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
