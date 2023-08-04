@@ -65,45 +65,45 @@ export const VividDashboard = ({
     },
   ];
   return (
-    <div className={styles.vividDashboardComponent} style={override}>
-      <NavBar
-        type="Colored"
-        time="Time to do this task"
-        icon={<FigmaLogo />}
-        task="Do this task"
-        override={{
-          position: "relative",
-        }}
-      />
-      <div className={styles.content}>
-        <div className={styles.section}>
-          <div className={styles.left}>
-            <div className={styles.progress}>
-              <div className={styles.progressBar}>
-                <div className={styles.frame_6} />
-              </div>
-              <p className={styles.text}>25% complete &#x2014; nice work!</p>
+    <div className={styles.imageContainer} style={override}>
+    <NavBar
+      type="Colored"
+      time="Time to do this task"
+      icon={<FigmaLogo />}
+      task="Do this task"
+      override={{
+        position: "relative",
+      }}
+    />
+    <div className={styles.figmaScreen}>
+      <div className={styles.divContainer}>
+        <div className={styles.progressText}>
+          <div className={styles.sectionContainer}>
+            <div className={styles.navBarContainer}>
+              <div className={styles.vividDashboardContainer} />
             </div>
-            <div className={styles.teamsInformation}>
-              <div className={styles.heading_2}>
-                <p className={styles.textText}>Get Started with Vivid!</p>
-              </div>
-            </div>
-            <div className={styles.steps}>
-              {stepProps.map((props, i) => (
-                <Step {...props} key={i} />
-              ))}
+            <p className={styles.contentContainer}>25% complete &#x2014; nice work!</p>
+          </div>
+          <div className={styles.progressBarContainer}>
+            <div className={styles.progressContainer}>
+              <p className={styles.leftContainer}>Get Started with Vivid!</p>
             </div>
           </div>
-          <div>
-            <div className={styles.right}>
-              <div className={styles.div} />
-              <img className={styles.figmaScreen_1} src={figmaScreen_1.src} />
-              <img className={styles.image} src={image.src} />
-            </div>
+          <div className={styles.frameContainer}>
+            {stepProps.map((props, i) => (
+              <Step {...props} key={i} />
+            ))}
+          </div>
+        </div>
+        <div>
+          <div className={styles.stepsContainer}>
+            <div className={styles.teamsInformationContainer} />
+            <img className={styles.headingContainer} src={figmaScreen_1.src} />
+            <img className={styles.textContainer} src={image.src} />
           </div>
         </div>
       </div>
     </div>
+   </div> 
   );
 };
