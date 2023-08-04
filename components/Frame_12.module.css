@@ -1,0 +1,37 @@
+.rectangle_3 {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(16, 185, 129);
+}
+.rectangle_4 {
+  width: 100px;
+  height: 100px;
+  border-style: solid;
+  border-color: rgb(16, 185, 129);
+  border-width: 16px;
+}
+.rectangle_5 {
+  box-shadow: 0px 4px 32px 64px rgb(16, 185, 129);
+  width: 100px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+}
+.helpMeeee {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(16, 185, 129);
+  font-size: 48px;
+  font-weight: 400;
+}
+.frame_12Component {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  gap: 68px;
+  width: 100%;
+  height: fit-content;
+  padding: 32px;
+  background-color: rgb(255, 255, 255);
+  font-family: Inter;
+}
