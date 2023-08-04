@@ -1,0 +1,14 @@
+.group {
+  width: 100%;
+  min-height: 0px;
+  flex: 1 0 0%;
+}
+.checkMarkComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  width: 41px;
+  height: 41px;
+}

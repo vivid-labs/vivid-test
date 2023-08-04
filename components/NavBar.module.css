@@ -1,0 +1,48 @@
+.image {
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.left {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+  flex-shrink: 0;
+}
+.ellipse_2 {
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.navBarComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+  width: 1440px;
+  height: 82px;
+}
+.ellipse_1 {
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.navBarComponent1 {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  width: 1440px;
+  height: 82px;
+  background-color: rgb(255, 255, 255);
+}
