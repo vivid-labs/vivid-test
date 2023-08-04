@@ -1,9 +1,9 @@
-.group {
+.checkMarkGroup{
   width: 100%;
   min-height: 0px;
   flex: 1 0 0%;
 }
-.checkMarkComponent {
+.checkMarkComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;

@@ -1,4 +1,4 @@
-.ellipse_3 {
+.stepTodo{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -7,27 +7,27 @@
   background-color: rgb(244, 86, 154);
   border-radius: 50%;
 }
-.frame_8 {
+.frame8{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTask {
+.ellipse{
   color: rgb(244, 86, 154);
   font-size: 16px;
   font-weight: 900;
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.text {
+.stepIcon{
   color: rgb(148, 148, 148);
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7 {
+.frame7{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -36,14 +36,14 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.img_2585_1 {
+.doThisTask{
   width: 20px;
   height: 20px;
   flex-shrink: 0;
   object-fit: cover;
   opacity: 0.3;
 }
-.stepComponent {
+.stepTime{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -57,7 +57,7 @@
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 }
-.doThisTaskText {
+.stepImage{
   color: rgb(148, 148, 148);
   font-size: 16px;
   font-weight: 900;
@@ -65,14 +65,14 @@
   line-height: 23px;
   text-decoration: line-through;
 }
-.textText {
+.stepComplete{
   color: rgb(148, 148, 148);
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div {
+.checkMarkOverride{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -81,7 +81,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent1 {
+.frame7Div{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -95,7 +95,7 @@
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 }
-.ellipse_3Div {
+.doThisTaskText{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -104,13 +104,13 @@
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_8Div {
+.textText{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTaskText1 {
+.stepUnsupported{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -120,7 +120,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.comingSoonimportant {
+.frame8Div{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -130,7 +130,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_13 {
+.ellipseDiv{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
@@ -141,7 +141,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.frame_14 {
+.comingSoonText{
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -149,14 +149,14 @@
   width: 100%;
   flex-shrink: 0;
 }
-.textText1 {
+.frame14{
   color: rgb(148, 148, 148);
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div1 {
+.textText1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -165,7 +165,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent2 {
+.frame7Div1{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -179,7 +179,7 @@
   border-width: 1px;
   background-color: rgb(245, 241, 241);
 }
-.ellipse_3Div1 {
+.stepUpNext{
   position: absolute;
   width: 56px;
   left: 0px;
@@ -188,13 +188,13 @@
   background-color: rgb(217, 217, 217);
   border-radius: 50%;
 }
-.frame_8Div1 {
+.frame8Div1{
   position: relative;
   width: 56px;
   height: 56px;
   flex-shrink: 0;
 }
-.doThisTaskText2 {
+.ellipseDiv1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -204,7 +204,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.upNextimportant {
+.doThisTaskText1{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -214,7 +214,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_14Div {
+.upNextText{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
@@ -225,7 +225,7 @@
   flex-shrink: 0;
   background-color: rgb(0, 0, 0);
 }
-.frame_38 {
+.frame14Div{
   display: flex;
   align-items: flex-start;
   gap: 10px;
@@ -233,14 +233,14 @@
   height: fit-content;
   flex-shrink: 0;
 }
-.textText2 {
+.frame38{
   color: rgb(148, 148, 148);
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.frame_7Div2 {
+.textText2{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -249,7 +249,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.stepComponent3 {
+.frame7Div2{
   overflow: hidden;
   display: flex;
   align-items: center;

@@ -6,8 +6,8 @@ export const GitHubIcon = ({
   override?: React.CSSProperties;
 }) => {
   return (
-    <div className={styles.gitHubIconComponent} style={override}>
-      <img className={styles.image} src={imageImage1.src} />
-    </div>
+    <div className={styles.githubIconContainer} style={override}>
+    <img className={styles.iconImage} src={imageImage1.src} />
+   </div> 
   );
 };

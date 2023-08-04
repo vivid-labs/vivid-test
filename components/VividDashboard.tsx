@@ -66,44 +66,44 @@ export const VividDashboard = ({
   ];
   return (
     <div className={styles.vividDashboardComponent} style={override}>
-      <NavBar
-        type="Colored"
-        time="Time to do this task"
-        icon={<FigmaLogo />}
-        task="Do this task"
-        override={{
-          position: "relative",
-        }}
-      />
-      <div className={styles.content}>
-        <div className={styles.section}>
-          <div className={styles.left}>
-            <div className={styles.progress}>
-              <div className={styles.progressBar}>
-                <div className={styles.frame_6} />
-              </div>
-              <p className={styles.text}>25% complete &#x2014; nice work!</p>
+    <NavBar
+      type="Colored"
+      time="Time to do this task"
+      icon={<FigmaLogo />}
+      task="Do this task"
+      override={{
+        position: "relative",
+      }}
+    />
+    <div className={styles.dashboardContent}>
+      <div className={styles.dashboardSection}>
+        <div className={styles.dashboardLeft}>
+          <div className={styles.dashboardProgress}>
+            <div className={styles.dashboardProgressBar}>
+              <div className={styles.dashboardFrame_6} />
             </div>
-            <div className={styles.teamsInformation}>
-              <div className={styles.heading_2}>
-                <p className={styles.textText}>Get Started with Vivid!</p>
-              </div>
-            </div>
-            <div className={styles.steps}>
-              {stepProps.map((props, i) => (
-                <Step {...props} key={i} />
-              ))}
+            <p className={styles.dashboardText}>25% complete &#x2014; nice work!</p>
+          </div>
+          <div className={styles.dashboardTeamsInformation}>
+            <div className={styles.dashboardHeading_2}>
+              <p className={styles.dashboardHeadingText}>Get Started with Vivid!</p>
             </div>
           </div>
-          <div>
-            <div className={styles.right}>
-              <div className={styles.div} />
-              <img className={styles.figmaScreen_1} src={figmaScreen_1.src} />
-              <img className={styles.image} src={image.src} />
-            </div>
+          <div className={styles.dashboardSteps}>
+            {stepProps.map((props, i) => (
+              <Step {...props} key={i} />
+            ))}
+          </div>
+        </div>
+        <div>
+          <div className={styles.dashboardRight}>
+            <div className={styles.dashboardDiv} />
+            <img className={styles.dashboardFigmaScreen_1} src={figmaScreen_1.src} />
+            <img className={styles.dashboardImage} src={image.src} />
           </div>
         </div>
       </div>
     </div>
+   </div> 
   );
 };

@@ -1,10 +1,10 @@
-.image {
+.iconImage{
   height: 100%;
   min-width: 0px;
   object-fit: cover;
   flex: 1 0 0%;
 }
-.gitHubIconComponent {
+.githubIconContainer{
   display: flex;
   align-items: flex-start;
   width: 50px;
