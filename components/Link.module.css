@@ -1,4 +1,4 @@
-.default {
+.linkText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -6,7 +6,7 @@
   font-size: 15px;
   font-weight: 500;
 }
-.linkComponent {
+.linkContainer{
   display: flex;
   align-items: flex-start;
   width: fit-content;

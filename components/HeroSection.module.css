@@ -1,31 +1,31 @@
-.image {
+.heroImage{
   object-fit: cover;
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.text {
+.heroText{
   height: fit-content;
   color: rgb(255, 255, 255);
   font-size: 70px;
   font-weight: 700;
   letter-spacing: -0.03em;
 }
-.textText {
+.heroTextDescription{
   height: fit-content;
   color: rgb(255, 255, 255);
   font-size: 25px;
   font-weight: 400;
   letter-spacing: -0.03em;
 }
-.headings {
+.heroHeadings{
   position: relative;
   width: 793px;
   height: 304px;
   flex-shrink: 0;
 }
-.features {
+.heroFeatures{
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -34,7 +34,7 @@
   height: fit-content;
   flex-shrink: 0;
 }
-.heroSectionComponent {
+.heroSectionComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;

@@ -1,4 +1,4 @@
-.group_10 {
+.programWrapper{
   position: absolute;
   left: 4px;
   right: -4px;
@@ -7,9 +7,9 @@
   bottom: -6.23px;
   height: auto;
 }
-.div {
+.imageWrapper{
 }
-.programComponent {
+.programComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;

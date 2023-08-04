@@ -33,26 +33,26 @@ export const HeroSection = ({
   ];
   return (
     <div className={styles.heroSectionComponent} style={override}>
-      <img className={styles.image} src={heroSection.src} />
-      <Navigation
-        override={{
-          height: "fit-content",
-          width: "100%",
-        }}
-      />
-      <div className={styles.headings}>
-        <p className={styles.text}>Switzerland Has Never Been So Affordable</p>
-        <p className={styles.textText}>
-          Discover Switzerland. Choose the best programs, guides, hotels and
-          restaurants.
-        </p>
-      </div>
-      <Button color="White" />
-      <div className={styles.features}>
-        {featureProps.map((props, i) => (
-          <Feature {...props} key={i} />
-        ))}
-      </div>
+    <img className={styles.heroImage} src={heroSection.src} />
+    <Navigation
+      override={{
+        height: "fit-content",
+        width: "100%",
+      }}
+    />
+    <div className={styles.heroHeadings}>
+      <p className={styles.heroText}>Switzerland Has Never Been So Affordable</p>
+      <p className={styles.heroTextDescription}>
+        Discover Switzerland. Choose the best programs, guides, hotels and
+        restaurants.
+      </p>
     </div>
+    <Button color="White" />
+    <div className={styles.heroFeatures}>
+      {featureProps.map((props, i) => (
+        <Feature {...props} key={i} />
+      ))}
+    </div>
+   </div> 
   );
 };

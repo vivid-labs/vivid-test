@@ -1,4 +1,4 @@
-.startToExplore {
+.buttonStartToExplore{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -6,7 +6,7 @@
   font-weight: 600;
   letter-spacing: -0.03em;
 }
-.buttonComponent {
+.buttonComponent{
   display: flex;
   justify-content: center;
   align-items: center;

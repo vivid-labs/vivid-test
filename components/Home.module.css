@@ -1,4 +1,4 @@
-.homeImage {
+.homeImage{
   position: absolute;
   left: 6px;
   right: -6px;
@@ -7,9 +7,9 @@
   bottom: -6px;
   height: auto;
 }
-.div {
+.container{
 }
-.homeComponent {
+.homeWrapper{
   overflow: hidden;
   display: flex;
   justify-content: center;
