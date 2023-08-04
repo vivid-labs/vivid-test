@@ -6,8 +6,8 @@ export const NoOutlineLogo = ({
   override?: React.CSSProperties;
 }) => {
   return (
-    <div className={styles.noOutlineLogoComponent} style={override}>
-      <img className={styles.logo_2} src={logo_2.src} />
-    </div>
+    <div className={styles.noOutlineLogoContainer} style={override}>
+    <img className={styles.logoImage} src={logo_2.src} />
+   </div> 
   );
 };

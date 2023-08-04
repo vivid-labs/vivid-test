@@ -1,4 +1,4 @@
-.frame_6 {
+.frameStyle{
   overflow: hidden;
   border-radius: 5px;
   width: 90px;
@@ -6,7 +6,7 @@
   flex-shrink: 0;
   background-color: rgb(244, 86, 154);
 }
-.progressBar {
+.progressBarStyle{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -17,7 +17,7 @@
   flex-shrink: 0;
   background-color: rgb(217, 217, 217);
 }
-.text {
+.textStyle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -27,7 +27,7 @@
   letter-spacing: 0.01px;
   line-height: 23px;
 }
-.progress {
+.progressStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -36,7 +36,7 @@
   width: fit-content;
   flex-shrink: 0;
 }
-.textText {
+.textTextStyle{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -46,7 +46,7 @@
   letter-spacing: -0.85px;
   line-height: 40px;
 }
-.heading_2 {
+.headingStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -54,7 +54,7 @@
   width: fit-content;
   flex-shrink: 0;
 }
-.teamsInformation {
+.teamsInformationStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -62,7 +62,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.steps {
+.stepsStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -71,7 +71,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.left {
+.leftStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -81,7 +81,7 @@
   min-width: 0px;
   flex: 1 0 0%;
 }
-.div {
+.divStyle{
   position: absolute;
   rotate: -4deg;
   width: 598px;
@@ -89,7 +89,7 @@
   height: 455px;
   top: calc(50% - 207.59px);
 }
-.figmaScreen_1 {
+.figmaScreenStyle{
   position: absolute;
   width: 350px;
   left: 41px;
@@ -97,7 +97,7 @@
   top: 58.5px;
   object-fit: cover;
 }
-.image {
+.imageStyle{
   position: absolute;
   width: 350px;
   left: 141px;
@@ -105,7 +105,7 @@
   top: 192.5px;
   object-fit: cover;
 }
-.right {
+.rightStyle{
   overflow: hidden;
   border-radius: 5px;
   position: absolute;
@@ -117,9 +117,9 @@
   bottom: -113.5px;
   height: auto;
 }
-.group_2 {
+.groupStyle{
 }
-.section {
+.sectionStyle{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -133,7 +133,7 @@
   background-color: rgb(255, 255, 255);
   flex: 1 0 0%;
 }
-.content {
+.contentStyle{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -143,7 +143,7 @@
   background-color: rgb(255, 255, 255);
   flex: 1 0 0%;
 }
-.vividDashboardComponent {
+.vividDashboardComponentStyle{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
