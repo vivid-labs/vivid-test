@@ -1,22 +1,22 @@
-.rectangle_3 {
+.frame_12{
   width: 100px;
   height: 100px;
   background-color: rgb(16, 185, 129);
 }
-.rectangle_4 {
+.rectangle_1{
   width: 100px;
   height: 100px;
   border-style: solid;
   border-color: rgb(16, 185, 129);
   border-width: 16px;
 }
-.rectangle_5 {
+.rectangle_2{
   box-shadow: 0px 4px 32px 64px rgb(16, 185, 129);
   width: 100px;
   height: 100px;
   background-color: rgb(255, 255, 255);
 }
-.helpMeeee {
+.rectangle_3{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -24,7 +24,7 @@
   font-size: 48px;
   font-weight: 400;
 }
-.frame_12Component {
+.helpMessage{
   overflow: hidden;
   display: flex;
   align-items: flex-start;
