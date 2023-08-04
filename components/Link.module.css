@@ -1,0 +1,14 @@
+.default {
+  width: fit-content;
+  white-space: nowrap;
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-weight: 500;
+}
+.linkComponent {
+  display: flex;
+  align-items: flex-start;
+  width: fit-content;
+  height: fit-content;
+}
