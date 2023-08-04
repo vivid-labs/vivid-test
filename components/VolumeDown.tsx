@@ -6,10 +6,10 @@ export const VolumeDown = ({
   override?: React.CSSProperties;
 }) => {
   return (
-    <div className={styles.volumeDownComponent} style={override}>
-      <div>
-        <img className={styles.volumeDownImage} src={volumeDown.src} />
-      </div>
+    <div className={styles.volumeDownContainer} style={override}>
+    <div>
+      <img className={styles.volumeDownImage} src={volumeDown.src} />
     </div>
+   </div> 
   );
 };

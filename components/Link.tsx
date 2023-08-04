@@ -7,8 +7,8 @@ export const Link = ({
   linkText: string;
 }) => {
   return (
-    <div className={styles.linkComponent} style={override}>
-      <p className={styles.default}>{linkText}</p>
-    </div>
+    <div className={styles.default} style={override}>
+    <p className={styles.linkComponent}>{linkText}</p>
+   </div> 
   );
 };
