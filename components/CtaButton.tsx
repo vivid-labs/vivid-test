@@ -20,14 +20,14 @@ export const CtaButton = ({
         };
   return (
     <div
-      className={styles.ctaButtonComponent}
-      style={{
-        ...ctaButtonVariants,
-        ...override,
-      }}
-    >
-      <Logo />
-      <p className={styles.dummyText}>{text}</p>
-    </div>
+     className={styles.buttonContainer}
+     style={{
+       ...ctaButtonVariants,
+       ...override,
+     }}
+   >
+    <Logo />
+    <p className={styles.buttonText}>{text}</p>
+   </div> 
   );
 };
