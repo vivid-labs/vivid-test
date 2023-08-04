@@ -1,9 +1,9 @@
-.dummyText {
+.textWrapper{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.ctaButtonComponent {
+.ctaButtonWrapper{
   display: flex;
   align-items: center;
   gap: 10px;

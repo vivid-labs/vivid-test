@@ -1,4 +1,4 @@
-.diveDeeperWith {
+.diveDeeper{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -6,7 +6,7 @@
   font-size: 23px;
   line-height: 40px;
 }
-.aiChat {
+.aiChat{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -14,14 +14,14 @@
   font-size: 24px;
   font-weight: 700;
 }
-.logo {
+.sidebarLogo{
   display: flex;
   align-items: center;
   width: fit-content;
   height: fit-content;
   flex-shrink: 0;
 }
-.headerBar {
+.headerBar{
   display: flex;
   align-items: center;
   gap: 8px;
@@ -35,7 +35,7 @@
     rgb(215, 113, 231) 100%
   );
 }
-.whatObjectionsShowedUpInThisConversationq {
+.objectionsInConversation{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -43,7 +43,7 @@
   font-size: 14px;
   font-weight: 400;
 }
-.initialChat {
+.initialChatMessage{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -56,7 +56,7 @@
   border-color: rgb(218, 218, 218);
   border-width: 2px;
 }
-.messageWrapper {
+.messageWrapper{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -66,19 +66,19 @@
   width: 100%;
   flex-shrink: 0;
 }
-.priceBudgetTheCustomerMentionedTheirInitialBudgetExpectationWasAround_10KSignificantlyLowerThanTheQuote {
+.priceBudgetCustomerBudgetExpectation{
   height: fit-content;
   color: rgb(0, 0, 0);
   font-size: 14px;
   font-weight: 400;
 }
-.timingTheCustomerMentionedHavingOtherProjectsGoingOnAndWantingToThinkAboutTimingCashFlow {
+.timingCustomerProjects{
   height: fit-content;
   color: rgb(0, 0, 0);
   font-size: 14px;
   font-weight: 400;
 }
-.teaser {
+.teaser{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -98,7 +98,7 @@
     rgb(255, 255, 255) 81.25%
   );
 }
-.messageWrapperDiv {
+.messageWrapperDiv{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -108,7 +108,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.frame_15 {
+.frame15{
   overflow: hidden;
   position: absolute;
   width: 100px;
@@ -116,7 +116,7 @@
   height: 100px;
   top: 4.37px;
 }
-.frame_13 {
+.frame13{
   overflow: hidden;
   position: absolute;
   left: 0%;
@@ -131,7 +131,7 @@
     rgb(255, 255, 255) 84.375%
   );
 }
-.chats {
+.chats{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -143,7 +143,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.introducing {
+.introducingRillaChat{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -151,7 +151,7 @@
   font-size: 20px;
   font-weight: 500;
 }
-.rillaAiChat {
+.rillaAiChat{
   background: linear-gradient(
     135deg,
     rgb(254, 186, 68) 0%,
@@ -162,7 +162,7 @@
   font-size: 20px;
   font-weight: 700;
 }
-.text {
+.text{
   display: flex;
   align-items: flex-start;
   gap: 8px;
@@ -170,7 +170,7 @@
   height: fit-content;
   flex-shrink: 0;
 }
-.betaText {
+.betaText{
   width: fit-content;
   white-space: nowrap;
   height: fit-content;
@@ -178,7 +178,7 @@
   font-size: 14px;
   font-weight: 500;
 }
-.beta {
+.beta{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -191,7 +191,7 @@
   border-color: rgb(0, 0, 0);
   border-width: 1px;
 }
-.heading {
+.heading{
   display: flex;
   align-items: flex-start;
   gap: 4px;
@@ -199,7 +199,7 @@
   height: fit-content;
   flex-shrink: 0;
 }
-.fromObjectionsToWhereTheSalesRepWentOffScriptAiChatHasAnswersForAllYourQuestions {
+.fromObjectionsToSalesRep{
   height: fit-content;
   display: flex;
   flex-direction: column;
@@ -208,7 +208,7 @@
   font-size: 16px;
   font-weight: 500;
 }
-.rillaAiChatIntroduction {
+.rillaAiChatIntroduction{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -218,7 +218,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.mainContent {
+.mainContent{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -227,7 +227,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.chatInput {
+.chatInput{
   border-radius: 5px;
   width: 100%;
   height: 35px;
@@ -236,13 +236,13 @@
   border-color: rgb(209, 208, 209);
   border-width: 1px;
 }
-.pleaseNoteThatRillaChatIsCurrentlyExperimentalAndMayProduceInaccurateInformationAboutTheConversation {
+.inaccurateInformationMsg{
   color: rgb(155, 155, 155);
   font-size: 10px;
   font-weight: 400;
   line-height: 14px;
 }
-.chat {
+.chat{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -252,7 +252,7 @@
   width: 100%;
   flex-shrink: 0;
 }
-.aiChatSidebarComponent {
+.aiChatSidebarComponent{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
