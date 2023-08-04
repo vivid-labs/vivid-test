@@ -1,0 +1,22 @@
+.group_10 {
+  position: absolute;
+  left: 4px;
+  right: -4px;
+  width: auto;
+  top: 6.23px;
+  bottom: -6.23px;
+  height: auto;
+}
+.div {
+}
+.programComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
