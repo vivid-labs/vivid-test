@@ -1,0 +1,46 @@
+.image {
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.switzerlandHasNeverBeenSoAffordable {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.discoverSwitzerlandChooseTheBestProgramsGuidesHotelsAndRestaurants {
+  height: fit-content;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.headings {
+  position: relative;
+  width: 793px;
+  height: 304px;
+  flex-shrink: 0;
+}
+.features {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+  flex-shrink: 0;
+}
+.heroSectionComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 66px;
+  height: fit-content;
+  position: relative;
+  width: 1440px;
+}
