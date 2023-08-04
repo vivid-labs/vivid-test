@@ -13,15 +13,15 @@ export const Feature = ({
   icon: React.ReactNode;
 }) => {
   return (
-    <div className={styles.featureComponent} style={override}>
-      <div className={styles.content}>
-        <p className={styles.audioGuide}>{title}</p>
-        <p className={styles.travelOnYourOwnUseTheServicesOfAnAudioGuide}>
-          {description}
-        </p>
-        <Link linkText="Select Guide" />
-      </div>
-      {icon}
+    <div className={styles.featureComponentWrapper} style={override}>
+    <div className={styles.contentWrapper}>
+      <p className={styles.featureButton}>{title}</p>
+      <p className={styles.descriptionText}>
+        {description}
+      </p>
+      <Link linkText="Select Guide" />
     </div>
+    {icon}
+   </div> 
   );
 };
