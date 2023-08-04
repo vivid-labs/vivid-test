@@ -2,6 +2,7 @@ import tryIt from "./tryIt.svg";
 import image_15 from "./image_15.png";
 import { SystemHandPointing } from "./SystemHandPointing";
 import { PrimaryButton } from "./PrimaryButton";
+
 export const SeeUsageOrSourceWithAnimaPlugin = ({
   override,
 }: {
@@ -43,36 +44,10 @@ export const SeeUsageOrSourceWithAnimaPlugin = ({
             width: "fit-content",
           }}
         >
-          <p
-            style={{
-              height: "fit-content",
-              color: "rgb(255, 255, 255)",
-              fontSize: "32px",
-              fontWeight: 700,
-              lineHeight: "1.20em",
-            }}
-          >
-            In the plugin inspect
-          </p>
-          <p
-            style={{
-              height: "fit-content",
-              color: "rgb(255, 255, 255)",
-              fontSize: "16px",
-              fontWeight: 400,
-              lineHeight: "1.50em",
-            }}
-          >
-            Toggle to switch between usage and source.
-          </p>
+          <PluginInspect />
+          <FitContentText />
         </div>
-        <img
-          src={tryIt.src}
-          style={{
-            width: "108px",
-            height: "54px",
-          }}
-        />
+        <AiChatIntroduction />
       </div>
       <div
         style={{
@@ -85,101 +60,167 @@ export const SeeUsageOrSourceWithAnimaPlugin = ({
         }}
       >
         <div>
-          <div
-            style={{
-              position: "absolute",
-              width: "453px",
-              left: "368px",
-              height: "235px",
-              top: "180px",
-              backgroundColor: "rgb(255, 255, 255)",
-              borderRadius: "8px",
-            }}
-          />
-          <div
-            style={{
-              position: "absolute",
-              width: "453px",
-              left: "368px",
-              height: "222px",
-              top: "180px",
-              transformOrigin: "top left",
-              borderRadius: "8px",
-              overflow: "hidden",
-            }}
-          >
-            <img
-              style={{
-                transform: "scale(100%, 282.88%)",
-                transformOrigin: "top left",
-                height: "100%",
-                width: "100%",
-              }}
-              src={image_15.src}
-            />
-          </div>
+          <ContentContainer />
+          <AiChatImage />
         </div>
-        <p
-          style={{
-            width: "fit-content",
-            whiteSpace: "nowrap",
-            height: "fit-content",
-            color: "rgb(0, 0, 0)",
-            fontSize: "12.91px",
-            fontWeight: 700,
-            lineHeight: "19.36px",
-          }}
-        >
-          Toggle to view source
-        </p>
-        <SystemHandPointing
-          override={{
-            position: "absolute",
-            top: "216px",
-            left: "758px",
-          }}
-        />
-        <PrimaryButton
-          state="Default"
-          type="Primary"
-          showIcon={true}
-          text="Select Me"
-          override={{
-            height: "40px",
-            width: "fit-content",
-            position: "absolute",
-            top: "185px",
-            left: "79.5px",
-          }}
-        />
-        <p
-          style={{
-            width: "fit-content",
-            whiteSpace: "nowrap",
-            height: "fit-content",
-            color: "rgb(0, 0, 0)",
-            fontSize: "12.91px",
-            fontWeight: 700,
-            lineHeight: "19.36px",
-          }}
-        >
-          Select the button
-        </p>
-        <p
-          style={{
-            width: "fit-content",
-            whiteSpace: "nowrap",
-            height: "fit-content",
-            color: "rgb(0, 147, 121)",
-            fontSize: "44px",
-            fontFamily: "Caveat",
-            fontWeight: 400,
-            lineHeight: "1.20em",
-          }}
-        >
-          Try it out
-        </p>
+        <ToggleViewSource />
+        <SystemHandPointingComponent />
+        <SelectMe />
+        <SelectTheButton />
+        <TryItOut />
       </div>
     </div>
   );
 };
+
+const AiChatIntroduction = () => (
+  <img
+    src={tryIt.src}
+    style={{
+      width: "108px",
+      height: "54px",
+    }}
+  />
+);
+
+const PluginInspect = () => (
+  <p
+    style={{
+      height: "fit-content",
+      color: "rgb(255, 255, 255)",
+      fontSize: "32px",
+      fontWeight: 700,
+      lineHeight: "1.20em",
+    }}
+  >
+    In the plugin inspect
+  </p>
+);
+
+const FitContentText = () => (
+  <p
+    style={{
+      height: "fit-content",
+      color: "rgb(255, 255, 255)",
+      fontSize: "16px",
+      fontWeight: 400,
+      lineHeight: "1.50em",
+    }}
+  >
+    Toggle to switch between usage and source.
+  </p>
+);
+
+const ToggleViewSource = () => (
+  <p
+    style={{
+      width: "fit-content",
+      whiteSpace: "nowrap",
+      height: "fit-content",
+      color: "rgb(0, 0, 0)",
+      fontSize: "12.91px",
+      fontWeight: 700,
+      lineHeight: "19.36px",
+    }}
+  >
+    Toggle to view source
+  </p>
+);
+
+const SystemHandPointingComponent = () => (
+  <SystemHandPointing
+    override={{
+      position: "absolute",
+      top: "216px",
+      left: "758px",
+    }}
+  />
+);
+
+const SelectMe = () => (
+  <PrimaryButton
+    state="Default"
+    type="Primary"
+    showIcon={true}
+    text="Select Me"
+    override={{
+      height: "40px",
+      width: "fit-content",
+      position: "absolute",
+      top: "185px",
+      left: "79.5px",
+    }}
+  />
+);
+
+const SelectTheButton = () => (
+  <p
+    style={{
+      width: "fit-content",
+      whiteSpace: "nowrap",
+      height: "fit-content",
+      color: "rgb(0, 0, 0)",
+      fontSize: "12.91px",
+      fontWeight: 700,
+      lineHeight: "19.36px",
+    }}
+  >
+    Select the button
+  </p>
+);
+
+const TryItOut = () => (
+  <p
+    style={{
+      width: "fit-content",
+      whiteSpace: "nowrap",
+      height: "fit-content",
+      color: "rgb(0, 147, 121)",
+      fontSize: "44px",
+      fontFamily: "Caveat",
+      fontWeight: 400,
+      lineHeight: "1.20em",
+    }}
+  >
+    Try it out
+  </p>
+);
+
+const ContentContainer = () => (
+  <div
+    style={{
+      position: "absolute",
+      width: "453px",
+      left: "368px",
+      height: "235px",
+      top: "180px",
+      backgroundColor: "rgb(255, 255, 255)",
+      borderRadius: "8px",
+    }}
+  />
+);
+
+const AiChatImage = () => (
+  <div
+    style={{
+      position: "absolute",
+      width: "453px",
+      left: "368px",
+      height: "222px",
+      top: "180px",
+      transformOrigin: "top left",
+      borderRadius: "8px",
+      overflow: "hidden",
+    }}
+  >
+    <img
+      style={{
+        transform: "scale(100%, 282.88%)",
+        transformOrigin: "top left",
+        height: "100%",
+        width: "100%",
+      }}
+      src={image_15.src}
+    />
+  </div>
+);
