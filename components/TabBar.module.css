@@ -1,0 +1,11 @@
+.tabBarComponent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px 40px;
+  width: 100%;
+  height: 70px;
+  background-color: rgb(43, 43, 43);
+  font-family: Work Sans;
+}
