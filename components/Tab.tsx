@@ -1,4 +1,5 @@
 import styles from "./Tab.module.css";
+
 export const Tab = ({
   override,
   state,
@@ -47,28 +48,36 @@ export const Tab = ({
   }[state];
   return (
     <div
-     className={styles.numberText}
-     style={{
-       ...tabState,
-       ...override,
-     }}
-   >
-    <p
-      className={styles.tabComponent}
+      className={styles.numberText}
       style={{
-        ...createdState,
+        ...tabState,
+        ...override,
       }}
     >
-      {text}
-    </p>
-    <div
-      className={styles.frameContainer}
-      style={{
-        ...frame_81State,
-      }}
-    >
-      <p className={styles.createdText}>{number}</p>
+      <AiChatDisclaimer createdState={createdState} text={text} />
+      <FrameContainer frame_81State={frame_81State} number={number} />
     </div>
-   </div> 
   );
 };
+
+const AiChatDisclaimer = ({ createdState, text }: any) => (
+  <p
+    className={styles.tabComponent}
+    style={{
+      ...createdState,
+    }}
+  >
+    {text}
+  </p>
+);
+
+const FrameContainer = ({ frame_81State, number }: any) => (
+  <div
+    className={styles.frameContainer}
+    style={{
+      ...frame_81State,
+    }}
+  >
+    <p className={styles.createdText}>{number}</p>
+  </div>
+);
