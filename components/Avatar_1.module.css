@@ -1,0 +1,16 @@
+.avatarPlaceholder {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  top: 0%;
+  bottom: 0%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 9999px;
+}
+.avatar_1Component {
+  position: relative;
+  width: 120px;
+  height: 120px;
+}
