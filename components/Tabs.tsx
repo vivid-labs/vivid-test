@@ -1,5 +1,6 @@
 import styles from "./Tabs.module.css";
 import { Tab } from "./Tab";
+
 export const Tabs = ({
   override,
   property_1,
@@ -62,26 +63,26 @@ export const Tabs = ({
     case "Default":
       return (
         <div className={styles.tabsContainer} style={override}>
-        {tabProps.map((props, i) => (
-          <Tab {...props} key={i} />
-        ))}
-       </div> 
+          {tabProps.map((props, i) => (
+            <Tab {...props} key={i} />
+          ))}
+        </div>
       );
     case "Variant2":
       return (
         <div className={styles.variant2Container} style={override}>
-        {tabProps1.map((props, i) => (
-          <Tab {...props} key={i} />
-        ))}
-       </div> 
+          {tabProps1.map((props, i) => (
+            <Tab {...props} key={i} />
+          ))}
+        </div>
       );
     case "Variant3":
       return (
         <div className={styles.variant3Container} style={override}>
-        {tabProps2.map((props, i) => (
-          <Tab {...props} key={i} />
-        ))}
-       </div> 
+          {tabProps2.map((props, i) => (
+            <Tab {...props} key={i} />
+          ))}
+        </div>
       );
     default:
       return null;
