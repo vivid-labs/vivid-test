@@ -1,16 +1,16 @@
-.avatarComponent {
+.avatar{
   display: flex;
   align-items: flex-start;
   width: fit-content;
   height: fit-content;
 }
-.avatarComponent1 {
+.avatarBig{
   display: flex;
   align-items: flex-start;
   width: fit-content;
   height: fit-content;
 }
-.avatarComponent2 {
+.avatarSmall{
   display: flex;
   align-items: flex-start;
   width: fit-content;

@@ -1,25 +1,25 @@
-.nftCardsRow {
+.nftCardsRow{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 1050px;
 }
-.nftCardsRowDiv {
+.nftCardsRowDiv{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 1050px;
 }
-.nftCardsRowDiv1 {
+.nftCardsRowDiv_1{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 1050px;
 }
-.nftCardsSectionComponent {
+.nftCardsSectionComponent{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,28 +29,28 @@
   width: 1280px;
   background-color: rgb(59, 59, 59);
 }
-.nftCardsRowDiv2 {
+.nftCardsRowDiv_2{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 690px;
 }
-.nftCardsRowDiv3 {
+.nftCardsRowDiv_3{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 690px;
 }
-.nftCardsRowDiv4 {
+.nftCardsRowDiv_4{
   display: flex;
   align-items: flex-start;
   gap: 30px;
   height: fit-content;
   width: 690px;
 }
-.nftCardsSectionComponent1 {
+.nftCardsSectionComponent_1{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -60,7 +60,7 @@
   width: 834px;
   background-color: rgb(59, 59, 59);
 }
-.nftCardsRowDiv5 {
+.nftCardsRowDiv_5{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -68,7 +68,7 @@
   height: fit-content;
   width: 315px;
 }
-.nftCardsSectionComponent2 {
+.nftCardsSectionComponent_2{
   display: flex;
   flex-direction: column;
   align-items: center;

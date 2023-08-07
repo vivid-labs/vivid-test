@@ -12,21 +12,21 @@ export const Avatar = ({
   switch (property_1) {
     case "medium":
       return (
-        <div className={styles.avatarComponent} style={override}>
-          {avatarPhoto}
-        </div>
+        <div className={styles.avatar} style={override}>
+        {avatarPhoto}
+       </div> 
       );
     case "Big":
       return (
-        <div className={styles.avatarComponent1} style={override}>
-          {avatarPhoto}
-        </div>
+        <div className={styles.avatarBig} style={override}>
+        {avatarPhoto}
+       </div> 
       );
     case "Small":
       return (
-        <div className={styles.avatarComponent2} style={override}>
-          {avatarPhoto}
-        </div>
+        <div className={styles.avatarSmall} style={override}>
+        {avatarPhoto}
+       </div> 
       );
     default:
       return null;

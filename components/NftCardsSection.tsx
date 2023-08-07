@@ -208,133 +208,133 @@ export const NftCardsSection = ({
     case "Desktop":
       return (
         <div className={styles.nftCardsSectionComponent} style={override}>
-          <div className={styles.nftCardsRow}>
-            {nftCardProps.map((props, i) => (
-              <NftCard {...props} key={i} />
-            ))}
-          </div>
-          <div className={styles.nftCardsRowDiv}>
-            {nftCardProps1.map((props, i) => (
-              <NftCard {...props} key={i} />
-            ))}
-          </div>
-          <div className={styles.nftCardsRowDiv1}>
-            {nftCardProps2.map((props, i) => (
-              <NftCard {...props} key={i} />
-            ))}
-          </div>
+        <div className={styles.nftCardsRow}>
+          {nftCardProps.map((props, i) => (
+            <NftCard {...props} key={i} />
+          ))}
         </div>
+        <div className={styles.nftCardsRowDiv}>
+          {nftCardProps1.map((props, i) => (
+            <NftCard {...props} key={i} />
+          ))}
+        </div>
+        <div className={styles.nftCardsRowDiv_1}>
+          {nftCardProps2.map((props, i) => (
+            <NftCard {...props} key={i} />
+          ))}
+        </div>
+       </div> 
       );
     case "Tablet":
       return (
-        <div className={styles.nftCardsSectionComponent1} style={override}>
-          <div className={styles.nftCardsRowDiv2}>
-            <NftCard
-              property_1="Default"
-              nftName="Distant Galaxy"
-              additionalInfo={true}
-              artistName="MoonDancer"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-            <NftCard
-              property_1="Default"
-              nftName="Life On Edena"
-              additionalInfo={true}
-              artistName="NebulaKid"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-          </div>
-          <div className={styles.nftCardsRowDiv3}>
-            <NftCard
-              property_1="Default"
-              nftName="Distant Galaxy"
-              additionalInfo={true}
-              artistName="MoonDancer"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-            <NftCard
-              property_1="Default"
-              nftName="Life On Edena"
-              additionalInfo={true}
-              artistName="NebulaKid"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-          </div>
-          <div className={styles.nftCardsRowDiv4}>
-            <NftCard
-              property_1="Default"
-              nftName="Distant Galaxy"
-              additionalInfo={true}
-              artistName="MoonDancer"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-            <NftCard
-              property_1="Default"
-              nftName="Life On Edena"
-              additionalInfo={true}
-              artistName="NebulaKid"
-              nftName={true}
-              artistAvatarName={true}
-              priceNumber="1.63 ETH"
-              bidNumber="0.33 wETH"
-              override={{
-                height: "469px",
-                backgroundColor: "rgb(43, 43, 43)",
-                flex: "1 1 0%",
-              }}
-            />
-          </div>
+        <div className={styles.nftCardsSectionComponent_1} style={override}>
+        <div className={styles.nftCardsRowDiv_2}>
+          <NftCard
+            property_1="Default"
+            nftName="Distant Galaxy"
+            additionalInfo={true}
+            artistName="MoonDancer"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
+          <NftCard
+            property_1="Default"
+            nftName="Life On Edena"
+            additionalInfo={true}
+            artistName="NebulaKid"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
         </div>
+        <div className={styles.nftCardsRowDiv_3}>
+          <NftCard
+            property_1="Default"
+            nftName="Distant Galaxy"
+            additionalInfo={true}
+            artistName="MoonDancer"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
+          <NftCard
+            property_1="Default"
+            nftName="Life On Edena"
+            additionalInfo={true}
+            artistName="NebulaKid"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
+        </div>
+        <div className={styles.nftCardsRowDiv_4}>
+          <NftCard
+            property_1="Default"
+            nftName="Distant Galaxy"
+            additionalInfo={true}
+            artistName="MoonDancer"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
+          <NftCard
+            property_1="Default"
+            nftName="Life On Edena"
+            additionalInfo={true}
+            artistName="NebulaKid"
+            nftName={true}
+            artistAvatarName={true}
+            priceNumber="1.63 ETH"
+            bidNumber="0.33 wETH"
+            override={{
+              height: "469px",
+              backgroundColor: "rgb(43, 43, 43)",
+              flex: "1 1 0%",
+            }}
+          />
+        </div>
+       </div> 
       );
     case "Mobile":
       return (
-        <div className={styles.nftCardsSectionComponent2} style={override}>
-          <div className={styles.nftCardsRowDiv5}>
-            {nftCardProps3.map((props, i) => (
-              <NftCard {...props} key={i} />
-            ))}
-          </div>
+        <div className={styles.nftCardsSectionComponent_2} style={override}>
+        <div className={styles.nftCardsRowDiv_5}>
+          {nftCardProps3.map((props, i) => (
+            <NftCard {...props} key={i} />
+          ))}
         </div>
+       </div> 
       );
     default:
       return null;
