@@ -1,16 +1,16 @@
-.created {
+.created{
   font-size: 22px;
   font-weight: 600;
   line-height: 1.4em;
 }
-.text302 {
+.text302{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-family: Space Mono;
   font-weight: 400;
   line-height: 1.4em;
 }
-.frame_81 {
+.frame_81{
   display: flex;
   align-items: center;
   width: fit-content;
@@ -18,7 +18,7 @@
   padding: 5px 10px;
   border-radius: 20px;
 }
-.tabComponent {
+.tabComponent{
   display: flex;
   justify-content: center;
   align-items: center;

@@ -1,16 +1,16 @@
-.tabsComponent {
+.tabsContainer{
   display: flex;
   align-items: flex-start;
   width: fit-content;
   height: fit-content;
 }
-.tabsComponent1 {
+.variant2Container{
   display: flex;
   align-items: flex-start;
   width: fit-content;
   height: fit-content;
 }
-.tabsComponent2 {
+.variant3Container{
   display: flex;
   align-items: flex-start;
   width: fit-content;
