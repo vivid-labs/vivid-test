@@ -47,28 +47,28 @@ export const Tab = ({
   }[state];
   return (
     <div
+     className={styles.numberText}
+     style={{
+       ...tabState,
+       ...override,
+     }}
+   >
+    <p
       className={styles.tabComponent}
       style={{
-        ...tabState,
-        ...override,
+        ...createdState,
       }}
     >
-      <p
-        className={styles.created}
-        style={{
-          ...createdState,
-        }}
-      >
-        {text}
-      </p>
-      <div
-        className={styles.frame_81}
-        style={{
-          ...frame_81State,
-        }}
-      >
-        <p className={styles.text302}>{number}</p>
-      </div>
+      {text}
+    </p>
+    <div
+      className={styles.frameContainer}
+      style={{
+        ...frame_81State,
+      }}
+    >
+      <p className={styles.createdText}>{number}</p>
     </div>
+   </div> 
   );
 };
