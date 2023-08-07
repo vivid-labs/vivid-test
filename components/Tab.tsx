@@ -1,3 +1,4 @@
+
 export const Tab = ({
   override,
   state,
@@ -58,14 +59,18 @@ export const Tab = ({
       >
         {text}
       </p>
-      <div
-        className="flex items-center px-2.5 py-[5px] rounded-[1.25rem]"
-        style={frame_81State}
-      >
-        <p className="text-white text-base font-[Space_Mono] font-normal leading-[1.4em]">
-          {number}
-        </p>
-      </div>
+      <AiChatDisclaimer frame_81State={frame_81State} number={number} />
     </div>
   );
 };
+
+const AiChatDisclaimer = ({ frame_81State, number }: any) => (
+  <div
+    className="flex items-center px-2.5 py-[5px] rounded-[1.25rem]"
+    style={frame_81State}
+  >
+    <p className="text-white text-base font-[Space_Mono] font-normal leading-[1.4em]">
+      {number}
+    </p>
+  </div>
+);
