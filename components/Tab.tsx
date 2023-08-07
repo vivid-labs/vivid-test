@@ -1,4 +1,5 @@
 import styles from "./Tab.module.css";
+
 export const Tab = ({
   override,
   state,
@@ -47,18 +48,18 @@ export const Tab = ({
   }[state];
   return (
     <div
-     className={styles.numberText}
-     style={{
-       ...tabState,
-       ...override,
-     }}
-   >
-    <p className={styles.tabComponent} style={createdState}>
-      {text}
-    </p>
-    <div className={styles.frameContainer} style={frame_81State}>
-      <p className={styles.created}>{number}</p>
+      className={styles.numberText}
+      style={{
+        ...tabState,
+        ...override,
+      }}
+    >
+      <p className={styles.tabComponent} style={createdState}>
+        {text}
+      </p>
+      <div className={styles.frameContainer} style={frame_81State}>
+        <p className={styles.created}>{number}</p>
+      </div>
     </div>
-   </div> 
   );
 };
