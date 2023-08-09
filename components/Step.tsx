@@ -1,6 +1,7 @@
 import { FigmaLogo } from "./FigmaLogo";
 import img_2585_1 from "./img_2585_1.png";
 import { CheckMark } from "./CheckMark";
+
 export const Step = ({
   override,
   status,
@@ -25,14 +26,7 @@ export const Step = ({
             <div className="absolute w-14 left-0 h-14 top-0 bg-[rgb(244,_86,_154)] rounded-[50%]" />
             {icon}
           </div>
-          <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
-            <p className="w-full h-[23px] text-[rgb(244,_86,_154)] text-base font-black tracking-[0.01px] leading-[23px]">
-              {task}
-            </p>
-            <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
-              {time}
-            </p>
-          </div>
+          <TaskAndTime task={task} time={time} />
           <img
             className="w-5 h-5 object-cover opacity-30"
             src={img_2585_1.src}
@@ -51,14 +45,7 @@ export const Step = ({
               width: "56px",
             }}
           />
-          <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
-            <p className="w-full h-[23px] text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px] line-through">
-              {task}
-            </p>
-            <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
-              {time}
-            </p>
-          </div>
+          <TaskDetails task={task} time={time} />
         </div>
       );
     case "Unsupported":
@@ -71,21 +58,7 @@ export const Step = ({
             <div className="absolute w-14 left-0 h-14 top-0 bg-[rgb(217,_217,_217)] rounded-[50%]" />
             {icon}
           </div>
-          <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
-            <div className="flex items-start gap-2.5 w-full">
-              <p className="text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px]">
-                {task}
-              </p>
-              <div className="overflow-hidden flex items-start px-2 rounded bg-black">
-                <p className="text-white text-base font-medium tracking-[0.01px] leading-[23px]">
-                  Coming Soon!
-                </p>
-              </div>
-            </div>
-            <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
-              {time}
-            </p>
-          </div>
+          <TaskComingSoon task={task} time={time} />
         </div>
       );
     case "Up Next":
@@ -98,24 +71,68 @@ export const Step = ({
             <div className="absolute w-14 left-0 h-14 top-0 bg-[rgb(217,_217,_217)] rounded-[50%]" />
             {icon}
           </div>
-          <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
-            <div className="flex items-start gap-2.5">
-              <p className="self-stretch text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px]">
-                {task}
-              </p>
-              <div className="overflow-hidden flex items-start px-2 rounded bg-black">
-                <p className="text-white text-base font-medium tracking-[0.01px] leading-[23px]">
-                  Up Next!
-                </p>
-              </div>
-            </div>
-            <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
-              {time}
-            </p>
-          </div>
+          <TaskInfo task={task} time={time} />
         </div>
       );
     default:
       return null;
   }
 };
+
+const TaskAndTime = ({ task, time }: any) => (
+  <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
+    <p className="w-full h-[23px] text-[rgb(244,_86,_154)] text-base font-black tracking-[0.01px] leading-[23px]">
+      {task}
+    </p>
+    <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
+      {time}
+    </p>
+  </div>
+);
+
+const TaskDetails = ({ task, time }: any) => (
+  <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
+    <p className="w-full h-[23px] text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px] line-through">
+      {task}
+    </p>
+    <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
+      {time}
+    </p>
+  </div>
+);
+
+const TaskComingSoon = ({ task, time }: any) => (
+  <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
+    <div className="flex items-start gap-2.5 w-full">
+      <p className="text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px]">
+        {task}
+      </p>
+      <div className="overflow-hidden flex items-start px-2 rounded bg-black">
+        <p className="text-white text-base font-medium tracking-[0.01px] leading-[23px]">
+          Coming Soon!
+        </p>
+      </div>
+    </div>
+    <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
+      {time}
+    </p>
+  </div>
+);
+
+const TaskInfo = ({ task, time }: any) => (
+  <div className="flex flex-col items-start gap-2.5 flex-1 min-w-0">
+    <div className="flex items-start gap-2.5">
+      <p className="self-stretch text-[rgb(148,_148,_148)] text-base font-black tracking-[0.01px] leading-[23px]">
+        {task}
+      </p>
+      <div className="overflow-hidden flex items-start px-2 rounded bg-black">
+        <p className="text-white text-base font-medium tracking-[0.01px] leading-[23px]">
+          Up Next!
+        </p>
+      </div>
+    </div>
+    <p className="w-full h-5 text-[rgb(148,_148,_148)] text-sm font-medium tracking-[0.01px] leading-[23px]">
+      {time}
+    </p>
+  </div>
+);
