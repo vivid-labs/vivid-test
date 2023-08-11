@@ -40,84 +40,91 @@ import vector from "./vector.svg";
 import groupImage from "./groupImage.svg";
 import group from "./group.svg";
 import chatbotImage from "./chatbotImage.png";
+
 export const Workpay = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <div className={styles.workpayComponent} style={override}>
-      <div className={styles.background}>
-        <img className={styles.vector} src={vectorImage31.src} />
-        <img className={styles.vectorImage} src={vectorImage30.src} />
-        <img className={styles.vectorImage1} src={vectorImage29.src} />
-        <img className={styles.vectorImage2} src={vectorImage28.src} />
-        <img className={styles.vectorImage3} src={vectorImage27.src} />
-        <img className={styles.vectorImage4} src={vectorImage26.src} />
-        <img className={styles.vectorImage5} src={vectorImage25.src} />
-        <img className={styles.vectorImage6} src={vectorImage24.src} />
-        <img className={styles.vectorImage7} src={vectorImage23.src} />
-        <img className={styles.vectorImage8} src={vectorImage22.src} />
-        <img className={styles.vectorImage9} src={vectorImage21.src} />
-        <div>
-          <img className={styles.group} src={groupImage5.src} />
-        </div>
-        <img className={styles.vectorImage10} src={vectorImage20.src} />
-        <img className={styles.vectorImage11} src={vectorImage19.src} />
-        <img className={styles.vectorImage12} src={vectorImage18.src} />
-        <img className={styles.vectorImage13} src={vectorImage17.src} />
-        <img className={styles.vectorImage14} src={vectorImage16.src} />
-        <img className={styles.vectorImage15} src={vectorImage15.src} />
-        <img className={styles.groupImage} src={groupImage4.src} />
-        <img className={styles.vectorImage16} src={vectorImage14.src} />
-        <img className={styles.vectorImage17} src={vectorImage13.src} />
-        <img className={styles.vectorImage18} src={vectorImage12.src} />
-        <img className={styles.vectorImage19} src={vectorImage11.src} />
-        <img className={styles.vectorImage20} src={vectorImage10.src} />
-        <img className={styles.vectorImage21} src={vectorImage9.src} />
-        <div>
-          <img className={styles.groupImage1} src={groupImage3.src} />
-        </div>
-        <img className={styles.vectorImage22} src={vectorImage8.src} />
-        <img className={styles.vectorImage23} src={vectorImage7.src} />
-        <img className={styles.vectorImage24} src={vectorImage6.src} />
-        <img className={styles.vectorImage25} src={vectorImage5.src} />
-        <img className={styles.vectorImage26} src={vectorImage4.src} />
-        <img className={styles.vectorImage27} src={vectorImage3.src} />
-        <img className={styles.vectorImage28} src={vectorImage2.src} />
-        <img className={styles.vectorImage29} src={vectorImage1.src} />
-        <img className={styles.groupImage2} src={groupImage2.src} />
-        <img className={styles.vectorImage30} src={vectorImage.src} />
-        <img className={styles.groupImage3} src={groupImage1.src} />
-        <img className={styles.vectorImage31} src={vector.src} />
-        <div>
-          <img className={styles.groupImage4} src={groupImage.src} />
-        </div>
-        <div>
-          <img className={styles.groupImage5} src={group.src} />
-        </div>
-      </div>
+      <VectorImages />
       <div className={styles.overlay} />
       <div className={styles.chatbotIcon}>
         <div className={styles.chatbotCircle} />
         <img className={styles.chatbotImage} src={chatbotImage.src} />
       </div>
-      <div className={styles.chatbotPane}>
-        <div className={styles.messages}>
-          <div className={styles.message}>
-            <p
-              className={
-                styles.hiimportantICanAnswerAnyOfYourQuestionsAboutWorkpay
-              }
-            >
-              Hi! I can answer any of your questions about Workpay.
-            </p>
-          </div>
-        </div>
-        <div className={styles.inputSection}>
-          <div className={styles.input}>
-            <p className={styles.howDoIReviewExpenses}>
-              How do I review expenses...
-            </p>
-          </div>
-        </div>
-      </div>
+      <WorkpayChatbot />
     </div>
   );
 };
+
+const VectorImages = () => (
+  <div className={styles.background}>
+    <img className={styles.vector} src={vectorImage31.src} />
+    <img className={styles.vectorImage} src={vectorImage30.src} />
+    <img className={styles.vectorImage1} src={vectorImage29.src} />
+    <img className={styles.vectorImage2} src={vectorImage28.src} />
+    <img className={styles.vectorImage3} src={vectorImage27.src} />
+    <img className={styles.vectorImage4} src={vectorImage26.src} />
+    <img className={styles.vectorImage5} src={vectorImage25.src} />
+    <img className={styles.vectorImage6} src={vectorImage24.src} />
+    <img className={styles.vectorImage7} src={vectorImage23.src} />
+    <img className={styles.vectorImage8} src={vectorImage22.src} />
+    <img className={styles.vectorImage9} src={vectorImage21.src} />
+    <div>
+      <img className={styles.group} src={groupImage5.src} />
+    </div>
+    <img className={styles.vectorImage10} src={vectorImage20.src} />
+    <img className={styles.vectorImage11} src={vectorImage19.src} />
+    <img className={styles.vectorImage12} src={vectorImage18.src} />
+    <img className={styles.vectorImage13} src={vectorImage17.src} />
+    <img className={styles.vectorImage14} src={vectorImage16.src} />
+    <img className={styles.vectorImage15} src={vectorImage15.src} />
+    <img className={styles.groupImage} src={groupImage4.src} />
+    <img className={styles.vectorImage16} src={vectorImage14.src} />
+    <img className={styles.vectorImage17} src={vectorImage13.src} />
+    <img className={styles.vectorImage18} src={vectorImage12.src} />
+    <img className={styles.vectorImage19} src={vectorImage11.src} />
+    <img className={styles.vectorImage20} src={vectorImage10.src} />
+    <img className={styles.vectorImage21} src={vectorImage9.src} />
+    <div>
+      <img className={styles.groupImage1} src={groupImage3.src} />
+    </div>
+    <img className={styles.vectorImage22} src={vectorImage8.src} />
+    <img className={styles.vectorImage23} src={vectorImage7.src} />
+    <img className={styles.vectorImage24} src={vectorImage6.src} />
+    <img className={styles.vectorImage25} src={vectorImage5.src} />
+    <img className={styles.vectorImage26} src={vectorImage4.src} />
+    <img className={styles.vectorImage27} src={vectorImage3.src} />
+    <img className={styles.vectorImage28} src={vectorImage2.src} />
+    <img className={styles.vectorImage29} src={vectorImage1.src} />
+    <img className={styles.groupImage2} src={groupImage2.src} />
+    <img className={styles.vectorImage30} src={vectorImage.src} />
+    <img className={styles.groupImage3} src={groupImage1.src} />
+    <img className={styles.vectorImage31} src={vector.src} />
+    <div>
+      <img className={styles.groupImage4} src={groupImage.src} />
+    </div>
+    <div>
+      <img className={styles.groupImage5} src={group.src} />
+    </div>
+  </div>
+);
+
+const WorkpayChatbot = () => (
+  <div className={styles.chatbotPane}>
+    <div className={styles.messages}>
+      <div className={styles.message}>
+        <p
+          className={styles.hiimportantICanAnswerAnyOfYourQuestionsAboutWorkpay}
+        >
+          Hi! I can answer any of your questions about Workpay.
+        </p>
+      </div>
+    </div>
+    <div className={styles.inputSection}>
+      <div className={styles.input}>
+        <p className={styles.howDoIReviewExpenses}>
+          How do I review expenses...
+        </p>
+      </div>
+    </div>
+  </div>
+);
