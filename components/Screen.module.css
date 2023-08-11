@@ -1,0 +1,143 @@
+.backArrow {
+  rotate: -180deg;
+  width: 20px;
+  height: 0px;
+}
+.socialIcon {
+  width: 13px;
+  height: 17px;
+}
+.controls {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 4px 8px;
+  position: relative;
+  width: 100%;
+  height: 30px;
+  border-style: solid;
+  border-color: rgb(246, 246, 246);
+  border-bottom-width: 3px;
+}
+.screenshot_2023_08_10At_7_17_1 {
+  width: 54px;
+  height: 51px;
+  object-fit: cover;
+}
+.onDecember_1st_2027BitcoinPriceWillBe_81_045_74OfMoreq {
+  width: 272px;
+  color: rgb(90, 90, 90);
+  font-size: 16px;
+  font-weight: 600;
+}
+.banner {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: 100%;
+}
+.text51_00 {
+  color: rgb(0, 87, 138);
+  font-size: 32px;
+  font-weight: 700;
+}
+.screenshot_2023_08_10At_7_19_1 {
+  width: 127px;
+  align-self: stretch;
+  object-fit: cover;
+}
+.price {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: fit-content;
+  width: 100%;
+}
+.body {
+  height: 100%;
+  flex: 1 1 0%;
+  min-width: 0px;
+  object-fit: contain;
+}
+.orders {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  flex: 1 1 0%;
+  min-height: 0px;
+}
+.buttons {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: fit-content;
+  width: 100%;
+}
+.overlay {
+  overflow: hidden;
+  backdrop-filter: blur(1px);
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  top: 0px;
+  bottom: 0px;
+  height: auto;
+  background-color: rgba(199, 199, 199, 0.43);
+}
+.limitedTimeOrderimportant {
+  width: 179px;
+  color: rgb(9, 85, 127);
+  font-size: 18px;
+  font-weight: 700;
+}
+.etherWillCloseHigherTodayq {
+  color: rgb(0, 0, 0);
+  font-size: 12px;
+  font-weight: 500;
+}
+.group_1 {
+  position: absolute;
+  left: 234px;
+  right: 13.39px;
+  width: auto;
+  top: 11.5px;
+  bottom: 193.67px;
+  height: auto;
+}
+.alert {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding: 24px 40px;
+  border-radius: 12px;
+  position: absolute;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+  left: calc(50% - 130px);
+  top: calc(50% - 58.5px);
+  background-color: rgb(255, 255, 255);
+}
+.screenComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 8px;
+  position: relative;
+  width: 100%;
+  height: 752px;
+  background-color: rgb(255, 255, 255);
+  font-family: Inter;
+}
