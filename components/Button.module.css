@@ -1,9 +1,9 @@
-.yes {
+.buttonText{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 600;
 }
-.buttonComponent {
+.buttonContainer{
   overflow: hidden;
   display: flex;
   justify-content: center;

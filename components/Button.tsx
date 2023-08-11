@@ -7,8 +7,8 @@ export const Button = ({
   text: string;
 }) => {
   return (
-    <div className={styles.buttonComponent} style={override}>
-      <p className={styles.yes}>{text}</p>
-    </div>
+    <div className={styles.buttonContainer} style={override}>
+    <p className={styles.buttonText}>{text}</p>
+   </div> 
   );
 };

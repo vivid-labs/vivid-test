@@ -9,57 +9,57 @@ import group_1 from "./group_1.svg";
 export const Screen = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <div className={styles.screenComponent} style={override}>
-      <div className={styles.controls}>
-        <img className={styles.backArrow} src={backArrow.src} />
-        <img className={styles.socialIcon} src={socialIcon.src} />
-      </div>
-      <div className={styles.banner}>
-        <img
-          className={styles.screenshot_2023_08_10At_7_17_1}
-          src={screenshot_2023_08_10At_7_17_1.src}
-        />
-        <p
-          className={
-            styles.onDecember_1st_2027BitcoinPriceWillBe_81_045_74OfMoreq
-          }
-        >
-          On December 1st, 2027, Bitcoin price will be &#x24;81,045.74 of more?
-        </p>
-      </div>
-      <div className={styles.price}>
-        <p className={styles.text51_00}>51.00</p>
-        <img
-          className={styles.screenshot_2023_08_10At_7_19_1}
-          src={screenshot_2023_08_10At_7_19_1.src}
-        />
-      </div>
-      <div className={styles.orders}>
-        <img className={styles.body} src={body.src} />
-      </div>
-      <div className={styles.buttons}>
-        <Button text="Yes" />
-        <Button
-          text="Buy No"
-          override={{
-            backgroundColor: "rgb(229, 92, 20)",
-          }}
-        />
-      </div>
-      <div className={styles.overlay} />
-      <div className={styles.alert}>
-        <p className={styles.limitedTimeOrderimportant}>Limited Time Order!</p>
-        <p className={styles.etherWillCloseHigherTodayq}>
-          Ether will close higher today?
-        </p>
-        <img className={styles.group_1} src={group_1.src} />
-        <Button text="Yes" />
-        <Button
-          text="No"
-          override={{
-            backgroundColor: "rgb(229, 92, 20)",
-          }}
-        />
-      </div>
+    <div className={styles.controls}>
+      <img className={styles.backArrow} src={backArrow.src} />
+      <img className={styles.socialIcon} src={socialIcon.src} />
     </div>
+    <div className={styles.banner}>
+      <img
+        className={styles.screenshot_2023_08_10At_7_17_1}
+        src={screenshot_2023_08_10At_7_17_1.src}
+      />
+      <p
+        className={
+          styles.bitcoinPriceDescription
+        }
+      >
+        On December 1st, 2027, Bitcoin price will be &#x24;81,045.74 of more?
+      </p>
+    </div>
+    <div className={styles.screenshot_2023_08_10At_7_19_1}>
+      <p className={styles.bitcoinPrice}>51.00</p>
+      <img
+        className={styles.text51_00}
+        src={screenshot_2023_08_10At_7_19_1.src}
+      />
+    </div>
+    <div className={styles.orders}>
+      <img className={styles.price} src={body.src} />
+    </div>
+    <div className={styles.buttons}>
+      <Button text="Yes" />
+      <Button
+        text="Buy No"
+        override={{
+          backgroundColor: "rgb(229, 92, 20)",
+        }}
+      />
+    </div>
+    <div className={styles.overlay} />
+    <div className={styles.alert}>
+      <p className={styles.limitedTimeOrder}>Limited Time Order!</p>
+      <p className={styles.etherWillCloseToday}>
+        Ether will close higher today?
+      </p>
+      <img className={styles.group_1} src={group_1.src} />
+      <Button text="Yes" />
+      <Button
+        text="No"
+        override={{
+          backgroundColor: "rgb(229, 92, 20)",
+        }}
+      />
+    </div>
+   </div> 
   );
 };
