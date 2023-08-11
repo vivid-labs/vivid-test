@@ -1,0 +1,174 @@
+.screenshot_2023_08_11At_3_27_1 {
+  width: 53px;
+  height: 49px;
+  object-fit: cover;
+}
+.anneliPriest {
+  width: 155px;
+  height: 24px;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+}
+.name {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  height: fit-content;
+  padding: 4px 0px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(208, 215, 226);
+  border-bottom-width: 1px;
+}
+.viewFullProfile {
+  color: rgb(0, 151, 192);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+}
+.aiSummary {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 16px;
+}
+.assessment {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: fit-content;
+  padding: 8px 0px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(208, 212, 219);
+  border-bottom-width: 1px;
+}
+.thisSummaryIsAiGeneratedAndMayNotBeEntirelyAccurate {
+  width: 310px;
+  color: rgb(107, 114, 128);
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 16px;
+}
+.anneliExcelsInManagingTechnicalTeamsButSheHasLessExperienceBuildingTeamsFromTheGroundUp {
+  flex: 1 1 0%;
+  min-width: 0px;
+  color: rgb(112, 118, 127);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+}
+.summary {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  height: fit-content;
+  padding: 8px;
+  border-radius: 8px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(207, 207, 207);
+  border-width: 1px;
+}
+.frame_1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  height: fit-content;
+  padding: 8px;
+  border-radius: 8px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(223, 78, 65);
+  border-width: 1px;
+}
+.recruiterAssessment {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 16px;
+}
+.assessmentDiv {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: fit-content;
+  padding: 8px 0px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgb(208, 212, 219);
+  border-bottom-width: 1px;
+}
+.wednesdayJuly_13_2016At_4_03pm {
+  width: 260px;
+  height: 33px;
+  color: rgb(107, 114, 128);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 16px;
+}
+.addedByBobMorowitz {
+  color: rgb(107, 114, 128);
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 16px;
+}
+.screenshot_2023_08_11At_3_27_2Image {
+  transform: scale(101.74%, 100.12%) translate(-1.71%, -0.06%);
+  transform-origin: top left;
+  height: 100%;
+  width: 100%;
+}
+.screenshot_2023_08_11At_3_27_2 {
+  width: 255px;
+  height: 103px;
+  transform-origin: top left;
+  overflow: hidden;
+}
+.saaS {
+  width: 142px;
+  color: rgb(112, 118, 127);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+}
+.anneliHasWorkedAtSeveralCompaniesThatProvideSoftwareAsAServiceSolutionsRecentlySheHelpedScaleASaaSProductFrom_3_500UsersToOver_100_000 {
+  width: 100%;
+  color: rgb(112, 118, 127);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+}
+.operationalExpertise {
+  width: 100%;
+  color: rgb(112, 118, 127);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 16px;
+}
+.sheIsCurrentlyManagingATeamOf_20ItProfessionalsSheBuildThisTeamFromTheGroundUp {
+  width: 100%;
+  color: rgb(112, 118, 127);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+}
+.screenComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 20px;
+  width: 100%;
+  height: 522px;
+  background-color: rgb(246, 248, 252);
+  font-family: Inter;
+}
