@@ -5,8 +5,8 @@ export const ButtonText = ({
   override?: React.CSSProperties;
 }) => {
   return (
-    <div className={styles.buttonTextComponent} style={override}>
-      <p className={styles.button}>Button</p>
-    </div>
+    <div className={styles.buttonTextContainer} style={override}>
+    <p className={styles.buttonPrimary}>Button</p>
+   </div> 
   );
 };

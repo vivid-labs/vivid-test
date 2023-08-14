@@ -1,4 +1,4 @@
-.button {
+.buttonPrimary{
   position: absolute;
   left: 0%;
   right: 0%;
@@ -10,7 +10,7 @@
   font-size: 16px;
   font-weight: 700;
 }
-.buttonTextComponent {
+.buttonTextContainer{
   position: relative;
   width: 53px;
   height: 19px;

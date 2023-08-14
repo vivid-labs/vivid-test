@@ -1,4 +1,4 @@
-.corner {
+.buttonCorner{
   position: absolute;
   rotate: 45deg;
   width: 16px;
@@ -7,7 +7,7 @@
   top: -11px;
   background-color: rgb(255, 255, 255);
 }
-.buttonComponent {
+.buttonPrimary{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -21,7 +21,7 @@
   border-color: rgb(255, 255, 255);
   border-width: 2px;
 }
-.cornerDiv {
+.buttonCornerDiv{
   position: absolute;
   rotate: 45deg;
   width: 16px;
@@ -30,7 +30,7 @@
   top: -11px;
   background-color: rgb(255, 255, 255);
 }
-.buttonComponent1 {
+.buttonPrimaryLeft{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -42,7 +42,7 @@
   height: 40px;
   background-color: rgb(77, 132, 240);
 }
-.cornerDiv1 {
+.buttonCornerDiv1{
   position: absolute;
   rotate: 45deg;
   width: 16px;
@@ -51,7 +51,7 @@
   top: -11px;
   background-color: rgb(255, 255, 255);
 }
-.buttonComponent2 {
+.buttonSecondary{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -65,7 +65,7 @@
   border-color: rgb(255, 255, 255);
   border-width: 2px;
 }
-.cornerDiv2 {
+.buttonCornerDiv2{
   position: absolute;
   rotate: 45deg;
   width: 16px;
@@ -74,7 +74,7 @@
   top: -11px;
   background-color: rgb(255, 255, 255);
 }
-.buttonComponent3 {
+.buttonPrimaryRight{
   overflow: hidden;
   display: flex;
   justify-content: center;
