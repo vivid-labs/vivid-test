@@ -1,0 +1,88 @@
+.corner {
+  position: absolute;
+  rotate: 45deg;
+  width: 16px;
+  left: 11px;
+  height: 31px;
+  top: -11px;
+  background-color: rgb(255, 255, 255);
+}
+.buttonComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  position: relative;
+  width: 120px;
+  height: 40px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  border-width: 2px;
+}
+.cornerDiv {
+  position: absolute;
+  rotate: 45deg;
+  width: 16px;
+  left: 11px;
+  height: 31px;
+  top: -11px;
+  background-color: rgb(255, 255, 255);
+}
+.buttonComponent1 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  position: relative;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(77, 132, 240);
+}
+.cornerDiv1 {
+  position: absolute;
+  rotate: 45deg;
+  width: 16px;
+  left: 11px;
+  height: 31px;
+  top: -11px;
+  background-color: rgb(255, 255, 255);
+}
+.buttonComponent2 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  position: relative;
+  width: 120px;
+  height: 40px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+  border-width: 2px;
+}
+.cornerDiv2 {
+  position: absolute;
+  rotate: 45deg;
+  width: 16px;
+  left: 11px;
+  height: 31px;
+  top: -11px;
+  background-color: rgb(255, 255, 255);
+}
+.buttonComponent3 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 8px;
+  position: relative;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(77, 132, 240);
+}
