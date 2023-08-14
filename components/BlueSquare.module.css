@@ -1,0 +1,6 @@
+.blueSquareComponent {
+  overflow: hidden;
+  width: 80px;
+  height: 80px;
+  background-color: rgb(98, 233, 233);
+}

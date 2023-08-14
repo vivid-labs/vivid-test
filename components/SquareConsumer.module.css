@@ -1,0 +1,9 @@
+.squareConsumerComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 160px;
+  background-color: rgb(242, 94, 94);
+}
