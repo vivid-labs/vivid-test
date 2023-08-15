@@ -1,0 +1,36 @@
+.q1SalesReport {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.linkIcon {
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.linkSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 28px;
+  height: 27px;
+  border-style: solid;
+  border-color: rgb(96, 107, 119);
+  border-left-width: 1px;
+  background-color: rgb(43, 54, 66);
+}
+.docComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 0px 0px 0px 8px;
+  border-radius: 8px;
+  width: 207px;
+  border-style: solid;
+  border-color: rgb(96, 107, 119);
+  border-width: 1px;
+  background-color: rgb(28, 41, 54);
+}

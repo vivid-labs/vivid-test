@@ -1,0 +1,39 @@
+.title {
+  color: rgb(252, 253, 255);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+}
+.header {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  padding: 0px 8px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 32px;
+  top: 0px;
+  border-style: solid;
+  border-color: rgb(96, 107, 119);
+  border-bottom-width: 1px;
+  background-color: rgb(43, 54, 66);
+}
+.tooltipComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  height: fit-content;
+  padding: 44px 10px 10px;
+  border-radius: 8px;
+  position: relative;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+  width: 229px;
+  border-style: solid;
+  border-color: rgb(96, 107, 119);
+  border-width: 1px;
+  background-color: rgb(28, 41, 54);
+}
