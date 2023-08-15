@@ -9,10 +9,10 @@ export const Doc = ({
 }) => {
   return (
     <div className={styles.docComponent} style={override}>
-      <p className={styles.q1SalesReport}>{text}</p>
-      <div className={styles.linkSection}>
-        <img className={styles.linkIcon} src={linkIcon.src} />
-      </div>
+    <p className={styles.salesReport}>{text}</p>
+    <div className={styles.linkSection}>
+      <img className={styles.iconLink} src={linkIcon.src} />
     </div>
+   </div> 
   );
 };

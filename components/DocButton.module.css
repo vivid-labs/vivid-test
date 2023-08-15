@@ -1,9 +1,9 @@
-.docImage {
+.docImage{
   width: 20px;
   height: 19px;
   object-fit: cover;
 }
-.docButtonComponent {
+.docButtonComponent{
   display: flex;
   flex-direction: column;
   justify-content: center;
