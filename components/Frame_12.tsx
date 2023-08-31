@@ -1,6 +1,7 @@
 import rectangleImage from "./rectangleImage.png";
 import rectangle from "./rectangle.png";
 import styled from "styled-components";
+
 const AppFeaturesThatHelpManageMoneyMoreOrganized = styled.p`
   width: 769px;
   color: rgb(19, 19, 19);
@@ -8,6 +9,7 @@ const AppFeaturesThatHelpManageMoneyMoreOrganized = styled.p`
   font-weight: 700;
   line-height: 1.2em;
 `;
+
 const MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless = styled.p`
   width: 531px;
   color: rgb(56, 56, 56);
@@ -15,6 +17,7 @@ const MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPl
   font-weight: 400;
   line-height: 1.6em;
 `;
+
 const Frame_19 = styled.div`
   display: flex;
   flex-direction: column;
@@ -23,12 +26,14 @@ const Frame_19 = styled.div`
   height: fit-content;
   width: fit-content;
 `;
+
 const Text = styled.p`
   color: rgb(3, 4, 94);
   font-size: 18px;
   font-weight: 400;
   line-height: 1em;
 `;
+
 const Button = styled.div`
   display: flex;
   justify-content: center;
@@ -39,6 +44,7 @@ const Button = styled.div`
   height: 48px;
   background-color: rgb(255, 109, 0);
 `;
+
 const Frame_13 = styled.div`
   display: flex;
   flex-direction: column;
@@ -47,10 +53,12 @@ const Frame_13 = styled.div`
   height: fit-content;
   width: fit-content;
 `;
+
 const RectangleImage = styled.img`
   height: 100%;
   width: 100%;
 `;
+
 const Rectangle = styled.div`
   position: absolute;
   width: 512px;
@@ -60,10 +68,12 @@ const Rectangle = styled.div`
   transform: scale(-100%, 100%);
   overflow: hidden;
 `;
+
 const RectangleImage1 = styled.img`
   height: 100%;
   width: 100%;
 `;
+
 const RectangleDiv = styled.div`
   position: absolute;
   rotate: -0deg;
@@ -74,6 +84,7 @@ const RectangleDiv = styled.div`
   transform: scale(-100%, 100%);
   overflow: hidden;
 `;
+
 const Frame_41 = styled.div`
   position: absolute;
   width: 512px;
@@ -81,6 +92,7 @@ const Frame_41 = styled.div`
   height: 848px;
   top: 48px;
 `;
+
 const Frame_18 = styled.div`
   overflow: hidden;
   display: flex;
@@ -94,6 +106,7 @@ const Frame_18 = styled.div`
   border-color: rgb(129, 168, 196);
   border-bottom-width: 10px;
 `;
+
 const Frame_12Component = styled.div`
   display: flex;
   flex-direction: column;
@@ -103,33 +116,43 @@ const Frame_12Component = styled.div`
   width: 100%;
   font-family: DM Sans;
 `;
+
 export const Frame_12 = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <Frame_12Component style={override}>
       <Frame_18>
-        <Frame_13>
-          <Frame_19>
-            <AppFeaturesThatHelpManageMoneyMoreOrganized>
-              App features that help manage money more organized
-            </AppFeaturesThatHelpManageMoneyMoreOrganized>
-            <MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless>
-              Make your life easier with comprehensive integration support that
-              allows financial planning to be more seamless.
-            </MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless>
-          </Frame_19>
-          <Button>
-            <Text>Get Started</Text>
-          </Button>
-        </Frame_13>
-        <Frame_41>
-          <Rectangle>
-            <RectangleImage src={rectangleImage.src} />
-          </Rectangle>
-          <RectangleDiv>
-            <RectangleImage1 src={rectangle.src} />
-          </RectangleDiv>
-        </Frame_41>
+        <AppFeaturesThatHelpManageMoneyMoreOrganizedAndMakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamlessGetStarted />
+        <Frame41 />
       </Frame_18>
     </Frame_12Component>
   );
 };
+
+const AppFeaturesThatHelpManageMoneyMoreOrganizedAndMakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamlessGetStarted =
+  () => (
+    <Frame_13>
+      <Frame_19>
+        <AppFeaturesThatHelpManageMoneyMoreOrganized>
+          App features that help manage money more organized
+        </AppFeaturesThatHelpManageMoneyMoreOrganized>
+        <MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless>
+          Make your life easier with comprehensive integration support that
+          allows financial planning to be more seamless.
+        </MakeYourLifeEasierWithComprehensiveIntegrationSupportThatAllowsFinancialPlanningToBeMoreSeamless>
+      </Frame_19>
+      <Button>
+        <Text>Get Started</Text>
+      </Button>
+    </Frame_13>
+  );
+
+const Frame41 = () => (
+  <Frame_41>
+    <Rectangle>
+      <RectangleImage src={rectangleImage.src} />
+    </Rectangle>
+    <RectangleDiv>
+      <RectangleImage1 src={rectangle.src} />
+    </RectangleDiv>
+  </Frame_41>
+);
