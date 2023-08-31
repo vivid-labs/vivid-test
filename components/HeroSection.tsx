@@ -5,6 +5,7 @@ import { Feature } from "./Feature";
 import { VolumeDown } from "./VolumeDown";
 import { Program } from "./Program";
 import { Home } from "./Home";
+
 export const HeroSection = ({
   override,
 }: {
@@ -45,15 +46,7 @@ export const HeroSection = ({
           width: "100%",
         }}
       />
-      <div className="relative w-[793px] h-[304px]">
-        <p className="absolute w-[793px] left-0 top-0 text-white text-[70px] font-bold tracking-[-0.03em]">
-          Switzerland Has Never Been So Affordable
-        </p>
-        <p className="absolute w-[469px] left-[162px] top-[186px] text-white text-[25px] font-normal tracking-[-0.03em]">
-          Discover Switzerland. Choose the best programs, guides, hotels and
-          restaurants.
-        </p>
-      </div>
+      <SwitzerlandHasNeverBeenSoAffordable />
       <Button color="White" />
       <div className="flex justify-center items-start gap-[31px]">
         {featureProps.map((props, i) => (
@@ -63,3 +56,15 @@ export const HeroSection = ({
     </div>
   );
 };
+
+const SwitzerlandHasNeverBeenSoAffordable = () => (
+  <div className="relative w-[793px] h-[304px]">
+    <p className="absolute w-[793px] left-0 top-0 text-white text-[70px] font-bold tracking-[-0.03em]">
+      Switzerland Has Never Been So Affordable
+    </p>
+    <p className="absolute w-[469px] left-[162px] top-[186px] text-white text-[25px] font-normal tracking-[-0.03em]">
+      Discover Switzerland. Choose the best programs, guides, hotels and
+      restaurants.
+    </p>
+  </div>
+);
