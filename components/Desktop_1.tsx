@@ -2,21 +2,14 @@ import screenshot_2023_09_05At_4_10_1 from "./screenshot_2023_09_05At_4_10_1.jpg
 import logo from "./logo.png";
 import { Button } from "./Button";
 import x from "./x.svg";
+
 export const Desktop_1 = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <div
       className="overflow-hidden flex flex-col items-start gap-2.5 relative w-full h-[1008px] bg-white font-[Arial]"
       style={override}
     >
-      <div className="absolute w-[1440px] left-0 h-[1024px] top-[11px] origin-top-left overflow-hidden">
-        <img
-          className="origin-top-left h-full w-full"
-          style={{
-            transform: "scale(100%, 100.81%) translate(0%, -0.8%)",
-          }}
-          src={screenshot_2023_09_05At_4_10_1.src}
-        />
-      </div>
+      <ScreenshotComponent />
       <div className="overflow-hidden flex justify-center items-center px-[334px] py-[139px] w-full flex-1 min-h-0 bg-[rgba(179,_179,_179,_0.5)]">
         <div
           className="overflow-hidden flex flex-col justify-center items-center gap-16 p-16 rounded-xl relative w-[480px] bg-white"
@@ -33,18 +26,7 @@ export const Desktop_1 = ({ override }: { override?: React.CSSProperties }) => {
           <p className="w-full text-[rgb(91,_100,_117)] text-2xl font-bold">
             Start asking about your data
           </p>
-          <Button
-            text="Get started"
-            override={{
-              height: "fit-content",
-              width: "fit-content",
-              justifyContent: "center",
-              alignItems: "center",
-              backgroundColor: "rgb(0, 148, 129)",
-              padding: "16px",
-              borderRadius: "8px",
-            }}
-          />
+          <AiChatIntroduction />
           <div className="overflow-hidden flex justify-center items-center py-px absolute right-[30px] top-[22.5px]">
             <img className="w-5 h-[22px]" src={x.src} />
           </div>
@@ -53,3 +35,30 @@ export const Desktop_1 = ({ override }: { override?: React.CSSProperties }) => {
     </div>
   );
 };
+
+const ScreenshotComponent = () => (
+  <div className="absolute w-[1440px] left-0 h-[1024px] top-[11px] origin-top-left overflow-hidden">
+    <img
+      className="origin-top-left h-full w-full"
+      style={{
+        transform: "scale(100%, 100.81%) translate(0%, -0.8%)",
+      }}
+      src={screenshot_2023_09_05At_4_10_1.src}
+    />
+  </div>
+);
+
+const AiChatIntroduction = () => (
+  <Button
+    text="Get started"
+    override={{
+      height: "fit-content",
+      width: "fit-content",
+      justifyContent: "center",
+      alignItems: "center",
+      backgroundColor: "rgb(0, 148, 129)",
+      padding: "16px",
+      borderRadius: "8px",
+    }}
+  />
+);
