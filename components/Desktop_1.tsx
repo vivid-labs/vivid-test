@@ -3,12 +3,14 @@ import logo from "./logo.png";
 import { Button } from "./Button";
 import x from "./x.svg";
 import styled from "styled-components";
+
 const Screenshot_2023_09_05At_4_10_1Image = styled.img`
   transform: scale(100%, 100.81%) translate(0%, -0.8%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 `;
+
 const Screenshot_2023_09_05At_4_10_1 = styled.div`
   position: absolute;
   width: 1440px;
@@ -18,17 +20,20 @@ const Screenshot_2023_09_05At_4_10_1 = styled.div`
   transform-origin: top left;
   overflow: hidden;
 `;
+
 const ModalTitle = styled.p`
   width: 100%;
   color: rgb(0, 150, 134);
   font-size: 36px;
   font-weight: 700;
 `;
+
 const Logo = styled.img`
   width: 73px;
   height: 62px;
   object-fit: cover;
 `;
+
 const LogoContainer = styled.div`
   overflow: hidden;
   display: flex;
@@ -41,16 +46,19 @@ const LogoContainer = styled.div`
   height: 95px;
   background-color: rgb(255, 126, 64);
 `;
+
 const Description = styled.p`
   width: 100%;
   color: rgb(91, 100, 117);
   font-size: 24px;
   font-weight: 700;
 `;
+
 const X = styled.img`
   width: 20px;
   height: 22px;
 `;
+
 const Frame_1 = styled.div`
   overflow: hidden;
   display: flex;
@@ -63,6 +71,7 @@ const Frame_1 = styled.div`
   right: 30px;
   top: 22.5px;
 `;
+
 const Modal = styled.div`
   overflow: hidden;
   display: flex;
@@ -78,6 +87,7 @@ const Modal = styled.div`
   width: 480px;
   background-color: rgb(255, 255, 255);
 `;
+
 const BackgroundOverlay = styled.div`
   overflow: hidden;
   display: flex;
@@ -89,6 +99,7 @@ const BackgroundOverlay = styled.div`
   min-height: 0px;
   background-color: rgba(179, 179, 179, 0.5);
 `;
+
 const Desktop_1Component = styled.div`
   overflow: hidden;
   display: flex;
@@ -101,6 +112,7 @@ const Desktop_1Component = styled.div`
   background-color: rgb(255, 255, 255);
   font-family: Arial;
 `;
+
 export const Desktop_1 = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <Desktop_1Component style={override}>
@@ -109,30 +121,34 @@ export const Desktop_1 = ({ override }: { override?: React.CSSProperties }) => {
           src={screenshot_2023_09_05At_4_10_1.src}
         />
       </Screenshot_2023_09_05At_4_10_1>
-      <BackgroundOverlay>
-        <Modal>
-          <ModalTitle>Welcome to Pri-AI!</ModalTitle>
-          <LogoContainer>
-            <Logo src={logo.src} />
-          </LogoContainer>
-          <Description>Start asking about your data</Description>
-          <Button
-            text="Get started"
-            override={{
-              height: "fit-content",
-              width: "fit-content",
-              justifyContent: "center",
-              alignItems: "center",
-              backgroundColor: "rgb(0, 148, 129)",
-              padding: "16px",
-              borderRadius: "8px",
-            }}
-          />
-          <Frame_1>
-            <X src={x.src} />
-          </Frame_1>
-        </Modal>
-      </BackgroundOverlay>
+      <WelcomeModal />
     </Desktop_1Component>
   );
 };
+
+const WelcomeModal = () => (
+  <BackgroundOverlay>
+    <Modal>
+      <ModalTitle>Welcome to Pri-AI!</ModalTitle>
+      <LogoContainer>
+        <Logo src={logo.src} />
+      </LogoContainer>
+      <Description>Start asking about your data</Description>
+      <Button
+        text="Get started"
+        override={{
+          height: "fit-content",
+          width: "fit-content",
+          justifyContent: "center",
+          alignItems: "center",
+          backgroundColor: "rgb(0, 148, 129)",
+          padding: "16px",
+          borderRadius: "8px",
+        }}
+      />
+      <Frame_1>
+        <X src={x.src} />
+      </Frame_1>
+    </Modal>
+  </BackgroundOverlay>
+);
