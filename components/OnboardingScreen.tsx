@@ -2,6 +2,7 @@ import screenshot_2023_09_05At_4_10_1 from "./screenshot_2023_09_05At_4_10_1.jpg
 import logo from "./logo.png";
 import { Button } from "./Button";
 import x from "./x.svg";
+
 export const OnboardingScreen = ({
   override,
 }: {
@@ -12,15 +13,7 @@ export const OnboardingScreen = ({
       className="overflow-hidden flex flex-col items-start gap-2.5 relative w-full h-[1024px] bg-white font-[Arial]"
       style={override}
     >
-      <div className="absolute left-0 right-0 w-auto top-[11px] -bottom-[11px] h-auto origin-top-left overflow-hidden">
-        <img
-          className="origin-top-left h-full w-full"
-          style={{
-            transform: "scale(100%, 100.81%) translate(0%, -0.8%)",
-          }}
-          src={screenshot_2023_09_05At_4_10_1.src}
-        />
-      </div>
+      <ScreenshotCard />
       <div className="overflow-hidden flex justify-center items-center px-[334px] py-[139px] w-full flex-1 min-h-0 bg-[rgba(179,_179,_179,_0.5)]">
         <div
           className="overflow-hidden flex flex-col justify-center items-center gap-16 p-16 rounded-xl relative w-[480px] bg-white"
@@ -37,18 +30,7 @@ export const OnboardingScreen = ({
           <p className="w-full text-[rgb(91,_100,_117)] text-2xl font-bold">
             Start asking about your data
           </p>
-          <Button
-            text="Get started"
-            override={{
-              height: "fit-content",
-              width: "fit-content",
-              justifyContent: "center",
-              alignItems: "center",
-              backgroundColor: "rgb(0, 148, 129)",
-              padding: "16px",
-              borderRadius: "8px",
-            }}
-          />
+          <GetStarted />
           <div className="overflow-hidden flex justify-center items-center py-px absolute right-[30px] top-[22.5px]">
             <img className="w-5 h-[22px]" src={x.src} />
           </div>
@@ -57,3 +39,30 @@ export const OnboardingScreen = ({
     </div>
   );
 };
+
+const ScreenshotCard = () => (
+  <div className="absolute left-0 right-0 w-auto top-[11px] -bottom-[11px] h-auto origin-top-left overflow-hidden">
+    <img
+      className="origin-top-left h-full w-full"
+      style={{
+        transform: "scale(100%, 100.81%) translate(0%, -0.8%)",
+      }}
+      src={screenshot_2023_09_05At_4_10_1.src}
+    />
+  </div>
+);
+
+const GetStarted = () => (
+  <Button
+    text="Get started"
+    override={{
+      height: "fit-content",
+      width: "fit-content",
+      justifyContent: "center",
+      alignItems: "center",
+      backgroundColor: "rgb(0, 148, 129)",
+      padding: "16px",
+      borderRadius: "8px",
+    }}
+  />
+);
