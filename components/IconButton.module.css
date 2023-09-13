@@ -1,4 +1,4 @@
-.iconButtonComponent {
+.iconButton{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -10,7 +10,7 @@
   border-color: rgb(194, 195, 200);
   border-width: 1px;
 }
-.iconButtonComponent1 {
+.iconButton1{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -22,25 +22,25 @@
   border-color: rgb(194, 195, 200);
   border-width: 1px;
 }
-.ellipse_1 {
+.ellipse1{
   width: 2px;
   height: 2px;
   background-color: rgb(80, 86, 98);
   border-radius: 50%;
 }
-.ellipse_2 {
+.ellipse2{
   width: 2px;
   height: 2px;
   background-color: rgb(80, 86, 98);
   border-radius: 50%;
 }
-.ellipse_3 {
+.ellipse3{
   width: 2px;
   height: 2px;
   background-color: rgb(80, 86, 98);
   border-radius: 50%;
 }
-.ellipsisContainer {
+.ellipsisContainer{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -48,7 +48,7 @@
   width: fit-content;
   height: fit-content;
 }
-.iconButtonComponent2 {
+.iconButton2{
   overflow: hidden;
   display: flex;
   justify-content: center;

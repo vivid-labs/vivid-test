@@ -1,9 +1,9 @@
-.zoomLogo {
+.logo{
   width: 22px;
   height: 5px;
   object-fit: cover;
 }
-.zoomIconComponent {
+.container{
   overflow: hidden;
   display: flex;
   flex-direction: column;

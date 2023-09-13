@@ -7,8 +7,8 @@ export const UserAvatar = ({
   letters: string;
 }) => {
   return (
-    <div className={styles.userAvatarComponent} style={override}>
-      <p className={styles.hp}>{letters}</p>
-    </div>
+    <div className={styles.initials} style={override}>
+    <p className={styles.avatar}>{letters}</p>
+   </div> 
   );
 };

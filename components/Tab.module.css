@@ -1,9 +1,9 @@
-.assignedToMe_15 {
+.assignedToMe{
   font-size: 14px;
   font-weight: 500;
   letter-spacing: -0.1px;
 }
-.tabComponent {
+.tabComponent{
   overflow: hidden;
   display: flex;
   justify-content: center;

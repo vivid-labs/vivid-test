@@ -1,16 +1,16 @@
-.harryPotter {
+.requestRowComponent{
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 500;
   letter-spacing: -0.1px;
 }
-.harryatLumosCom {
+.userContainer{
   color: rgb(123, 129, 138);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.nameContainer {
+.nameContainer{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -20,7 +20,7 @@
   height: fit-content;
   width: fit-content;
 }
-.userContainer {
+.userName{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -28,54 +28,54 @@
   height: fit-content;
   width: 184px;
 }
-.manager {
+.userEmail{
   width: 117px;
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.accountStatus {
+.managerName{
   width: 93px;
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.lastTime {
+.accountStatus{
   width: 89px;
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.groups {
+.lastTime{
   width: 124px;
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.licenses {
+.groups{
   width: 94px;
   color: rgb(3, 3, 3);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.line_1 {
+.licenses{
   rotate: 90deg;
   width: 24px;
   height: 0px;
 }
-.buttonContainer {
+.lineImage{
   display: flex;
   align-items: center;
   gap: 8px;
   width: fit-content;
   height: fit-content;
 }
-.decisionContainer {
+.buttonContainer{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -87,7 +87,7 @@
   top: calc(50% - 30px);
   background-color: rgb(255, 255, 255);
 }
-.requestRowComponent {
+.decisionContainer{
   overflow: hidden;
   display: flex;
   align-items: center;

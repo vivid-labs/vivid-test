@@ -1,8 +1,8 @@
-.x {
+.icon{
   width: 9px;
   height: 8px;
 }
-.xIconComponent {
+.iconComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;

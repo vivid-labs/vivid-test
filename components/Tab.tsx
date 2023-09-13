@@ -18,14 +18,14 @@ export const Tab = ({
         };
   return (
     <div className={styles.tabComponent} style={override}>
-      <p
-        className={styles.assignedToMe_15}
-        style={{
-          ...assignedToMe_15Status,
-        }}
-      >
-        {text}
-      </p>
-    </div>
+    <p
+      className={styles.assignedToMe}
+      style={{
+        ...assignedToMe_15Status,
+      }}
+    >
+      {text}
+    </p>
+   </div> 
   );
 };

@@ -22,20 +22,20 @@ export const Step = ({
     case "Active":
       return (
         <div className={styles.stepComponent1} style={override}>
-          <div className={styles.stepIcon}>
-            <p className={styles.text1}>{number}</p>
-          </div>
-          <p className={styles.stepText1}>{text}</p>
+        <div className={styles.text1}>
+          <p className={styles.stepText1}>{number}</p>
         </div>
+        <p className={styles.stepIcon}>{text}</p>
+       </div> 
       );
     case "To Do":
       return (
         <div className={styles.stepComponent2} style={override}>
-          <div className={styles.stepIconDiv}>
-            <p className={styles.text1Text}>{number}</p>
-          </div>
-          <p className={styles.stepText2}>{text}</p>
+        <div className={styles.text1Text}>
+          <p className={styles.stepText2}>{number}</p>
         </div>
+        <p className={styles.stepIconDiv}>{text}</p>
+       </div> 
       );
     default:
       return null;

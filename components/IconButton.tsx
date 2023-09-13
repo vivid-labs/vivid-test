@@ -11,30 +11,30 @@ export const IconButton = ({
   switch (icon) {
     case "Check":
       return (
-        <div className={styles.iconButtonComponent} style={override}>
-          <CheckIcon
-            override={{
-              height: "20px",
-              width: "20px",
-            }}
-          />
-        </div>
+        <div className={styles.iconButton} style={override}>
+        <CheckIcon
+          override={{
+            height: "20px",
+            width: "20px",
+          }}
+        />
+       </div> 
       );
     case "X":
       return (
-        <div className={styles.iconButtonComponent1} style={override}>
-          <XIcon />
-        </div>
+        <div className={styles.iconButton1} style={override}>
+        <XIcon />
+       </div> 
       );
     case "Ellipsis":
       return (
-        <div className={styles.iconButtonComponent2} style={override}>
-          <div className={styles.ellipsisContainer}>
-            <div className={styles.ellipse_1} />
-            <div className={styles.ellipse_2} />
-            <div className={styles.ellipse_3} />
-          </div>
+        <div className={styles.iconButton2} style={override}>
+        <div className={styles.ellipsisContainer}>
+          <div className={styles.ellipse1} />
+          <div className={styles.ellipse2} />
+          <div className={styles.ellipse3} />
         </div>
+       </div> 
       );
     default:
       return null;
