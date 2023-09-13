@@ -1,0 +1,14 @@
+.stepBarComponent {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  height: fit-content;
+  padding: 12px 10px;
+  border-radius: 8px;
+  width: 466px;
+  border-style: solid;
+  border-color: rgb(225, 226, 230);
+  border-width: 1px;
+  background-color: rgb(255, 255, 255);
+}

@@ -1,0 +1,62 @@
+.iconButtonComponent {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  width: 28px;
+  height: 28px;
+  border-style: solid;
+  border-color: rgb(194, 195, 200);
+  border-width: 1px;
+}
+.iconButtonComponent1 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  width: 28px;
+  height: 28px;
+  border-style: solid;
+  border-color: rgb(194, 195, 200);
+  border-width: 1px;
+}
+.ellipse_1 {
+  width: 2px;
+  height: 2px;
+  background-color: rgb(80, 86, 98);
+  border-radius: 50%;
+}
+.ellipse_2 {
+  width: 2px;
+  height: 2px;
+  background-color: rgb(80, 86, 98);
+  border-radius: 50%;
+}
+.ellipse_3 {
+  width: 2px;
+  height: 2px;
+  background-color: rgb(80, 86, 98);
+  border-radius: 50%;
+}
+.ellipsisContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+}
+.iconButtonComponent2 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  width: 28px;
+  height: 28px;
+  border-style: solid;
+  border-color: rgb(194, 195, 200);
+  border-width: 1px;
+}

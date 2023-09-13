@@ -1,0 +1,102 @@
+.harryPotter {
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: -0.1px;
+}
+.harryatLumosCom {
+  color: rgb(123, 129, 138);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.nameContainer {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 4px;
+  height: fit-content;
+  width: fit-content;
+}
+.userContainer {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: fit-content;
+  width: 184px;
+}
+.manager {
+  width: 117px;
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.accountStatus {
+  width: 93px;
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.lastTime {
+  width: 89px;
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.groups {
+  width: 124px;
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.licenses {
+  width: 94px;
+  color: rgb(3, 3, 3);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.line_1 {
+  rotate: 90deg;
+  width: 24px;
+  height: 0px;
+}
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: fit-content;
+  height: fit-content;
+}
+.decisionContainer {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  width: 171px;
+  right: 0px;
+  height: 60px;
+  top: calc(50% - 30px);
+  background-color: rgb(255, 255, 255);
+}
+.requestRowComponent {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  padding: 0px 14px 0px 54px;
+  position: relative;
+  width: 980px;
+  height: 60px;
+  border-style: solid;
+  border-color: rgb(243, 244, 246);
+  border-bottom-width: 1px;
+  background-color: rgb(255, 255, 255);
+}

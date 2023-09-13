@@ -1,0 +1,16 @@
+.x {
+  width: 9px;
+  height: 8px;
+}
+.xIconComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9999px;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  background-color: rgb(235, 115, 92);
+}

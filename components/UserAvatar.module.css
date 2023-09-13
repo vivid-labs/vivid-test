@@ -1,0 +1,19 @@
+.hp {
+  color: rgb(80, 86, 98);
+  font-size: 8px;
+  font-weight: 400;
+  letter-spacing: -0.1px;
+}
+.userAvatarComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 9999px;
+  width: 24px;
+  height: 24px;
+  border-style: solid;
+  border-color: rgb(194, 195, 200);
+  border-width: 1px;
+}

@@ -1,0 +1,17 @@
+.zoomLogo {
+  width: 22px;
+  height: 5px;
+  object-fit: cover;
+}
+.zoomIconComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 0px;
+  border-radius: 9999px;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(74, 138, 246);
+}

@@ -1,0 +1,9 @@
+.checkboxComponent {
+  overflow: hidden;
+  border-radius: 2px;
+  width: 16px;
+  height: 16px;
+  border-style: solid;
+  border-color: rgb(123, 129, 138);
+  border-width: 1px;
+}
