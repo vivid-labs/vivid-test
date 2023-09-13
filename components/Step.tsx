@@ -1,4 +1,5 @@
 import { CheckIcon } from "./CheckIcon";
+
 export const Step = ({
   override,
   status,
@@ -29,17 +30,7 @@ export const Step = ({
           className="overflow-hidden flex justify-center items-center gap-1"
           style={override}
         >
-          <div
-            className="overflow-hidden flex flex-col justify-center items-center rounded-full w-5 h-5"
-            style={{
-              background:
-                "linear-gradient(90deg, rgb(217, 52, 118) 0%, rgb(229, 127, 57) 100%)",
-            }}
-          >
-            <p className="text-white text-xs font-light tracking-[-0.1px]">
-              {number}
-            </p>
-          </div>
+          <FlexColumn number={number} />
           <p className="text-[rgb(80,_86,_98)] text-xs font-normal tracking-[-0.1px]">
             {text}
           </p>
@@ -65,3 +56,15 @@ export const Step = ({
       return null;
   }
 };
+
+const FlexColumn = ({ number }: any) => (
+  <div
+    className="overflow-hidden flex flex-col justify-center items-center rounded-full w-5 h-5"
+    style={{
+      background:
+        "linear-gradient(90deg, rgb(217, 52, 118) 0%, rgb(229, 127, 57) 100%)",
+    }}
+  >
+    <p className="text-white text-xs font-light tracking-[-0.1px]">{number}</p>
+  </div>
+);

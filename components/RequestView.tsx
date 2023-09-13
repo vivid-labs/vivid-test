@@ -6,6 +6,7 @@ import { StepBar } from "./StepBar";
 import { Checkbox } from "./Checkbox";
 import { CogIcon } from "./CogIcon";
 import { RequestRow } from "./RequestRow";
+
 export const RequestView = ({
   override,
 }: {
@@ -90,30 +91,7 @@ export const RequestView = ({
       className="overflow-hidden flex flex-col items-center w-full h-[455px] bg-white font-[Helvetica_Neue]"
       style={override}
     >
-      <div
-        className="flex flex-col items-start pt-3 px-5 w-full h-20 border-solid border-[rgb(225,_226,_230)] border-b bg-white"
-        style={{
-          boxShadow: "0px 8px 8px rgba(0, 0, 0, 0.06)",
-        }}
-      >
-        <div className="flex items-center gap-2.5">
-          <ZoomIcon />
-          <p className="text-[rgb(3,_3,_3)] text-lg font-medium tracking-[-0.1px]">
-            Zoom
-          </p>
-        </div>
-        <div className="overflow-hidden flex justify-between items-end w-full flex-1 min-h-0">
-          <div className="overflow-hidden flex items-end gap-6">
-            {tabProps.map((props, i) => (
-              <Tab {...props} key={i} />
-            ))}
-          </div>
-          <div className="overflow-hidden flex items-center gap-1 pb-2">
-            <Button text="Remove Accounts" />
-            <IconButton icon="Ellipsis" />
-          </div>
-        </div>
-      </div>
+      <ZoomTabSelector tabProps={tabProps} />
       <div className="overflow-hidden flex flex-col justify-center items-center gap-2.5 pt-2 px-5 w-full flex-1 min-h-0 bg-gray-100">
         <StepBar
           override={{
@@ -146,20 +124,8 @@ export const RequestView = ({
             <p className="w-24 h-3.5 text-[rgb(123,_129,_138)] text-[10px] font-bold tracking-[-0.1px]">
               Licenses
             </p>
-            <Checkbox
-              override={{
-                position: "absolute",
-                top: "calc(50% - 8px)",
-                left: "14px",
-              }}
-            />
-            <CogIcon
-              override={{
-                position: "absolute",
-                top: "calc(50% - 8px)",
-                right: "12px",
-              }}
-            />
+            <OverrideCheckbox />
+            <CogIconComponent />
             <div className="flex items-center py-[13px] absolute w-[170px] right-0 bg-[rgb(251,_251,_253)]">
               <p className="w-24 h-3.5 text-[rgb(123,_129,_138)] text-[10px] font-bold tracking-[-0.1px]">
                 Decision
@@ -174,3 +140,50 @@ export const RequestView = ({
     </div>
   );
 };
+
+const ZoomTabSelector = ({ tabProps }: any) => (
+  <div
+    className="flex flex-col items-start pt-3 px-5 w-full h-20 border-solid border-[rgb(225,_226,_230)] border-b bg-white"
+    style={{
+      boxShadow: "0px 8px 8px rgba(0, 0, 0, 0.06)",
+    }}
+  >
+    <div className="flex items-center gap-2.5">
+      <ZoomIcon />
+      <p className="text-[rgb(3,_3,_3)] text-lg font-medium tracking-[-0.1px]">
+        Zoom
+      </p>
+    </div>
+    <div className="overflow-hidden flex justify-between items-end w-full flex-1 min-h-0">
+      <div className="overflow-hidden flex items-end gap-6">
+        {tabProps.map((props, i) => (
+          <Tab {...props} key={i} />
+        ))}
+      </div>
+      <div className="overflow-hidden flex items-center gap-1 pb-2">
+        <Button text="Remove Accounts" />
+        <IconButton icon="Ellipsis" />
+      </div>
+    </div>
+  </div>
+);
+
+const OverrideCheckbox = () => (
+  <Checkbox
+    override={{
+      position: "absolute",
+      top: "calc(50% - 8px)",
+      left: "14px",
+    }}
+  />
+);
+
+const CogIconComponent = () => (
+  <CogIcon
+    override={{
+      position: "absolute",
+      top: "calc(50% - 8px)",
+      right: "12px",
+    }}
+  />
+);
