@@ -1,10 +1,10 @@
-.stepText {
+.stepText{
   color: rgb(123, 129, 138);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.stepComponent {
+.stepComponent{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -13,13 +13,13 @@
   width: fit-content;
   height: fit-content;
 }
-.text1 {
+.stepText1{
   color: rgb(255, 255, 255);
   font-size: 12px;
   font-weight: 300;
   letter-spacing: -0.1px;
 }
-.stepIcon {
+.stepComponent1{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -34,13 +34,13 @@
     rgb(229, 127, 57) 100%
   );
 }
-.stepText1 {
+.stepIconDiv{
   color: rgb(80, 86, 98);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.stepComponent1 {
+.stepText2{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -49,13 +49,13 @@
   width: fit-content;
   height: fit-content;
 }
-.text1Text {
+.text1{
   color: rgb(255, 255, 255);
   font-size: 12px;
   font-weight: 300;
   letter-spacing: -0.1px;
 }
-.stepIconDiv {
+.stepComponent2{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -66,13 +66,13 @@
   height: 20px;
   background-color: rgb(225, 226, 230);
 }
-.stepText2 {
+.text1Text{
   color: rgb(123, 129, 138);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 }
-.stepComponent2 {
+.stepIcon{
   overflow: hidden;
   display: flex;
   justify-content: center;

@@ -7,9 +7,9 @@ export const DashedSeparator = ({
 }) => {
   return (
     <img
-      className={styles.dashedSeparatorComponent}
-      src={dashedSeparator.src}
-      style={override}
-    />
+     className={styles.dashedSeparatorImg}
+     src={dashedSeparator.src}
+     style={override}
+   /> 
   );
 };
