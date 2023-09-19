@@ -12,145 +12,145 @@ import nycolorLogo from "./nycolorLogo.png";
 import arrow_9 from "./arrow_9.svg";
 export const Homepage = ({ override }: { override?: React.CSSProperties }) => {
   return (
-    <div className={styles.homepageComponent} style={override}>
-      <div className={styles.frame_28}>
-        <div className={styles.frame_32}>
-          <div className={styles.frame_25}>
-            <p className={styles.work}>Work</p>
-            <p className={styles.about}>About</p>
-            <p className={styles.resume}>Resume</p>
+    <div className={styles.homepageComponentClass} style={override}>
+    <div className={styles.frame28Class}>
+      <div className={styles.frame32Class}>
+        <div className={styles.frame25Class}>
+          <p className={styles.workClass}>Work</p>
+          <p className={styles.aboutClass}>About</p>
+          <p className={styles.resumeClass}>Resume</p>
+        </div>
+      </div>
+      <div className={styles.frame27Class}>
+        <div className={styles.frame21Class}>
+          <p className={styles.hiImRachelimportantClass}>
+            Hi, I&amp;#39;m Rachel!
+          </p>
+          <p
+            className={
+              styles.imaUxDesignerAndSeniorAtColumbiaUniversityStudyingComputerScienceClass
+            }
+          >
+            I&amp;#39;m a UX Designer and senior at Columbia University
+            studying computer science.
+          </p>
+        </div>
+        <div className={styles.frame29Class}>
+          <div className={styles.roarregClass}>
+            <div className={styles.rectangle11Class} />
+            <div className={styles.frame23Class}>
+              <div className={styles.frame9Class}>
+                <p className={styles.roarregTextClass}>ROARREG</p>
+                <p
+                  className={styles.streamliningTheCourseRegistrationProcessClass}
+                >
+                  Streamlining the course registration process
+                </p>
+              </div>
+              <div className={styles.group24Class}>
+                <img className={styles.dashboard1Class} src={dashboard_1.src} />
+                <div>
+                  <img className={styles.image16Class} src={image_16.src} />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className={styles.evaClass}>
+            <div className={styles.rectangle11DivClass} />
+            <div className={styles.frame25DivClass}>
+              <div className={styles.frame9DivClass}>
+                <p className={styles.expertvoiceClass}>EXPERTVOICE</p>
+                <p
+                  className={
+                    styles.helpingConsumersConfidentlyMakePurchaseDecisionsClass
+                  }
+                >
+                  Helping consumers confidently make purchase decisions
+                </p>
+              </div>
+              <div className={styles.frame31Class}>
+                <img className={styles.intro11Class} src={intro1_1.src} />
+                <img
+                  className={styles.suggestions1Class}
+                  src={suggestions_1.src}
+                />
+              </div>
+            </div>
+            <div>
+              <div className={styles.ellipse1Class} />
+              <EvLogoGray
+                override={{
+                  height: "90px",
+                  width: "89px",
+                  position: "absolute",
+                  top: "803.4px",
+                  left: "865.2px",
+                }}
+              />
+            </div>
+          </div>
+          <div className={styles.ecolabelClass}>
+            <div className={styles.rectangle11Div1Class} />
+            <div className={styles.frame24Class}>
+              <div className={styles.frame9Div1Class}>
+                <p className={styles.infiniteGoodsClass}>INFINITE GOODS</p>
+                <p
+                  className={
+                    styles.improvingAScoringSystemForProductSustainabilityClass
+                  }
+                >
+                  Improving a scoring system for product sustainability
+                </p>
+              </div>
+              <div className={styles.group36Class}>
+                <img className={styles.ecoLabel1Class} src={ecoLabel_1.src} />
+              </div>
+            </div>
+            <div className={styles.infiniteGoodsLogo2Class}>
+              <div className={styles.divClass} />
+              <img className={styles.imageClass} src={infiniteGoodsLogo_2.src} />
+            </div>
+          </div>
+          <div className={styles.nycolorClass}>
+            <div className={styles.rectangle11Div2Class} />
+            <div className={styles.frame24DivClass}>
+              <div className={styles.frame9Div2Class}>
+                <p className={styles.nycolorTextClass}>NYCOLOR</p>
+                <p className={styles.gamifyingUrbanExplorationInNewYorkCityClass}>
+                  Gamifying urban exploration in New York City
+                </p>
+              </div>
+              <div className={styles.frame30Class}>
+                <img className={styles.home1Class} src={home_1.src} />
+                <img className={styles.profile1Class} src={profile_1.src} />
+              </div>
+            </div>
+            <div className={styles.nycolorLogoClass}>
+              <img
+                className={styles.nycolorLogoImageClass}
+                src={nycolorLogo.src}
+              />
+            </div>
           </div>
         </div>
-        <div className={styles.frame_27}>
-          <div className={styles.frame_21}>
-            <p className={styles.hiImRachelimportant}>
-              Hi, I&amp;#39;m Rachel!
-            </p>
-            <p
-              className={
-                styles.imaUxDesignerAndSeniorAtColumbiaUniversityStudyingComputerScience
-              }
-            >
-              I&amp;#39;m a UX Designer and senior at Columbia University
-              studying computer science.
-            </p>
-          </div>
-          <div className={styles.frame_29}>
-            <div className={styles.roarreg}>
-              <div className={styles.rectangle_11} />
-              <div className={styles.frame_23}>
-                <div className={styles.frame_9}>
-                  <p className={styles.roarregText}>ROARREG</p>
-                  <p
-                    className={styles.streamliningTheCourseRegistrationProcess}
-                  >
-                    Streamlining the course registration process
-                  </p>
-                </div>
-                <div className={styles.group_24}>
-                  <img className={styles.dashboard_1} src={dashboard_1.src} />
-                  <div>
-                    <img className={styles.image_16} src={image_16.src} />
-                  </div>
-                </div>
+        <div className={styles.frame19Class}>
+          <p className={styles.otherProjectsClass}>Other projects</p>
+          <div className={styles.frame18Class}>
+            <div className={styles.group31Class}>
+              <div className={styles.frame12Class}>
+                <p className={styles.expertvoiceTextClass}>EXPERTVOICE</p>
+                <p
+                  className={styles.enhancingTheAndroidShoppingCartExperienceClass}
+                >
+                  Enhancing the Android shopping cart experience
+                </p>
               </div>
-            </div>
-            <div className={styles.eva}>
-              <div className={styles.rectangle_11Div} />
-              <div className={styles.frame_25Div}>
-                <div className={styles.frame_9Div}>
-                  <p className={styles.expertvoice}>EXPERTVOICE</p>
-                  <p
-                    className={
-                      styles.helpingConsumersConfidentlyMakePurchaseDecisions
-                    }
-                  >
-                    Helping consumers confidently make purchase decisions
-                  </p>
-                </div>
-                <div className={styles.frame_31}>
-                  <img className={styles.intro1_1} src={intro1_1.src} />
-                  <img
-                    className={styles.suggestions_1}
-                    src={suggestions_1.src}
-                  />
-                </div>
-              </div>
-              <div>
-                <div className={styles.ellipse_1} />
-                <EvLogoGray
-                  override={{
-                    height: "90px",
-                    width: "89px",
-                    position: "absolute",
-                    top: "803.4px",
-                    left: "865.2px",
-                  }}
-                />
-              </div>
-            </div>
-            <div className={styles.ecolabel}>
-              <div className={styles.rectangle_11Div1} />
-              <div className={styles.frame_24}>
-                <div className={styles.frame_9Div1}>
-                  <p className={styles.infiniteGoods}>INFINITE GOODS</p>
-                  <p
-                    className={
-                      styles.improvingAScoringSystemForProductSustainability
-                    }
-                  >
-                    Improving a scoring system for product sustainability
-                  </p>
-                </div>
-                <div className={styles.group_36}>
-                  <img className={styles.ecoLabel_1} src={ecoLabel_1.src} />
-                </div>
-              </div>
-              <div className={styles.infiniteGoodsLogo_2}>
-                <div className={styles.div} />
-                <img className={styles.image} src={infiniteGoodsLogo_2.src} />
-              </div>
-            </div>
-            <div className={styles.nycolor}>
-              <div className={styles.rectangle_11Div2} />
-              <div className={styles.frame_24Div}>
-                <div className={styles.frame_9Div2}>
-                  <p className={styles.nycolorText}>NYCOLOR</p>
-                  <p className={styles.gamifyingUrbanExplorationInNewYorkCity}>
-                    Gamifying urban exploration in New York City
-                  </p>
-                </div>
-                <div className={styles.frame_30}>
-                  <img className={styles.home_1} src={home_1.src} />
-                  <img className={styles.profile_1} src={profile_1.src} />
-                </div>
-              </div>
-              <div className={styles.nycolorLogo}>
-                <img
-                  className={styles.nycolorLogoImage}
-                  src={nycolorLogo.src}
-                />
-              </div>
-            </div>
-          </div>
-          <div className={styles.frame_19}>
-            <p className={styles.otherProjects}>Other projects</p>
-            <div className={styles.frame_18}>
-              <div className={styles.group_31}>
-                <div className={styles.frame_12}>
-                  <p className={styles.expertvoiceText}>EXPERTVOICE</p>
-                  <p
-                    className={styles.enhancingTheAndroidShoppingCartExperience}
-                  >
-                    Enhancing the Android shopping cart experience
-                  </p>
-                </div>
-                <img className={styles.arrow_9} src={arrow_9.src} />
-              </div>
+              <img className={styles.arrow9Class} src={arrow_9.src} />
             </div>
           </div>
         </div>
       </div>
     </div>
+   </div> 
   );
 };

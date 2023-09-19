@@ -7,9 +7,9 @@ export const EvLogoGray = ({
 }) => {
   return (
     <img
-      className={styles.evLogoGrayComponent}
-      src={evLogoGray.src}
-      style={override}
-    />
+     className={styles.logoGrayComponent}
+     src={evLogoGray.src}
+     style={override}
+   /> 
   );
 };

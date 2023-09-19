@@ -1,29 +1,29 @@
-.work {
+.workClass{
   color: rgb(0, 0, 0);
   font-size: 22.5px;
   font-family: Lantinghei SC;
   font-weight: 400;
 }
-.about {
+.aboutClass{
   color: rgba(0, 0, 0, 0.25);
   font-size: 22.5px;
   font-family: Lantinghei SC;
   font-weight: 400;
 }
-.resume {
+.resumeClass{
   color: rgb(0, 0, 0);
   font-size: 22.5px;
   font-family: Lantinghei SC;
   font-weight: 400;
 }
-.frame_25 {
+.frame25Class{
   display: flex;
   align-items: flex-start;
   gap: 14.1px;
   height: fit-content;
   width: 1365px;
 }
-.frame_32 {
+.frame32Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -31,16 +31,16 @@
   width: fit-content;
   padding: 0px 36px;
 }
-.hiImRachelimportant {
+.hiImRachelimportantClass{
   color: rgb(0, 0, 0);
   font-size: 30px;
   font-weight: 700;
 }
-.imaUxDesignerAndSeniorAtColumbiaUniversityStudyingComputerScience {
+.imaUxDesignerAndSeniorAtColumbiaUniversityStudyingComputerScienceClass{
   font-size: 24px;
   font-weight: 400;
 }
-.frame_21 {
+.frame21Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -48,7 +48,7 @@
   height: fit-content;
   width: 996px;
 }
-.rectangle_11 {
+.rectangle11Class{
   position: absolute;
   rotate: -270deg;
   width: 420px;
@@ -61,18 +61,18 @@
   border-width: 1.5px;
   border-radius: 5.4px;
 }
-.roarregText {
+.roarregTextClass{
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 400;
 }
-.streamliningTheCourseRegistrationProcess {
+.streamliningTheCourseRegistrationProcessClass{
   width: 325px;
   color: rgb(0, 0, 0);
   font-size: 32px;
   font-weight: 700;
 }
-.frame_9 {
+.frame9Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -80,7 +80,7 @@
   height: fit-content;
   width: fit-content;
 }
-.dashboard_1 {
+.dashboard1Class{
   position: absolute;
   width: 424px;
   left: 435.6px;
@@ -92,7 +92,7 @@
   border-width: 0.9px;
   border-radius: 10.93px;
 }
-.image_16 {
+.image16Class{
   position: absolute;
   width: 89px;
   left: 805.2px;
@@ -100,13 +100,13 @@
   top: 222.47px;
   object-fit: cover;
 }
-.datCxGoogle {
+.datCxGoogleClass{
 }
-.group_24 {
+.group24Class{
   width: 458px;
   height: 312px;
 }
-.frame_23 {
+.frame23Class{
   display: flex;
   align-items: center;
   gap: 111px;
@@ -116,11 +116,11 @@
   left: 59.56px;
   top: calc(50% - 156.33px);
 }
-.roarreg {
+.roarregClass{
   width: 998px;
   height: 420px;
 }
-.rectangle_11Div {
+.rectangle11DivClass{
   position: absolute;
   rotate: -270deg;
   width: 420px;
@@ -133,18 +133,18 @@
   border-width: 1.5px;
   border-radius: 5.4px;
 }
-.expertvoice {
+.expertvoiceClass{
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 300;
 }
-.helpingConsumersConfidentlyMakePurchaseDecisions {
+.helpingConsumersConfidentlyMakePurchaseDecisionsClass{
   width: 355px;
   color: rgb(0, 0, 0);
   font-size: 32px;
   font-weight: 700;
 }
-.frame_9Div {
+.frame9DivClass{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -152,7 +152,7 @@
   height: fit-content;
   width: fit-content;
 }
-.intro1_1 {
+.intro11Class{
   width: 196px;
   height: 360px;
   object-fit: cover;
@@ -161,7 +161,7 @@
   border-width: 0.9px;
   border-radius: 7.2px;
 }
-.suggestions_1 {
+.suggestions1Class{
   width: 196px;
   height: 360px;
   object-fit: cover;
@@ -170,14 +170,14 @@
   border-width: 0.9px;
   border-radius: 7.2px;
 }
-.frame_31 {
+.frame31Class{
   display: flex;
   align-items: flex-start;
   gap: 7.2px;
   width: fit-content;
   height: fit-content;
 }
-.frame_25Div {
+.frame25DivClass{
   display: flex;
   align-items: center;
   gap: 84px;
@@ -187,7 +187,7 @@
   left: 59.63px;
   top: calc(50% - -311.95px);
 }
-.ellipse_1 {
+.ellipse1Class{
   position: absolute;
   width: 87px;
   left: 865.2px;
@@ -196,13 +196,13 @@
   background-color: rgb(255, 255, 255);
   border-radius: 50%;
 }
-.logo {
+.logoClass{
 }
-.eva {
+.evaClass{
   width: 998px;
   height: 420px;
 }
-.rectangle_11Div1 {
+.rectangle11Div1Class{
   position: absolute;
   rotate: -270deg;
   width: 420px;
@@ -215,18 +215,18 @@
   border-width: 1.5px;
   border-radius: 8.4px;
 }
-.infiniteGoods {
+.infiniteGoodsClass{
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 400;
 }
-.improvingAScoringSystemForProductSustainability {
+.improvingAScoringSystemForProductSustainabilityClass{
   width: 337px;
   color: rgb(0, 0, 0);
   font-size: 32px;
   font-weight: 700;
 }
-.frame_9Div1 {
+.frame9Div1Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -234,7 +234,7 @@
   height: fit-content;
   width: fit-content;
 }
-.ecoLabel_1 {
+.ecoLabel1Class{
   position: absolute;
   width: 339px;
   left: 501.9px;
@@ -246,11 +246,11 @@
   border-width: 0.9px;
   border-radius: 10.93px;
 }
-.group_36 {
+.group36Class{
   width: 339px;
   height: 329px;
 }
-.frame_24 {
+.frame24Class{
   display: flex;
   align-items: center;
   gap: 165.3px;
@@ -260,21 +260,21 @@
   left: 59.56px;
   top: calc(50% - -819.3px);
 }
-.div {
+.divClass{
   background-color: rgb(180, 53, 152);
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.image {
+.imageClass{
   object-fit: cover;
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.infiniteGoodsLogo_2 {
+.infiniteGoodsLogo2Class{
   position: absolute;
   width: 90px;
   left: 853.5px;
@@ -283,11 +283,11 @@
   border-radius: 9999px;
   overflow: hidden;
 }
-.ecolabel {
+.ecolabelClass{
   width: 998px;
   height: 420px;
 }
-.rectangle_11Div2 {
+.rectangle11Div2Class{
   position: absolute;
   rotate: -270deg;
   width: 420px;
@@ -300,18 +300,18 @@
   border-width: 1.5px;
   border-radius: 8.4px;
 }
-.nycolorText {
+.nycolorTextClass{
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 400;
 }
-.gamifyingUrbanExplorationInNewYorkCity {
+.gamifyingUrbanExplorationInNewYorkCityClass{
   width: 337px;
   color: rgb(0, 0, 0);
   font-size: 32px;
   font-weight: 700;
 }
-.frame_9Div2 {
+.frame9Div2Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -319,7 +319,7 @@
   height: fit-content;
   width: fit-content;
 }
-.home_1 {
+.home1Class{
   width: 175px;
   height: 360px;
   object-fit: cover;
@@ -328,7 +328,7 @@
   border-width: 0.9px;
   border-radius: 7.2px;
 }
-.profile_1 {
+.profile1Class{
   width: 175px;
   height: 360px;
   object-fit: cover;
@@ -337,14 +337,14 @@
   border-width: 0.9px;
   border-radius: 7.2px;
 }
-.frame_30 {
+.frame30Class{
   display: flex;
   align-items: center;
   gap: 7.2px;
   width: fit-content;
   height: fit-content;
 }
-.frame_24Div {
+.frame24DivClass{
   display: flex;
   align-items: center;
   gap: 165.3px;
@@ -354,13 +354,13 @@
   left: 59.56px;
   top: calc(50% - -1295.87px);
 }
-.nycolorLogoImage {
+.nycolorLogoImageClass{
   transform: scale(109.75%, 108.29%) translate(-4.22%, -3.56%);
   transform-origin: top left;
   height: 100%;
   width: 100%;
 }
-.nycolorLogo {
+.nycolorLogoClass{
   position: absolute;
   width: 90px;
   left: 858.6px;
@@ -370,11 +370,11 @@
   border-radius: 9999px;
   overflow: hidden;
 }
-.nycolor {
+.nycolorClass{
   width: 998px;
   height: 420px;
 }
-.frame_29 {
+.frame29Class{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -383,23 +383,23 @@
   width: fit-content;
   position: relative;
 }
-.otherProjects {
+.otherProjectsClass{
   color: rgb(0, 0, 0);
   font-size: 36px;
   font-weight: 700;
 }
-.expertvoiceText {
+.expertvoiceTextClass{
   color: rgb(0, 0, 0);
   font-size: 20px;
   font-weight: 400;
 }
-.enhancingTheAndroidShoppingCartExperience {
+.enhancingTheAndroidShoppingCartExperienceClass{
   width: 445px;
   color: rgb(0, 0, 0);
   font-size: 24px;
   font-weight: 700;
 }
-.frame_12 {
+.frame12Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -410,18 +410,18 @@
   left: 0px;
   top: calc(50% - 41.34px);
 }
-.arrow_9 {
+.arrow9Class{
   position: absolute;
   width: 33px;
   left: 485.92px;
   height: 0px;
   top: calc(50% - 0px);
 }
-.group_31 {
+.group31Class{
   width: 521px;
   height: 83px;
 }
-.frame_18 {
+.frame18Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -429,7 +429,7 @@
   width: fit-content;
   position: relative;
 }
-.frame_19 {
+.frame19Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -437,7 +437,7 @@
   height: fit-content;
   width: 994px;
 }
-.frame_27 {
+.frame27Class{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -445,7 +445,7 @@
   height: fit-content;
   width: 1365px;
 }
-.frame_28 {
+.frame28Class{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -456,7 +456,7 @@
   left: 0px;
   top: 21.9px;
 }
-.homepageComponent {
+.homepageComponentClass{
   overflow: hidden;
   position: relative;
   width: 100%;
