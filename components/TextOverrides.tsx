@@ -1,5 +1,6 @@
 import { PlaceholderComponent } from "./PlaceholderComponent";
 import { Button } from "./Button";
+
 export const TextOverrides = ({
   override,
 }: {
@@ -56,27 +57,35 @@ export const TextOverrides = ({
       className="overflow-hidden relative w-full h-[742px] bg-[rgb(74,_74,_74)] font-[Avenir]"
       style={override}
     >
-      <PlaceholderComponent
-        override={{
-          position: "absolute",
-          top: "359px",
-          left: "552px",
-          right: "1075px",
-          bottom: "288px",
-        }}
-      />
-      <PlaceholderComponent
-        override={{
-          position: "absolute",
-          top: "359px",
-          left: "814px",
-          right: "813px",
-          bottom: "288px",
-        }}
-      />
+      <PlaceholderComponentComponent />
+      <PlaceholderComponent1 />
       {buttonProps.map((props, i) => (
         <Button {...props} key={i} />
       ))}
     </div>
   );
 };
+
+const PlaceholderComponentComponent = () => (
+  <PlaceholderComponent
+    override={{
+      position: "absolute",
+      top: "359px",
+      left: "552px",
+      right: "1075px",
+      bottom: "288px",
+    }}
+  />
+);
+
+const PlaceholderComponent1 = () => (
+  <PlaceholderComponent
+    override={{
+      position: "absolute",
+      top: "359px",
+      left: "814px",
+      right: "813px",
+      bottom: "288px",
+    }}
+  />
+);
