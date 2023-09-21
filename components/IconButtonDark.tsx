@@ -1,4 +1,5 @@
 import { IconsSettings_24px } from "./IconsSettings_24px";
+
 export const IconButtonDark = ({
   override,
   style,
