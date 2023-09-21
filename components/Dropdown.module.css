@@ -1,9 +1,9 @@
-.select {
+.select{
   color: rgb(70, 70, 70);
   font-size: 12px;
   font-weight: 400;
 }
-.dropdownComponent {
+.dropdownComponent{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -17,12 +17,12 @@
   border-width: 1px;
   background-color: rgb(251, 251, 251);
 }
-.selectText {
+.selectText{
   color: rgb(70, 70, 70);
   font-size: 12px;
   font-weight: 400;
 }
-.bar {
+.bar{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -36,7 +36,7 @@
   border-width: 1px;
   background-color: rgb(246, 246, 246);
 }
-.content {
+.content{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -51,7 +51,7 @@
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 }
-.dropdownComponent1 {
+.dropdownComponent1{
   display: flex;
   flex-direction: column;
   justify-content: center;

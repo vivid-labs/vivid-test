@@ -23,15 +23,15 @@ export const Option = ({
     },
   }[color];
   return (
-    <div className={styles.optionComponent} style={override}>
-      <div
-        className={styles.badge}
-        style={{
-          ...badgeColor,
-        }}
-      >
-        <p className={styles.text}>{text}</p>
-      </div>
+    <div className={styles.optionComponentClass} style={override}>
+    <div
+      className={styles.badgeClass}
+      style={{
+        ...badgeColor,
+      }}
+    >
+      <p className={styles.textClass}>{text}</p>
     </div>
+   </div> 
   );
 };
