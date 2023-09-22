@@ -1,9 +1,9 @@
-.text {
+.optionText{
   color: rgb(46, 46, 46);
   font-size: 12px;
   font-weight: 400;
 }
-.badge {
+.optionBadge{
   overflow: hidden;
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@
   border-style: solid;
   border-width: 1px;
 }
-.optionComponent {
+.optionContainer{
   overflow: hidden;
   display: flex;
   flex-direction: column;

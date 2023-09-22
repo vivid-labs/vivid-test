@@ -1,4 +1,4 @@
-.dividerDiv {
+.dividerContainer{
   position: absolute;
   left: 0%;
   right: 0%;
@@ -8,7 +8,7 @@
   height: 100%;
   background-color: rgb(217, 217, 217);
 }
-.dividerComponent {
+.dividerLine{
   position: relative;
   width: 40px;
   height: 1px;
