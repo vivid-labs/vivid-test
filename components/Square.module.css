@@ -1,0 +1,90 @@
+.ccc {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(247, 59, 59);
+}
+.bbb {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(247, 59, 59);
+}
+.aaa {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent2 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(247, 59, 59);
+}
+.cccText {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(54, 107, 243);
+}
+.bbbText {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent4 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(54, 107, 243);
+}
+.aaaText {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+}
+.squareComponent5 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(54, 107, 243);
+}
