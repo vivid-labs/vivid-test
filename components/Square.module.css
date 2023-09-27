@@ -1,9 +1,9 @@
-.ccc {
+.ccc{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent {
+.squareComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -13,12 +13,12 @@
   height: 100px;
   background-color: rgb(247, 59, 59);
 }
-.bbb {
+.bbb{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent1 {
+.squareComponent1{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -28,12 +28,12 @@
   height: 100px;
   background-color: rgb(247, 59, 59);
 }
-.aaa {
+.aaa{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent2 {
+.squareComponent2{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -43,12 +43,12 @@
   height: 100px;
   background-color: rgb(247, 59, 59);
 }
-.cccText {
+.cccText{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent3 {
+.squareComponent3{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -58,12 +58,12 @@
   height: 100px;
   background-color: rgb(54, 107, 243);
 }
-.bbbText {
+.bbbText{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent4 {
+.squareComponent4{
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -73,12 +73,12 @@
   height: 100px;
   background-color: rgb(54, 107, 243);
 }
-.aaaText {
+.aaaText{
   color: rgb(255, 255, 255);
   font-size: 16px;
   font-weight: 700;
 }
-.squareComponent5 {
+.squareComponent5{
   overflow: hidden;
   display: flex;
   flex-direction: column;
