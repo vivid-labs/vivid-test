@@ -1,4 +1,5 @@
 import styles from "./Square.module.css";
+
 export const Square = ({
   override,
   color,
