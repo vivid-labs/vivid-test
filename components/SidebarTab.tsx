@@ -1,10 +1,12 @@
 import { InboxIcon } from "./InboxIcon";
 import styled from "styled-components";
+
 const Inbox = styled.p`
   font-size: 15px;
   font-weight: 300;
   line-height: 19.5px;
 `;
+
 const Content = styled.div`
   display: flex;
   align-items: center;
@@ -14,6 +16,7 @@ const Content = styled.div`
   width: 100%;
   height: 32px;
 `;
+
 const SidebarTabComponent = styled.div`
   display: flex;
   flex-direction: column;
@@ -22,6 +25,7 @@ const SidebarTabComponent = styled.div`
   padding: 0px 6px;
   width: 239px;
 `;
+
 export const SidebarTab = ({
   override,
   status,
