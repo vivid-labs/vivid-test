@@ -1,10 +1,12 @@
 import { InboxIcon } from "./InboxIcon";
 import styled from "styled-components";
+
 const Inbox = styled.p`
   font-size: 15px;
   font-weight: 300;
   line-height: 19.5px;
 `;
+
 const DivScIJkotd = styled.div`
   display: flex;
   justify-content: center;
@@ -15,6 +17,7 @@ const DivScIJkotd = styled.div`
   padding: 4px;
   border-radius: 4px;
 `;
+
 const SpanScGsDkaq = styled.div`
   display: flex;
   align-items: flex-start;
@@ -22,6 +25,7 @@ const SpanScGsDkaq = styled.div`
   padding: 0px 122px 0px 0px;
   width: 100%;
 `;
+
 const DivSc_1c037cc4_4 = styled.div`
   display: flex;
   flex-direction: column;
@@ -30,6 +34,7 @@ const DivSc_1c037cc4_4 = styled.div`
   flex: 1 1 0%;
   min-width: 0px;
 `;
+
 const DivSc_1c037cc4_1 = styled.div`
   display: flex;
   justify-content: center;
@@ -39,6 +44,7 @@ const DivSc_1c037cc4_1 = styled.div`
   width: 100%;
   height: 32px;
 `;
+
 const SidebarTabComponent = styled.div`
   display: flex;
   flex-direction: column;
@@ -47,6 +53,7 @@ const SidebarTabComponent = styled.div`
   padding: 0px 6px;
   width: 239px;
 `;
+
 export const SidebarTab = ({
   override,
   status,
