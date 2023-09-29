@@ -1,9 +1,11 @@
 import styled from "styled-components";
+
 const Text = styled.p`
   color: rgb(46, 46, 46);
   font-size: 12px;
   font-weight: 400;
 `;
+
 const Badge = styled.div`
   overflow: hidden;
   display: flex;
@@ -16,6 +18,7 @@ const Badge = styled.div`
   border-style: solid;
   border-width: 1px;
 `;
+
 const OptionComponent = styled.div`
   overflow: hidden;
   display: flex;
@@ -26,6 +29,7 @@ const OptionComponent = styled.div`
   width: 95px;
   background-color: rgb(255, 255, 255);
 `;
+
 export const Option = ({
   override,
   color,
