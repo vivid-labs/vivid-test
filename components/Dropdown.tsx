@@ -2,11 +2,13 @@ import { Arrow } from "./Arrow";
 import { Option } from "./Option";
 import { Divider } from "./Divider";
 import styled from "styled-components";
+
 const Select = styled.p`
   color: rgb(70, 70, 70);
   font-size: 12px;
   font-weight: 400;
 `;
+
 const DropdownComponent = styled.div`
   overflow: hidden;
   display: flex;
@@ -21,11 +23,13 @@ const DropdownComponent = styled.div`
   border-width: 1px;
   background-color: rgb(251, 251, 251);
 `;
+
 const SelectText = styled.p`
   color: rgb(70, 70, 70);
   font-size: 12px;
   font-weight: 400;
 `;
+
 const Bar = styled.div`
   overflow: hidden;
   display: flex;
@@ -40,6 +44,7 @@ const Bar = styled.div`
   border-width: 1px;
   background-color: rgb(246, 246, 246);
 `;
+
 const Content = styled.div`
   overflow: hidden;
   display: flex;
@@ -55,6 +60,7 @@ const Content = styled.div`
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 `;
+
 const DropdownComponent1 = styled.div`
   display: flex;
   flex-direction: column;
@@ -65,6 +71,7 @@ const DropdownComponent1 = styled.div`
   width: fit-content;
   border-radius: 6px;
 `;
+
 export const Dropdown = ({
   override,
   status,
@@ -79,73 +86,29 @@ export const Dropdown = ({
       return (
         <DropdownComponent style={override}>
           <Select>{text}</Select>
-          <Arrow
-            override={{
-              position: "absolute",
-              top: "calc(50% - 1px)",
-              right: "12px",
-            }}
-          />
+          <Override />
         </DropdownComponent>
       );
     case "Active":
       return (
         <DropdownComponent1 style={override}>
-          <Bar>
-            <SelectText>{text}</SelectText>
-            <Arrow
-              override={{
-                position: "absolute",
-                height: "3px",
-                width: "7px",
-                top: "calc(50% - 1px)",
-                right: "12px",
-              }}
-            />
-          </Bar>
+          <SelectText text={text} />
           <Content>
-            <Option
-              color="Gray"
-              text="Not Started"
-              override={{
-                height: "fit-content",
-                width: "100%",
-                justifyContent: "flex-start",
-                alignItems: "flex-start",
-              }}
-            />
+            <Disclaimer />
             <Divider
               override={{
                 height: "1px",
                 width: "100%",
               }}
             />
-            <Option
-              color="Orange"
-              text="Ongoing"
-              override={{
-                height: "fit-content",
-                width: "100%",
-                justifyContent: "flex-start",
-                alignItems: "flex-start",
-              }}
-            />
+            <DisclaimerComponent />
             <Divider
               override={{
                 height: "1px",
                 width: "100%",
               }}
             />
-            <Option
-              color="Green"
-              text="Completed"
-              override={{
-                height: "fit-content",
-                width: "100%",
-                justifyContent: "flex-start",
-                alignItems: "flex-start",
-              }}
-            />
+            <AiChatDisclaimer />
           </Content>
         </DropdownComponent1>
       );
@@ -153,3 +116,67 @@ export const Dropdown = ({
       return null;
   }
 };
+
+const Override = () => (
+  <Arrow
+    override={{
+      position: "absolute",
+      top: "calc(50% - 1px)",
+      right: "12px",
+    }}
+  />
+);
+
+const SelectText = ({ text }: any) => (
+  <Bar>
+    <SelectText>{text}</SelectText>
+    <Arrow
+      override={{
+        position: "absolute",
+        height: "3px",
+        width: "7px",
+        top: "calc(50% - 1px)",
+        right: "12px",
+      }}
+    />
+  </Bar>
+);
+
+const Disclaimer = () => (
+  <Option
+    color="Gray"
+    text="Not Started"
+    override={{
+      height: "fit-content",
+      width: "100%",
+      justifyContent: "flex-start",
+      alignItems: "flex-start",
+    }}
+  />
+);
+
+const DisclaimerComponent = () => (
+  <Option
+    color="Orange"
+    text="Ongoing"
+    override={{
+      height: "fit-content",
+      width: "100%",
+      justifyContent: "flex-start",
+      alignItems: "flex-start",
+    }}
+  />
+);
+
+const AiChatDisclaimer = () => (
+  <Option
+    color="Green"
+    text="Completed"
+    override={{
+      height: "fit-content",
+      width: "100%",
+      justifyContent: "flex-start",
+      alignItems: "flex-start",
+    }}
+  />
+);
