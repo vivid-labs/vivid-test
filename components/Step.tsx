@@ -1,11 +1,13 @@
 import { CheckIcon } from "./CheckIcon";
 import styled from "styled-components";
+
 const StepText = styled.p`
   color: rgb(123, 129, 138);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 `;
+
 const StepComponent = styled.div`
   overflow: hidden;
   display: flex;
@@ -15,12 +17,14 @@ const StepComponent = styled.div`
   width: fit-content;
   height: fit-content;
 `;
+
 const Text1 = styled.p`
   color: rgb(255, 255, 255);
   font-size: 12px;
   font-weight: 300;
   letter-spacing: -0.1px;
 `;
+
 const StepIcon = styled.div`
   overflow: hidden;
   display: flex;
@@ -36,12 +40,14 @@ const StepIcon = styled.div`
     rgb(229, 127, 57) 100%
   );
 `;
+
 const StepText1 = styled.p`
   color: rgb(80, 86, 98);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 `;
+
 const StepComponent1 = styled.div`
   overflow: hidden;
   display: flex;
@@ -51,12 +57,14 @@ const StepComponent1 = styled.div`
   width: fit-content;
   height: fit-content;
 `;
+
 const Text1Text = styled.p`
   color: rgb(255, 255, 255);
   font-size: 12px;
   font-weight: 300;
   letter-spacing: -0.1px;
 `;
+
 const StepIconDiv = styled.div`
   overflow: hidden;
   display: flex;
@@ -68,12 +76,14 @@ const StepIconDiv = styled.div`
   height: 20px;
   background-color: rgb(225, 226, 230);
 `;
+
 const StepText2 = styled.p`
   color: rgb(123, 129, 138);
   font-size: 12px;
   font-weight: 400;
   letter-spacing: -0.1px;
 `;
+
 const StepComponent2 = styled.div`
   overflow: hidden;
   display: flex;
@@ -83,6 +93,7 @@ const StepComponent2 = styled.div`
   width: fit-content;
   height: fit-content;
 `;
+
 export const Step = ({
   override,
   status,
