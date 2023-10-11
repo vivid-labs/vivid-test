@@ -1,11 +1,13 @@
 import expandIcon from "./expandIcon.svg";
 import styled from "styled-components";
+
 const V = styled.p`
   color: rgb(255, 255, 255);
   font-size: 9px;
   font-weight: 600;
   line-height: 19px;
 `;
+
 const Logo = styled.div`
   overflow: hidden;
   display: flex;
@@ -17,6 +19,7 @@ const Logo = styled.div`
   height: 16px;
   background-color: rgb(80, 121, 228);
 `;
+
 const VividLabs = styled.p`
   color: rgb(111, 111, 111);
   font-size: 13px;
@@ -24,6 +27,7 @@ const VividLabs = styled.p`
   letter-spacing: -0.03px;
   line-height: 18px;
 `;
+
 const OrgButtonComponent = styled.div`
   display: flex;
   justify-content: center;
@@ -34,12 +38,14 @@ const OrgButtonComponent = styled.div`
   border-radius: 9999px;
   height: 28px;
 `;
+
 const VText = styled.p`
   color: rgb(255, 255, 255);
   font-size: 9px;
   font-weight: 600;
   line-height: 19px;
 `;
+
 const LogoDiv = styled.div`
   overflow: hidden;
   display: flex;
@@ -51,6 +57,7 @@ const LogoDiv = styled.div`
   height: 16px;
   background-color: rgb(80, 121, 228);
 `;
+
 const VividLabsText = styled.p`
   color: rgb(111, 111, 111);
   font-size: 13px;
@@ -58,10 +65,12 @@ const VividLabsText = styled.p`
   letter-spacing: -0.03px;
   line-height: 18px;
 `;
+
 const ExpandIcon = styled.img`
   width: 5px;
   height: 10px;
 `;
+
 const OrgButtonComponent1 = styled.div`
   display: flex;
   justify-content: center;
@@ -73,6 +82,7 @@ const OrgButtonComponent1 = styled.div`
   height: 28px;
   background-color: rgb(237, 237, 237);
 `;
+
 export const OrgButton = ({
   override,
   state,

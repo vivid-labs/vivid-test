@@ -10,6 +10,7 @@ import { ImgComponent1 } from "./ImgComponent1";
 import { ImgComponent2 } from "./ImgComponent2";
 import loadingIcon from "./loadingIcon.svg";
 import styled from "styled-components";
+
 const Header = styled.div`
   display: flex;
   align-items: center;
@@ -20,6 +21,7 @@ const Header = styled.div`
   border-color: rgb(199, 199, 199);
   border-bottom-width: 1px;
 `;
+
 const UserActions = styled.div`
   display: flex;
   flex-direction: column;
@@ -29,6 +31,7 @@ const UserActions = styled.div`
   padding: 6px;
   width: 100%;
 `;
+
 const SharedToEveryone = styled.p`
   color: rgb(111, 111, 111);
   font-size: 12px;
@@ -36,6 +39,7 @@ const SharedToEveryone = styled.p`
   letter-spacing: -0.02px;
   line-height: 16px;
 `;
+
 const TextWrapper = styled.div`
   display: flex;
   flex-direction: column;
@@ -44,6 +48,7 @@ const TextWrapper = styled.div`
   padding: 6px 8px;
   width: 100%;
 `;
+
 const Section = styled.div`
   display: flex;
   flex-direction: column;
@@ -51,6 +56,7 @@ const Section = styled.div`
   height: fit-content;
   width: 100%;
 `;
+
 const SharedToEveryoneText = styled.p`
   color: rgb(111, 111, 111);
   font-size: 12px;
@@ -58,6 +64,7 @@ const SharedToEveryoneText = styled.p`
   letter-spacing: -0.02px;
   line-height: 16px;
 `;
+
 const TextWrapperDiv = styled.div`
   display: flex;
   flex-direction: column;
@@ -66,6 +73,7 @@ const TextWrapperDiv = styled.div`
   padding: 6px 8px;
   width: 100%;
 `;
+
 const SectionDiv = styled.div`
   display: flex;
   flex-direction: column;
@@ -73,6 +81,7 @@ const SectionDiv = styled.div`
   height: fit-content;
   width: 100%;
 `;
+
 const Spreadsheets = styled.div`
   overflow: hidden;
   display: flex;
@@ -84,6 +93,7 @@ const Spreadsheets = styled.div`
   flex: 1 1 0%;
   min-height: 0px;
 `;
+
 const ImportAboutToStart = styled.p`
   color: rgb(23, 23, 23);
   font-size: 13px;
@@ -91,11 +101,13 @@ const ImportAboutToStart = styled.p`
   letter-spacing: -0.03px;
   line-height: 20px;
 `;
+
 const LoadingIcon = styled.img`
   rotate: -24deg;
   width: 13px;
   height: 13px;
 `;
+
 const Alert = styled.div`
   display: flex;
   align-items: center;
@@ -108,6 +120,7 @@ const Alert = styled.div`
   border-color: rgb(199, 199, 199);
   border-top-width: 1px;
 `;
+
 const SidebarComponent = styled.div`
   display: flex;
   flex-direction: column;
@@ -120,6 +133,7 @@ const SidebarComponent = styled.div`
   background-color: rgb(255, 255, 255);
   font-family: Inter;
 `;
+
 export const Sidebar = ({ override }: { override?: React.CSSProperties }) => {
   const sidebarTabProps = [
     {
@@ -178,60 +192,8 @@ export const Sidebar = ({ override }: { override?: React.CSSProperties }) => {
         ))}
       </UserActions>
       <Spreadsheets>
-        <Section>
-          <TextWrapper>
-            <SharedToEveryone>Shared to everyone</SharedToEveryone>
-          </TextWrapper>
-          <SidebarTab
-            status="Selected"
-            text="Lead hunting"
-            icon={<Img />}
-            override={{
-              height: "28px",
-              width: "100%",
-              justifyContent: "flex-start",
-              alignItems: "center",
-            }}
-          />
-          <SidebarTab
-            status="Unselected"
-            text="Prospects pipeline"
-            icon={<ImgComponent />}
-            override={{
-              width: "100%",
-              height: "28px",
-              justifyContent: "flex-start",
-              alignItems: "center",
-            }}
-          />
-        </Section>
-        <SectionDiv>
-          <TextWrapperDiv>
-            <SharedToEveryoneText>Private</SharedToEveryoneText>
-          </TextWrapperDiv>
-          <SidebarTab
-            status="Unselected"
-            text="Lead hunting"
-            icon={<ImgComponent1 />}
-            override={{
-              width: "100%",
-              height: "28px",
-              justifyContent: "flex-start",
-              alignItems: "center",
-            }}
-          />
-          <SidebarTab
-            status="Unselected"
-            text="Prospects pipeline"
-            icon={<ImgComponent2 />}
-            override={{
-              width: "100%",
-              height: "28px",
-              justifyContent: "flex-start",
-              alignItems: "center",
-            }}
-          />
-        </SectionDiv>
+        <VividId />
+        <SectionDiv />
       </Spreadsheets>
       <Alert>
         <ImportAboutToStart>Import about to start</ImportAboutToStart>
@@ -240,3 +202,63 @@ export const Sidebar = ({ override }: { override?: React.CSSProperties }) => {
     </SidebarComponent>
   );
 };
+
+const VividId = () => (
+  <Section>
+    <TextWrapper>
+      <SharedToEveryone>Shared to everyone</SharedToEveryone>
+    </TextWrapper>
+    <SidebarTab
+      status="Selected"
+      text="Lead hunting"
+      icon={<Img />}
+      override={{
+        height: "28px",
+        width: "100%",
+        justifyContent: "flex-start",
+        alignItems: "center",
+      }}
+    />
+    <SidebarTab
+      status="Unselected"
+      text="Prospects pipeline"
+      icon={<ImgComponent />}
+      override={{
+        width: "100%",
+        height: "28px",
+        justifyContent: "flex-start",
+        alignItems: "center",
+      }}
+    />
+  </Section>
+);
+
+const SectionDiv = () => (
+  <SectionDiv>
+    <TextWrapperDiv>
+      <SharedToEveryoneText>Private</SharedToEveryoneText>
+    </TextWrapperDiv>
+    <SidebarTab
+      status="Unselected"
+      text="Lead hunting"
+      icon={<ImgComponent1 />}
+      override={{
+        width: "100%",
+        height: "28px",
+        justifyContent: "flex-start",
+        alignItems: "center",
+      }}
+    />
+    <SidebarTab
+      status="Unselected"
+      text="Prospects pipeline"
+      icon={<ImgComponent2 />}
+      override={{
+        width: "100%",
+        height: "28px",
+        justifyContent: "flex-start",
+        alignItems: "center",
+      }}
+    />
+  </SectionDiv>
+);
