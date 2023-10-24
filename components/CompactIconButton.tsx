@@ -1,5 +1,6 @@
 import { QrcodeScan } from "./QrcodeScan";
 import styled from "styled-components";
+
 const CompactIconButtonComponent = styled.div`
   display: flex;
   justify-content: center;
@@ -14,6 +15,7 @@ const CompactIconButtonComponent = styled.div`
   border-width: 1px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent1 = styled.div`
   display: flex;
   justify-content: center;
@@ -28,6 +30,7 @@ const CompactIconButtonComponent1 = styled.div`
   border-width: 1px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent2 = styled.div`
   display: flex;
   justify-content: center;
@@ -42,6 +45,7 @@ const CompactIconButtonComponent2 = styled.div`
   border-width: 1px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent3 = styled.div`
   display: flex;
   justify-content: center;
@@ -56,6 +60,7 @@ const CompactIconButtonComponent3 = styled.div`
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 `;
+
 const CompactIconButtonComponent4 = styled.div`
   display: flex;
   justify-content: center;
@@ -66,6 +71,7 @@ const CompactIconButtonComponent4 = styled.div`
   height: 25px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent5 = styled.div`
   display: flex;
   justify-content: center;
@@ -80,6 +86,7 @@ const CompactIconButtonComponent5 = styled.div`
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 `;
+
 const CompactIconButtonComponent6 = styled.div`
   display: flex;
   justify-content: center;
@@ -90,6 +97,7 @@ const CompactIconButtonComponent6 = styled.div`
   height: 27px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent7 = styled.div`
   display: flex;
   justify-content: center;
@@ -99,6 +107,7 @@ const CompactIconButtonComponent7 = styled.div`
   border-radius: 4px;
   height: 27px;
 `;
+
 const CompactIconButtonComponent8 = styled.div`
   display: flex;
   justify-content: center;
@@ -113,6 +122,7 @@ const CompactIconButtonComponent8 = styled.div`
   border-width: 1px;
   background-color: rgb(255, 255, 255);
 `;
+
 const CompactIconButtonComponent9 = styled.div`
   display: flex;
   justify-content: center;
@@ -123,6 +133,7 @@ const CompactIconButtonComponent9 = styled.div`
   height: 30px;
   background-color: rgba(0, 0, 0, 0.04);
 `;
+
 const CompactIconButtonComponent10 = styled.div`
   display: flex;
   justify-content: center;
@@ -132,6 +143,7 @@ const CompactIconButtonComponent10 = styled.div`
   border-radius: 4px;
   height: 30px;
 `;
+
 const CompactIconButtonComponent11 = styled.div`
   display: flex;
   justify-content: center;
@@ -141,6 +153,7 @@ const CompactIconButtonComponent11 = styled.div`
   border-radius: 4px;
   height: 25px;
 `;
+
 export const CompactIconButton = ({
   override,
   hover,
