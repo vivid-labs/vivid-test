@@ -1,6 +1,7 @@
 import mobile from "./mobile.svg";
 import { CompactIconButton } from "./CompactIconButton";
 import styled from "styled-components";
+
 const Selected = styled.div`
   position: absolute;
   width: 141px;
@@ -13,6 +14,7 @@ const Selected = styled.div`
   border-width: 1px;
   border-radius: 8px;
 `;
+
 const NatalieJason_1_1 = styled.p`
   position: absolute;
   left: 8px;
@@ -24,6 +26,7 @@ const NatalieJason_1_1 = styled.p`
   letter-spacing: 0.01em;
   line-height: 1.3em;
 `;
+
 const Mobile = styled.img`
   position: absolute;
   width: 12px;
@@ -31,6 +34,7 @@ const Mobile = styled.img`
   height: 12px;
   top: calc(50% - 6px);
 `;
+
 const PageHeaderIconLight = styled.div`
   overflow: hidden;
   border-radius: 4px;
@@ -43,6 +47,7 @@ const PageHeaderIconLight = styled.div`
   top: 8px;
   background-color: rgb(255, 255, 255);
 `;
+
 const Rectangle_39272 = styled.div`
   position: absolute;
   width: 112px;
@@ -55,6 +60,7 @@ const Rectangle_39272 = styled.div`
   border-width: 1px;
   border-radius: 2px;
 `;
+
 const Rectangle_39273 = styled.div`
   position: absolute;
   width: 108px;
@@ -67,6 +73,7 @@ const Rectangle_39273 = styled.div`
   border-width: 1px;
   border-radius: 2px;
 `;
+
 const Rectangle_39274 = styled.div`
   position: absolute;
   width: 102px;
@@ -79,6 +86,7 @@ const Rectangle_39274 = styled.div`
   border-width: 1px;
   border-radius: 2px;
 `;
+
 const Rectangle_39275 = styled.div`
   position: absolute;
   width: 112px;
@@ -91,6 +99,7 @@ const Rectangle_39275 = styled.div`
   border-width: 1px;
   border-radius: 2px;
 `;
+
 const MobileFileIcons = styled.div`
   overflow: hidden;
   border-radius: 4px;
@@ -102,6 +111,7 @@ const MobileFileIcons = styled.div`
   border-width: 1px;
   background-color: rgb(250, 250, 250);
 `;
+
 const NatalieJason_1_1Text = styled.p`
   flex: 1 1 0%;
   min-width: 0px;
@@ -110,6 +120,7 @@ const NatalieJason_1_1Text = styled.p`
   font-weight: 300;
   line-height: 1.3em;
 `;
+
 const TitleAndButton = styled.div`
   display: flex;
   justify-content: center;
@@ -118,6 +129,7 @@ const TitleAndButton = styled.div`
   height: fit-content;
   width: 100%;
 `;
+
 const SkiffPage = styled.p`
   color: rgba(0, 0, 0, 0.57);
   font-size: 11px;
@@ -125,6 +137,7 @@ const SkiffPage = styled.p`
   letter-spacing: 0.01em;
   line-height: 1.3em;
 `;
+
 const Info = styled.div`
   display: flex;
   justify-content: center;
@@ -132,6 +145,7 @@ const Info = styled.div`
   width: fit-content;
   height: fit-content;
 `;
+
 const DescContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -141,6 +155,7 @@ const DescContainer = styled.div`
   flex: 1 1 0%;
   min-height: 0px;
 `;
+
 const Desc = styled.div`
   display: flex;
   flex-direction: column;
@@ -148,6 +163,7 @@ const Desc = styled.div`
   height: fit-content;
   width: 100%;
 `;
+
 const Container = styled.div`
   display: flex;
   flex-direction: column;
@@ -160,6 +176,7 @@ const Container = styled.div`
   left: 0px;
   top: 0px;
 `;
+
 const TypePageComponent = styled.div`
   overflow: hidden;
   border-radius: 8px;
@@ -168,33 +185,38 @@ const TypePageComponent = styled.div`
   height: 184px;
   font-family: Universal Sans Text;
 `;
+
 export const TypePage = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <TypePageComponent style={override}>
       <Selected />
-      <Container>
-        <MobileFileIcons>
-          <NatalieJason_1_1>Natalie / Jason 1:1</NatalieJason_1_1>
-          <PageHeaderIconLight>
-            <Mobile src={mobile.src} />
-          </PageHeaderIconLight>
-          <Rectangle_39272 />
-          <Rectangle_39273 />
-          <Rectangle_39274 />
-          <Rectangle_39275 />
-        </MobileFileIcons>
-        <Desc>
-          <DescContainer>
-            <TitleAndButton>
-              <NatalieJason_1_1Text>Natalie / Jason 1:1</NatalieJason_1_1Text>
-              <CompactIconButton hover="no" size="small" type="ghost" />
-            </TitleAndButton>
-            <Info>
-              <SkiffPage>Skiff page</SkiffPage>
-            </Info>
-          </DescContainer>
-        </Desc>
-      </Container>
+      <NatalieJason11 />
     </TypePageComponent>
   );
 };
+
+const NatalieJason11 = () => (
+  <Container>
+    <MobileFileIcons>
+      <NatalieJason_1_1>Natalie / Jason 1:1</NatalieJason_1_1>
+      <PageHeaderIconLight>
+        <Mobile src={mobile.src} />
+      </PageHeaderIconLight>
+      <Rectangle_39272 />
+      <Rectangle_39273 />
+      <Rectangle_39274 />
+      <Rectangle_39275 />
+    </MobileFileIcons>
+    <Desc>
+      <DescContainer>
+        <TitleAndButton>
+          <NatalieJason_1_1Text>Natalie / Jason 1:1</NatalieJason_1_1Text>
+          <CompactIconButton hover="no" size="small" type="ghost" />
+        </TitleAndButton>
+        <Info>
+          <SkiffPage>Skiff page</SkiffPage>
+        </Info>
+      </DescContainer>
+    </Desc>
+  </Container>
+);
