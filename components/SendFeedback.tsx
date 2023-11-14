@@ -7,9 +7,9 @@ export const SendFeedback = ({
 }) => {
   return (
     <img
-      className={styles.sendFeedbackComponent}
-      src={sendFeedback.src}
-      style={override}
-    />
+     className={styles.sendFeedbackImage}
+     src={sendFeedback.src}
+     style={override}
+   /> 
   );
 };

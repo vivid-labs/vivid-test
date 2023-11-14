@@ -3,9 +3,9 @@ import archive from "./archive.svg";
 export const Archive = ({ override }: { override?: React.CSSProperties }) => {
   return (
     <img
-      className={styles.archiveComponent}
-      src={archive.src}
-      style={override}
-    />
+     className={styles.archiveImage}
+     src={archive.src}
+     style={override}
+   /> 
   );
 };

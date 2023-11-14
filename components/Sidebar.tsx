@@ -99,40 +99,40 @@ export const Sidebar = ({ override }: { override?: React.CSSProperties }) => {
     },
   ];
   return (
-    <div className={styles.sidebarComponent} style={override}>
-      <div className={styles.workspace}>
-        <div className={styles.mailIcon}>
-          <img className={styles.image} src={mailIcon.src} />
-        </div>
-        <div className={styles.text}>
-          <p className={styles.skiffMail}>Skiff Mail</p>
-          <p className={styles.aryamanSWorkspace}>
-            aryaman&amp;#39;s workspace
-          </p>
-        </div>
+    <div className={styles.sidebarComponentClass} style={override}>
+    <div className={styles.workspaceClass}>
+      <div className={styles.mailIconClass}>
+        <img className={styles.imageClass} src={mailIcon.src} />
       </div>
-      <div className={styles.overallOptions}>
-        {sidebarTabProps.map((props, i) => (
-          <SidebarTab {...props} key={i} />
-        ))}
-      </div>
-      <div className={styles.mailOptions}>
-        <Header headerText="MAIL" />
-        <div className={styles.mailTabs}>
-          {sidebarTabProps1.map((props, i) => (
-            <SidebarTab {...props} key={i} />
-          ))}
-        </div>
-        <Header headerText="ALIASES" />
-        <SidebarTab status="Inactive" icon={<At />} label="aryaman@skiff.com" />
-        <Header headerText="FOLDERS" />
-        <Header headerText="LABELS" />
-      </div>
-      <div className={styles.shareOptions}>
-        {sidebarTabProps2.map((props, i) => (
-          <SidebarTab {...props} key={i} />
-        ))}
+      <div className={styles.textClass}>
+        <p className={styles.skiffMailClass}>Skiff Mail</p>
+        <p className={styles.aryamanWorkspaceClass}>
+          aryaman&amp;#39;s workspace
+        </p>
       </div>
     </div>
+    <div className={styles.overallOptionsClass}>
+      {sidebarTabProps.map((props, i) => (
+        <SidebarTab {...props} key={i} />
+      ))}
+    </div>
+    <div className={styles.mailOptionsClass}>
+      <Header headerText="MAIL" />
+      <div className={styles.mailTabsClass}>
+        {sidebarTabProps1.map((props, i) => (
+          <SidebarTab {...props} key={i} />
+        ))}
+      </div>
+      <Header headerText="ALIASES" />
+      <SidebarTab status="Inactive" icon={<At />} label="aryaman@skiff.com" />
+      <Header headerText="FOLDERS" />
+      <Header headerText="LABELS" />
+    </div>
+    <div className={styles.shareOptionsClass}>
+      {sidebarTabProps2.map((props, i) => (
+        <SidebarTab {...props} key={i} />
+      ))}
+    </div>
+   </div> 
   );
 };
