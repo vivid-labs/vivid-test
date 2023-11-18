@@ -1,0 +1,95 @@
+.imageClass{
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.mailIconClass{
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative;
+  width: 38px;
+  height: 38px;
+}
+.skiffMailClass{
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 19.5px;
+}
+.aryamanWorkspaceClass{
+  color: rgba(255, 255, 255, 0.54);
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 16.9px;
+}
+.textClass{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: fit-content;
+}
+.workspaceClass{
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  height: fit-content;
+  padding: 10px;
+  width: 100%;
+}
+.overallOptionsClass{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  padding: 0px 0px 13px;
+  width: 100%;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.04);
+  border-bottom-width: 1px;
+}
+.mailTabsClass{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  height: fit-content;
+  padding: 0px 0px 12px;
+  width: 239px;
+}
+.mailOptionsClass{
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 140px;
+  width: 100%;
+  height: 598px;
+}
+.shareOptionsClass{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: 100%;
+}
+.sidebarComponentClass{
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px 1px 0px 0px;
+  width: 100%;
+  height: 902px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.04);
+  border-right-width: 1px;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1)
+    ),
+    linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+  font-family: Roboto;
+}
