@@ -1,0 +1,15 @@
+.dividerContainer{
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  top: 0%;
+  bottom: 0%;
+  height: 100%;
+  background-color: rgb(217, 217, 217);
+}
+.dividerLine{
+  position: relative;
+  width: 40px;
+  height: 1px;
+}
