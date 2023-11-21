@@ -1,6 +1,7 @@
 import styles from "./Card.module.css";
 import sunImage from "./sunImage.svg";
 import sun from "./sun.svg";
+
 export const Card = ({
   override,
   mode,
@@ -64,59 +65,75 @@ export const Card = ({
   }
   return (
     <div
-     className={styles.card}
-     style={{
-       ...cardMode,
-       ...override,
-     }}
-   >
-    <div className={styles.header}>
-      <p
-        className={styles.container}
-        style={{
-          ...titleMode,
-        }}
-      >
-        Trends
-      </p>
-      <img className={styles.title} src={sunSrc.src} />
+      className={styles.card}
+      style={{
+        ...cardMode,
+        ...override,
+      }}
+    >
+      <Trends titleMode={titleMode} sunSrc={sunSrc} />
+      <BodyText bodyTextMode={bodyTextMode} />
+      <ThemeFooter
+        themeMode={themeMode}
+        buttonMode={buttonMode}
+        buttonTextMode={buttonTextMode}
+      />
     </div>
-    <div className={styles.body}>
-      <p
-        className={styles.text}
-        style={{
-          ...bodyTextMode,
-        }}
-      >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididun...
-      </p>
-    </div>
-    <div className={styles.footer}>
-      <p
-        className={styles.theme}
-        style={{
-          ...themeMode,
-        }}
-      >
-        Theme
-      </p>
-      <div
-        className={styles.button}
-        style={{
-          ...buttonMode,
-        }}
-      >
-        <p
-          className={styles.buttonText}
-          style={{
-            ...buttonTextMode,
-          }}
-        >
-          Click me!
-        </p>
-      </div>
-    </div>
-   </div> 
   );
 };
+
+const Trends = ({ titleMode, sunSrc }: any) => (
+  <div className={styles.header}>
+    <p
+      className={styles.container}
+      style={{
+        ...titleMode,
+      }}
+    >
+      Trends
+    </p>
+    <img className={styles.title} src={sunSrc.src} />
+  </div>
+);
+
+const BodyText = ({ bodyTextMode }: any) => (
+  <div className={styles.body}>
+    <p
+      className={styles.text}
+      style={{
+        ...bodyTextMode,
+      }}
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididun...
+    </p>
+  </div>
+);
+
+const ThemeFooter = ({ themeMode, buttonMode, buttonTextMode }: any) => (
+  <div className={styles.footer}>
+    <p
+      className={styles.theme}
+      style={{
+        ...themeMode,
+      }}
+    >
+      Theme
+    </p>
+    <div
+      className={styles.button}
+      style={{
+        ...buttonMode,
+      }}
+    >
+      <p
+        className={styles.buttonText}
+        style={{
+          ...buttonTextMode,
+        }}
+      >
+        Click me!
+      </p>
+    </div>
+  </div>
+);
