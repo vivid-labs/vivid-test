@@ -1,0 +1,11 @@
+.berlinImage{
+  width: 376px;
+  height: 564px;
+  object-fit: cover;
+}
+.berlinComponent{
+  display: flex;
+  align-items: flex-start;
+  width: fit-content;
+  height: 564px;
+}

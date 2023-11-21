@@ -1,0 +1,42 @@
+.moon{
+  width: 17px;
+  height: 17px;
+}
+.milanTour{
+  color: rgb(255, 255, 255);
+  font-size: 19px;
+  font-weight: 700;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  width: fit-content;
+  height: fit-content;
+}
+.menuItems{
+  display: flex;
+  align-items: flex-start;
+  gap: 38px;
+  width: fit-content;
+  height: fit-content;
+}
+.hamburgerMenu{
+  width: 50px;
+  height: 50px;
+}
+.links{
+  display: flex;
+  align-items: center;
+  gap: 45px;
+  width: fit-content;
+  height: fit-content;
+}
+.navigationComponent{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: fit-content;
+  padding: 0px 0px 0px 54px;
+  width: 1440px;
+}

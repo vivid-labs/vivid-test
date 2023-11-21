@@ -1,0 +1,23 @@
+.homeImage{
+  position: absolute;
+  left: 6px;
+  right: -6px;
+  width: auto;
+  top: 6px;
+  bottom: -6px;
+  height: auto;
+}
+.homeIcon{
+  width: 20px;
+  height: 20px;
+}
+.homeContainer{
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  position: relative;
+  width: 32px;
+  height: 32px;
+}

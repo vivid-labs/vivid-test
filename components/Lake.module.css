@@ -1,0 +1,11 @@
+.lakeImage{
+  width: 376px;
+  height: 563px;
+  object-fit: cover;
+}
+.lakeComponent{
+  display: flex;
+  align-items: flex-start;
+  width: fit-content;
+  height: 562px;
+}

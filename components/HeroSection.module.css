@@ -1,0 +1,50 @@
+.heroSectionComponent{
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+}
+.heroImage{
+  position: absolute;
+  width: 793px;
+  left: 0px;
+  top: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+.title{
+  position: absolute;
+  width: 469px;
+  left: 162px;
+  top: 186px;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+}
+.description{
+  position: relative;
+  width: 793px;
+  height: 304px;
+}
+.button{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 31px;
+  width: fit-content;
+  height: fit-content;
+}
+.featuresContainer{
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 66px;
+  height: fit-content;
+  position: relative;
+  width: 1440px;
+}

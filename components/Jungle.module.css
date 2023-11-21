@@ -1,0 +1,12 @@
+.jungleImage{
+  width: 376px;
+  height: 283px;
+  object-fit: cover;
+}
+.jungleComponent{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: fit-content;
+  height: 282px;
+}
