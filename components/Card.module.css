@@ -1,12 +1,12 @@
-.title {
+.cardComponent{
   font-size: 37px;
   font-weight: 500;
 }
-.sun {
+.cardComponentTitle{
   width: 50px;
   height: 50px;
 }
-.header {
+.cardComponentSun{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -14,14 +14,14 @@
   width: 100%;
   height: 93px;
 }
-.bodyText {
+.cardComponentHeader{
   width: 100%;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.5px;
   line-height: 23px;
 }
-.body {
+.cardComponentBodyText{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -29,15 +29,15 @@
   padding: 25px;
   width: 100%;
 }
-.theme {
+.cardComponentBody{
   font-size: 15px;
   font-weight: 500;
 }
-.buttonText {
+.cardComponentTheme{
   font-size: 15px;
   font-weight: 500;
 }
-.button {
+.cardComponentButtonText{
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -46,7 +46,7 @@
   padding: 10px;
   border-radius: 5px;
 }
-.footer {
+.cardComponentButton{
   overflow: hidden;
   display: flex;
   justify-content: space-between;
@@ -55,7 +55,7 @@
   padding: 25px;
   width: 100%;
 }
-.cardComponent {
+.cardComponentFooter{
   overflow: hidden;
   display: flex;
   flex-direction: column;
