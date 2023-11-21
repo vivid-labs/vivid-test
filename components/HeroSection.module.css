@@ -1,11 +1,11 @@
-.image {
+.heroSectionComponent{
   object-fit: cover;
   position: absolute;
   inset: 0;
   height: 100%;
   width: 100%;
 }
-.switzerlandHasNeverBeenSoAffordable {
+.heroImage{
   position: absolute;
   width: 793px;
   left: 0px;
@@ -15,7 +15,7 @@
   font-weight: 700;
   letter-spacing: -0.03em;
 }
-.discoverSwitzerlandChooseTheBestProgramsGuidesHotelsAndRestaurants {
+.title{
   position: absolute;
   width: 469px;
   left: 162px;
@@ -25,12 +25,12 @@
   font-weight: 400;
   letter-spacing: -0.03em;
 }
-.headings {
+.description{
   position: relative;
   width: 793px;
   height: 304px;
 }
-.features {
+.button{
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -38,7 +38,7 @@
   width: fit-content;
   height: fit-content;
 }
-.heroSectionComponent {
+.featuresContainer{
   overflow: hidden;
   display: flex;
   flex-direction: column;

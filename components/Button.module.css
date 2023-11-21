@@ -1,9 +1,9 @@
-.startToExplore {
+.label{
   font-size: 20px;
   font-weight: 600;
   letter-spacing: -0.03em;
 }
-.buttonComponent {
+.button{
   display: flex;
   justify-content: center;
   align-items: center;

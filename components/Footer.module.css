@@ -1,14 +1,14 @@
-.milanTour {
+.milanTourClass{
   color: rgb(255, 255, 255);
   font-size: 25px;
   font-weight: 700;
 }
-.ourVisionIsToProvideConvenienceAndHelpYouToFindYourBestPlaceForTraveling {
+.ourVisionClass{
   color: rgb(255, 255, 255);
   font-size: 17px;
   font-weight: 500;
 }
-.title {
+.titleClass{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -16,12 +16,12 @@
   height: fit-content;
   width: fit-content;
 }
-.aboutText {
+.aboutTextClass{
   color: rgb(255, 255, 255);
   font-size: 18px;
   font-weight: 700;
 }
-.about {
+.aboutClass{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -29,12 +29,12 @@
   height: fit-content;
   width: fit-content;
 }
-.communityText {
+.communityTextClass{
   color: rgb(255, 255, 255);
   font-size: 18px;
   font-weight: 700;
 }
-.community {
+.communityClass{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -42,12 +42,12 @@
   height: fit-content;
   width: fit-content;
 }
-.socialsText {
+.socialsTextClass{
   color: rgb(255, 255, 255);
   font-size: 18px;
   font-weight: 700;
 }
-.socials {
+.socialsClass{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -55,33 +55,33 @@
   height: fit-content;
   width: fit-content;
 }
-.quickAcces {
+.quickAccessClass{
   display: flex;
   align-items: center;
   gap: 80px;
   width: fit-content;
   height: fit-content;
 }
-.content {
+.contentClass{
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   width: 100%;
   height: 218px;
 }
-.text2023MilanTourAllRightsReserved {
+.text2023MilanTourAllRightsReservedClass{
   color: rgb(255, 255, 255);
   font-size: 15px;
   font-weight: 500;
 }
-.privacy {
+.privacyClass{
   display: flex;
   align-items: flex-start;
   gap: 31px;
   width: fit-content;
   height: fit-content;
 }
-.rights {
+.rightsClass{
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -92,7 +92,7 @@
   border-color: rgba(255, 255, 255, 0.19);
   border-top-width: 1px;
 }
-.footerComponent {
+.footerComponentClass{
   display: flex;
   flex-direction: column;
   justify-content: space-between;

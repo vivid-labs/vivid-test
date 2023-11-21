@@ -1,4 +1,4 @@
-.volumeDownImage {
+.volumeDownImage{
   position: absolute;
   left: 4.63px;
   right: -4.63px;
@@ -7,11 +7,11 @@
   bottom: -5.67px;
   height: auto;
 }
-.iconlyLightOutlineVolumeDown {
+.volumeDownIcon{
   width: 23px;
   height: 21px;
 }
-.volumeDownComponent {
+.volumeDownComponent{
   overflow: hidden;
   display: flex;
   flex-direction: column;

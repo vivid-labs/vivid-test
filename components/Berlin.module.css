@@ -1,9 +1,9 @@
-.berlinImage {
+.berlinImage{
   width: 376px;
   height: 564px;
   object-fit: cover;
 }
-.berlinComponent {
+.berlinComponent{
   display: flex;
   align-items: flex-start;
   width: fit-content;

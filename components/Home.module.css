@@ -1,4 +1,4 @@
-.homeImage {
+.homeImage{
   position: absolute;
   left: 6px;
   right: -6px;
@@ -7,11 +7,11 @@
   bottom: -6px;
   height: auto;
 }
-.iconlyLightOutlineHome {
+.homeIcon{
   width: 20px;
   height: 20px;
 }
-.homeComponent {
+.homeContainer{
   overflow: hidden;
   display: flex;
   justify-content: center;

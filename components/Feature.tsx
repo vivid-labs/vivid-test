@@ -14,14 +14,14 @@ export const Feature = ({
 }) => {
   return (
     <div className={styles.featureComponent} style={override}>
-      <div className={styles.content}>
-        <p className={styles.audioGuide}>{title}</p>
-        <p className={styles.travelOnYourOwnUseTheServicesOfAnAudioGuide}>
-          {description}
-        </p>
-        <Link linkText="Select Guide" />
-      </div>
-      {icon}
+    <div className={styles.featureContent}>
+      <p className={styles.guideTitle}>{title}</p>
+      <p className={styles.audioGuideDescription}>
+        {description}
+      </p>
+      <Link linkText="Select Guide" />
     </div>
+    {icon}
+   </div> 
   );
 };

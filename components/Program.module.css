@@ -1,4 +1,4 @@
-.group_10 {
+.ticket{
   position: absolute;
   left: 4px;
   right: -4px;
@@ -7,11 +7,11 @@
   bottom: -6.23px;
   height: auto;
 }
-.iconlyLightOutlineTicket {
+.ticketIcon{
   width: 24px;
   height: 20px;
 }
-.programComponent {
+.program{
   overflow: hidden;
   display: flex;
   flex-direction: column;

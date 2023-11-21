@@ -24,20 +24,20 @@ export const Button = ({
         };
   return (
     <div
-      className={styles.buttonComponent}
+     className={styles.button}
+     style={{
+       ...buttonColor,
+       ...override,
+     }}
+   >
+    <p
+      className={styles.label}
       style={{
-        ...buttonColor,
-        ...override,
+        ...startToExploreColor,
       }}
     >
-      <p
-        className={styles.startToExplore}
-        style={{
-          ...startToExploreColor,
-        }}
-      >
-        Start to explore
-      </p>
-    </div>
+      Start to explore
+    </p>
+   </div> 
   );
 };

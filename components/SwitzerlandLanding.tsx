@@ -9,19 +9,19 @@ export const SwitzerlandLanding = ({
   override?: React.CSSProperties;
 }) => {
   return (
-    <div className={styles.switzerlandLandingComponent} style={override}>
-      <HeroSection
-        override={{
-          position: "relative",
-        }}
-      />
-      <TopPrograms
-        override={{
-          height: "fit-content",
-          width: "100%",
-        }}
-      />
-      <Footer />
-    </div>
+    <div className={styles.landingContainer} style={override}>
+    <HeroSection
+      override={{
+        position: "relative",
+      }}
+    />
+    <TopPrograms
+      override={{
+        height: "fit-content",
+        width: "100%",
+      }}
+    />
+    <Footer />
+   </div> 
   );
 };

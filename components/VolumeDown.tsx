@@ -7,9 +7,9 @@ export const VolumeDown = ({
 }) => {
   return (
     <div className={styles.volumeDownComponent} style={override}>
-      <div className={styles.iconlyLightOutlineVolumeDown}>
-        <img className={styles.volumeDownImage} src={volumeDown.src} />
-      </div>
+    <div className={styles.volumeDownIcon}>
+      <img className={styles.volumeDownImage} src={volumeDown.src} />
     </div>
+   </div> 
   );
 };

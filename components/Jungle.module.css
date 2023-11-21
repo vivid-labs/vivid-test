@@ -1,9 +1,9 @@
-.jungleImage {
+.jungleImage{
   width: 376px;
   height: 283px;
   object-fit: cover;
 }
-.jungleComponent {
+.jungleComponent{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
