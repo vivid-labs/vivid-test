@@ -1,0 +1,12 @@
+.skiImage {
+  width: 376px;
+  height: 416px;
+  object-fit: cover;
+}
+.skiComponent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: fit-content;
+  height: 416px;
+}

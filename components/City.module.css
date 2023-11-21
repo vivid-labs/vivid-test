@@ -1,0 +1,155 @@
+.rectangle_1 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  top: 0%;
+  bottom: 0%;
+  height: 100%;
+  background: linear-gradient(
+    0deg,
+    rgba(13, 14, 16, 0.63) 0%,
+    rgba(217, 217, 217, 0) 100%
+  );
+}
+.background {
+  overflow: hidden;
+  border-radius: 20px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  height: 562px;
+  top: 0px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.63) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+.title {
+  color: rgb(15, 33, 43);
+  font-size: 20px;
+  font-weight: 600;
+}
+.ticketImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 2.33px;
+  bottom: -2.33px;
+  height: auto;
+}
+.iconlyBulkTicket {
+}
+.ticket {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.text_80 {
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-weight: 400;
+}
+.price {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+}
+.timeCircleImage {
+  position: absolute;
+  left: 1.17px;
+  right: -1.17px;
+  width: auto;
+  top: 1.17px;
+  bottom: -1.17px;
+  height: auto;
+}
+.iconlyBulkTimeCircle {
+}
+.timeCircle {
+  overflow: hidden;
+  position: relative;
+  width: 14px;
+  height: 14px;
+}
+.text3Hours {
+  color: rgb(15, 33, 43);
+  font-size: 10px;
+  font-weight: 400;
+}
+.time {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  width: fit-content;
+  height: fit-content;
+}
+.details {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  width: fit-content;
+  height: fit-content;
+}
+.heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: fit-content;
+}
+.image {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.37);
+  border-width: 3px;
+  border-radius: 50%;
+}
+.nameText {
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  font-weight: 700;
+}
+.position {
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  font-weight: 400;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: fit-content;
+  width: fit-content;
+}
+.label {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: fit-content;
+  height: fit-content;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 34px 24px;
+  position: absolute;
+  width: 376px;
+  left: 0px;
+  top: 0px;
+}
+.cityComponent {
+  overflow: hidden;
+  border-radius: 20px;
+  position: relative;
+  width: 376px;
+}
