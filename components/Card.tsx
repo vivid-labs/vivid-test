@@ -64,59 +64,59 @@ export const Card = ({
   }
   return (
     <div
-      className={styles.cardComponent}
-      style={{
-        ...cardMode,
-        ...override,
-      }}
-    >
-      <div className={styles.header}>
+     className={styles.card}
+     style={{
+       ...cardMode,
+       ...override,
+     }}
+   >
+    <div className={styles.header}>
+      <p
+        className={styles.container}
+        style={{
+          ...titleMode,
+        }}
+      >
+        Trends
+      </p>
+      <img className={styles.title} src={sunSrc.src} />
+    </div>
+    <div className={styles.body}>
+      <p
+        className={styles.text}
+        style={{
+          ...bodyTextMode,
+        }}
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididun...
+      </p>
+    </div>
+    <div className={styles.footer}>
+      <p
+        className={styles.theme}
+        style={{
+          ...themeMode,
+        }}
+      >
+        Theme
+      </p>
+      <div
+        className={styles.button}
+        style={{
+          ...buttonMode,
+        }}
+      >
         <p
-          className={styles.title}
+          className={styles.buttonText}
           style={{
-            ...titleMode,
+            ...buttonTextMode,
           }}
         >
-          Trends
+          Click me!
         </p>
-        <img className={styles.sun} src={sunSrc.src} />
-      </div>
-      <div className={styles.body}>
-        <p
-          className={styles.bodyText}
-          style={{
-            ...bodyTextMode,
-          }}
-        >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididun...
-        </p>
-      </div>
-      <div className={styles.footer}>
-        <p
-          className={styles.theme}
-          style={{
-            ...themeMode,
-          }}
-        >
-          Theme
-        </p>
-        <div
-          className={styles.button}
-          style={{
-            ...buttonMode,
-          }}
-        >
-          <p
-            className={styles.buttonText}
-            style={{
-              ...buttonTextMode,
-            }}
-          >
-            Click me!
-          </p>
-        </div>
       </div>
     </div>
+   </div> 
   );
 };
