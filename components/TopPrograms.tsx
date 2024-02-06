@@ -3,6 +3,7 @@ import { Lake } from "./Lake";
 import { Ski } from "./Ski";
 import { Jungle } from "./Jungle";
 import { Berlin } from "./Berlin";
+
 export const TopPrograms = ({
   override,
 }: {
@@ -19,45 +20,57 @@ export const TopPrograms = ({
         to choose a program according to their level.
       </p>
       <div className="flex items-start gap-9">
-        <City
-          size="Large"
-          title="Mountains, Canada"
-          price="$80"
-          guidePosition="City Guide"
-          guideName="Tim Hencordin"
-          time="3 hours"
-          backgroundImage={<Lake />}
-        />
-        <div className="flex flex-col items-start gap-[22px]">
-          <City
-            size="Medium"
-            title="Skiing"
-            price="$360"
-            guidePosition="City Guide"
-            guideName="Jorge Zreik"
-            time="3 hours"
-            backgroundImage={<Ski />}
-          />
-          <City
-            size="Small"
-            title="Forest"
-            price="$20"
-            guidePosition="City Guide"
-            guideName="Tim Hencordin"
-            time="6 hours"
-            backgroundImage={<Jungle />}
-          />
-        </div>
-        <City
-          size="Large"
-          title="Berlin"
-          price="$90"
-          guidePosition="City Guide"
-          guideName="Keny iman"
-          time="10 hours"
-          backgroundImage={<Berlin />}
-        />
+        <CityCard />
+        <CityList />
+        <CityComponent />
       </div>
     </div>
   );
 };
+
+const CityCard = () => (
+  <City
+    size="Large"
+    title="Mountains, Canada"
+    price="$80"
+    guidePosition="City Guide"
+    guideName="Tim Hencordin"
+    time="3 hours"
+    backgroundImage={<Lake />}
+  />
+);
+
+const CityList = () => (
+  <div className="flex flex-col items-start gap-[22px]">
+    <City
+      size="Medium"
+      title="Skiing"
+      price="$360"
+      guidePosition="City Guide"
+      guideName="Jorge Zreik"
+      time="3 hours"
+      backgroundImage={<Ski />}
+    />
+    <City
+      size="Small"
+      title="Forest"
+      price="$20"
+      guidePosition="City Guide"
+      guideName="Tim Hencordin"
+      time="6 hours"
+      backgroundImage={<Jungle />}
+    />
+  </div>
+);
+
+const CityComponent = () => (
+  <City
+    size="Large"
+    title="Berlin"
+    price="$90"
+    guidePosition="City Guide"
+    guideName="Keny iman"
+    time="10 hours"
+    backgroundImage={<Berlin />}
+  />
+);
