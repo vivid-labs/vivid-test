@@ -1,6 +1,7 @@
 import styles from "./Card.module.css";
 import sunImage from "./sunImage.svg";
 import sun from "./sun.svg";
+
 export const Card = ({
   override,
   mode,
@@ -64,59 +65,75 @@ export const Card = ({
   }
   return (
     <div
-     className={styles.cardComponent}
-     style={{
-       ...cardMode,
-       ...override,
-     }}
-   >
-    <div className={styles.cardHeader}>
-      <p
-        className={styles.cardTitle}
-        style={{
-          ...titleMode,
-        }}
-      >
-        Trends
-      </p>
-      <img className={styles.sunImage} src={sunSrc.src} />
+      className={styles.cardComponent}
+      style={{
+        ...cardMode,
+        ...override,
+      }}
+    >
+      <Trends titleMode={titleMode} sunSrc={sunSrc} />
+      <CardBody bodyTextMode={bodyTextMode} />
+      <CardFooter
+        themeMode={themeMode}
+        buttonMode={buttonMode}
+        buttonTextMode={buttonTextMode}
+      />
     </div>
-    <div className={styles.cardBody}>
-      <p
-        className={styles.cardBodyText}
-        style={{
-          ...bodyTextMode,
-        }}
-      >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididun...
-      </p>
-    </div>
-    <div className={styles.cardFooter}>
-      <p
-        className={styles.cardTheme}
-        style={{
-          ...themeMode,
-        }}
-      >
-        Theme
-      </p>
-      <div
-        className={styles.cardButton}
-        style={{
-          ...buttonMode,
-        }}
-      >
-        <p
-          className={styles.buttonText}
-          style={{
-            ...buttonTextMode,
-          }}
-        >
-          Click me!
-        </p>
-      </div>
-    </div>
-   </div> 
   );
 };
+
+const Trends = ({ titleMode, sunSrc }: any) => (
+  <div className={styles.cardHeader}>
+    <p
+      className={styles.cardTitle}
+      style={{
+        ...titleMode,
+      }}
+    >
+      Trends
+    </p>
+    <img className={styles.sunImage} src={sunSrc.src} />
+  </div>
+);
+
+const CardBody = ({ bodyTextMode }: any) => (
+  <div className={styles.cardBody}>
+    <p
+      className={styles.cardBodyText}
+      style={{
+        ...bodyTextMode,
+      }}
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididun...
+    </p>
+  </div>
+);
+
+const CardFooter = ({ themeMode, buttonMode, buttonTextMode }: any) => (
+  <div className={styles.cardFooter}>
+    <p
+      className={styles.cardTheme}
+      style={{
+        ...themeMode,
+      }}
+    >
+      Theme
+    </p>
+    <div
+      className={styles.cardButton}
+      style={{
+        ...buttonMode,
+      }}
+    >
+      <p
+        className={styles.buttonText}
+        style={{
+          ...buttonTextMode,
+        }}
+      >
+        Click me!
+      </p>
+    </div>
+  </div>
+);
